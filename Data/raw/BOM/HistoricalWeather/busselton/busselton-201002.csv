@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON Western Australia for February 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON,01/02/2010,4.7,0.0, ,33.3,10.8,87,18,0.00,31.00
+BUSSELTON,02/02/2010,4.1,0.0, ,23.6,15.3,85,45,0.00,25.32
+BUSSELTON,03/02/2010,4.1,0.0, ,24.7,7.9,90,31,0.00,28.69
+BUSSELTON,04/02/2010,4.5,0.0, ,25.0,8.6,78,34,0.00,31.35
+BUSSELTON,05/02/2010,4.0,0.0, ,26.6,11.6,81,27,0.00,26.36
+BUSSELTON,06/02/2010,3.3,0.0, ,22.9,14.1,91,63,0.00,19.77
+BUSSELTON,07/02/2010,4.4,3.2, ,26.9,17.1,98,50,0.00,25.21
+BUSSELTON,08/02/2010,5.0,2.8, ,31.7,14.6,98,36,0.00,29.87
+BUSSELTON,09/02/2010,5.3,0.0, ,33.1,17.6,93,42,0.00,30.05
+BUSSELTON,10/02/2010,4.0,0.0, ,27.6,18.7,98,57,0.00,22.23
+BUSSELTON,11/02/2010,5.2,0.0, ,32.3,17.8,98,43,0.00,29.06
+BUSSELTON,12/02/2010,5.0,0.0, ,30.0,16.3,98,42,0.00,29.44
+BUSSELTON,13/02/2010,5.0,0.0, ,29.0,14.8,85,44,0.24,29.95
+BUSSELTON,14/02/2010,5.0,0.0, ,31.9,13.9,93,35,0.00,30.48
+BUSSELTON,15/02/2010,4.6,0.0, ,32.0,17.3,96,40,0.00,26.20
+BUSSELTON,16/02/2010,4.3,0.0, ,29.1,18.3,87,42,0.00,25.25
+BUSSELTON,17/02/2010,4.5,0.0, ,30.3,15.6,89,41,0.00,26.92
+BUSSELTON,18/02/2010,5.0,0.0, ,30.7,16.3,98,48,0.00,28.96
+BUSSELTON,19/02/2010,3.8,0.0, ,28.2,18.2,98,46,0.00,21.89
+BUSSELTON,20/02/2010,3.6,0.0, ,26.3,14.2,98,59,0.00,21.17
+BUSSELTON,21/02/2010,3.7,0.0, ,27.4,14.4,85,41,0.00,23.31
+BUSSELTON,22/02/2010,4.7,0.0, ,28.9,13.1,96,42,0.00,29.27
+BUSSELTON,23/02/2010,4.8,0.0, ,32.8,15.8,89,35,0.00,28.84
+BUSSELTON,24/02/2010,4.6,0.0, ,34.1,17.4,76,29,0.00,28.36
+BUSSELTON,25/02/2010,4.8,0.0, ,35.9,19.3,67,30,0.00,28.44
+BUSSELTON,26/02/2010,4.3,0.0, ,36.7,20.7,67,28,0.00,25.26
+BUSSELTON,27/02/2010,4.4,0.0, ,36.6,20.1,65,21,0.00,27.48
+BUSSELTON,28/02/2010,4.6,0.0, ,32.0,18.5,67,28,0.00,28.88
+Totals:,,125.3,6, ,,,,,, 

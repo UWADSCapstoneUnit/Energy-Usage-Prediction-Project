@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for November 2018,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/11/2018,2.8,0.6, ,19.4,14.5,99,59,3.35,13.55
+ESPERANCE,02/11/2018,4.1,0.0, ,20.6,12.4,89,49,3.66,21.22
+ESPERANCE,03/11/2018,2.0, , ,18.2,12.2,98,79,3.35,10.90
+ESPERANCE,04/11/2018,3.3,10.8, ,21.6,12.5,99,64,3.25,18.61
+ESPERANCE,05/11/2018, ,2.4, , ,11.8,98,49,5.09,20.33
+ESPERANCE,06/11/2018,3.6, , ,15.6,10.4,82,46,4.99,17.65
+ESPERANCE,07/11/2018,4.0,2.4, ,20.0,8.7,90,46,3.75,21.35
+ESPERANCE,08/11/2018,5.4,0.2, ,22.3,8.4,76,41,4.74,28.18
+ESPERANCE,09/11/2018,4.4,0.0, ,20.3,10.7,91,60,5.33,28.45
+ESPERANCE,10/11/2018,4.2,0.0, ,25.5,13.4,91,50,3.44,18.39
+ESPERANCE,11/11/2018,2.7,0.8, ,19.6,16.4,95,63,4.58,11.22
+ESPERANCE,12/11/2018,4.0,0.4, ,19.7,14.2,88,51,3.51,21.07
+ESPERANCE,13/11/2018,3.7,0.2, ,20.8,13.0,95,59,3.97,20.37
+ESPERANCE,14/11/2018,5.7,0.0, ,25.8,14.8,74,55,5.50,26.58
+ESPERANCE,15/11/2018, ,0.0, , ,12.5,88,26,4.73,26.89
+ESPERANCE,16/11/2018,4.3, , ,29.1,16.8,87,66,6.02,14.99
+ESPERANCE,17/11/2018, ,0.0, , ,17.8,77,20,6.22,14.26
+ESPERANCE,18/11/2018, , , , , ,95,57,4.93,20.37
+ESPERANCE,19/11/2018,4.4, , ,19.6,14.2,81,42,5.58,17.24
+ESPERANCE,20/11/2018,3.9,0.0, ,18.0,11.2,94,48,5.79,20.71
+ESPERANCE,21/11/2018, ,2.4, , ,11.4,86,46,5.00,20.93
+ESPERANCE,22/11/2018, , , ,23.8, ,83,32,5.33,24.32
+ESPERANCE,23/11/2018,4.2,1.0, ,21.7,13.7,99,57,7.36,21.82
+ESPERANCE,24/11/2018,4.8,5.0, ,21.7,14.2,91,55,4.70,27.05
+ESPERANCE,25/11/2018,5.8,0.0, ,26.2,10.1,94,37,5.01,24.82
+ESPERANCE,26/11/2018,4.6,4.0, ,17.2,11.6,92,42,6.92,25.92
+ESPERANCE,27/11/2018,5.0,0.0, ,20.0,10.2,79,50,4.56,29.79
+ESPERANCE,28/11/2018, ,0.0, , ,9.6,87,43,4.70,30.79
+ESPERANCE,29/11/2018, , , , , ,84,53,5.40,16.67
+ESPERANCE,30/11/2018, , , ,18.9, ,74,55,5.29,27.06
+Totals:,,86.9,30.2, ,,,,,, 

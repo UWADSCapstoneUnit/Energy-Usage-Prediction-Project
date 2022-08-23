@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/02/2018, , , , , ,100,15,5.11,26.94
+BROOME NTC,02/02/2018, , , ,29.0, ,18,16,6.12,21.91
+BROOME NTC,03/02/2018,10.0, , ,29.4,25.4,17,15,5.99,24.09
+BROOME NTC,04/02/2018,9.9, , ,29.4,27.0,16,15,5.20,28.75
+BROOME NTC,05/02/2018,11.1, , ,29.4,28.0,16,15,6.70,26.77
+BROOME NTC,06/02/2018,9.4, , ,29.3,23.1,21,15,5.83,22.38
+BROOME NTC,07/02/2018, , , , ,24.6,100,15,5.80,26.77
+BROOME NTC,08/02/2018, , , ,29.8, ,16,15,5.56,22.65
+BROOME NTC,09/02/2018,8.0, , ,29.9,28.1,16,15,3.82,19.72
+BROOME NTC,10/02/2018,9.2, , ,30.6,28.3,16,14,4.30,26.84
+BROOME NTC,11/02/2018, , , , ,28.6,100,14,5.02,21.61
+BROOME NTC,12/02/2018, , , ,30.5, ,19,14,6.85,12.63
+BROOME NTC,13/02/2018,10.3, , ,30.5,25.4,15,14,5.85,26.29
+BROOME NTC,14/02/2018,10.3, , ,30.7,29.1,18,14,5.54,26.19
+BROOME NTC,15/02/2018,9.8, , ,30.4,26.2,19,14,6.10,18.40
+BROOME NTC,16/02/2018,12.1, , ,26.4,24.1,20,15,14.01,4.87
+BROOME NTC,17/02/2018,10.6, , ,29.0,23.9,20,16,9.87,4.16
+BROOME NTC,18/02/2018,13.1, , ,29.5,23.8,20,15,13.16,13.43
+BROOME NTC,19/02/2018,12.0, , ,29.6,25.5,16,15,9.93,13.92
+BROOME NTC,20/02/2018,11.3, , ,29.6,28.3,16,15,7.12,26.11
+BROOME NTC,21/02/2018, , , , ,27.2,18,15,4.11,19.86
+BROOME NTC,22/02/2018, , , , , ,100,15,3.43,21.45
+BROOME NTC,23/02/2018, , , , , ,100,15,4.90,25.20
+BROOME NTC,24/02/2018, , , , , ,100,15,6.16,25.21
+BROOME NTC,25/02/2018, , , , , ,100,15,7.40,26.41
+BROOME NTC,26/02/2018, , , ,29.8, ,16,15,6.19,24.80
+BROOME NTC,27/02/2018,9.4, , ,29.7,28.2,16,15,5.05,24.10
+BROOME NTC,28/02/2018,6.5, , ,29.5,22.2,22,16,3.87,9.74
+Totals:,,163, , ,,,,,, 

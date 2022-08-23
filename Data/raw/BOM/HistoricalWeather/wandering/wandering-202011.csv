@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for November 2020,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 December 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/11/2020,1.4,15.0, ,16.2,13.2,96,78,2.08,5.26
+WANDERING,02/11/2020,2.2,11.0, ,18.0,10.1,98,64,1.77,11.36
+WANDERING,03/11/2020,3.8,4.0, ,22.0,12.6,94,43,2.85,17.45
+WANDERING,04/11/2020,5.0,0.0, ,23.2,8.7,92,31,3.82,23.43
+WANDERING,05/11/2020,6.7,0.0, ,28.7,8.2,79,26,4.18,27.01
+WANDERING,06/11/2020,5.6,0.0, ,25.8,12.5,73,36,4.54,21.33
+WANDERING,07/11/2020,5.7,0.0, ,28.4,8.7,95,27,2.43,27.66
+WANDERING,08/11/2020,5.4,0.0, ,27.4,8.6,96,39,2.99,27.04
+WANDERING,09/11/2020,2.4,0.0, ,20.5,7.8,99,64,4.00,9.06
+WANDERING,10/11/2020,4.5,21.2, ,19.3,6.7,93,33,3.63,25.35
+WANDERING,11/11/2020,3.1,0.0, ,17.9,3.3,97,42,2.02,17.83
+WANDERING,12/11/2020,4.7,0.0, ,22.7,4.3,97,38,3.12,26.30
+WANDERING,13/11/2020,4.0,2.0, ,23.4,13.2,98,42,3.23,17.62
+WANDERING,14/11/2020,3.3,0.4, ,20.6,9.3,98,46,3.04,14.85
+WANDERING,15/11/2020,4.1,5.2, ,20.7,6.3,98,38,2.96,21.81
+WANDERING,16/11/2020,5.5,0.0, ,25.8,6.8,97,29,2.73,28.40
+WANDERING,17/11/2020,3.2,0.0, ,23.0,7.7,97,49,2.16,14.96
+WANDERING,18/11/2020,4.5,0.0, ,26.6,8.8,99,50,2.73,21.90
+WANDERING,19/11/2020,5.5,0.0, ,29.0,6.8,99,25,1.95,27.53
+WANDERING,20/11/2020,5.6,0.0, ,27.6,12.9,91,36,2.83,26.72
+WANDERING,21/11/2020,6.2,0.0, ,27.2,10.0,92,22,3.30,27.82
+WANDERING,22/11/2020,6.6,0.0, ,29.7,8.9,92,16,2.76,29.63
+WANDERING,23/11/2020,6.8,0.0, ,35.0,9.4,71,9,1.83,29.67
+WANDERING,24/11/2020,9.1,0.0, ,37.3,10.1,86,14,3.90,29.60
+WANDERING,25/11/2020,6.3,0.0, ,28.1,12.4,91,24,3.99,24.13
+WANDERING,26/11/2020,7.2,0.0, ,30.3,11.7,75,23,3.60,29.53
+WANDERING,27/11/2020,4.9,0.0, ,24.4,8.0,88,33,3.03,23.05
+WANDERING,28/11/2020,5.6,0.0, ,24.8,4.6,95,22,2.57,29.30
+WANDERING,29/11/2020,4.2,0.0, ,24.8,11.1,90,32,3.00,14.72
+WANDERING,30/11/2020,4.5,5.8, ,18.5,11.0,94,32,3.99,23.73
+Totals:,,147.6,64.6, ,,,,,, 

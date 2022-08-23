@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for October 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 November 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/10/2020,3.0,0.0, ,20.0,12.5,94,55,3.14,15.45
+WANDERING,02/10/2020,2.1,0.0, ,14.1,8.2,98,53,2.45,11.38
+WANDERING,03/10/2020,3.3,0.4, ,16.0,-1.0,98,36,3.37,20.92
+WANDERING,04/10/2020,3.4,0.0, ,18.8,1.9,96,44,3.24,20.02
+WANDERING,05/10/2020,3.4,0.0, ,18.4,-1.8,96,34,2.01,23.83
+WANDERING,06/10/2020,3.8,0.0, ,20.2,0.7,96,28,2.07,23.88
+WANDERING,07/10/2020,5.1,0.0, ,22.5,2.3,96,22,4.67,22.58
+WANDERING,08/10/2020,3.2,8.4, ,19.9,5.3,100,47,2.09,19.95
+WANDERING,09/10/2020,3.5,0.0, ,22.2,1.8,99,46,1.87,22.38
+WANDERING,10/10/2020,3.4,0.0, ,22.4,3.5,98,46,1.53,21.55
+WANDERING,11/10/2020,4.5,0.0, ,24.0,5.0,100,35,2.70,24.68
+WANDERING,12/10/2020,4.9,0.0, ,26.7,4.6,98,31,2.50,25.12
+WANDERING,13/10/2020,5.0,0.0, ,30.5,7.4,96,34,2.51,21.91
+WANDERING,14/10/2020,3.7,0.0, ,22.2,7.2,99,46,3.60,17.46
+WANDERING,15/10/2020,3.8,0.0, ,22.1,9.8,94,41,3.81,16.41
+WANDERING,16/10/2020,4.5,0.0, ,22.8,10.2,97,34,4.18,19.82
+WANDERING,17/10/2020,5.3,0.0, ,24.4,7.3,94,29,3.70,25.78
+WANDERING,18/10/2020,5.8,0.0, ,28.9,7.8,93,24,3.26,23.83
+WANDERING,19/10/2020,5.8,0.0, ,29.4,7.7,93,28,2.97,25.80
+WANDERING,20/10/2020,4.8,0.0, ,25.1,11.6,91,44,4.08,22.62
+WANDERING,21/10/2020,4.6,0.0, ,22.5,9.0,95,38,4.18,22.24
+WANDERING,22/10/2020,5.0,0.0, ,22.4,5.8,97,26,3.72,25.96
+WANDERING,23/10/2020,4.8,0.0, ,24.0,6.3,95,31,3.06,23.55
+WANDERING,24/10/2020,5.5,0.0, ,26.2,7.1,79,24,3.01,25.34
+WANDERING,25/10/2020,6.8,0.0, ,30.5,8.7,81,16,3.55,25.84
+WANDERING,26/10/2020,6.3,0.0, ,29.1,14.7,92,22,3.42,26.03
+WANDERING,27/10/2020,5.0,0.0, ,25.9,6.9,100,38,3.05,25.33
+WANDERING,28/10/2020,5.3,0.0, ,26.2,8.8,100,29,2.95,25.71
+WANDERING,29/10/2020,6.3,0.0, ,28.0,9.1,84,16,3.44,26.14
+WANDERING,30/10/2020,7.2,0.0, ,34.2,8.4,86,14,3.01,26.16
+WANDERING,31/10/2020,5.4,0.0, ,29.3,14.7,78,28,3.25,18.23
+Totals:,,144.5,8.8, ,,,,,, 

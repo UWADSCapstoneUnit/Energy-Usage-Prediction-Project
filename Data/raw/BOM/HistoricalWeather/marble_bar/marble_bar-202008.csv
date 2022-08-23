@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for August 2020,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 September 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/08/2020,3.1,0.0, ,32.1,9.0,29,7,0.96,18.69
+MARBLE BAR,02/08/2020,3.6,0.0, ,33.5,10.1,38,7,1.18,18.82
+MARBLE BAR,03/08/2020,5.2,0.0, ,32.7,11.6,68,12,2.65,18.93
+MARBLE BAR,04/08/2020,4.0,0.0, ,28.9,14.1,85,20,2.01,19.01
+MARBLE BAR,05/08/2020,4.4,0.0, ,26.4,11.0,45,16,2.43,19.10
+MARBLE BAR,06/08/2020,5.0,3.4, ,25.0,13.9,52,17,3.47,19.18
+MARBLE BAR,07/08/2020,5.4,0.0, ,26.4,13.2,53,20,3.98,19.28
+MARBLE BAR,08/08/2020,5.2,0.0, ,26.2,12.1,51,14,3.50,19.38
+MARBLE BAR,09/08/2020,5.2,0.0, ,29.5,9.0,76,15,3.17,19.14
+MARBLE BAR,10/08/2020,2.2,0.0, ,24.4,20.2,100,75,3.32,10.79
+MARBLE BAR,11/08/2020,3.5,2.0, ,27.5,13.7,99,25,1.28,19.87
+MARBLE BAR,12/08/2020,3.6,0.2, ,28.2,10.8,86,24,1.45,19.96
+MARBLE BAR,13/08/2020,4.9,0.0, ,27.3,15.9,70,18,2.99,20.08
+MARBLE BAR,14/08/2020,4.9,0.0, ,28.3,13.7,37,12,2.44,20.17
+MARBLE BAR,15/08/2020,4.4,0.0, ,31.1,7.8,46,10,1.73,20.26
+MARBLE BAR,16/08/2020,4.7,0.0, ,31.4,10.5,69,19,2.11,20.38
+MARBLE BAR,17/08/2020,4.4,0.0, ,30.5,16.9,83,24,1.87,20.50
+MARBLE BAR,18/08/2020,5.1,0.0, ,28.3,11.8,40,14,2.68,20.57
+MARBLE BAR,19/08/2020,5.5,0.0, ,29.4,11.6,50,13,2.96,20.70
+MARBLE BAR,20/08/2020,5.5,0.0, ,30.8,14.4,32,8,2.53,20.85
+MARBLE BAR,21/08/2020,5.2,0.0, ,33.5,13.4,31,6,2.02,20.91
+MARBLE BAR,22/08/2020,4.7,0.0, ,35.5,12.6,33,5,1.52,21.02
+MARBLE BAR,23/08/2020,3.8,0.0, ,36.6,14.2,28,6,0.89,21.15
+MARBLE BAR,24/08/2020,5.1,0.0, ,38.9,14.6,33,7,1.57,21.08
+MARBLE BAR,25/08/2020,5.9,0.0, ,38.7,16.2,38,8,2.07,21.42
+MARBLE BAR,26/08/2020,4.7,0.0, ,38.5,16.6,67,9,1.28,21.52
+MARBLE BAR,27/08/2020,5.4,0.0, ,38.7,17.8,44,7,1.74,21.64
+MARBLE BAR,28/08/2020,5.2,0.0, ,38.7,16.7,32,7,1.59,21.75
+MARBLE BAR,29/08/2020,5.8,0.0, ,38.4,17.4,25,6,1.96,21.89
+MARBLE BAR,30/08/2020,5.9,0.0, ,37.3,17.3,31,8,2.08,21.98
+MARBLE BAR,31/08/2020,5.5,0.0, ,37.2,17.4,31,6,1.80,22.10
+Totals:,,147,5.6, ,,,,,, 

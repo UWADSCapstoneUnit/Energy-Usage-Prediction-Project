@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/11/2016,4.8,0.0, ,21.5,3.2,91,23,2.66,26.93
+KATANNING,02/11/2016,6.5,0.0, ,29.5,3.9,90,15,3.02,27.42
+KATANNING,03/11/2016,6.8,0.0, ,28.4,8.4,92,11,3.84,26.91
+KATANNING,04/11/2016,4.8,0.0, ,25.8,12.9,85,29,2.46,21.16
+KATANNING,05/11/2016,6.8,0.0, ,33.0,12.1,89,16,2.71,27.32
+KATANNING,06/11/2016,5.9,0.0, ,26.8,12.3,86,37,4.80,24.98
+KATANNING,07/11/2016,4.4,0.0, ,20.5,4.7,88,29,2.92,23.82
+KATANNING,08/11/2016,5.3,0.0, ,23.7,4.3,90,24,3.28,26.05
+KATANNING,09/11/2016,2.6,0.0, ,17.2,10.9,87,51,3.36,9.88
+KATANNING,10/11/2016,4.4,0.0, ,22.8,5.4,90,32,3.46,18.87
+KATANNING,11/11/2016,4.2,5.0, ,20.1,7.8,91,37,4.47,19.20
+KATANNING,12/11/2016,5.2,0.0, ,23.3,5.4,85,30,3.76,24.93
+KATANNING,13/11/2016,5.5,0.0, ,27.8,6.0,91,16,1.83,28.24
+KATANNING,14/11/2016, ,0.0, , ,7.3,86,8,2.82,28.12
+KATANNING,15/11/2016,12.7, , ,38.6,14.3,63,6,7.41,27.43
+KATANNING,16/11/2016,4.8,0.0, ,24.9,16.9,87,31,5.08,12.70
+KATANNING,17/11/2016,5.0,3.0, ,22.2,5.3,90,23,2.48,27.72
+KATANNING,18/11/2016,5.9,0.0, ,28.5,7.1,86,16,2.20,28.23
+KATANNING,19/11/2016,7.9,0.0, ,33.3,9.0,78,12,3.58,28.22
+KATANNING,20/11/2016,5.0,0.2, ,21.5,12.9,89,26,4.53,20.18
+KATANNING,21/11/2016,4.7,0.0, ,22.8,3.8,90,21,2.43,23.22
+KATANNING,22/11/2016,5.8,0.0, ,25.9,7.2,82,21,2.70,28.38
+KATANNING,23/11/2016,7.1,0.0, ,30.1,8.6,88,17,3.55,28.38
+KATANNING,24/11/2016,7.4,0.0, ,29.0,11.1,90,21,5.04,28.34
+KATANNING,25/11/2016,7.9,0.0, ,31.2,10.6,87,13,4.29,28.44
+KATANNING,26/11/2016,8.1,0.0, ,35.7,9.4,86,9,3.18,27.71
+KATANNING,27/11/2016,7.6,0.0, ,30.5,16.3,76,25,4.42,28.37
+KATANNING,28/11/2016,7.6,0.0, ,31.3,10.4,83,14,3.73,28.36
+KATANNING,29/11/2016,4.2,0.0, ,22.5,12.4,87,38,4.46,13.94
+KATANNING,30/11/2016,6.1,0.0, ,27.9,6.3,91,18,2.93,26.44
+Totals:,,175,8.2, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for July 2017,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 August 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,01/07/2017,5.1,0.0, ,30.1,17.8,60,28,3.39,18.17
+CURTIN AERO,02/07/2017,4.4,0.0, ,30.7,14.5,92,23,2.69,18.07
+CURTIN AERO,03/07/2017,5.3,0.0, ,30.9,15.5,64,26,3.60,18.20
+CURTIN AERO,04/07/2017,6.1,0.0, ,30.8,16.1,53,22,4.38,18.28
+CURTIN AERO,05/07/2017,6.4,0.0, ,29.8,15.6,41,21,4.78,18.04
+CURTIN AERO,06/07/2017,6.5,0.0, ,28.7,16.3,39,17,4.89,18.24
+CURTIN AERO,07/07/2017,6.7,0.0, ,29.5,16.3,32,18,4.92,17.81
+CURTIN AERO,08/07/2017,6.4,0.0, ,29.3,15.6,36,16,4.51,17.61
+CURTIN AERO,09/07/2017, ,0.0, , ,14.9,31,17,4.19,18.28
+CURTIN AERO,10/07/2017, , , ,31.7, , , , ,18.51
+CURTIN AERO,11/07/2017,4.6,0.0, ,32.9,14.1,76,29,2.54,18.54
+CURTIN AERO,12/07/2017,5.8,0.0, ,34.1,20.5,65,29,3.76,18.46
+CURTIN AERO,13/07/2017,6.2,0.0, ,34.9,21.6,58,26,3.80,18.59
+CURTIN AERO,14/07/2017,7.3,0.0, ,33.6,22.1,53,26,5.44,18.66
+CURTIN AERO,15/07/2017,7.0,0.0, ,31.3,18.3,35,19,4.84,18.72
+CURTIN AERO,16/07/2017,6.3,0.0, ,32.3,16.0,35,13,3.62,18.76
+CURTIN AERO,17/07/2017,6.0,0.0, ,32.9,15.9,39,17,3.40,18.83
+CURTIN AERO,18/07/2017, ,0.0, , ,14.8,47,13,3.75,18.89
+CURTIN AERO,19/07/2017, , , ,32.6, ,40,13,4.00,18.92
+CURTIN AERO,20/07/2017,5.2,0.0, ,33.3,13.1,54,14,2.55,18.93
+CURTIN AERO,21/07/2017,5.1,0.0, ,32.5,14.6,72,18,2.74,18.87
+CURTIN AERO,22/07/2017,4.6,0.0, ,31.8,15.3,100,26,2.71,19.09
+CURTIN AERO,23/07/2017,5.2,0.0, ,33.3,14.6,95,14,2.82,19.18
+CURTIN AERO,24/07/2017,6.6,0.0, ,33.1,14.6,49,13,3.85,19.24
+CURTIN AERO,25/07/2017,7.6,0.0, ,32.6,17.5,34,11,4.80,19.33
+CURTIN AERO,26/07/2017,7.3,0.0, ,34.2,18.7,31,11,4.09,19.41
+CURTIN AERO,27/07/2017,6.6,0.0, ,34.7,18.5,36,15,3.49,19.47
+CURTIN AERO,28/07/2017,5.7,0.0, ,34.3,20.1,63,28,3.13,19.43
+CURTIN AERO,29/07/2017,5.1,0.0, ,34.4,13.5,82,21,2.39,19.63
+CURTIN AERO,30/07/2017,5.8,0.0, ,32.3,17.5,100,26,4.48,19.74
+CURTIN AERO,31/07/2017,6.8,0.0, ,32.4,17.5,45,19,4.26,19.82
+Totals:,,161.7,0, ,,,,,, 

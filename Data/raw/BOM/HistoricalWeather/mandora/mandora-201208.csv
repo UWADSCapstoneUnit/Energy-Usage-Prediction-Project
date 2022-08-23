@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANDORA Western Australia for August 2012,,,,,,,,,,
+Issued at 22:38 GMT on Saturday 01 September 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANDORA,01/08/2012, ,0.0, ,29.0,7.0, , , ,18.76
+MANDORA,02/08/2012, , , ,29.5, , , , ,18.79
+MANDORA,03/08/2012, , , ,31.5, , , , ,18.95
+MANDORA,04/08/2012, ,0.0, ,33.5,12.0, , , ,18.99
+MANDORA,05/08/2012, , , , ,9.0, , , ,19.12
+MANDORA,06/08/2012, , , ,33.3, , , , ,19.21
+MANDORA,07/08/2012, ,0.0, ,33.2,10.8, , , ,19.37
+MANDORA,08/08/2012, , , ,33.0, , , , ,19.55
+MANDORA,09/08/2012, ,0.0, ,33.7,10.0, , , ,19.60
+MANDORA,10/08/2012, , , ,35.0,12.5, , , ,19.79
+MANDORA,11/08/2012, ,0.0, ,34.0,13.0, , , ,19.80
+MANDORA,12/08/2012, ,0.0, ,29.9,12.0, , , ,19.89
+MANDORA,13/08/2012, ,0.0, ,29.4,8.0, , , ,19.98
+MANDORA,14/08/2012, , , ,30.4,6.0, , , ,20.09
+MANDORA,15/08/2012, ,0.0, ,32.5,7.0, , , ,20.28
+MANDORA,16/08/2012, ,0.0, ,35.0,8.8, , , ,20.41
+MANDORA,17/08/2012, ,0.0, ,34.7,15.0, , , ,20.49
+MANDORA,18/08/2012, ,0.0, ,35.3,14.2, , , ,20.75
+MANDORA,19/08/2012, ,0.0, ,34.2,14.0, , , ,20.83
+MANDORA,20/08/2012, ,0.0, ,33.0,10.4, , , ,20.88
+MANDORA,21/08/2012,5.8,0.0, ,33.0,13.8,99,18,3.25,20.95
+MANDORA,22/08/2012,4.4,0.0, ,28.5,15.0,100,38,2.72,21.44
+MANDORA,23/08/2012,6.2,0.0, ,32.8,11.2,98,16,3.56,21.49
+MANDORA,24/08/2012,7.3,0.0, ,34.0,11.8,55,10,3.88,21.50
+MANDORA,25/08/2012,7.1,0.0, ,36.2,11.0,63,11,3.36,21.83
+MANDORA,26/08/2012,7.8,0.0, ,37.0,15.5,51,10,3.78,21.89
+MANDORA,27/08/2012,7.7,0.0, ,36.8,15.0,52,10,3.70,22.07
+MANDORA,28/08/2012,7.6,0.0, ,37.5,12.0,89,11,3.67,22.33
+MANDORA,29/08/2012, ,0.0, , ,15.0,90,12,4.38,22.37
+MANDORA,30/08/2012, , , , , ,67,10,3.46,22.33
+MANDORA,31/08/2012, , , ,35.8, ,62,10,4.06,22.33
+Totals:,,53.9,0, ,,,,,, 

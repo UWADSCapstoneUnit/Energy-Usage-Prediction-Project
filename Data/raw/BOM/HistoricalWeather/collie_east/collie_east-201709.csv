@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 October 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/09/2017,1.9,0.6, ,13.9,3.4,95,48,1.72,13.98
+COLLIE EAST,02/09/2017,1.9,2.0, ,14.6,0.0,94,46,1.25,15.42
+COLLIE EAST,03/09/2017,1.4,0.0, ,14.4,2.5,93,57,0.93,9.68
+COLLIE EAST,04/09/2017,1.8,0.0, ,16.3,5.4,94,48,0.97,12.62
+COLLIE EAST,05/09/2017,2.4,0.0, ,19.0,0.8,94,45,1.23,18.49
+COLLIE EAST,06/09/2017,2.8,0.0, ,23.5,3.1,94,29,1.13,18.76
+COLLIE EAST,07/09/2017,1.8,0.0, ,20.7,9.2,90,51,1.01,8.59
+COLLIE EAST,08/09/2017,2.5,0.0, ,23.9,7.5,93,45,1.03,15.52
+COLLIE EAST,09/09/2017,2.5,0.0, ,22.2,7.5,96,54,1.36,15.84
+COLLIE EAST,10/09/2017,2.2,0.0, ,19.1,8.4,95,49,1.28,13.81
+COLLIE EAST,11/09/2017,2.3,0.4, ,18.7,6.6,95,56,1.79,14.13
+COLLIE EAST,12/09/2017,3.0,0.4, ,17.9,10.5,89,33,2.11,18.74
+COLLIE EAST,13/09/2017,2.4,0.0, ,19.5,-1.5,92,32,0.58,19.89
+COLLIE EAST,14/09/2017,2.3,0.0, ,22.6,-0.9,94,26,0.53,17.12
+COLLIE EAST,15/09/2017,3.4,0.0, ,24.3,9.7,90,31,1.72,18.65
+COLLIE EAST,16/09/2017,3.1,0.0, ,22.6,4.2,95,40,1.61,18.82
+COLLIE EAST,17/09/2017,3.1,0.2, ,20.4,11.1,94,53,1.84,20.37
+COLLIE EAST,18/09/2017,2.9,0.0, ,23.5,8.0,93,46,1.05,18.67
+COLLIE EAST,19/09/2017, ,0.0, , ,7.7,95,69,1.77,13.86
+COLLIE EAST,20/09/2017, , , ,19.2, ,94,55,2.35,16.14
+COLLIE EAST,21/09/2017,2.5,13.0, ,18.0,14.2,95,58,5.06,10.43
+COLLIE EAST,22/09/2017,2.3,34.0, ,15.6,10.4,91,67,3.21,14.05
+COLLIE EAST,23/09/2017,2.6,7.0, ,15.0,6.7,92,50,1.77,18.60
+COLLIE EAST,24/09/2017,1.8,0.2, ,15.0,2.1,94,52,1.18,10.81
+COLLIE EAST,25/09/2017,2.0,7.6, ,14.2,6.6,95,63,2.23,13.22
+COLLIE EAST,26/09/2017,2.8,0.2, ,17.3,8.0,88,51,2.58,16.42
+COLLIE EAST,27/09/2017,2.0,0.2, ,14.8,3.8,93,53,1.02,13.85
+COLLIE EAST,28/09/2017,2.1,0.2, ,16.4,3.0,95,53,0.94,14.70
+COLLIE EAST,29/09/2017,2.3,0.6, ,17.4,1.0,94,48,1.02,16.16
+COLLIE EAST,30/09/2017,3.0,0.0, ,20.2,3.1,95,44,1.40,20.52
+Totals:,,67.1,66.6, ,,,,,, 

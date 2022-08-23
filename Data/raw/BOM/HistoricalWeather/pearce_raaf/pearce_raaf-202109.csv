@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for September 2021,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 October 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/09/2021,2.3,2.8, ,19.4,14.2,93,63,5.75,6.37
+PEARCE RAAF,02/09/2021,2.7,12.4, ,14.2,8.4,89,51,5.94,14.24
+PEARCE RAAF,03/09/2021,2.4,2.2, ,16.6,4.2,91,48,2.22,16.05
+PEARCE RAAF,04/09/2021,2.7,0.0, ,18.5,4.5,93,37,1.82,19.06
+PEARCE RAAF,05/09/2021,3.5,0.0, ,21.7,4.9,91,31,2.73,19.22
+PEARCE RAAF,06/09/2021,4.8,0.0, ,24.6,8.1,75,22,3.90,19.37
+PEARCE RAAF,07/09/2021,6.2,0.0, ,28.6,9.5,68,17,4.73,19.53
+PEARCE RAAF,08/09/2021,4.4,0.0, ,26.5,10.9,92,36,3.53,19.68
+PEARCE RAAF,09/09/2021,1.2,0.6, ,14.9,13.0,95,79,3.77,4.20
+PEARCE RAAF,10/09/2021,2.8,2.6, ,19.5,5.3,96,46,2.40,16.76
+PEARCE RAAF,11/09/2021,2.9,2.8, ,18.7,9.3,96,39,2.35,17.14
+PEARCE RAAF,12/09/2021,3.1,0.0, ,17.6,6.8,86,44,2.83,19.39
+PEARCE RAAF,13/09/2021,3.7,0.0, ,20.6,5.9,89,31,3.09,20.54
+PEARCE RAAF,14/09/2021,4.0,0.0, ,23.5,7.6,86,27,2.53,20.71
+PEARCE RAAF,15/09/2021,3.8,0.0, ,21.3,5.3,93,42,4.58,18.11
+PEARCE RAAF,16/09/2021,2.8,9.2, ,16.4,10.4,94,54,6.94,11.55
+PEARCE RAAF,17/09/2021,2.5,3.0, ,17.5,5.4,94,48,2.21,15.26
+PEARCE RAAF,18/09/2021,3.1,0.0, ,20.4,5.6,93,53,3.24,17.76
+PEARCE RAAF,19/09/2021,2.8,0.0, ,21.0,10.3,95,56,2.93,14.61
+PEARCE RAAF,20/09/2021,4.7,0.2, ,21.7,10.4,74,41,5.30,21.74
+PEARCE RAAF,21/09/2021,5.6,0.0, ,26.3,13.0,64,21,3.80,21.89
+PEARCE RAAF,22/09/2021,6.1,0.0, ,29.1,11.0,64,14,3.51,22.10
+PEARCE RAAF,23/09/2021,4.5,0.0, ,25.0,5.2,88,36,3.24,22.23
+PEARCE RAAF,24/09/2021,5.2,0.0, ,20.6,11.2,73,36,6.92,22.34
+PEARCE RAAF,25/09/2021,5.0,0.0, ,23.3,10.5,82,35,5.51,20.44
+PEARCE RAAF,26/09/2021,3.5,0.0, ,21.0,12.1,93,54,5.50,16.77
+PEARCE RAAF,27/09/2021,2.9,2.6, ,21.1,11.9,95,54,3.33,13.81
+PEARCE RAAF,28/09/2021,4.3,0.2, ,22.4,11.2,89,44,4.18,21.55
+PEARCE RAAF,29/09/2021,4.6,0.0, ,24.9,14.0,88,43,5.39,16.64
+PEARCE RAAF,30/09/2021,4.4,0.0, ,24.2,13.6,92,41,4.43,18.12
+Totals:,,112.5,38.6, ,,,,,, 

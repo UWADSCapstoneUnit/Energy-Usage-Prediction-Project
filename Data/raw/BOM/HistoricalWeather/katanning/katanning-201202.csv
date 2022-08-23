@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for February 2012,,,,,,,,,,
+Issued at 22:33 GMT on Thursday 01 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/02/2012,8.6,0.0, ,37.4,13.5,79,16,4.27,23.83
+KATANNING,02/02/2012,4.1,0.4, ,26.7,21.3,89,32,4.11,8.16
+KATANNING,03/02/2012,2.2,7.6, ,17.6,16.3,92,64,6.21,5.30
+KATANNING,04/02/2012,4.9,5.8, ,19.9,13.1,70,34,5.29,18.22
+KATANNING,05/02/2012,4.2,0.0, ,21.4,9.4,83,39,3.48,18.81
+KATANNING,06/02/2012,5.9,0.0, ,24.8,13.3,75,27,3.69,26.63
+KATANNING,07/02/2012,7.0,0.0, ,28.0,12.5,84,29,5.44,28.46
+KATANNING,08/02/2012,7.5,0.0, ,28.7,13.5,81,30,6.49,28.25
+KATANNING,09/02/2012,8.2,0.0, ,30.3,14.9,78,25,6.59,27.88
+KATANNING,10/02/2012,6.7,0.0, ,30.8,14.5,79,28,4.58,21.60
+KATANNING,11/02/2012,7.9,0.4, ,34.3,14.8,84,23,4.16,27.86
+KATANNING,12/02/2012,3.9,0.0, ,26.5,17.3,88,46,3.81,11.66
+KATANNING,13/02/2012,5.4,0.0, ,29.2,14.7,89,29,2.51,23.28
+KATANNING,14/02/2012,6.6,0.0, ,32.8,14.6,85,23,3.05,25.16
+KATANNING,15/02/2012,7.7,0.0, ,35.7,14.8,87,12,3.50,25.19
+KATANNING,16/02/2012,6.9,0.0, ,34.1,16.2,86,23,3.61,22.94
+KATANNING,17/02/2012,6.6,0.0, ,31.7,15.0,90,24,3.77,24.43
+KATANNING,18/02/2012,5.3,0.0, ,27.8,16.6,84,33,3.92,18.36
+KATANNING,19/02/2012,6.4,0.0, ,27.9,14.2,88,32,5.15,26.04
+KATANNING,20/02/2012,6.8,0.0, ,31.0,14.1,86,29,4.90,23.84
+KATANNING,21/02/2012,6.9,0.0, ,35.5,15.2,86,20,2.83,25.52
+KATANNING,22/02/2012,8.0,0.0, ,37.7,17.7,76,21,3.90,24.36
+KATANNING,23/02/2012,9.2,0.0, ,37.0,17.7,80,14,5.26,25.04
+KATANNING,24/02/2012,5.7,0.2, ,26.5,14.6,84,25,3.78,23.16
+KATANNING,25/02/2012,5.7,0.0, ,26.9,12.6,80,26,3.63,23.75
+KATANNING,26/02/2012,3.7,0.0, ,22.3,10.4,87,39,3.42,14.15
+KATANNING,27/02/2012,5.5,0.0, ,26.8,10.1,87,29,3.79,23.55
+KATANNING,28/02/2012,3.4,0.0, ,22.7,12.6,84,55,5.27,9.91
+KATANNING,29/02/2012,5.4,0.0, ,25.1,13.0,85,33,5.87,17.65
+Totals:,,176.3,14.4, ,,,,,, 

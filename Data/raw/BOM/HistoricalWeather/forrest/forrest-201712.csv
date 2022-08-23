@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FORREST Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FORREST,01/12/2017,4.8,1.4, ,21.6,12.4,95,45,4.99,24.55
+FORREST,02/12/2017,6.2,0.0, ,24.6,8.6,93,36,4.93,31.65
+FORREST,03/12/2017,6.6,0.0, ,24.6,9.4,95,31,6.43,31.43
+FORREST,04/12/2017,7.2,0.0, ,26.8,9.8,91,23,6.08,27.59
+FORREST,05/12/2017,8.6,0.0, ,31.7,15.3,75,17,5.53,26.73
+FORREST,06/12/2017,10.6,0.0, ,34.8,16.7,81,16,7.10,31.60
+FORREST,07/12/2017,6.9,0.0, ,24.0,14.2,90,29,7.56,30.79
+FORREST,08/12/2017,7.5,0.0, ,26.6,11.5,73,25,5.56,31.61
+FORREST,09/12/2017,9.6,0.0, ,32.6,12.1,84,14,6.15,31.38
+FORREST,10/12/2017,11.3,0.0, ,37.7,15.0,65,9,5.98,28.68
+FORREST,11/12/2017,11.7,0.0, ,39.0,18.7,40,9,6.15,24.32
+FORREST,12/12/2017,10.3,0.0, ,38.9,20.3,97,22,7.66,23.06
+FORREST,13/12/2017,3.5,15.8, ,23.1,19.1,98,62,6.52,13.83
+FORREST,14/12/2017,6.4,0.0, ,25.8,12.6,97,34,4.86,30.41
+FORREST,15/12/2017,8.1,0.0, ,31.1,11.9,92,20,4.78,30.73
+FORREST,16/12/2017,12.6,0.0, ,38.4,15.4,84,13,8.52,28.92
+FORREST,17/12/2017,14.5,0.0, ,44.2,20.8,72,9,8.18,24.23
+FORREST,18/12/2017,8.7,0.0, ,29.4,18.9,85,15,9.05,19.90
+FORREST,19/12/2017,9.0,0.2, ,28.5,15.7,76,21,8.64,29.51
+FORREST,20/12/2017,7.7,0.0, ,27.7,12.3,86,26,6.00,31.88
+FORREST,21/12/2017,8.6,0.0, ,32.4,11.5,84,15,4.38,31.85
+FORREST,22/12/2017,11.7,0.0, ,40.3,15.1,86,8,5.47,31.82
+FORREST,23/12/2017,11.5,0.0, ,32.9,23.3,70,14,9.15,31.73
+FORREST,24/12/2017,6.5,0.0, ,26.6,17.1,74,37,7.63,17.95
+FORREST,25/12/2017,9.2,0.0, ,35.1,13.4,83,21,5.30,29.05
+FORREST,26/12/2017,14.1,0.0, ,45.0,17.1,71,10,6.77,27.80
+Totals:,,233.4,17.4, ,,,,,, 

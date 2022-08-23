@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KARRATHA AERO Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KARRATHA AERO,01/12/2017,8.6,0.0, ,35.7,25.8,85,21,4.52,27.44
+KARRATHA AERO,02/12/2017,7.1,0.0, ,36.9,26.8,73,32,3.85,19.84
+KARRATHA AERO,03/12/2017,4.4,0.0, ,33.3,29.0,72,47,4.14,6.62
+KARRATHA AERO,04/12/2017,8.4,0.0, ,36.7,28.1,74,38,5.16,25.08
+KARRATHA AERO,05/12/2017,9.4,0.0, ,37.5,28.8,76,32,5.15,29.18
+KARRATHA AERO,06/12/2017,9.5,0.0, ,36.6,28.1,84,36,6.64,30.08
+KARRATHA AERO,07/12/2017,8.0,0.0, ,34.9,27.4,83,52,5.43,29.93
+KARRATHA AERO,08/12/2017,7.8,0.0, ,34.1,26.9,82,50,4.76,30.16
+KARRATHA AERO,09/12/2017,8.0,0.0, ,33.3,26.4,80,53,6.42,30.13
+KARRATHA AERO,10/12/2017,8.8,0.0, ,32.9,24.3,79,39,7.28,30.01
+KARRATHA AERO,11/12/2017,8.4,0.0, ,32.9,23.5,71,45,6.24,30.23
+KARRATHA AERO,12/12/2017,8.9,0.0, ,33.1,23.8,77,39,7.03,30.30
+KARRATHA AERO,13/12/2017,8.0,0.0, ,32.8,24.6,81,51,7.10,30.21
+KARRATHA AERO,14/12/2017,8.4,0.0, ,34.0,26.3,88,41,6.24,30.21
+KARRATHA AERO,15/12/2017,9.3,0.0, ,34.2,26.6,87,38,8.32,30.15
+KARRATHA AERO,16/12/2017,9.7,0.0, ,34.4,25.4,77,43,9.56,30.05
+KARRATHA AERO,17/12/2017,9.9,0.0, ,33.7,23.6,80,38,10.37,30.07
+KARRATHA AERO,18/12/2017,10.2,0.0, ,34.1,23.0,75,30,8.72,29.91
+KARRATHA AERO,19/12/2017, ,0.0, , ,22.3,71,10,6.09,30.00
+KARRATHA AERO,20/12/2017, , , , , ,86,24,6.24,29.72
+KARRATHA AERO,21/12/2017, , , ,36.4, ,81,32,4.71,30.13
+KARRATHA AERO,22/12/2017,8.8,0.0, ,36.0,26.7,83,40,5.46,30.23
+KARRATHA AERO,23/12/2017,8.7,0.0, ,36.1,26.7,91,43,6.15,30.21
+KARRATHA AERO,24/12/2017,8.2,0.0, ,36.5,28.3,83,45,4.61,29.09
+KARRATHA AERO,25/12/2017,8.1,0.0, ,36.9,26.0,84,33,5.39,22.58
+KARRATHA AERO,26/12/2017,10.9,0.0, ,41.6,29.1,73,25,5.44,29.97
+Totals:,,197.5,0, ,,,,,, 

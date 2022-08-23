@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for February 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/02/2010, ,0.0, ,43.9,31.4, , , ,28.42
+NEWMAN AERO,02/02/2010,11.6,0.0, ,43.0,26.9,65,9,5.06,30.77
+NEWMAN AERO,03/02/2010,10.8,0.0, ,43.1,27.7,21,8,3.79,31.70
+NEWMAN AERO,04/02/2010,12.4,0.0, ,40.7,27.3,44,10,6.09,31.02
+NEWMAN AERO,05/02/2010,11.0,0.0, ,40.3,23.6,65,12,4.97,31.78
+NEWMAN AERO,06/02/2010,9.7,0.0, ,40.8,24.9,52,9,3.65,29.23
+NEWMAN AERO,07/02/2010,9.9,0.0, ,41.1,22.5,26,8,3.50,31.07
+NEWMAN AERO,08/02/2010,10.0,0.0, ,41.3,26.8,55,13,4.10,28.27
+NEWMAN AERO,09/02/2010,7.1,0.0, ,37.5,25.9,83,26,3.77,20.16
+NEWMAN AERO,10/02/2010,7.5,3.0, ,38.0,22.3,80,22,2.80,26.57
+NEWMAN AERO,11/02/2010, ,0.0, ,40.6,24.7, , , ,30.49
+NEWMAN AERO,12/02/2010, ,0.0, ,42.0,24.6, , , ,30.41
+NEWMAN AERO,13/02/2010,10.5,0.0, ,43.6,28.2,41,10,3.97,28.86
+NEWMAN AERO,14/02/2010,10.7,5.0, ,42.8,27.3,49,12,4.25,30.37
+NEWMAN AERO,15/02/2010,9.6,0.0, ,43.0,26.5,48,11,3.27,29.98
+NEWMAN AERO,16/02/2010,9.1,0.0, ,44.3,27.8,34,9,2.83,28.54
+NEWMAN AERO,17/02/2010,10.0,0.0, ,43.9,29.0,32,10,3.76,25.95
+NEWMAN AERO,18/02/2010,11.7,0.0, ,42.8,31.6,23,9,5.30,24.09
+NEWMAN AERO,19/02/2010,9.0,0.0, ,43.9,26.3,32,8,2.61,30.45
+NEWMAN AERO,20/02/2010, ,0.0, ,44.8,25.2, , , ,28.78
+NEWMAN AERO,21/02/2010, , , ,45.5, , , , ,27.49
+NEWMAN AERO,22/02/2010,13.2,0.0, ,42.2,31.8,35,15,7.17,25.71
+NEWMAN AERO,23/02/2010,9.2,0.0, ,43.9,25.2,45,10,3.05,28.36
+NEWMAN AERO,24/02/2010,9.2,0.0, ,42.7,28.5,42,10,3.07,29.22
+NEWMAN AERO,25/02/2010,10.2,0.0, ,42.9,28.5,29,11,4.07,25.93
+NEWMAN AERO,26/02/2010,8.9,0.0, ,40.8,31.0,46,18,3.76,23.66
+NEWMAN AERO,27/02/2010,11.2,0.2, ,40.1,26.8,48,12,5.71,27.83
+NEWMAN AERO,28/02/2010,11.9,0.0, ,39.4,28.2,31,14,6.25,28.00
+Totals:,,234.4,8.2, ,,,,,, 

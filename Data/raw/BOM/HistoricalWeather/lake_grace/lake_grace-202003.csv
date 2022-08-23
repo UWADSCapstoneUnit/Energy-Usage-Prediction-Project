@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for March 2020,,,,,,,,,,
+Issued at 22:32 GMT on Wednesday 01 April 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/03/2020,3.5,0.8, ,21.1,16.8,98,56,7.39,15.00
+LAKE GRACE,02/03/2020,6.1,0.2, ,24.8,14.4,78,33,6.25,24.31
+LAKE GRACE,03/03/2020,6.0,0.0, ,27.2,12.6,81,24,4.06,24.89
+LAKE GRACE,04/03/2020,5.5,0.0, ,30.6,13.9,82,18,2.34,22.96
+LAKE GRACE,05/03/2020,6.5,0.0, ,32.5,15.0,63,15,3.52,18.92
+LAKE GRACE,06/03/2020, ,0.0, , ,20.4,53,25,6.26,24.27
+LAKE GRACE,07/03/2020, , , ,32.0, ,77,23,3.65,24.18
+LAKE GRACE,08/03/2020,7.4,0.0, ,31.7,16.2,90,27,6.19,23.66
+LAKE GRACE,09/03/2020,6.5,0.0, ,29.4,13.9,84,26,4.78,23.84
+LAKE GRACE,10/03/2020,5.7,0.0, ,29.8,13.0,90,21,3.32,21.66
+LAKE GRACE,11/03/2020,6.0,0.0, ,32.2,13.7,90,21,3.10,23.12
+LAKE GRACE,12/03/2020,6.1,0.0, ,28.6,15.6,88,34,5.47,23.11
+LAKE GRACE,13/03/2020,5.7,0.0, ,27.4,16.4,83,39,6.00,20.64
+LAKE GRACE,14/03/2020,5.4,0.0, ,28.9,17.2,85,40,5.48,16.66
+LAKE GRACE,15/03/2020,4.2,1.0, ,28.8,18.2,93,53,4.98,14.18
+LAKE GRACE,16/03/2020,4.4,2.4, ,27.3,16.9,91,34,2.42,20.52
+LAKE GRACE,17/03/2020,3.6,0.0, ,24.0,15.8,91,44,4.57,10.71
+LAKE GRACE,18/03/2020,4.9,1.0, ,22.9,11.3,93,30,4.90,21.84
+LAKE GRACE,19/03/2020,4.0,0.0, ,25.1,9.0,88,30,2.52,17.99
+LAKE GRACE,20/03/2020,3.4,0.0, ,24.6,15.3,84,46,3.88,9.89
+LAKE GRACE,21/03/2020,3.5,0.2, ,24.1,15.0,93,57,5.63,12.65
+LAKE GRACE,22/03/2020,4.1,0.0, ,25.0,16.1,88,49,5.55,14.51
+LAKE GRACE,23/03/2020,5.0,0.2, ,26.8,15.2,90,32,4.61,18.22
+LAKE GRACE,24/03/2020,5.7,0.0, ,29.1,13.7,87,21,4.01,21.00
+LAKE GRACE,25/03/2020,6.2,0.0, ,30.9,14.7,71,23,4.16,20.59
+LAKE GRACE,26/03/2020,6.5,0.0, ,34.5,16.4,56,20,3.52,19.64
+LAKE GRACE,27/03/2020,8.6,0.4, ,35.1,20.4,68,22,6.87,19.36
+LAKE GRACE,28/03/2020,4.8,0.0, ,23.6,16.2,78,35,5.31,17.25
+LAKE GRACE,29/03/2020,3.5,0.0, ,22.2,11.1,78,33,2.38,17.50
+LAKE GRACE,30/03/2020,3.5,0.0, ,23.5,8.3,88,31,1.98,19.30
+LAKE GRACE,31/03/2020,3.8,0.0, ,24.3,12.5,90,33,2.63,18.95
+Totals:,,150.1,6.2, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON Western Australia for April 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON,01/04/2009,2.3,0.0, ,21.5,6.0,89,29,0.00,21.56
+BUSSELTON,02/04/2009,1.9,0.0, ,20.7,5.1,87,49,0.00,16.31
+BUSSELTON,03/04/2009,2.4,0.0, ,26.9,7.7,90,28,0.00,21.06
+BUSSELTON,04/04/2009,2.5,0.0, ,25.5,8.5,88,32,0.00,21.59
+BUSSELTON,05/04/2009,2.5,0.0, ,27.3,11.5,81,24,0.00,21.17
+BUSSELTON,06/04/2009,2.6,0.0, ,25.1,10.1,89,31,0.00,21.71
+BUSSELTON,07/04/2009,2.6,0.0, ,26.5,12.5,82,37,0.00,21.07
+BUSSELTON,08/04/2009,2.4,0.0, ,25.4,12.0,90,33,0.00,20.31
+BUSSELTON,09/04/2009,2.6,0.0, ,27.5,12.9,98,39,0.00,19.75
+BUSSELTON,10/04/2009,2.3,0.0, ,28.9,11.0,98,27,0.00,19.57
+BUSSELTON,11/04/2009,2.4,0.0, ,25.3,15.0,90,52,0.00,17.41
+BUSSELTON,12/04/2009,2.2,0.0, ,33.0,17.4,66,14,0.00,19.54
+BUSSELTON,13/04/2009,2.1,0.0, ,30.6,16.1,81,24,0.00,16.14
+BUSSELTON,14/04/2009,2.4,0.0, ,25.1,15.8,89,45,0.00,19.27
+BUSSELTON,15/04/2009,1.9,0.0, ,22.8,9.3,83,36,0.00,18.07
+BUSSELTON,16/04/2009,2.1,0.0, ,22.8,8.1,92,45,0.00,19.14
+BUSSELTON,17/04/2009,2.1,0.0, ,28.5,10.7,98,34,0.00,18.20
+BUSSELTON,18/04/2009,2.0,0.0, ,26.1,13.9,93,45,0.00,15.62
+BUSSELTON,19/04/2009,2.2,0.0, ,25.0,13.2,91,54,0.00,18.06
+BUSSELTON,20/04/2009,2.3,0.0, ,26.7,14.7,92,46,0.00,18.55
+BUSSELTON,21/04/2009,2.3,0.0, ,26.4,14.6,98,56,0.00,17.52
+BUSSELTON,22/04/2009,1.7,0.6, ,20.2,12.3,98,36,0.00,15.66
+BUSSELTON,23/04/2009,1.4,0.0, ,20.9,8.8,98,54,0.00,11.64
+BUSSELTON,24/04/2009,1.6,0.2, ,23.6,11.3,98,57,0.00,12.83
+BUSSELTON,25/04/2009,1.7,0.2, ,24.3,12.7,98,50,0.00,13.49
+BUSSELTON,26/04/2009,1.7,0.0, ,22.1,9.9,98,57,0.00,15.46
+BUSSELTON,27/04/2009,1.7,0.0, ,24.7,9.8,98,44,0.00,16.15
+BUSSELTON,28/04/2009,1.8,0.0, ,25.7,7.4,98,39,0.00,17.59
+BUSSELTON,29/04/2009,1.7,0.0, ,25.3,11.6,94,45,0.00,15.71
+BUSSELTON,30/04/2009,1.5,0.0, ,21.2,10.0,98,39,0.00,14.51
+Totals:,,62.9,1, ,,,,,, 

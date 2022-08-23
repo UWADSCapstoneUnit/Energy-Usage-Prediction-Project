@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for January 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 February 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/01/2017,7.4,0.0, ,35.8,26.3,91,48,5.08,26.32
+DERBY AERO,02/01/2017,6.8,1.0, ,36.2,24.5,91,40,3.63,23.90
+DERBY AERO,03/01/2017,8.7,0.0, ,38.7,28.8,89,31,4.68,26.91
+DERBY AERO,04/01/2017,6.4,0.0, ,37.4,28.9,83,35,3.63,17.72
+DERBY AERO,05/01/2017,2.1,26.6, ,28.8,23.6,97,77,7.68,2.60
+DERBY AERO,06/01/2017,4.8,7.2, ,32.0,24.0,97,69,6.96,18.84
+DERBY AERO,07/01/2017,6.7,8.4, ,33.0,24.6,87,67,7.99,27.38
+DERBY AERO,08/01/2017,7.2,0.0, ,34.2,26.6,92,60,5.54,29.22
+DERBY AERO,09/01/2017,7.6,0.0, ,34.8,26.4,90,49,4.45,29.55
+DERBY AERO,10/01/2017,6.9,0.0, ,34.7,26.7,87,51,3.82,26.66
+DERBY AERO,11/01/2017,6.8,0.0, ,34.8,27.3,95,55,4.28,26.44
+DERBY AERO,12/01/2017,5.5,24.2, ,33.2,26.8,94,61,5.06,20.64
+DERBY AERO,13/01/2017,6.1,2.8, ,33.8,25.7,88,61,4.95,22.74
+DERBY AERO,14/01/2017,3.4,0.0, ,31.6,27.4,90,67,3.05,10.98
+DERBY AERO,15/01/2017,5.5,0.2, ,32.7,26.2,93,65,3.62,22.91
+DERBY AERO,16/01/2017,6.9,4.6, ,33.5,26.4,92,57,4.49,28.34
+DERBY AERO,17/01/2017,4.1,0.0, ,32.9,27.6,94,67,3.38,14.71
+DERBY AERO,18/01/2017,1.9,10.4, ,29.3,24.3,97,87,3.43,6.82
+DERBY AERO,19/01/2017,4.5,26.6, ,31.8,23.8,94,70,5.01,17.77
+DERBY AERO,20/01/2017,6.2,13.4, ,32.7,25.3,94,64,5.33,26.33
+DERBY AERO,21/01/2017,6.9,0.0, ,33.6,25.6,91,57,4.28,28.96
+DERBY AERO,22/01/2017,6.9,0.0, ,34.4,26.2,92,53,3.42,28.73
+DERBY AERO,23/01/2017,6.8,0.0, ,34.0,25.5,88,53,3.70,27.65
+DERBY AERO,24/01/2017,5.8,0.0, ,34.8,25.9,88,55,2.76,22.70
+DERBY AERO,25/01/2017,5.2,2.2, ,33.8,25.6,97,65,5.50,19.42
+DERBY AERO,26/01/2017,3.6,6.8, ,32.9,23.3,97,68,4.22,12.01
+DERBY AERO,27/01/2017,2.9,49.2, ,30.4,24.9,97,75,5.99,8.99
+DERBY AERO,28/01/2017,5.1,3.0, ,32.3,25.3,95,68,5.05,21.01
+DERBY AERO,29/01/2017,6.1,3.8, ,32.6,25.5,94,64,4.22,26.75
+DERBY AERO,30/01/2017,6.6,1.8, ,35.6,24.0,96,54,3.07,27.52
+DERBY AERO,31/01/2017,6.6,0.6, ,35.7,25.8,92,51,3.19,26.11
+Totals:,,178,192.8, ,,,,,, 

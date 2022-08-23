@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for December 2011,,,,,,,,,,
+Issued at 22:34 GMT on Sunday 01 January 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/12/2011,6.3,8.8, ,36.8,24.5,89,48,1.40,27.74
+KALUMBURU,02/12/2011,7.2,0.0, ,35.6,26.2,83,43,2.86,28.80
+KALUMBURU,03/12/2011,6.9,0.0, ,35.2,25.2,88,46,2.24,29.47
+KALUMBURU,04/12/2011,6.7,1.8, ,34.9,23.4,91,47,2.30,29.37
+KALUMBURU,05/12/2011,6.6,58.2, ,34.3,22.8,91,49,1.90,29.95
+KALUMBURU,06/12/2011,6.8,0.0, ,35.4,24.9,89,41,2.10,29.17
+KALUMBURU,07/12/2011,7.3,0.0, ,35.3,25.6,80,37,2.27,30.84
+KALUMBURU,08/12/2011,6.1,0.0, ,34.9,24.7,82,42,1.65,26.27
+KALUMBURU,09/12/2011,6.8,0.0, ,35.6,24.2,88,44,1.88,29.93
+KALUMBURU,10/12/2011,6.9,0.0, ,35.3,24.3,89,40,1.95,30.51
+KALUMBURU,11/12/2011,6.3,0.0, ,35.2,25.2,90,48,1.84,27.05
+KALUMBURU,12/12/2011,6.0,0.0, ,36.2,26.0,89,47,1.97,24.13
+KALUMBURU,13/12/2011,6.7,24.2, ,35.7,23.0,91,48,2.09,29.40
+KALUMBURU,14/12/2011, ,0.8, ,36.3,23.9,89,45,1.75, 
+KALUMBURU,15/12/2011,6.3,24.4, ,34.5,23.8,88,49,1.54,28.47
+KALUMBURU,16/12/2011,6.4,0.0, ,34.7,25.5,91,49,1.87,28.14
+KALUMBURU,17/12/2011,6.0,30.4, ,34.3,24.2,90,51,1.41,27.05
+KALUMBURU,18/12/2011,6.1,0.0, ,34.9,25.1,90,48,1.48,26.86
+KALUMBURU,19/12/2011,6.5,11.0, ,35.3,25.5,89,43,1.55,28.57
+KALUMBURU,20/12/2011,6.5,10.2, ,35.2,25.3,90,51,1.88,28.50
+KALUMBURU,21/12/2011,6.9,24.2, ,37.7,24.9,90,41,1.97,28.56
+KALUMBURU,22/12/2011, ,0.0, ,34.6,27.2, , , ,24.39
+KALUMBURU,23/12/2011,6.4,2.0, ,35.9,23.5,88,49,2.32,26.62
+KALUMBURU,24/12/2011,6.0,0.0, ,36.8,26.2,88,39,1.30,25.44
+KALUMBURU,25/12/2011,7.3,0.0, ,38.1,26.5,89,32,1.75,30.48
+KALUMBURU,26/12/2011,7.1,0.0, ,38.5,27.1,85,38,2.23,27.23
+KALUMBURU,27/12/2011, ,0.0, ,37.7,27.6, , , ,20.66
+KALUMBURU,28/12/2011,2.0,16.0, ,31.4,22.8,90,64,1.51,5.04
+KALUMBURU,29/12/2011,5.8,0.6, ,35.1,23.1,91,52,2.29,24.07
+KALUMBURU,30/12/2011, ,0.0, ,34.8,25.2, , , ,23.61
+KALUMBURU,31/12/2011, ,0.0, ,35.3,25.4, , , ,19.63
+Totals:,,165.9,212.6, ,,,,,, 

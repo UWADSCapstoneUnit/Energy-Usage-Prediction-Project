@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for September 2018,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 October 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,01/09/2018,5.5,0.0, ,31.4,12.1,94,27,2.94,22.94
+CURTIN AERO,02/09/2018,5.9,0.0, ,34.9,14.3,92,26,2.74,23.02
+CURTIN AERO,03/09/2018,7.6,0.0, ,37.5,16.7,82,11,3.58,23.13
+CURTIN AERO,04/09/2018,8.1,0.0, ,38.6,15.6,67,12,3.76,23.21
+CURTIN AERO,05/09/2018,7.1,0.0, ,36.8,14.4,73,16,3.20,23.31
+CURTIN AERO,06/09/2018,7.0,0.0, ,36.5,17.2,99,14,3.31,23.40
+CURTIN AERO,07/09/2018,8.2,0.0, ,36.7,17.5,53,15,4.19,23.53
+CURTIN AERO,08/09/2018,8.6,0.0, ,36.9,17.7,42,9,4.18,23.61
+CURTIN AERO,09/09/2018,8.5,0.0, ,38.4,21.2,62,8,3.98,23.70
+CURTIN AERO,10/09/2018,8.0,0.0, ,39.1,14.0,100,7,3.44,23.79
+CURTIN AERO,11/09/2018,9.0,0.0, ,39.7,16.8,81,7,4.27,23.89
+CURTIN AERO,12/09/2018,7.5,0.0, ,38.1,17.6,90,15,3.44,23.74
+CURTIN AERO,13/09/2018,6.8,0.0, ,35.7,17.2,100,23,3.51,24.08
+CURTIN AERO,14/09/2018, ,0.0, , ,20.1,100,20,3.03,24.16
+CURTIN AERO,15/09/2018, , , ,38.7, ,74,12,3.75,24.36
+CURTIN AERO,16/09/2018,9.2,0.0, ,39.4,20.6,54,10,4.24,24.43
+CURTIN AERO,17/09/2018,7.9,0.0, ,38.4,17.2,96,16,3.82,24.48
+CURTIN AERO,18/09/2018,7.2,0.0, ,38.0,19.3,100,14,3.12,24.28
+CURTIN AERO,19/09/2018,8.9,0.0, ,36.9,19.7,94,11,5.27,24.49
+CURTIN AERO,20/09/2018,11.2,0.0, ,34.3,24.6,31,14,8.13,16.81
+CURTIN AERO,21/09/2018,8.1,0.0, ,36.4,21.1,71,14,4.01,24.51
+CURTIN AERO,22/09/2018,7.5,0.0, ,37.6,18.9,73,16,3.21,24.43
+CURTIN AERO,23/09/2018,7.2,0.0, ,39.2,14.5,57,9,2.44,25.06
+CURTIN AERO,24/09/2018,10.2,0.0, ,39.4,20.2,35,8,4.78,25.17
+CURTIN AERO,25/09/2018,8.2,0.0, ,39.4,16.5,59,8,3.18,25.27
+CURTIN AERO,26/09/2018,7.7,0.0, ,38.1,14.8,83,14,3.33,24.48
+CURTIN AERO,27/09/2018,7.5,0.0, ,36.8,18.9,100,14,3.45,25.20
+CURTIN AERO,28/09/2018,7.2,0.0, ,37.1,20.1,100,16,3.11,25.28
+CURTIN AERO,29/09/2018,7.4,0.0, ,38.1,19.4,100,18,3.26,24.91
+CURTIN AERO,30/09/2018,6.8,0.0, ,36.4,19.1,87,30,3.15,24.28
+Totals:,,220,0, ,,,,,, 

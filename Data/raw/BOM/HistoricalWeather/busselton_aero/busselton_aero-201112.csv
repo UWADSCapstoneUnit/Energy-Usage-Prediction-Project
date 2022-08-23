@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON AERO Western Australia for December 2011,,,,,,,,,,
+Issued at 22:34 GMT on Sunday 01 January 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON AERO,01/12/2011,9.8,0.0, ,30.7,13.3,67,17,6.81,33.85
+BUSSELTON AERO,02/12/2011,10.1,0.0, ,32.3,15.0,71,19,6.97,33.69
+BUSSELTON AERO,03/12/2011,10.2,0.0, ,34.5,16.5,63,18,5.98,31.31
+BUSSELTON AERO,04/12/2011,9.0,0.0, ,33.7,19.0,51,21,5.24,25.33
+BUSSELTON AERO,05/12/2011,8.5,0.0, ,34.8,13.6,74,21,4.35,27.75
+BUSSELTON AERO,06/12/2011,4.4,2.2, ,24.2,18.4,85,58,6.17,16.52
+BUSSELTON AERO,07/12/2011,5.0,2.8, ,24.9,16.8,92,55,5.23,24.06
+BUSSELTON AERO,08/12/2011,6.1,0.0, ,26.4,15.8,85,49,6.14,27.09
+BUSSELTON AERO,09/12/2011,6.3,0.0, ,26.7,14.0,90,33,4.33,28.41
+BUSSELTON AERO,10/12/2011, ,0.0, ,28.0,11.6, , , ,33.47
+BUSSELTON AERO,11/12/2011, ,0.0, ,32.1,13.0, , , ,32.45
+BUSSELTON AERO,12/12/2011, ,0.0, , ,15.7,88,44,5.55,15.74
+BUSSELTON AERO,13/12/2011, , , ,24.5, , , , ,25.30
+BUSSELTON AERO,14/12/2011, ,0.0, ,27.3,16.4, , , , 
+BUSSELTON AERO,15/12/2011, ,0.0, ,24.8,15.3, , , ,22.22
+BUSSELTON AERO,16/12/2011, ,1.4, ,27.4,10.3, , , ,30.43
+BUSSELTON AERO,17/12/2011, ,0.2, ,27.1,11.7, , , ,29.25
+BUSSELTON AERO,18/12/2011, ,0.0, ,25.7,11.3, , , ,29.39
+BUSSELTON AERO,19/12/2011, ,0.0, ,22.7,11.2, , , ,24.80
+BUSSELTON AERO,20/12/2011, ,0.0, ,28.7,8.4, , , ,34.29
+BUSSELTON AERO,21/12/2011, ,0.0, ,29.9,10.0, , , ,34.25
+BUSSELTON AERO,22/12/2011,6.4,0.0, ,28.9,13.4,95,49,4.21,31.62
+BUSSELTON AERO,23/12/2011,7.8,0.0, ,28.4,11.0,85,33,5.71,34.72
+BUSSELTON AERO,24/12/2011, ,0.0, ,28.4,11.6, , , ,33.08
+BUSSELTON AERO,25/12/2011, ,0.0, ,28.5,12.2, , , ,34.71
+BUSSELTON AERO,26/12/2011, ,0.0, ,31.5,11.7, , , ,34.79
+BUSSELTON AERO,27/12/2011, ,0.0, ,33.7,15.6, , , ,31.02
+BUSSELTON AERO,28/12/2011, ,0.0, ,37.7,18.6, , , ,33.08
+BUSSELTON AERO,29/12/2011, ,0.0, ,37.7,20.2, , , ,31.75
+BUSSELTON AERO,30/12/2011, ,0.0, ,29.2,21.1, , , ,17.33
+BUSSELTON AERO,31/12/2011, ,0.0, , ,17.9, , , ,27.78
+Totals:,,83.6,6.6, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TELFER AERO Western Australia for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 October 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TELFER AERO,01/09/2017,7.3,0.0, ,34.8,15.3,39,10,3.58,21.99
+TELFER AERO,02/09/2017,7.9,0.0, ,31.5,18.5,58,18,5.72,21.99
+TELFER AERO,03/09/2017,8.4,0.0, ,27.5,14.2,34,14,7.05,22.09
+TELFER AERO,04/09/2017,9.0,0.0, ,28.9,12.8,29,10,7.19,22.22
+TELFER AERO,05/09/2017,8.8,0.0, ,29.6,11.8,27,8,6.29,22.31
+TELFER AERO,06/09/2017,9.2,0.0, ,34.1,14.4,26,10,5.54,22.45
+TELFER AERO,07/09/2017,7.3,0.0, ,33.2,17.8,31,16,4.28,15.92
+TELFER AERO,08/09/2017,7.3,0.0, ,36.1,21.1,34,9,3.17,22.86
+TELFER AERO,09/09/2017,7.0,0.0, ,34.9,14.2,36,8,3.12,22.84
+TELFER AERO,10/09/2017,6.4,0.0, ,36.0,13.2,35,7,2.40,22.93
+TELFER AERO,11/09/2017,7.5,0.0, ,36.5,15.7,34,8,3.30,23.20
+TELFER AERO,12/09/2017,7.6,0.0, ,35.8,18.9,34,10,3.45,23.27
+TELFER AERO,13/09/2017,10.4,0.0, ,33.2,19.4,33,15,7.52,23.34
+TELFER AERO,14/09/2017,9.3,0.0, ,33.2,15.2,33,12,5.95,23.47
+TELFER AERO,15/09/2017,8.2,0.0, ,36.0,17.5,29,9,3.83,23.66
+TELFER AERO,16/09/2017,7.7,0.0, ,36.3,18.4,29,8,3.41,22.74
+TELFER AERO,17/09/2017,7.4,0.0, ,37.1,15.6,31,6,2.96,23.92
+TELFER AERO,18/09/2017,8.6,0.0, ,36.4,18.0,26,8,4.05,24.09
+TELFER AERO,19/09/2017,9.0,0.0, ,37.1,20.4,29,9,4.35,24.27
+TELFER AERO,20/09/2017,7.7,0.0, ,37.9,18.9,28,7,3.04,24.53
+TELFER AERO,21/09/2017,8.6,0.0, ,38.5,18.6,30,9,3.71,24.49
+TELFER AERO,22/09/2017,9.8,0.0, ,37.7,20.9,40,8,5.04,24.80
+TELFER AERO,23/09/2017,9.3,0.0, ,35.4,18.3,28,10,4.90,24.75
+TELFER AERO,24/09/2017,8.6,0.0, ,33.5,15.5,54,10,4.95,24.72
+TELFER AERO,25/09/2017,7.8,0.0, ,31.9,16.1,79,23,5.78,24.89
+TELFER AERO,26/09/2017,7.8,0.0, ,31.7,17.1,74,25,5.74,24.74
+TELFER AERO,27/09/2017,6.4,0.0, ,28.8,19.7,47,19,4.23,16.09
+TELFER AERO,28/09/2017,6.4,0.0, ,32.5,15.8,58,21,3.21,21.30
+TELFER AERO,29/09/2017,9.0,0.0, ,32.7,17.3,64,9,5.72,25.35
+TELFER AERO,30/09/2017,10.0,0.0, ,31.2,16.8,41,16,7.88,25.48
+Totals:,,245.7,0, ,,,,,, 

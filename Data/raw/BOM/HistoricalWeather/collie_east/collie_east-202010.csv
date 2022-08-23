@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for October 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 November 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/10/2020,3.0,0.4, ,19.5,13.9,92,53,2.70,15.60
+COLLIE EAST,02/10/2020,2.3,2.0, ,15.2,10.4,92,48,1.91,12.52
+COLLIE EAST,03/10/2020,2.9,0.0, ,17.3,0.7,93,41,1.68,19.66
+COLLIE EAST,04/10/2020,3.0,0.2, ,18.2,4.9,90,37,1.29,20.52
+COLLIE EAST,05/10/2020,3.2,0.0, ,19.0,0.9,92,33,1.15,23.81
+COLLIE EAST,06/10/2020,3.5,0.0, ,20.4,2.1,92,32,1.34,23.51
+COLLIE EAST,07/10/2020,3.7,0.0, ,21.1,3.0,92,41,2.72,20.74
+COLLIE EAST,08/10/2020,3.0,13.8, ,19.0,6.0,95,42,1.15,19.51
+COLLIE EAST,09/10/2020,2.6,0.0, ,20.0,5.5,93,48,1.02,15.58
+COLLIE EAST,10/10/2020,3.5,0.0, ,23.3,5.6,94,39,1.00,22.44
+COLLIE EAST,11/10/2020,3.5,0.0, ,22.7,8.6,92,43,1.31,20.76
+COLLIE EAST,12/10/2020,4.1,0.0, ,25.5,6.9,93,35,1.27,24.90
+COLLIE EAST,13/10/2020,3.3,0.0, ,27.5,9.4,91,41,1.09,16.27
+COLLIE EAST,14/10/2020, ,0.0, , ,10.2,94,52,2.17,13.81
+COLLIE EAST,15/10/2020, , , , , , , , ,17.43
+COLLIE EAST,16/10/2020,3.2, , ,21.5,7.0,91,38,1.34,18.27
+COLLIE EAST,17/10/2020,4.3,0.0, ,23.7,5.4,93,34,1.78,25.60
+COLLIE EAST,18/10/2020,5.3,0.0, ,28.8,7.4,89,25,2.14,26.02
+COLLIE EAST,19/10/2020,5.0,0.0, ,28.5,9.4,90,35,1.89,26.14
+COLLIE EAST,20/10/2020,4.2,0.0, ,24.1,13.2,82,40,1.93,21.46
+COLLIE EAST,21/10/2020,3.6,0.0, ,22.7,8.0,92,42,1.94,18.98
+COLLIE EAST,22/10/2020,4.3,0.0, ,22.5,5.5,93,32,1.83,26.47
+COLLIE EAST,23/10/2020,4.0,0.0, ,22.7,7.4,90,35,1.98,22.18
+COLLIE EAST,24/10/2020,4.9,0.0, ,25.7,6.1,85,29,2.07,25.94
+COLLIE EAST,25/10/2020,5.6,0.0, ,30.4,7.9,89,20,1.93,26.99
+COLLIE EAST,26/10/2020,4.2,0.0, ,24.6,8.6,89,35,1.62,23.33
+COLLIE EAST,27/10/2020,3.9,0.0, ,22.6,9.7,94,45,2.18,21.00
+COLLIE EAST,28/10/2020,4.7,0.4, ,24.8,11.5,93,36,1.62,26.29
+COLLIE EAST,29/10/2020,5.7,0.2, ,28.0,6.2,89,19,2.35,27.65
+COLLIE EAST,30/10/2020,5.7,0.0, ,33.6,8.5,87,20,1.42,27.55
+COLLIE EAST,31/10/2020,3.5,0.0, ,23.3,12.6,89,48,2.10,16.52
+Totals:,,113.7,17, ,,,,,, 

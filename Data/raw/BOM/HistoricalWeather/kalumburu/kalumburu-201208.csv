@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for August 2012,,,,,,,,,,
+Issued at 22:38 GMT on Saturday 01 September 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/08/2012,5.2,0.0, ,29.3,12.0,59,17,2.70,21.08
+KALUMBURU,02/08/2012,5.0,0.0, ,31.8,9.1,65,15,2.12,21.23
+KALUMBURU,03/08/2012, ,0.0, , ,8.7,80,11,1.88,21.23
+KALUMBURU,04/08/2012, , , , , ,91,12,1.52,21.48
+KALUMBURU,05/08/2012, , , ,34.6, ,91,13,1.65,21.48
+KALUMBURU,06/08/2012,5.2,0.0, ,33.4,10.3,91,14,2.23,21.53
+KALUMBURU,07/08/2012,5.5,0.0, ,32.1,13.9,92,14,2.69,21.56
+KALUMBURU,08/08/2012, ,0.0, , ,11.6,89,18,2.43,21.76
+KALUMBURU,09/08/2012, , , ,33.0, ,91,17,1.88,21.75
+KALUMBURU,10/08/2012, , , ,33.8, ,89,16,2.92,21.86
+KALUMBURU,11/08/2012,6.4, , ,31.6,12.3,75,12,3.58,22.00
+KALUMBURU,12/08/2012,6.0,0.0, ,28.6,13.6,47,10,3.27,22.03
+KALUMBURU,13/08/2012, ,0.0, , ,8.4,60,12,2.66,22.14
+KALUMBURU,14/08/2012, , , ,31.1, ,75,12,2.48,22.30
+KALUMBURU,15/08/2012, ,0.0, , ,9.7,90,12,2.23,22.37
+KALUMBURU,16/08/2012, , , ,33.6, ,92,14,1.96,22.51
+KALUMBURU,17/08/2012,5.2, , ,34.7,10.7,89,12,1.84,22.31
+KALUMBURU,18/08/2012, ,0.0, , ,11.9,90,13,1.88,22.79
+KALUMBURU,19/08/2012, , , ,31.6, ,91,26,2.33,22.81
+KALUMBURU,20/08/2012,5.6, , ,34.0,14.3,91,14,2.31,22.91
+KALUMBURU,21/08/2012, , , , ,12.6,89,14,2.10,22.97
+KALUMBURU,22/08/2012, , , ,33.9, ,91,15,1.58,23.09
+KALUMBURU,23/08/2012,5.4,0.2, ,35.5,12.0,91,14,1.79,23.10
+KALUMBURU,24/08/2012,5.7,0.0, ,35.4,13.9,93,15,2.08,23.35
+KALUMBURU,25/08/2012,5.2,0.0, ,33.2,14.5,91,26,2.01,23.09
+KALUMBURU,26/08/2012,5.8,0.0, ,37.5,16.6,91,21,2.06,23.14
+KALUMBURU,27/08/2012, ,0.0, , ,17.7,90,32,2.30,23.40
+KALUMBURU,28/08/2012, , , ,35.2, ,91,27,2.15,21.72
+KALUMBURU,29/08/2012,5.8, , ,35.5,17.3,93,18,2.15,23.80
+KALUMBURU,30/08/2012,5.8, , ,33.2,18.1,91,36,2.96,24.30
+KALUMBURU,31/08/2012,5.4, , ,32.8,20.6,90,45,2.57,23.97
+Totals:,,83.2,0.2, ,,,,,, 

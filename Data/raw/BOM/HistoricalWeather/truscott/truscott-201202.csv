@@ -1,0 +1,37 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for February 2012,,,,,,,,,,
+Issued at 22:33 GMT on Thursday 01 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/02/2012,2.7,61.2, ,31.2,21.2,100,76,4.15,9.43
+TRUSCOTT,02/02/2012,6.1,7.6, ,33.1,23.6,89,67,5.81,25.48
+TRUSCOTT,03/02/2012,4.6,0.2, ,31.6,27.4,89,72,4.87,17.62
+TRUSCOTT,04/02/2012,6.7,0.0, ,32.2,27.4,85,57,4.90,26.83
+TRUSCOTT,05/02/2012,6.7,0.0, ,32.2,27.6,83,59,5.10,26.33
+TRUSCOTT,06/02/2012,6.3,0.0, ,32.5,26.8,90,61,3.97,26.92
+TRUSCOTT,07/02/2012,5.7,0.8, ,31.9,23.7,94,58,3.24,24.95
+TRUSCOTT,08/02/2012,5.0,4.8, ,32.1,25.9,97,67,1.15,23.03
+TRUSCOTT,09/02/2012,5.9,0.0, ,32.7,25.2,97,51,2.04,26.37
+TRUSCOTT,10/02/2012,6.5,0.0, ,34.2,25.0,98,48,2.78,27.46
+TRUSCOTT,11/02/2012,6.8,0.0, ,33.9,27.6,88,52,3.67,27.35
+TRUSCOTT,12/02/2012,6.5,0.0, ,33.6,27.5,89,53,3.17,26.85
+TRUSCOTT,13/02/2012,6.3,0.0, ,34.7,25.2,95,42,2.01,26.72
+TRUSCOTT,14/02/2012,6.9,0.0, ,34.9,27.1,90,41,2.84,27.49
+TRUSCOTT,15/02/2012, ,0.0, , ,25.5,100,37,3.22,27.18
+TRUSCOTT,22/02/2012, ,0.4, , , ,100,100,2.18,15.73
+TRUSCOTT,23/02/2012, , , ,31.3, ,100,59,2.74,18.14
+TRUSCOTT,24/02/2012,1.1,15.2, ,27.2,24.4,98,85,1.84,3.03
+TRUSCOTT,25/02/2012,1.6,50.8, ,28.6,22.9,100,80,1.99,5.03
+TRUSCOTT,26/02/2012,3.8,3.4, ,30.3,23.3,97,71,1.81,17.26
+TRUSCOTT,27/02/2012,5.2,0.0, ,32.1,25.4,99,60,1.71,23.86
+TRUSCOTT,28/02/2012,4.8,0.0, ,32.3,26.3,94,59,2.13,20.03
+TRUSCOTT,29/02/2012,4.0,0.2, ,30.9,25.0,96,66,2.33,16.75
+Totals:,,103.2,144.6, ,,,,,, 

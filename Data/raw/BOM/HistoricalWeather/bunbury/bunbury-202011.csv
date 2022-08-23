@@ -1,0 +1,38 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUNBURY Western Australia for November 2020,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 December 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUNBURY,01/11/2020,2.0,0.0, ,17.6,13.5,95,62,1.94,8.36
+BUNBURY,02/11/2020,2.8,0.0, ,19.7,12.3,92,62,2.38,14.57
+BUNBURY,03/11/2020,4.3,0.0, ,21.4,13.0,93,52,3.48,24.08
+BUNBURY,04/11/2020,5.0, , ,24.0,9.2,91,36,3.64,23.95
+BUNBURY,05/11/2020,6.9, , ,27.7,12.3,65,32,4.83,28.30
+BUNBURY,06/11/2020,7.1, , ,27.1,13.8,70,34,5.87,28.71
+BUNBURY,07/11/2020,5.5, , ,26.3,11.0,86,45,2.94,29.05
+BUNBURY,08/11/2020,4.2, , ,21.7,10.6,97,62,2.02,26.51
+BUNBURY,09/11/2020,2.0, , ,17.9,13.9,98,64,4.97,5.98
+BUNBURY,10/11/2020,4.9, , ,19.1,8.7,87,41,5.61,27.81
+BUNBURY,11/11/2020, , , , ,9.1, , , ,18.33
+BUNBURY,18/11/2020, , , , , , , , ,25.14
+BUNBURY,19/11/2020, , , , , , , , ,29.20
+BUNBURY,20/11/2020, , , ,22.6, ,93,59,2.52,22.88
+BUNBURY,21/11/2020,4.8, , ,21.8,9.4,95,52,3.48,29.39
+BUNBURY,22/11/2020,5.7,0.0, ,25.1,9.6,88,42,3.38,30.77
+BUNBURY,23/11/2020,6.6,0.0, ,29.8,10.9,85,20,2.56,30.86
+BUNBURY,24/11/2020,6.5,0.0, ,27.1,12.9,83,34,3.86,30.94
+BUNBURY,25/11/2020,5.6,0.0, ,23.4,14.6,88,43,4.44,28.80
+BUNBURY,26/11/2020,5.5,0.0, ,22.1,12.8,71,50,4.24,30.23
+BUNBURY,27/11/2020,4.2,0.0, ,21.2,9.3,90,51,2.52,24.66
+BUNBURY,28/11/2020,5.0,0.0, ,20.5,8.2,90,42,3.46,30.93
+BUNBURY,29/11/2020,3.1,0.0, ,20.0,9.4,84,56,3.11,14.37
+BUNBURY,30/11/2020,5.2,3.0, ,18.3,11.5,87,40,6.47,29.72
+Totals:,,96.9,3, ,,,,,, 

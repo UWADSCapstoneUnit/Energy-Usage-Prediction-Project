@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for October 2018,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 November 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/10/2018,2.8,0.8, ,17.1,10.0,90,50,4.79,11.35
+KATANNING,02/10/2018,2.2,9.8, ,15.7,9.0,90,70,4.74,12.13
+KATANNING,03/10/2018,3.0,1.2, ,17.1,7.6,89,54,6.16,12.85
+KATANNING,04/10/2018,1.6,12.8, ,15.1,9.6,90,78,4.18,6.67
+KATANNING,05/10/2018,3.4,1.4, ,21.3,12.4,91,51,2.86,17.72
+KATANNING,06/10/2018,2.7,0.0, ,18.7,12.1,89,59,2.68,13.34
+KATANNING,07/10/2018,2.8,0.0, ,19.1,10.4,90,57,3.25,13.94
+KATANNING,08/10/2018,3.2,0.0, ,19.5,10.5,89,53,3.25,17.04
+KATANNING,09/10/2018,4.9,0.0, ,24.1,10.2,89,36,3.92,23.56
+KATANNING,10/10/2018,4.2,0.0, ,22.4,10.5,82,37,3.95,16.42
+KATANNING,11/10/2018,4.5,0.0, ,25.3,9.3,89,32,2.79,20.24
+KATANNING,12/10/2018,1.8,0.0, ,17.5,10.7,89,69,2.71,7.07
+KATANNING,13/10/2018,4.3,0.2, ,21.4,11.4,89,36,4.81,17.23
+KATANNING,14/10/2018,3.3,3.0, ,19.2,7.7,90,49,3.18,17.86
+KATANNING,15/10/2018,4.2,0.2, ,20.4,7.8,91,38,2.92,24.30
+KATANNING,16/10/2018,4.7,0.0, ,25.7,6.3,91,27,2.06,25.17
+KATANNING,17/10/2018,8.5,0.0, ,32.2,8.3,89,13,5.72,25.08
+KATANNING,18/10/2018, , , , ,11.0,87,35,5.59,17.33
+KATANNING,19/10/2018, , , , , ,88,42,4.11,16.37
+KATANNING,20/10/2018, , , ,19.4, ,89,47,5.37,16.32
+KATANNING,21/10/2018,5.3,0.0, ,21.9,10.8,88,32,7.02,20.45
+KATANNING,22/10/2018,3.8,0.6, ,18.2,8.3,79,38,4.11,16.80
+KATANNING,23/10/2018,3.8,0.0, ,21.9,9.0,79,31,2.24,17.09
+KATANNING,24/10/2018,5.0,0.0, ,23.3,7.5,89,30,3.73,23.66
+KATANNING,25/10/2018,6.0,0.0, ,26.2,9.2,90,33,5.15,25.64
+KATANNING,26/10/2018,5.1,0.0, ,25.0,11.3,86,38,4.47,21.49
+KATANNING,27/10/2018,6.3,0.0, ,25.8,8.7,87,21,4.61,25.99
+KATANNING,28/10/2018,5.4,0.0, ,27.4,8.6,91,21,2.54,25.15
+KATANNING,29/10/2018,5.9,0.0, ,26.7,9.2,92,21,3.91,24.38
+KATANNING,30/10/2018,4.6,0.0, ,21.6,10.8,87,34,4.58,19.00
+KATANNING,31/10/2018,4.5,0.0, ,23.1,7.3,88,26,3.27,18.89
+Totals:,,117.8,30, ,,,,,, 

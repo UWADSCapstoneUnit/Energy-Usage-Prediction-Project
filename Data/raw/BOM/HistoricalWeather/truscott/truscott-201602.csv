@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/02/2016, , , ,29.7, , , , ,3.89
+TRUSCOTT,02/02/2016, ,3.8, ,31.6,25.5, , , ,17.20
+TRUSCOTT,03/02/2016, ,0.4, , ,26.2,94,47,3.17,25.31
+TRUSCOTT,04/02/2016, , , , , ,81,50,3.01,24.73
+TRUSCOTT,05/02/2016, , , ,32.9, ,88,53,3.34,25.51
+TRUSCOTT,06/02/2016,6.4,0.0, ,33.2,26.8,82,54,3.39,25.65
+TRUSCOTT,07/02/2016,6.2,0.0, ,34.8,25.7,88,44,2.42,24.97
+TRUSCOTT,08/02/2016,6.6,0.0, ,35.1,26.6,88,43,2.36,26.86
+TRUSCOTT,09/02/2016,6.2,0.0, ,35.5,26.4,98,48,2.73,24.93
+TRUSCOTT,10/02/2016,6.8,0.0, ,35.0,27.2,96,43,3.91,25.13
+TRUSCOTT,11/02/2016, ,21.0, , ,23.1,94,51,4.42,22.65
+TRUSCOTT,12/02/2016, , , ,33.6, , , , ,24.37
+TRUSCOTT,13/02/2016,6.2,1.6, ,35.0,25.2,93,48,2.39,25.51
+TRUSCOTT,14/02/2016,6.8,0.0, ,35.2,26.1,94,42,2.90,27.10
+TRUSCOTT,15/02/2016,6.6,0.0, ,34.3,28.1,95,52,3.37,26.45
+TRUSCOTT,16/02/2016,6.8,0.0, ,35.3,24.8,86,42,3.17,26.15
+TRUSCOTT,17/02/2016,6.1,0.0, ,35.1,29.2,88,50,3.95,20.48
+TRUSCOTT,18/02/2016,6.1,1.6, ,34.0,25.9,96,55,3.59,24.75
+TRUSCOTT,19/02/2016,6.5,0.0, ,34.4,28.2,83,54,3.64,24.29
+TRUSCOTT,20/02/2016,7.1,0.0, ,35.4,27.1,89,41,3.50,26.31
+TRUSCOTT,21/02/2016,6.9,0.0, ,37.0,27.5,83,37,3.12,23.77
+TRUSCOTT,22/02/2016,7.1,0.0, ,36.4,26.9,86,40,3.08,26.43
+TRUSCOTT,23/02/2016,6.2,0.0, ,34.5,26.3,85,57,2.55,25.73
+TRUSCOTT,24/02/2016,6.0,0.0, ,35.4,26.5,93,50,3.05,22.70
+TRUSCOTT,25/02/2016,5.7,0.0, ,34.3,26.7,86,50,2.84,21.70
+TRUSCOTT,26/02/2016,4.4,0.0, ,36.3,27.8,99,49,2.65,14.12
+TRUSCOTT,27/02/2016, ,7.8, , ,25.3,93,48,2.18,22.21
+TRUSCOTT,28/02/2016, , , ,34.8, ,97,54,1.76,17.76
+TRUSCOTT,29/02/2016, ,1.0, , ,25.7, , , ,26.56
+Totals:,,120.7,37.2, ,,,,,, 

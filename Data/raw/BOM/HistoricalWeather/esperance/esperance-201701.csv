@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for January 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 February 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/01/2017,5.0,0.0, ,21.2,14.3,93,50,5.25,27.90
+ESPERANCE,02/01/2017,7.8,0.0, ,28.5,15.6,79,31,6.05,30.88
+ESPERANCE,03/01/2017,7.3,0.0, ,29.6,12.8,91,33,4.66,31.77
+ESPERANCE,04/01/2017,6.6,0.4, ,28.1,13.2,96,43,5.13,31.62
+ESPERANCE,05/01/2017,13.5,0.0, ,42.6,15.4,84,7,6.50,31.40
+ESPERANCE,06/01/2017,7.0,0.0, ,25.1,16.3,91,26,5.48,31.43
+ESPERANCE,07/01/2017,5.1,0.0, ,22.5,16.2,86,50,5.85,24.55
+ESPERANCE,08/01/2017,4.3,0.0, ,21.9,17.0,84,59,3.81,21.24
+ESPERANCE,09/01/2017, ,0.0, , ,13.3,100,50,3.98,30.79
+ESPERANCE,10/01/2017, , , ,24.3, ,94,55,4.77,31.08
+ESPERANCE,11/01/2017, ,0.0, , ,14.4,94,24,4.91,30.99
+ESPERANCE,12/01/2017, , , ,23.3, ,85,38,7.16,23.13
+ESPERANCE,13/01/2017,5.0,0.0, ,21.0,16.5,73,43,4.81,21.55
+ESPERANCE,14/01/2017,6.8,0.0, ,28.9,10.8,89,37,4.71,29.95
+ESPERANCE,15/01/2017,10.4,0.0, ,37.7,16.1,80,11,5.27,29.88
+ESPERANCE,16/01/2017,3.2,0.0, ,20.5,17.5,89,64,5.51,13.23
+ESPERANCE,17/01/2017,5.4,2.2, ,21.2,16.1,90,44,6.38,27.62
+ESPERANCE,18/01/2017,7.1,0.0, ,27.7,14.4,74,30,4.78,29.90
+ESPERANCE,19/01/2017,3.5,2.6, ,22.6,16.8,93,64,6.47,14.31
+ESPERANCE,20/01/2017,4.8,0.0, ,25.3,15.9,85,57,4.69,21.54
+ESPERANCE,21/01/2017,7.3,0.0, ,30.2,14.0,94,32,4.85,30.23
+ESPERANCE,22/01/2017,5.9,0.0, ,26.8,16.4,86,44,4.91,25.48
+ESPERANCE,23/01/2017,4.6,0.0, ,21.3,15.1,76,46,4.81,18.57
+ESPERANCE,24/01/2017,5.9,0.0, ,24.7,9.7,90,38,4.78,29.78
+ESPERANCE,25/01/2017,6.8,0.0, ,28.1,13.2,85,32,4.50,29.68
+ESPERANCE,26/01/2017,9.3,0.0, ,35.5,13.8,88,11,4.76,29.61
+ESPERANCE,27/01/2017,9.6,0.0, ,35.2,20.2,79,20,6.33,26.78
+ESPERANCE,28/01/2017,5.8,0.0, ,25.8,17.9,87,57,6.26,28.70
+ESPERANCE,29/01/2017,2.8,0.0, ,28.2,20.0,100,64,4.09,8.39
+ESPERANCE,30/01/2017,3.4,23.6, ,20.7,15.9,93,52,5.09,12.34
+ESPERANCE,31/01/2017,2.1,0.0, ,20.3,15.4,93,66,3.57,5.97
+Totals:,,166.3,28.8, ,,,,,, 

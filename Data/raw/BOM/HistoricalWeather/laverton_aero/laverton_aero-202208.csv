@@ -1,0 +1,36 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAVERTON AERO Western Australia for August 2022,,,,,,,,,,
+Issued at 06:30 GMT on Tuesday 23 August 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAVERTON AERO,01/08/2022,3.9,0.0, ,19.6,8.8,80,32,6.95,7.33
+LAVERTON AERO,02/08/2022,4.2,1.6, ,18.7,13.6,85,36,9.29,14.52
+LAVERTON AERO,03/08/2022,3.3,1.2, ,17.6,8.7,93,44,8.32,11.82
+LAVERTON AERO,04/08/2022,2.7,0.2, ,16.2,7.4,95,42,5.67,11.45
+LAVERTON AERO,05/08/2022,2.4,0.0, ,15.1,1.9,99,31,2.97,15.94
+LAVERTON AERO,06/08/2022,2.2,0.0, ,17.6,0.2,75,21,1.28,16.18
+LAVERTON AERO,07/08/2022,3.6,0.0, ,22.0,1.8,61,15,2.66,16.29
+LAVERTON AERO,08/08/2022,4.5,0.0, ,24.8,3.5,48,7,3.40,8.68
+LAVERTON AERO,09/08/2022,4.2,0.0, ,17.7,5.2,65,25,6.29,13.65
+LAVERTON AERO,10/08/2022,3.4,0.0, ,15.8,3.2,85,23,4.88,16.63
+LAVERTON AERO,11/08/2022,2.5,0.0, ,16.1,0.2,72,43,2.71,16.73
+LAVERTON AERO,12/08/2022,3.4,0.0, ,18.9,4.0,83,30,3.85,16.85
+LAVERTON AERO,13/08/2022,5.6,0.0, ,23.8,8.9,53,16,5.58,16.96
+LAVERTON AERO,14/08/2022,3.9,0.0, ,22.9,10.7,80,24,3.52,17.08
+LAVERTON AERO,15/08/2022,6.0,0.0, ,26.2,11.1,50,24,5.93,16.91
+LAVERTON AERO,16/08/2022,8.3,0.0, ,31.9,16.2,68,19,8.52,13.71
+LAVERTON AERO,17/08/2022,4.3,1.6, ,21.1,13.3,100,31,7.59,16.23
+LAVERTON AERO,18/08/2022,2.9,0.8, ,15.7,7.8,97,39,4.70,16.81
+LAVERTON AERO,19/08/2022,3.4,0.2, ,19.6,4.2,81,18,2.72,17.66
+LAVERTON AERO,20/08/2022,4.7,0.0, ,23.4,7.5,65,14,3.94,17.90
+LAVERTON AERO,21/08/2022,5.5,0.0, ,26.6,8.7,40,10,3.80,18.02
+LAVERTON AERO,22/08/2022,4.4,0.0, ,18.5,10.3,73,24,5.98,16.18
+Totals:,,89.3,5.6, ,,,,,, 

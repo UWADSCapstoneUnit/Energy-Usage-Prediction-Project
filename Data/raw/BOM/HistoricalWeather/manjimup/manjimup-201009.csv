@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANJIMUP Western Australia for September 2010,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 October 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANJIMUP,01/09/2010,2.0,3.8, ,13.6,5.2,99,64,3.19,16.20
+MANJIMUP,02/09/2010, ,1.4, , ,6.4,100,72,1.69,13.83
+MANJIMUP,03/09/2010, , , ,16.0, ,100,62,2.80,15.22
+MANJIMUP,04/09/2010,2.3,1.8, ,16.2,6.8,100,56,3.25,16.09
+MANJIMUP,05/09/2010,2.0,0.0, ,16.0,4.7,100,56,2.10,13.55
+MANJIMUP,06/09/2010,2.3,0.2, ,17.8,5.7,100,55,3.60,11.95
+MANJIMUP,07/09/2010,1.8,0.4, ,16.4,9.8,100,69,5.85,8.61
+MANJIMUP,08/09/2010,2.2,24.4, ,14.1,3.8,99,64,5.76,17.60
+MANJIMUP,09/09/2010,2.0,6.8, ,13.4,5.4,99,63,2.86,16.02
+MANJIMUP,10/09/2010,1.5,0.8, ,12.8,3.7,100,67,2.55,9.86
+MANJIMUP,11/09/2010,2.5,0.0, ,16.1,8.6,97,56,5.01,14.01
+MANJIMUP,12/09/2010,2.3,7.4, ,12.1,5.0,97,58,5.93,16.49
+MANJIMUP,13/09/2010,2.1,1.4, ,14.6,4.4,99,51,2.44,14.02
+MANJIMUP,14/09/2010,2.3,0.0, ,14.9,3.8,100,53,2.60,15.86
+MANJIMUP,15/09/2010,1.8,0.2, ,17.3,4.3,100,39,2.66,1.00
+MANJIMUP,16/09/2010,3.2,0.0, ,18.5,5.9,96,50,4.58,19.08
+MANJIMUP,17/09/2010, ,0.0, ,17.6,5.0,94,47,3.81, 
+MANJIMUP,18/09/2010,2.9,0.0, ,16.3,5.9,91,49,3.54,17.64
+MANJIMUP,19/09/2010,3.6,0.0, ,19.9,3.9,96,43,3.39,22.84
+MANJIMUP,20/09/2010,3.9,0.0, ,21.6,5.8,96,34,2.77,23.23
+MANJIMUP,21/09/2010,4.3,0.0, ,23.2,5.7,97,25,2.80,23.33
+MANJIMUP,22/09/2010,4.4,0.0, ,24.5,6.3,89,23,2.46,23.42
+MANJIMUP,23/09/2010,5.6,0.0, ,25.7,8.5,74,22,4.20,22.86
+MANJIMUP,24/09/2010,3.1,0.0, ,21.1,10.9,96,58,3.87,16.73
+MANJIMUP,25/09/2010,4.0,0.0, ,22.5,4.8,100,38,2.93,23.98
+MANJIMUP,26/09/2010,3.1,0.0, ,19.9,7.8,98,52,3.62,17.25
+MANJIMUP,27/09/2010,2.4,1.4, ,16.2,8.9,100,60,3.21,14.47
+MANJIMUP,28/09/2010,3.9,0.0, ,21.1,4.8,94,41,2.84,24.76
+MANJIMUP,29/09/2010,4.1,0.0, ,23.4,6.7,89,37,3.22,20.49
+MANJIMUP,30/09/2010,4.9,0.0, ,25.1,10.7,92,36,4.02,23.60
+Totals:,,80.5,50, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/11/2016,5.3,0.0, ,24.0,8.8,82,25,3.06,26.18
+WANDERING,02/11/2016,6.1,0.0, ,30.5,3.4,94,18,2.44,27.08
+WANDERING,03/11/2016,5.9,0.0, ,28.4,5.7,96,19,2.56,27.64
+WANDERING,04/11/2016,5.1,0.0, ,28.1,11.1,97,31,2.59,22.34
+WANDERING,05/11/2016,7.0,0.0, ,36.0,9.6,95,15,2.34,27.69
+WANDERING,06/11/2016,6.0,0.0, ,28.6,11.3,90,35,3.82,25.90
+WANDERING,07/11/2016,4.7,0.0, ,22.9,2.3,96,27,2.22,27.16
+WANDERING,08/11/2016,5.7,0.0, ,26.2,4.5,92,24,3.02,27.40
+WANDERING,09/11/2016,3.4,0.0, ,21.0,11.0,90,40,3.47,12.08
+WANDERING,10/11/2016,3.8,0.0, ,22.2,2.9,97,42,2.94,18.30
+WANDERING,11/11/2016,3.7,0.4, ,20.7,4.3,98,37,2.92,17.44
+WANDERING,12/11/2016,4.9,0.0, ,24.3,0.7,95,33,2.79,25.61
+WANDERING,13/11/2016,5.7,0.0, ,29.5,3.7,95,15,1.81,28.00
+WANDERING,14/11/2016,7.7,0.0, ,34.6,7.8,75,8,2.95,27.88
+WANDERING,15/11/2016,10.6,0.0, ,38.3,16.2,82,8,5.50,27.79
+WANDERING,16/11/2016,3.3,0.0, ,21.9,15.6,90,50,3.55,12.13
+WANDERING,17/11/2016,4.9,15.2, ,23.5,4.5,97,25,1.98,28.32
+WANDERING,18/11/2016,5.9,0.0, ,29.4,5.7,95,16,2.13,28.20
+WANDERING,19/11/2016,6.7,0.0, ,32.8,6.7,94,17,2.39,28.33
+WANDERING,20/11/2016,5.5,0.0, ,23.9,13.5,79,29,3.87,23.33
+WANDERING,21/11/2016,4.8,0.0, ,23.0,3.0,93,24,2.11,26.58
+WANDERING,22/11/2016,6.2,0.0, ,27.5,9.7,81,19,2.86,28.43
+WANDERING,23/11/2016,7.3,0.0, ,31.6,7.9,87,16,3.44,28.32
+WANDERING,24/11/2016,7.9,0.0, ,32.3,9.1,81,18,4.16,28.18
+WANDERING,25/11/2016,7.3,0.0, ,33.5,10.5,83,13,2.80,28.27
+WANDERING,26/11/2016,7.6,0.0, ,36.3,10.0,74,9,2.47,28.13
+WANDERING,27/11/2016,7.9,0.0, ,35.9,9.7,72,12,2.94,28.14
+WANDERING,28/11/2016,7.3,0.0, ,32.9,10.2,88,21,3.31,28.15
+WANDERING,29/11/2016,6.0,0.0, ,25.4,11.8,82,36,5.11,25.26
+WANDERING,30/11/2016,6.2,0.0, ,28.8,8.3,90,26,3.06,27.02
+Totals:,,180.4,15.6, ,,,,,, 

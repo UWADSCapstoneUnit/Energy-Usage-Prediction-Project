@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for May 2022,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 June 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/05/2022,2.9, , ,32.7,23.7,95,61,0.89,12.55
+KALUMBURU,02/05/2022,5.2,2.0, ,35.1,22.7,96,31,2.06,21.86
+KALUMBURU,03/05/2022,4.8,0.0, ,36.0,19.6,94,29,1.46,21.60
+KALUMBURU,04/05/2022,4.6,0.0, ,36.2,19.4,94,31,1.29,21.46
+KALUMBURU,05/05/2022,4.6,0.0, ,35.7,19.9,95,34,1.49,20.89
+KALUMBURU,06/05/2022,5.3,0.0, ,33.5,22.4,91,31,2.63,21.60
+KALUMBURU,07/05/2022,5.3,0.0, ,32.6,21.6,74,25,2.67,19.69
+KALUMBURU,08/05/2022,5.5,0.0, ,33.9,19.4,79,22,2.51,21.47
+KALUMBURU,09/05/2022,5.0,0.0, ,34.6,15.8,92,20,1.95,21.36
+KALUMBURU,10/05/2022, ,0.0, , ,15.3,92,16,1.75,21.24
+KALUMBURU,11/05/2022,4.3, , ,35.1,15.3,95,22,1.19,21.05
+KALUMBURU,12/05/2022,4.4,0.0, ,34.7,17.8,94,28,1.40,20.90
+KALUMBURU,13/05/2022,4.3,0.0, ,33.4,18.3,96,45,1.50,21.02
+KALUMBURU,14/05/2022,4.3,0.0, ,33.7,19.6,95,47,1.52,20.87
+KALUMBURU,15/05/2022,4.4,0.0, ,35.2,20.4,95,34,1.31,20.87
+KALUMBURU,16/05/2022,4.5,0.0, ,35.6,20.8,95,43,1.44,20.79
+KALUMBURU,17/05/2022, ,0.0, , ,20.4,95,40,1.44,20.60
+KALUMBURU,18/05/2022,4.5, , ,34.6,20.8,95,42,1.77,20.36
+KALUMBURU,19/05/2022,4.5,0.0, ,36.4,21.3,96,32,1.46,20.36
+KALUMBURU,20/05/2022,5.0,0.0, ,36.1,18.5,96,25,2.04,20.54
+KALUMBURU,21/05/2022,4.8,0.0, ,35.3,17.3,93,31,2.01,20.32
+KALUMBURU,22/05/2022,4.9,0.0, ,34.5,16.7,94,21,2.10,20.39
+KALUMBURU,23/05/2022,4.8,0.0, ,34.6,15.0,92,22,2.04,20.31
+KALUMBURU,24/05/2022,4.5,0.0, ,35.6,15.7,91,24,1.61,20.25
+KALUMBURU,25/05/2022,4.4,0.0, ,35.8,17.7,94,27,1.43,20.21
+KALUMBURU,26/05/2022,4.5,0.0, ,34.9,17.1,96,25,1.71,20.10
+KALUMBURU,27/05/2022,4.6,0.0, ,34.1,14.6,93,24,1.97,19.91
+KALUMBURU,28/05/2022,4.3,0.0, ,34.2,13.6,95,23,1.57,19.93
+KALUMBURU,29/05/2022,4.1,0.0, ,33.2,13.9,96,31,1.61,19.96
+KALUMBURU,30/05/2022, ,0.0, , ,17.4,96,37,1.76,19.39
+KALUMBURU,31/05/2022, , , ,33.4, ,95,48,1.82,14.71
+Totals:,,124.3,2, ,,,,,, 

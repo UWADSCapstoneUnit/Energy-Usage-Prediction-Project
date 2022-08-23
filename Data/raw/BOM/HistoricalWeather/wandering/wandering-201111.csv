@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for November 2011,,,,,,,,,,
+Issued at 22:35 GMT on Thursday 01 December 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/11/2011,6.0,0.0, ,27.4,10.5,85,33,3.35,28.62
+WANDERING,02/11/2011,5.7,0.0, ,30.3,11.1,88,31,2.88,23.78
+WANDERING,03/11/2011,4.5,0.4, ,28.3,18.4,93,43,3.40,16.70
+WANDERING,04/11/2011,4.6,11.6, ,22.7,15.4,94,48,3.07,24.07
+WANDERING,05/11/2011,3.1,0.0, ,19.9,8.7,94,63,3.19,17.08
+WANDERING,06/11/2011,4.2,3.4, ,20.9,12.8,94,44,2.90,22.38
+WANDERING,07/11/2011,5.2,0.2, ,21.9,7.3,94,40,4.86,28.54
+WANDERING,08/11/2011,4.4,11.8, ,17.9,12.4,89,46,4.38,25.74
+WANDERING,09/11/2011,4.4,0.4, ,20.9,5.2,94,38,2.57,26.14
+WANDERING,10/11/2011,5.1,0.0, ,23.7,7.0,94,34,2.50,29.41
+WANDERING,11/11/2011,5.4,0.0, ,25.3,9.2,94,32,2.50,29.00
+WANDERING,12/11/2011,5.5,0.0, ,24.3,8.7,93,33,2.71,30.80
+WANDERING,13/11/2011,4.9,0.0, ,23.3,11.3,85,45,3.23,25.57
+WANDERING,14/11/2011,5.1,0.0, ,23.7,13.3,85,49,3.10,27.89
+WANDERING,15/11/2011,5.7,0.4, ,24.7,6.6,91,21,1.95,32.67
+WANDERING,16/11/2011,5.7,0.0, ,26.3,7.3,90,18,2.34,29.04
+WANDERING,17/11/2011,4.5,0.0, ,23.0,13.4,88,56,3.94,23.71
+WANDERING,18/11/2011,4.9,2.4, ,21.9,9.2,93,33,2.32,28.28
+WANDERING,19/11/2011,5.8,0.0, ,23.4,4.0,92,25,2.96,32.79
+WANDERING,20/11/2011,6.7,0.0, ,26.6,6.3,88,18,3.37,32.95
+WANDERING,21/11/2011,7.0,0.0, ,27.4,7.2,91,21,3.83,32.87
+WANDERING,22/11/2011,7.2,0.0, ,29.7,12.2,81,16,2.80,33.27
+WANDERING,23/11/2011,8.8,0.0, ,33.7,13.8,50,11,3.54,33.36
+WANDERING,24/11/2011,10.1,0.0, ,35.1,16.4,56,11,4.99,31.96
+WANDERING,25/11/2011,7.2,0.0, ,32.6,12.4,79,30,2.82,32.19
+WANDERING,26/11/2011,5.5,0.0, ,23.2,16.1,74,46,5.05,24.79
+WANDERING,27/11/2011,5.8,0.0, ,23.7,8.8,78,29,3.53,28.86
+WANDERING,28/11/2011,5.6,0.0, ,22.7,8.1,84,27,3.30,29.24
+WANDERING,29/11/2011,6.5,0.0, ,22.7,9.6,86,24,4.93,33.18
+WANDERING,30/11/2011,7.0,0.0, ,25.7,4.3,83,16,3.76,34.06
+Totals:,,172.1,30.6, ,,,,,, 

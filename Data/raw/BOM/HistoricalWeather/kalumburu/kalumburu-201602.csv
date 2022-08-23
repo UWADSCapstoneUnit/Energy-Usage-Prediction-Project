@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/02/2016,2.0,25.2, ,30.5,24.9,90,71,1.99,5.54
+KALUMBURU,02/02/2016,3.1,1.4, ,33.1,25.4,90,60,1.14,11.57
+KALUMBURU,03/02/2016,6.0,0.6, ,34.6,24.9,91,36,1.64,25.65
+KALUMBURU,04/02/2016,5.9,0.0, ,35.0,24.6,90,41,1.62,25.49
+KALUMBURU,05/02/2016,6.0,0.0, ,34.9,24.4,90,48,2.02,25.22
+KALUMBURU,06/02/2016,5.5,0.0, ,34.9,25.0,89,47,1.88,22.53
+KALUMBURU,07/02/2016,5.4,5.4, ,36.1,24.1,90,49,1.56,22.57
+KALUMBURU,08/02/2016,6.5,0.2, ,37.6,24.0,90,31,1.68,27.09
+KALUMBURU,09/02/2016,6.4,0.0, ,37.3,24.6,90,34,1.72,26.49
+KALUMBURU,10/02/2016,7.2,0.0, ,38.7,25.8,88,32,3.04,24.32
+KALUMBURU,11/02/2016,5.7,18.6, ,37.9,23.4,88,41,2.13,20.59
+KALUMBURU,12/02/2016,5.1,4.4, ,35.6,24.2,89,53,1.79,20.46
+KALUMBURU,13/02/2016,5.6,10.0, ,36.6,23.7,90,41,1.46,23.60
+KALUMBURU,14/02/2016,6.4,0.0, ,37.1,24.5,89,36,1.60,27.27
+KALUMBURU,15/02/2016,6.6,0.0, ,36.4,25.6,90,32,2.02,26.69
+KALUMBURU,16/02/2016,6.4,0.0, ,37.3,22.9,90,38,1.90,26.50
+KALUMBURU,17/02/2016,6.4,0.0, ,37.1,27.1,87,37,2.19,24.02
+KALUMBURU,18/02/2016,6.0,0.0, ,35.8,23.9,90,47,2.18,24.75
+KALUMBURU,19/02/2016,5.8,0.0, ,36.0,24.6,90,42,2.02,23.14
+KALUMBURU,20/02/2016,6.3,0.0, ,36.6,25.0,90,40,1.82,26.40
+KALUMBURU,21/02/2016,6.6,0.0, ,38.0,25.2,87,37,1.93,26.07
+KALUMBURU,22/02/2016,6.7,0.0, ,37.4,25.2,81,39,2.41,25.64
+KALUMBURU,23/02/2016,6.3,0.0, ,35.6,23.8,89,36,2.05,25.98
+KALUMBURU,24/02/2016,5.7,0.0, ,37.6,23.2,86,42,1.88,22.11
+KALUMBURU,25/02/2016,5.5,0.6, ,36.3,25.5,87,41,2.05,20.59
+KALUMBURU,26/02/2016,3.8,0.0, ,37.5,26.0,89,40,1.69,10.90
+KALUMBURU,27/02/2016,4.3,18.2, ,34.4,24.5,89,51,1.06,18.25
+KALUMBURU,28/02/2016,5.4,3.4, ,35.2,25.5,89,53,1.63,23.00
+KALUMBURU,29/02/2016,6.4,4.6, ,36.5,24.4,90,45,2.11,26.89
+Totals:,,165,92.6, ,,,,,, 

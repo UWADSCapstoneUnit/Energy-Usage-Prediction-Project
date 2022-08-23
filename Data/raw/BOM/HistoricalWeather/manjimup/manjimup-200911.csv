@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANJIMUP Western Australia for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANJIMUP,01/11/2009,4.7,0.6, ,18.5,4.6,87,42,5.35,30.08
+MANJIMUP,02/11/2009,5.2,0.0, ,20.7,6.0,89,37,4.23,31.09
+MANJIMUP,03/11/2009,5.9,0.0, ,25.1,5.2,93,34,3.60,31.64
+MANJIMUP,04/11/2009,5.7,0.0, ,27.5,8.9,93,31,3.68,24.63
+MANJIMUP,05/11/2009,5.7,0.0, ,29.6,14.5,80,32,3.30,21.17
+MANJIMUP,06/11/2009,4.5,1.8, ,25.8,16.3,92,51,5.39,17.02
+MANJIMUP,07/11/2009,4.2,2.0, ,22.0,12.5,96,54,3.94,22.42
+MANJIMUP,08/11/2009,5.1,0.0, ,22.6,11.2,98,46,3.90,29.22
+MANJIMUP,09/11/2009,5.7,0.0, ,26.6,8.1,95,40,3.16,30.45
+MANJIMUP,10/11/2009,6.5,0.0, ,30.6,11.5,94,40,3.53,29.87
+MANJIMUP,11/11/2009,6.7,0.0, ,30.5,14.9,94,32,3.45,29.37
+MANJIMUP,12/11/2009, ,6.6, ,24.2,17.6,97,72,4.40, 
+MANJIMUP,13/11/2009,5.1,15.0, ,23.3,15.7,97,48,6.19,25.13
+MANJIMUP,14/11/2009,4.9,0.4, ,22.6,12.7,95,58,5.29,29.15
+MANJIMUP,15/11/2009,5.7,0.0, ,26.5,10.7,99,44,2.92,30.99
+MANJIMUP,16/11/2009, ,0.2, ,24.0,12.9,98,57,3.38, 
+MANJIMUP,17/11/2009, ,0.0, ,22.5,11.3,99,52,3.50, 
+MANJIMUP,18/11/2009, ,14.0, ,19.9,11.4,95,41,6.35, 
+MANJIMUP,19/11/2009, ,9.2, ,14.6,10.8,97,82,7.33, 
+MANJIMUP,20/11/2009, ,10.4, ,16.0,9.2,97,60,3.94, 
+MANJIMUP,21/11/2009, ,0.0, ,17.9,8.3,96,65,3.06, 
+MANJIMUP,22/11/2009, ,1.0, ,25.4,6.6,99,25,2.95, 
+MANJIMUP,23/11/2009, ,0.2, ,30.1,10.1,94,21,3.54, 
+MANJIMUP,24/11/2009, ,0.0, ,32.5,11.8,99,10,6.20, 
+MANJIMUP,25/11/2009, ,1.0, ,20.5,14.3,93,53,5.32, 
+MANJIMUP,26/11/2009, ,1.8, ,15.5,7.8,96,49,4.90, 
+MANJIMUP,27/11/2009, ,0.0, ,16.3,9.6,91,56,3.31, 
+MANJIMUP,28/11/2009,6.5,0.0, ,26.9,6.5,96,26,3.08,33.58
+MANJIMUP,29/11/2009,5.6,0.0, ,22.9,11.1,94,54,4.13,33.84
+MANJIMUP,30/11/2009,6.1,0.0, ,25.5,8.8,99,40,3.22,34.22
+Totals:,,93.8,64.2, ,,,,,, 

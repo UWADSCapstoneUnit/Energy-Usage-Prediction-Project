@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANJIMUP Western Australia for July 2020,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 30 July 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANJIMUP,01/07/2020, , , , , , , , ,8.38
+MANJIMUP,02/07/2020, , , , , , , , ,8.34
+MANJIMUP,03/07/2020, , , , , , , , ,11.04
+MANJIMUP,04/07/2020, , , , , , , , ,10.71
+MANJIMUP,05/07/2020, , , , , , , , ,3.74
+MANJIMUP,06/07/2020, , , , , , , , ,7.95
+MANJIMUP,07/07/2020, , , , , , , , ,8.74
+MANJIMUP,08/07/2020, , , , , , , , ,9.27
+MANJIMUP,09/07/2020, , , , , , , , ,9.51
+MANJIMUP,10/07/2020, , , , , , , , ,10.86
+MANJIMUP,11/07/2020, , , , , , , , ,11.44
+MANJIMUP,12/07/2020, , , , , , , , ,11.48
+MANJIMUP,13/07/2020, , , , , , , , ,9.49
+MANJIMUP,14/07/2020, , , , , , , , ,10.64
+MANJIMUP,15/07/2020, , , ,15.7, , , , ,10.45
+MANJIMUP,16/07/2020,1.5,3.4, ,16.9,9.9,99,70,5.32,8.91
+MANJIMUP,17/07/2020,1.2,3.0, ,11.4,6.3,99,63,4.14,6.55
+MANJIMUP,18/07/2020,1.4,9.2, ,15.7,4.9,99,64,3.55,10.01
+MANJIMUP,19/07/2020,1.1,0.2, ,13.9,7.3,99,68,2.31,8.97
+MANJIMUP,20/07/2020,1.3,0.0, ,14.8,6.0,98,59,2.29,9.63
+MANJIMUP,21/07/2020,2.5,0.2, ,18.4,7.4,86,46,4.53,11.73
+MANJIMUP,22/07/2020,2.7,0.0, ,20.4,8.6,97,53,6.53,11.24
+MANJIMUP,23/07/2020,1.1,10.2, ,13.7,8.7,99,81,4.23,10.02
+MANJIMUP,24/07/2020,1.6,4.2, ,17.5,7.3,99,60,2.54,12.22
+MANJIMUP,25/07/2020,2.4,0.0, ,17.3,6.4,98,47,6.04,7.29
+MANJIMUP,26/07/2020,1.8,8.8, ,18.1,6.0,99,56,2.91,12.62
+MANJIMUP,27/07/2020,2.2,0.0, ,19.7,9.3,97,61,6.65,6.96
+MANJIMUP,28/07/2020,1.5,14.0, ,16.6,8.3,99,67,3.31,11.74
+MANJIMUP,29/07/2020, ,2.6, , ,8.3, , , ,11.77
+Totals:,,22.3,55.8, ,,,,,, 

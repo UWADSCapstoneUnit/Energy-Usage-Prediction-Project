@@ -1,0 +1,26 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SOUTHERN CROSS AIRFIELD Western Australia for November 2017,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SOUTHERN CROSS AIRFIELD,01/11/2017,9.2,0.0, ,34.2,12.7,64,10,5.08,27.26
+SOUTHERN CROSS AIRFIELD,02/11/2017,8.2,0.0, ,29.4,11.8,74,23,6.93,26.99
+SOUTHERN CROSS AIRFIELD,03/11/2017,6.8,0.0, ,27.7,13.4,71,27,4.73,25.90
+SOUTHERN CROSS AIRFIELD,04/11/2017,7.5,0.0, ,29.7,12.9,67,18,4.26,27.75
+SOUTHERN CROSS AIRFIELD,05/11/2017,8.2,0.8, ,28.7,13.6,60,12,5.36,27.86
+SOUTHERN CROSS AIRFIELD,06/11/2017,8.6,0.0, ,29.5,13.7,51,12,5.45,27.93
+SOUTHERN CROSS AIRFIELD,07/11/2017,9.2,0.0, ,32.6,15.9,43,16,5.74,24.85
+SOUTHERN CROSS AIRFIELD,08/11/2017,7.2,0.0, ,29.9,16.1,49,21,4.89,18.67
+SOUTHERN CROSS AIRFIELD,09/11/2017, ,0.0, , ,17.9,100,35,3.88,20.63
+SOUTHERN CROSS AIRFIELD,28/11/2017, ,0.4, , , ,100,100,5.34,20.29
+SOUTHERN CROSS AIRFIELD,29/11/2017, ,0.2, , , ,100,18,5.81,22.28
+SOUTHERN CROSS AIRFIELD,30/11/2017, , , ,24.6, ,66,26,6.71,25.37
+Totals:,,64.9,1.4, ,,,,,, 

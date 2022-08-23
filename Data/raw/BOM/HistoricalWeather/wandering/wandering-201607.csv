@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for July 2016,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 August 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/07/2016,1.2,0.0, ,16.0,-0.5,98,54,1.40,11.72
+WANDERING,02/07/2016,1.2,0.0, ,19.8,-1.0,98,47,1.00,11.42
+WANDERING,03/07/2016,1.1,0.2, ,12.9,0.8,99,67,3.21,7.95
+WANDERING,04/07/2016,1.2,1.0, ,11.6,0.4,98,62,3.10,10.26
+WANDERING,05/07/2016,1.2,0.0, ,13.2,2.2,97,68,2.84,11.07
+WANDERING,06/07/2016,1.0,0.2, ,13.5,-0.6,97,69,1.95,9.98
+WANDERING,07/07/2016,0.9,0.0, ,12.3,3.0,94,79,3.27,7.70
+WANDERING,08/07/2016,1.5,13.2, ,14.2,8.7,95,54,3.03,10.11
+WANDERING,09/07/2016,1.5,2.4, ,13.0,4.3,93,57,3.58,11.08
+WANDERING,10/07/2016,1.5,2.0, ,14.5,4.4,96,56,2.86,11.06
+WANDERING,11/07/2016,1.5,0.6, ,14.9,2.9,98,47,2.46,10.93
+WANDERING,12/07/2016,1.0,0.0, ,11.3,-0.6,97,57,1.56,10.35
+WANDERING,13/07/2016,1.3,0.2, ,13.1,-3.8,96,50,1.97,12.30
+WANDERING,14/07/2016,2.7,0.0, ,16.1,0.1,74,44,5.65,12.04
+WANDERING,15/07/2016,2.4,0.0, ,20.0,8.3,85,52,4.23,12.54
+WANDERING,16/07/2016,1.8,0.0, ,18.5,11.0,96,64,4.41,8.11
+WANDERING,17/07/2016,1.7,22.2, ,16.1,11.0,96,57,3.29,10.50
+WANDERING,18/07/2016,1.3,7.2, ,13.8,4.9,99,57,1.95,12.38
+WANDERING,19/07/2016,1.3,0.2, ,15.0,-1.0,98,54,1.55,12.69
+WANDERING,20/07/2016,1.7,0.0, ,16.4,0.4,97,56,2.94,12.80
+WANDERING,21/07/2016,1.7,11.4, ,13.2,7.3,94,52,3.49,12.31
+WANDERING,22/07/2016,1.2,6.4, ,11.7,1.0,97,58,1.86,10.94
+WANDERING,23/07/2016,1.2,0.2, ,13.1,0.6,97,67,2.54,10.29
+WANDERING,24/07/2016,1.2,0.8, ,11.9,-1.8,97,61,1.83,11.79
+WANDERING,25/07/2016,1.0,0.0, ,12.7,2.4,98,67,1.65,7.30
+WANDERING,26/07/2016,1.6,0.0, ,16.3,2.6,99,58,2.23,12.84
+WANDERING,27/07/2016,1.3,0.2, ,15.7,0.4,98,62,1.75,10.98
+WANDERING,28/07/2016,1.3,0.0, ,18.6,3.7,98,49,0.95,8.52
+WANDERING,29/07/2016,1.8,0.0, ,19.6,4.1,98,67,4.11,9.15
+WANDERING,30/07/2016,2.1,0.6, ,17.1,5.3,90,55,3.80,12.90
+WANDERING,31/07/2016,1.7,6.0, ,12.5,9.5,95,51,3.52,11.08
+Totals:,,45.1,75, ,,,,,, 

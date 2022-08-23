@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANDURAH Western Australia for December 2020,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 January 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANDURAH,01/12/2020,5.6,1.0, ,21.2,10.2,73,35,3.75,30.25
+MANDURAH,02/12/2020,6.2,0.0, ,24.5,13.2,71,39,3.84,31.41
+MANDURAH,03/12/2020,6.4,0.0, ,25.4,14.5,77,43,4.42,31.48
+MANDURAH,04/12/2020,5.5,0.0, ,23.7,16.3,77,52,4.72,26.45
+MANDURAH,05/12/2020,6.0,0.0, ,21.8,15.7,71,43,4.96,29.82
+MANDURAH,06/12/2020,6.3,0.0, ,23.5,13.8,71,41,4.71,31.62
+MANDURAH,07/12/2020,7.8,0.0, ,29.8,15.4,73,25,4.24,31.75
+MANDURAH,08/12/2020,9.8,0.0, ,36.7,18.6,61,13,4.28,31.79
+MANDURAH,09/12/2020,8.7,0.0, ,32.4,19.4,74,30,5.31,31.74
+MANDURAH,10/12/2020,7.0,0.0, ,35.0,21.5,67,26,2.55,25.43
+MANDURAH,11/12/2020,7.6,0.0, ,34.5,24.4,73,31,2.92,29.04
+MANDURAH,12/12/2020,6.4,0.0, ,28.2,21.5,87,56,3.34,31.53
+MANDURAH,13/12/2020,4.9,0.4, ,22.6,17.3,91,48,5.39,22.04
+MANDURAH,14/12/2020, ,0.2, , ,14.3, , , ,30.54
+MANDURAH,15/12/2020, , , , , , , , ,31.02
+MANDURAH,16/12/2020, , , , , , , , ,31.68
+MANDURAH,17/12/2020, , , , , , , , ,30.68
+MANDURAH,20/12/2020, , , , , , , , ,31.85
+MANDURAH,21/12/2020, , , , , , , , ,31.98
+MANDURAH,22/12/2020,8.4, , ,33.1,17.4,56,28,3.99,31.94
+MANDURAH,23/12/2020,9.9,0.0, ,38.6,20.1,51,10,3.75,31.98
+MANDURAH,24/12/2020,8.9,0.0, ,37.4,24.0,54,11,2.92,31.99
+MANDURAH,25/12/2020,8.5,0.0, ,36.0,23.8,63,32,3.62,30.05
+MANDURAH,26/12/2020,7.8,0.0, ,28.2,19.5,71,40,6.62,30.77
+MANDURAH,27/12/2020,8.6,0.0, ,29.1,15.3,64,18,5.49,31.82
+MANDURAH,28/12/2020,8.3,0.0, ,31.7,14.6,55,20,3.94,31.33
+MANDURAH,29/12/2020,9.4,0.0, ,37.0,20.9,40,10,3.57,30.22
+MANDURAH,30/12/2020,8.8,0.0, ,34.0,24.8,87,20,4.34,31.79
+MANDURAH,31/12/2020,6.6,0.0, ,28.6,21.4,89,48,3.40,31.44
+Totals:,,173.4,1.6, ,,,,,, 

@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/02/2020,5.2,0.0, ,23.3,12.1,76,39,3.79,24.53
+ESPERANCE,02/02/2020,4.7,0.0, ,23.0,17.2,70,53,4.21,20.02
+ESPERANCE,03/02/2020,5.5,0.0, ,22.5,17.0,75,48,5.24,25.59
+ESPERANCE,04/02/2020,6.0,0.0, ,25.8,12.1,90,41,5.31,28.77
+ESPERANCE,05/02/2020,7.4,0.0, ,30.7,17.3,79,35,6.00,25.70
+ESPERANCE,06/02/2020,7.3,0.0, ,31.8,17.5,76,32,6.00,19.96
+ESPERANCE,07/02/2020,8.0,0.2, ,35.7,18.1,76,21,5.78,13.97
+ESPERANCE,08/02/2020,10.2,0.0, ,41.4,21.8,78,14,5.79,18.98
+ESPERANCE,09/02/2020,5.1,0.0, ,22.8,18.3,87,48,5.80,23.05
+ESPERANCE,10/02/2020,5.8,0.0, ,22.9,16.1,65,46,5.48,26.06
+ESPERANCE,11/02/2020,2.3, , ,21.7,14.9,96,56,3.72,5.59
+ESPERANCE,12/02/2020,2.7,5.8, ,22.7,16.2,95,65,3.45,11.22
+ESPERANCE,13/02/2020,4.8,0.0, ,24.8,17.4,91,61,4.06,25.40
+ESPERANCE,14/02/2020,5.8,0.0, ,28.3,16.6,94,50,5.23,26.58
+ESPERANCE,15/02/2020,10.5,0.0, ,40.8,18.9,86,17,6.10,23.58
+ESPERANCE,16/02/2020,3.3,5.8, ,22.8,19.0,99,59,4.93,13.63
+ESPERANCE,17/02/2020, ,0.2, , ,17.8,72,43,5.65,22.31
+ESPERANCE,18/02/2020,6.2, , ,23.3,15.9,64,40,6.24,26.12
+ESPERANCE,19/02/2020,6.1,0.0, ,27.4,13.6,76,33,5.16,21.38
+ESPERANCE,20/02/2020,5.5,0.0, ,23.7,15.0,78,47,5.85,25.81
+ESPERANCE,21/02/2020,5.9,0.0, ,27.8,12.7,90,32,5.23,21.30
+ESPERANCE,22/02/2020,6.2,0.0, ,32.0,16.5,80,28,4.58,15.48
+ESPERANCE,23/02/2020,4.7,0.0, ,25.3,19.8,90,64,5.99,23.42
+ESPERANCE,24/02/2020,4.9,0.0, ,25.5,19.5,84,62,6.88,21.03
+ESPERANCE,25/02/2020,3.9,0.0, ,23.7,18.9,92,66,6.44,18.09
+ESPERANCE,26/02/2020,3.6,0.2, ,22.6,17.2,96,59,5.94,15.60
+ESPERANCE,27/02/2020,3.8,0.0, ,23.7,18.0,79,48,5.06,9.62
+ESPERANCE,28/02/2020, ,0.0, , ,16.5,96,66,4.30,2.27
+ESPERANCE,29/02/2020, , , , , ,87,43,6.24,13.95
+Totals:,,145.4,12.2, ,,,,,, 

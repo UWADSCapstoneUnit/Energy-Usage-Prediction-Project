@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for April 2017,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 May 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/04/2017,3.6,0.0, ,24.7,11.6,93,35,2.38,17.89
+ROCKY GULLY,02/04/2017,4.2,0.0, ,27.6,12.7,91,24,2.59,18.46
+ROCKY GULLY,03/04/2017,2.9,0.0, ,22.1,9.8,93,54,2.19,17.27
+ROCKY GULLY,04/04/2017,2.8,0.0, ,23.0,10.1,93,44,1.60,16.61
+ROCKY GULLY,05/04/2017,2.3,0.0, ,21.4,11.8,93,63,2.45,11.52
+ROCKY GULLY,06/04/2017,2.1,0.0, ,17.9,13.5,93,60,2.61,10.08
+ROCKY GULLY,07/04/2017,1.7,1.2, ,16.8,7.1,92,47,1.24,9.52
+ROCKY GULLY,08/04/2017,1.8,0.0, ,18.0,4.6,92,55,1.52,10.78
+ROCKY GULLY,09/04/2017,2.5,0.2, ,21.4,4.6,95,41,1.31,17.24
+ROCKY GULLY,10/04/2017,3.0,0.0, ,24.0,7.6,94,29,1.69,17.08
+ROCKY GULLY,11/04/2017,4.2,0.0, ,28.3,9.9,89,17,2.62,16.92
+ROCKY GULLY,12/04/2017,1.6,0.0, ,18.9,9.6,92,67,1.41,8.51
+ROCKY GULLY,13/04/2017,2.4,2.8, ,21.1,5.0,95,35,1.29,16.44
+ROCKY GULLY,14/04/2017,2.6,0.0, ,22.8,9.3,93,54,2.20,14.68
+ROCKY GULLY,15/04/2017,1.5,0.2, ,18.4,13.0,94,71,2.22,6.45
+ROCKY GULLY,16/04/2017,1.7,0.2, ,18.9,7.9,94,63,1.72,9.10
+ROCKY GULLY,17/04/2017,1.2,0.2, ,15.6,13.1,93,88,1.98,7.19
+ROCKY GULLY,18/04/2017,1.5,1.8, ,19.7,12.6,94,63,1.32,7.35
+ROCKY GULLY,19/04/2017,1.8,0.2, ,21.6,10.4,95,60,1.26,10.49
+ROCKY GULLY,20/04/2017,3.1,0.2, ,26.3,11.5,94,30,2.09,15.25
+ROCKY GULLY,21/04/2017,1.7,0.0, ,21.8,9.1,95,62,1.28,9.52
+ROCKY GULLY,22/04/2017,1.2,0.2, ,17.8,11.7,93,78,2.95,4.33
+ROCKY GULLY,23/04/2017,1.0,3.2, ,15.4,13.7,94,88,2.91,4.84
+ROCKY GULLY,24/04/2017,1.4,1.0, ,18.1,12.5,94,74,1.26,8.42
+ROCKY GULLY,25/04/2017,1.8,0.2, ,19.5,5.9,94,60,1.19,13.55
+ROCKY GULLY,26/04/2017,1.7,0.0, ,20.2,6.7,95,52,1.02,11.96
+ROCKY GULLY,27/04/2017,2.5,0.2, ,24.1,9.9,94,30,1.51,14.43
+ROCKY GULLY,28/04/2017,2.1,0.0, ,23.1,7.4,94,48,1.39,14.25
+ROCKY GULLY,29/04/2017,2.3,0.0, ,24.8,7.7,94,29,1.30,14.16
+ROCKY GULLY,30/04/2017,1.6,0.0, ,17.6,12.5,94,66,2.15,9.42
+Totals:,,65.8,11.8, ,,,,,, 

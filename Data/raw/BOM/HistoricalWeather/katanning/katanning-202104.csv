@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/04/2021, ,0.4, , ,17.0,82,32,3.12,17.55
+KATANNING,02/04/2021, , , ,28.1, ,84,41,3.63,17.84
+KATANNING,03/04/2021,4.4,0.0, ,24.8,14.8,87,44,5.81,15.40
+KATANNING,04/04/2021,4.7,0.0, ,27.3,16.1,82,33,4.60,13.57
+KATANNING,05/04/2021,4.6,0.0, ,30.9,15.9,90,24,2.68,17.73
+KATANNING,06/04/2021,4.2,0.0, ,29.1,14.5,90,23,2.47,17.41
+KATANNING,07/04/2021,2.6,0.0, ,24.3,17.8,85,50,2.57,8.15
+KATANNING,08/04/2021,2.5,6.4, ,18.9,12.7,86,67,5.79,10.05
+KATANNING,09/04/2021,2.7,0.2, ,19.5,11.4,86,57,5.69,8.40
+KATANNING,10/04/2021,4.3,0.0, ,22.9,11.9,83,34,5.19,16.47
+KATANNING,11/04/2021,2.0,0.8, ,16.3,14.1,89,56,5.00,3.17
+KATANNING,12/04/2021,2.2,40.4, ,19.3,13.6,90,70,5.08,9.08
+KATANNING,13/04/2021,2.8,0.0, ,17.8,9.0,86,46,3.76,14.22
+KATANNING,14/04/2021,2.3,0.2, ,18.6,8.0,88,50,2.45,11.75
+KATANNING,15/04/2021,2.5,0.2, ,21.2,8.9,89,43,1.80,14.10
+KATANNING,16/04/2021,2.3,0.2, ,20.9,9.3,90,39,1.32,13.71
+KATANNING,17/04/2021,2.8,0.0, ,22.5,9.1,89,31,1.73,15.59
+KATANNING,18/04/2021,2.9,0.0, ,24.2,8.6,88,27,1.60,16.27
+KATANNING,19/04/2021,3.0,0.0, ,22.5,10.2,86,40,3.04,12.68
+KATANNING,20/04/2021,2.4,0.0, ,20.5,13.3,89,49,2.56,10.59
+KATANNING,21/04/2021,2.8,0.0, ,21.4,7.8,88,43,2.58,15.03
+KATANNING,22/04/2021,2.1,0.0, ,19.2,10.8,88,45,1.89,10.38
+KATANNING,23/04/2021,2.7,0.0, ,23.4,10.1,86,32,2.01,13.04
+KATANNING,24/04/2021,3.7,0.0, ,27.9,12.1,80,21,2.45,14.35
+KATANNING,25/04/2021,3.5,0.0, ,27.5,11.7,73,23,2.15,15.16
+KATANNING,26/04/2021,3.0,0.0, ,28.7,8.9,86,19,1.51,14.17
+KATANNING,27/04/2021,3.1,0.0, ,27.4,14.6,62,22,1.93,11.18
+KATANNING,28/04/2021,2.6,0.0, ,28.0,11.4,88,21,1.24,14.07
+KATANNING,29/04/2021,4.5,0.0, ,26.1,13.2,87,25,5.09,9.98
+KATANNING,30/04/2021,2.5,13.6, ,17.0,8.5,84,41,3.28,13.62
+Totals:,,85.7,62.4, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for October 2018,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 November 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/10/2018,7.2,0.0, ,36.4,20.4,51,16,2.83,24.93
+MARBLE BAR,02/10/2018,7.8,0.0, ,37.8,21.5,43,15,3.09,25.58
+MARBLE BAR,03/10/2018,7.5,0.0, ,39.5,22.6,49,12,2.60,24.67
+MARBLE BAR,04/10/2018,9.6,0.0, ,40.0,26.7,29,12,4.10,25.69
+MARBLE BAR,05/10/2018,9.0,0.0, ,39.5,23.4,40,9,3.62,26.45
+MARBLE BAR,06/10/2018,8.2,0.0, ,39.4,21.7,44,11,3.02,26.18
+MARBLE BAR,07/10/2018,7.5,0.0, ,40.2,20.7,45,11,2.37,26.67
+MARBLE BAR,08/10/2018,8.3,0.0, ,40.4,24.2,27,9,2.88,26.76
+MARBLE BAR,09/10/2018,7.5,0.0, ,41.7,24.4,26,8,2.18,26.58
+MARBLE BAR,10/10/2018,7.2,0.0, ,40.0,24.8,29,10,2.30,23.88
+MARBLE BAR,11/10/2018,8.6,0.0, ,39.8,20.9,41,9,3.21,26.50
+MARBLE BAR,12/10/2018,9.5,0.0, ,40.2,20.7,55,8,3.97,27.23
+MARBLE BAR,13/10/2018,10.5,0.0, ,39.1,23.2,50,10,5.17,27.34
+MARBLE BAR,14/10/2018,9.4,0.0, ,37.5,23.7,65,7,4.36,27.40
+MARBLE BAR,15/10/2018,7.3,0.0, ,35.9,18.9,70,8,2.60,27.49
+MARBLE BAR,16/10/2018,7.6,0.0, ,37.1,18.0,33,7,2.58,27.61
+MARBLE BAR,17/10/2018,7.3,0.0, ,39.1,17.3,26,4,2.14,27.73
+MARBLE BAR,18/10/2018,8.9,0.0, ,38.7,17.7,59,8,3.55,27.82
+MARBLE BAR,19/10/2018,6.9,0.0, ,37.5,18.2,89,9,2.03,27.85
+MARBLE BAR,20/10/2018,8.9,0.0, ,39.2,21.5,38,8,3.32,27.96
+MARBLE BAR,21/10/2018,9.2,0.0, ,42.0,19.0,44,7,3.19,28.07
+MARBLE BAR,22/10/2018,9.9,0.0, ,41.4,24.7,24,6,3.71,28.17
+MARBLE BAR,23/10/2018, , , , ,25.0,21,5,3.97,28.23
+MARBLE BAR,24/10/2018, , , ,41.0, ,31,6,4.88,28.15
+MARBLE BAR,25/10/2018,9.0,0.0, ,34.3,20.9,55,6,4.25,28.48
+MARBLE BAR,26/10/2018,8.2,0.0, ,36.5,16.1,79,10,3.28,28.47
+MARBLE BAR,27/10/2018,7.8,0.0, ,38.3,19.1,75,9,2.56,28.57
+MARBLE BAR,28/10/2018,7.9,0.0, ,40.1,21.5,42,8,2.34,28.66
+MARBLE BAR,29/10/2018,8.8,0.0, ,40.1,25.8,34,10,2.94,28.50
+MARBLE BAR,30/10/2018,7.9,0.0, ,42.4,22.5,49,8,2.10,28.37
+MARBLE BAR,31/10/2018,8.4,0.0, ,42.6,26.8,33,9,2.50,27.89
+Totals:,,241.8,0, ,,,,,, 

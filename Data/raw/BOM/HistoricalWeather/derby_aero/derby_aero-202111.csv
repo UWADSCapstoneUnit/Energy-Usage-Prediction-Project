@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for November 2021,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 December 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/11/2021,8.3,0.0, ,37.0,24.2,76,33,4.17,28.32
+DERBY AERO,02/11/2021,8.5,0.0, ,37.9,26.2,79,25,4.37,25.71
+DERBY AERO,03/11/2021,9.4,0.0, ,40.8,25.6,74,29,4.58,27.30
+DERBY AERO,04/11/2021,6.7,0.0, ,36.0,27.5,68,42,3.94,19.59
+DERBY AERO,05/11/2021,9.6,0.0, ,41.3,27.0,82,25,4.77,26.87
+DERBY AERO,06/11/2021,8.8,0.2, ,38.8,25.9,77,33,4.37,28.44
+DERBY AERO,07/11/2021,8.5,0.0, ,38.8,27.0,78,33,4.30,26.36
+DERBY AERO,08/11/2021,7.8,0.0, ,36.5,26.2,86,43,4.06,28.66
+DERBY AERO,09/11/2021,8.0,0.0, ,36.2,25.8,85,47,4.85,29.11
+DERBY AERO,10/11/2021,8.7,0.0, ,36.8,25.6,79,40,5.50,28.97
+DERBY AERO,11/11/2021,9.0,0.0, ,38.5,18.5,84,13,3.77,29.13
+DERBY AERO,12/11/2021,11.5,0.0, ,37.4,23.2,27,10,5.74,29.06
+DERBY AERO,13/11/2021,10.2,0.0, ,38.9,21.4,34,11,4.31,28.54
+DERBY AERO,14/11/2021, ,0.0, , ,19.9,57,13,3.77,28.81
+DERBY AERO,15/11/2021,9.3, , ,38.3,22.5,66,24,4.49,28.93
+DERBY AERO,16/11/2021,8.6,0.0, ,39.1,26.4,78,27,3.90,26.98
+DERBY AERO,17/11/2021,8.4,0.0, ,40.0,25.0,80,26,3.37,27.61
+DERBY AERO,18/11/2021,10.6,0.0, ,40.6,26.5,81,14,5.23,29.02
+DERBY AERO,19/11/2021,9.2,0.0, ,40.1,25.1,84,14,3.74,28.98
+DERBY AERO,20/11/2021,9.4,0.0, ,40.9,23.2,85,17,4.09,28.03
+DERBY AERO,21/11/2021,9.4,0.0, ,39.1,24.4,68,24,4.98,25.40
+DERBY AERO,22/11/2021,9.8,0.0, ,39.9,25.7,74,28,5.23,28.02
+DERBY AERO,23/11/2021,10.4,0.0, ,41.7,27.9,64,21,4.71,28.45
+DERBY AERO,24/11/2021,11.5,0.0, ,42.0,29.6,51,16,5.25,28.75
+DERBY AERO,25/11/2021,11.7,0.0, ,40.8,25.3,24,11,5.18,28.82
+DERBY AERO,26/11/2021,11.1,0.0, ,41.5,23.0,67,11,5.10,29.01
+DERBY AERO,27/11/2021,9.3,0.0, ,38.4,25.9,78,28,4.86,28.91
+DERBY AERO,28/11/2021,7.6,0.0, ,38.7,28.3,84,38,4.35,22.21
+DERBY AERO,29/11/2021,8.3,4.8, ,38.3,25.1,84,34,4.12,27.90
+DERBY AERO,30/11/2021,9.8,0.0, ,40.2,25.4,83,24,4.77,29.57
+Totals:,,269.4,5, ,,,,,, 

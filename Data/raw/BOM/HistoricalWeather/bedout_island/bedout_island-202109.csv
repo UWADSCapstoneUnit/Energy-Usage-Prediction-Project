@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BEDOUT ISLAND Western Australia for September 2021,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 October 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BEDOUT ISLAND,01/09/2021, , , , ,22.1,100,59,5.12,21.95
+BEDOUT ISLAND,02/09/2021, , , ,28.3, ,85,53,6.98,21.18
+BEDOUT ISLAND,03/09/2021,6.6, , ,28.3,22.6,92,31,7.51,22.32
+BEDOUT ISLAND,04/09/2021,8.3, , ,27.4,21.7,66,31,10.65,21.96
+BEDOUT ISLAND,05/09/2021,6.9, , ,26.8,19.8,80,40,10.26,22.77
+BEDOUT ISLAND,06/09/2021,6.5, , ,26.3,21.3,81,47,10.72,22.88
+BEDOUT ISLAND,07/09/2021,6.7, , ,26.2,22.0,80,40,9.06,22.93
+BEDOUT ISLAND,08/09/2021,5.9, , ,26.5,20.8,89,44,7.62,23.11
+BEDOUT ISLAND,09/09/2021, , , , ,20.5,92,45,5.23,23.35
+BEDOUT ISLAND,10/09/2021, , , , , ,91,33,4.02,23.36
+BEDOUT ISLAND,11/09/2021,5.2, , ,28.0,22.5,90,61,6.30,23.59
+BEDOUT ISLAND,12/09/2021,4.9, , ,28.3,22.8,92,69,6.49,23.70
+BEDOUT ISLAND,13/09/2021,4.9, , ,27.2,22.4,90,64,4.69,23.88
+BEDOUT ISLAND,14/09/2021,5.3, , ,27.6,21.7,82,56,4.48,23.94
+BEDOUT ISLAND,15/09/2021,5.0, , ,27.3,22.7,88,66,5.76,24.10
+BEDOUT ISLAND,16/09/2021,6.6, , ,28.1,22.5,85,48,9.08,24.11
+BEDOUT ISLAND,17/09/2021, , , , ,22.1,95,47,5.44,24.33
+BEDOUT ISLAND,18/09/2021,6.2, , ,28.8,22.1,90,42,6.22,24.29
+BEDOUT ISLAND,19/09/2021,6.5, , ,30.0,22.4,90,37,5.53,24.56
+BEDOUT ISLAND,20/09/2021,6.8, , ,30.8,23.0,84,44,6.65,24.34
+BEDOUT ISLAND,21/09/2021, , , , ,24.6,77,43,9.54,22.96
+BEDOUT ISLAND,22/09/2021, , , ,29.0, ,81,33,7.91,24.37
+BEDOUT ISLAND,23/09/2021,6.0, , ,28.0,23.4,87,44,6.80,21.58
+BEDOUT ISLAND,24/09/2021,6.1, , ,29.2,21.4,94,27,3.76,25.16
+BEDOUT ISLAND,25/09/2021,5.1, , ,28.5,21.8,96,64,5.10,25.27
+BEDOUT ISLAND,26/09/2021,6.0, , ,28.8,23.0,88,57,7.44,25.39
+BEDOUT ISLAND,27/09/2021, , , , ,23.3,86,47,7.52,25.45
+BEDOUT ISLAND,28/09/2021, , , , , ,82,28,6.62,25.48
+BEDOUT ISLAND,29/09/2021, , , , , ,88,61,5.31,25.71
+BEDOUT ISLAND,30/09/2021, , , , , ,100,65,5.15,25.82
+Totals:,,115.5, , ,,,,,, 

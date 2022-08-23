@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for September 2012,,,,,,,,,,
+Issued at 22:38 GMT on Monday 01 October 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/09/2012,5.1,0.0, ,32.1,12.6,38,13,1.97,21.56
+NEWMAN AERO,02/09/2012,6.1,0.0, ,33.1,11.5,41,9,2.78,21.66
+NEWMAN AERO,03/09/2012,8.6,0.0, ,33.3,12.9,34,8,5.22,21.80
+NEWMAN AERO,04/09/2012,6.9,0.0, ,27.1,15.8,53,27,6.18,22.06
+NEWMAN AERO,05/09/2012,5.1,0.0, ,24.6,7.1,61,13,3.18,22.10
+NEWMAN AERO,06/09/2012,5.4,0.0, ,26.5,6.2,46,12,3.01,22.25
+NEWMAN AERO,07/09/2012,7.6,0.0, ,26.8,14.2,38,11,5.83,22.33
+NEWMAN AERO,08/09/2012,3.7,0.0, ,18.3,15.7,72,18,3.95,8.20
+NEWMAN AERO,09/09/2012,4.6,0.8, ,29.5,7.2,86,18,1.81,22.89
+NEWMAN AERO,10/09/2012,6.1,0.0, ,33.2,11.4,52,11,2.60,23.01
+NEWMAN AERO,11/09/2012,6.6,0.0, ,33.9,14.5,43,11,2.98,23.21
+NEWMAN AERO,12/09/2012,7.0,0.0, ,32.6,15.9,49,16,3.74,23.32
+NEWMAN AERO,13/09/2012,8.1,0.0, ,31.3,18.2,46,18,5.54,23.48
+NEWMAN AERO,14/09/2012,7.3,0.0, ,33.7,16.1,37,10,3.54,23.64
+NEWMAN AERO,15/09/2012,6.2,0.0, ,35.7,13.7,39,9,2.26,23.75
+NEWMAN AERO,16/09/2012,6.7,0.0, ,36.4,15.1,32,8,2.52,23.91
+NEWMAN AERO,17/09/2012,7.7,0.0, ,36.6,17.8,28,8,3.29,24.08
+NEWMAN AERO,18/09/2012,8.7,0.0, ,34.7,15.4,34,8,4.58,24.20
+NEWMAN AERO,19/09/2012,7.5,0.0, ,33.3,15.5,44,10,3.71,24.32
+NEWMAN AERO,20/09/2012,6.8,0.0, ,31.6,15.8,53,10,3.28,24.49
+NEWMAN AERO,21/09/2012,8.3,0.0, ,34.5,12.8,40,10,4.25,24.24
+NEWMAN AERO,22/09/2012,7.3,0.0, ,31.4,15.1,38,13,3.75,24.71
+NEWMAN AERO,23/09/2012,6.9,0.0, ,33.4,14.0,46,10,3.01,24.88
+NEWMAN AERO,24/09/2012,8.6,0.0, ,35.5,18.7,24,9,4.37,21.79
+NEWMAN AERO,25/09/2012,10.4,0.0, ,36.2,14.9,35,8,5.99,24.53
+NEWMAN AERO,26/09/2012,9.0,0.0, ,34.6,13.9,38,6,4.68,25.40
+NEWMAN AERO,27/09/2012,8.3,0.0, ,31.3,13.9,43,19,5.47,25.56
+NEWMAN AERO,28/09/2012,6.7,0.0, ,27.0,14.8,53,9,4.14,22.18
+NEWMAN AERO,29/09/2012,6.7,0.0, ,30.3,9.1,29,8,3.03,25.64
+NEWMAN AERO,30/09/2012,8.1,0.0, ,32.5,13.0,18,7,4.05,23.82
+Totals:,,212.1,0.8, ,,,,,, 

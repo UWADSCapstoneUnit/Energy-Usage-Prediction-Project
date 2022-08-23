@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for August 2015,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 September 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/08/2015,1.3,15.2, ,11.8,8.1,89,61,2.49,6.54
+ROCKY GULLY,02/08/2015,1.1,0.0, ,14.4,5.2,94,67,1.05,10.16
+ROCKY GULLY,03/08/2015,1.2,0.4, ,15.5,3.7,95,62,0.97,9.84
+ROCKY GULLY,04/08/2015,1.3,1.4, ,15.0,5.9,94,68,1.57,10.35
+ROCKY GULLY,05/08/2015,1.3,0.2, ,14.6,1.0,95,63,1.67,11.87
+ROCKY GULLY,06/08/2015,1.4,0.2, ,14.0,5.8,94,62,2.54,9.00
+ROCKY GULLY,07/08/2015,1.5,0.0, ,15.7,8.0,92,65,2.25,9.60
+ROCKY GULLY,08/08/2015,1.2,3.6, ,11.0,8.0,93,73,3.51,8.19
+ROCKY GULLY,09/08/2015,1.6,14.2, ,11.6,2.6,92,51,2.77,11.75
+ROCKY GULLY,10/08/2015,1.4,1.2, ,14.1,5.9,91,73,4.56,8.36
+ROCKY GULLY,11/08/2015,1.4,7.8, ,13.5,7.9,91,66,2.70,7.88
+ROCKY GULLY,12/08/2015,1.2,0.4, ,14.6,9.6,92,71,1.62,6.83
+ROCKY GULLY,13/08/2015,1.4,0.2, ,15.1,10.1,93,67,1.99,8.60
+ROCKY GULLY,14/08/2015,1.8,0.4, ,17.1,5.4,94,55,2.04,11.77
+ROCKY GULLY,15/08/2015,2.6,0.0, ,22.9,7.8,89,38,2.21,14.19
+ROCKY GULLY,16/08/2015,2.6,0.0, ,24.6,8.8,89,30,1.76,13.95
+ROCKY GULLY,17/08/2015,1.2,0.0, ,17.5,11.9,92,78,2.60,4.72
+ROCKY GULLY,18/08/2015,1.8,4.6, ,16.5,9.9,93,66,3.86,9.53
+ROCKY GULLY,19/08/2015,1.9,1.6, ,16.9,10.7,93,57,3.04,9.02
+ROCKY GULLY,20/08/2015,1.2,17.0, ,14.2,9.6,94,83,3.27,7.95
+ROCKY GULLY,21/08/2015,1.5,13.2, ,14.7,6.9,93,64,2.48,8.99
+ROCKY GULLY,22/08/2015,1.9,7.2, ,14.6,5.7,94,56,3.21,11.00
+ROCKY GULLY,23/08/2015,1.7,4.0, ,14.4,6.6,94,64,2.09,13.60
+ROCKY GULLY,24/08/2015,1.7,0.4, ,14.2,4.4,94,60,2.07,12.57
+ROCKY GULLY,25/08/2015,2.1,2.2, ,15.3,4.0,94,55,2.52,15.80
+ROCKY GULLY,26/08/2015,2.1,0.0, ,17.9,4.2,92,45,1.79,12.66
+ROCKY GULLY,27/08/2015,2.9,0.0, ,20.0,6.1,89,35,2.81,15.92
+ROCKY GULLY,28/08/2015,2.8,0.0, ,20.1,9.9,87,44,3.09,13.75
+ROCKY GULLY,29/08/2015,1.7,0.0, ,17.6,7.2,93,72,3.34,9.43
+ROCKY GULLY,30/08/2015,2.2,3.6, ,14.8,7.7,92,49,2.45,14.72
+ROCKY GULLY,31/08/2015,1.5,0.2, ,13.6,4.8,91,67,3.18,7.48
+Totals:,,52.5,99.2, ,,,,,, 

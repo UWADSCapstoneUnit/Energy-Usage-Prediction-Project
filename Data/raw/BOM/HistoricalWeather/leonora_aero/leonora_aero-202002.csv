@@ -1,0 +1,41 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEONORA AERO Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEONORA AERO,01/02/2020,9.8,0.0, ,33.2,18.9,52,17,5.97,29.54
+LEONORA AERO,02/02/2020,10.2,0.0, ,34.4,20.9,44,11,5.58,29.29
+LEONORA AERO,03/02/2020,10.3,0.0, ,35.1,22.6,35,12,5.28,29.29
+LEONORA AERO,04/02/2020,10.2,0.0, ,36.3,22.7,34,10,4.77,29.19
+LEONORA AERO,05/02/2020,10.6,0.0, ,38.9,23.3,32,9,4.60,29.06
+LEONORA AERO,06/02/2020,11.7,0.0, ,40.9,25.8,21,8,5.24,27.29
+LEONORA AERO,07/02/2020,12.0,0.0, ,40.4,26.8,23,8,5.48,28.71
+LEONORA AERO,08/02/2020,11.0,0.0, ,40.4,28.9,20,6,5.10,20.89
+LEONORA AERO,09/02/2020,8.2,0.0, ,39.5,29.4,29,11,3.45,17.20
+LEONORA AERO,10/02/2020,7.1,0.0, ,30.3,21.0,60,26,6.33,12.13
+LEONORA AERO,11/02/2020,6.9,6.2, ,31.9,17.2,89,35,6.03,21.50
+LEONORA AERO,12/02/2020,7.7,0.0, ,34.3,18.5,66,31,3.87,28.25
+LEONORA AERO,13/02/2020,8.6,0.0, ,37.4,21.8,67,17,3.70,28.16
+LEONORA AERO,14/02/2020,10.5,0.0, ,39.2,26.3,44,14,4.95,28.00
+LEONORA AERO,15/02/2020,11.0,0.0, ,42.4,28.4,26,10,4.69,25.66
+LEONORA AERO,16/02/2020,9.4,0.0, ,40.8,26.8,40,18,3.70,27.58
+LEONORA AERO,17/02/2020,9.7,0.0, ,33.6,21.6,59,25,7.16,27.14
+LEONORA AERO,18/02/2020, ,0.0, , ,18.9,52,24,6.50,17.04
+LEONORA AERO,19/02/2020,7.8, , ,30.1,20.4,41,27,5.39,21.41
+LEONORA AERO,20/02/2020,4.1,0.0, ,24.4,20.3,59,34,3.47,7.61
+LEONORA AERO,21/02/2020, ,0.0, , ,20.1,51,21,5.69,24.34
+LEONORA AERO,22/02/2020, , , , , , , , ,12.31
+LEONORA AERO,25/02/2020, , , , , , , , ,24.00
+LEONORA AERO,26/02/2020, , , , , , , , ,22.05
+LEONORA AERO,27/02/2020, , , ,38.4, ,50,19,6.82,25.79
+LEONORA AERO,28/02/2020,11.7,0.0, ,41.1,25.7,35,11,5.97,25.46
+LEONORA AERO,29/02/2020,8.9,0.0, ,33.1,26.3,52,16,6.50,15.71
+Totals:,,197.4,6.2, ,,,,,, 

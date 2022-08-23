@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for October 2018,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 November 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/10/2018,2.9,0.0, ,17.5,11.8,87,55,5.14,11.56
+LAKE GRACE,02/10/2018,2.2,0.6, ,16.6,10.3,93,73,5.20,12.76
+LAKE GRACE,03/10/2018,4.4,3.2, ,21.0,9.4,93,42,6.25,20.16
+LAKE GRACE,04/10/2018,1.9,0.4, ,17.1,10.9,91,74,4.54,8.65
+LAKE GRACE,05/10/2018,3.7,5.0, ,22.5,12.7,97,45,3.45,17.30
+LAKE GRACE,06/10/2018,3.5,0.0, ,21.7,12.9,97,47,2.96,17.65
+LAKE GRACE,07/10/2018,2.7,0.0, ,19.6,10.5,94,57,3.79,12.35
+LAKE GRACE,08/10/2018,3.4,0.0, ,21.8,12.0,88,46,3.86,12.21
+LAKE GRACE,09/10/2018,5.0,0.0, ,26.1,10.3,89,31,4.13,19.01
+LAKE GRACE,10/10/2018,5.6,0.0, ,25.2,11.6,73,29,5.12,18.83
+LAKE GRACE,11/10/2018,4.6,0.2, ,27.2,10.7,86,33,2.87,19.35
+LAKE GRACE,12/10/2018,3.3,0.2, ,22.2,10.3,92,44,2.96,13.68
+LAKE GRACE,13/10/2018,5.0,0.2, ,24.6,11.5,91,32,4.60,19.45
+LAKE GRACE,14/10/2018,3.7,4.0, ,19.8,10.0,95,40,3.53,19.02
+LAKE GRACE,15/10/2018,4.4,0.0, ,23.1,8.9,92,28,2.35,23.47
+LAKE GRACE,16/10/2018, ,0.0, , ,8.0,92,22,2.13,24.44
+LAKE GRACE,17/10/2018, , , ,32.8, ,67,11,5.90,24.08
+LAKE GRACE,18/10/2018,4.0,0.2, ,18.8,12.8,91,31,6.26,11.60
+LAKE GRACE,19/10/2018,4.0,2.8, ,19.0,5.7,91,35,3.60,21.82
+LAKE GRACE,20/10/2018,5.5,0.0, ,24.2,5.8,92,33,5.33,25.25
+LAKE GRACE,21/10/2018,5.5,0.0, ,24.1,10.6,90,30,6.69,17.82
+LAKE GRACE,22/10/2018,3.9,0.0, ,19.1,7.6,80,33,3.86,16.05
+LAKE GRACE,23/10/2018,4.7,0.0, ,23.6,6.1,87,25,2.49,23.85
+LAKE GRACE,24/10/2018,5.0,0.0, ,23.6,8.0,93,25,4.08,19.96
+LAKE GRACE,25/10/2018,6.5,0.0, ,26.9,12.9,84,36,6.83,24.62
+LAKE GRACE,26/10/2018,5.0,0.0, ,23.9,12.4,88,43,5.41,21.94
+LAKE GRACE,27/10/2018,6.0,0.0, ,25.3,12.6,83,30,5.34,24.23
+LAKE GRACE,28/10/2018,6.1,0.0, ,28.3,8.8,85,19,3.20,25.54
+LAKE GRACE,29/10/2018,6.3,0.0, ,29.2,10.6,84,23,3.60,24.88
+LAKE GRACE,30/10/2018,4.0,0.0, ,21.1,12.2,91,49,5.26,17.58
+LAKE GRACE,31/10/2018,4.3,0.0, ,22.2,10.2,84,34,3.69,17.06
+Totals:,,127.1,16.8, ,,,,,, 

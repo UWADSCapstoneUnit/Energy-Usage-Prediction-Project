@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEGENDRE ISLAND Western Australia for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEGENDRE ISLAND,01/11/2010, , , ,31.0,23.0,83,35,7.92, 
+LEGENDRE ISLAND,02/11/2010, , , ,30.0,23.0,91,38,5.89, 
+LEGENDRE ISLAND,03/11/2010, , , ,32.0,24.0,98,53,4.84, 
+LEGENDRE ISLAND,04/11/2010, , , ,32.0,24.0,94,47,4.73, 
+LEGENDRE ISLAND,05/11/2010, , , ,35.0,26.0,84,42,9.38, 
+LEGENDRE ISLAND,06/11/2010, , , ,35.0,25.0,79,39,7.08, 
+LEGENDRE ISLAND,07/11/2010, , , ,32.0,24.0,87,43,7.83, 
+LEGENDRE ISLAND,08/11/2010, , , ,33.0,25.0,88,52,6.64, 
+LEGENDRE ISLAND,09/11/2010, , , ,35.0,24.0,88,42,7.82, 
+LEGENDRE ISLAND,10/11/2010, , , ,34.0,27.0,72,48,10.16, 
+LEGENDRE ISLAND,11/11/2010, , , ,33.0,27.0,82,53,9.80, 
+LEGENDRE ISLAND,12/11/2010, , , ,32.0,26.0,85,54,10.25, 
+LEGENDRE ISLAND,13/11/2010, , , ,31.0,25.0,79,47,10.48, 
+LEGENDRE ISLAND,14/11/2010, , , ,31.0,24.0,81,53,10.68, 
+LEGENDRE ISLAND,15/11/2010, , , ,30.0,24.0,81,56,9.78, 
+LEGENDRE ISLAND,16/11/2010, , , ,31.0,24.0,79,52,8.10, 
+LEGENDRE ISLAND,17/11/2010,7.5, , ,31.0,24.0,81,59,8.41,30.48
+LEGENDRE ISLAND,18/11/2010,7.2, , ,31.0,25.0,85,59,7.44,29.86
+LEGENDRE ISLAND,19/11/2010,5.5, , ,31.0,25.0,98,71,7.16,25.34
+LEGENDRE ISLAND,20/11/2010,6.8, , ,33.0,25.0,99,61,5.65,30.34
+LEGENDRE ISLAND,21/11/2010,6.6, , ,32.0,25.0,99,63,5.53,30.57
+LEGENDRE ISLAND,22/11/2010,8.2, , ,33.0,26.0,89,54,9.47,31.13
+LEGENDRE ISLAND,23/11/2010,8.1, , ,33.0,26.0,85,57,8.91,31.59
+LEGENDRE ISLAND,24/11/2010,8.3, , ,33.0,27.0,89,52,8.74,31.51
+LEGENDRE ISLAND,25/11/2010,8.0, , ,33.0,27.0,91,56,8.72,31.45
+LEGENDRE ISLAND,26/11/2010,7.0, , ,32.0,26.0,93,66,9.67,30.99
+LEGENDRE ISLAND,27/11/2010,6.1, , ,32.0,26.0,99,63,8.27,25.39
+LEGENDRE ISLAND,28/11/2010,9.4, , ,35.0,26.0,68,42,8.03,26.53
+LEGENDRE ISLAND,29/11/2010,10.1, , ,35.0,28.0,75,21,8.82,19.74
+LEGENDRE ISLAND,30/11/2010,9.6, , ,36.0,23.0,79,31,6.04,31.82
+Totals:,,108.4, , ,,,,,, 

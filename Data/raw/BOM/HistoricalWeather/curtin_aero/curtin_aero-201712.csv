@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,01/12/2017,6.5,0.8, ,39.8,26.1,85,32,2.74,19.71
+CURTIN AERO,02/12/2017,7.9,0.0, ,42.1,28.4,79,26,2.90,24.31
+CURTIN AERO,03/12/2017,7.9,0.0, ,40.4,26.4,90,31,3.40,25.38
+CURTIN AERO,04/12/2017,8.4,0.0, ,40.3,25.3,85,32,3.49,27.90
+CURTIN AERO,05/12/2017,8.1,0.0, ,39.4,26.1,93,33,3.76,26.86
+CURTIN AERO,06/12/2017,5.3,0.0, ,33.4,27.7,95,57,3.63,19.53
+CURTIN AERO,07/12/2017, ,3.8, , ,26.3,96,42,2.90,17.20
+CURTIN AERO,08/12/2017, , , ,38.2, ,90,35,2.89,24.63
+CURTIN AERO,09/12/2017,8.9,0.8, ,41.5,24.7,94,25,3.41,29.63
+CURTIN AERO,10/12/2017,7.8,16.6, ,37.5,21.6,100,36,5.03,24.93
+CURTIN AERO,11/12/2017,5.2,0.0, ,37.2,26.0,94,34,2.71,14.75
+CURTIN AERO,12/12/2017,8.2,0.0, ,40.1,25.3,96,28,3.51,26.96
+CURTIN AERO,13/12/2017,10.3,0.0, ,42.0,26.5,84,21,4.78,29.68
+CURTIN AERO,14/12/2017,7.6,0.0, ,39.4,25.5,90,35,3.52,24.67
+CURTIN AERO,15/12/2017,8.4,0.0, ,40.7,25.1,94,28,3.33,28.61
+CURTIN AERO,16/12/2017,8.9,0.0, ,40.0,23.8,81,26,3.69,29.67
+CURTIN AERO,17/12/2017,8.1,0.0, ,38.3,26.1,90,34,3.33,29.55
+CURTIN AERO,18/12/2017,8.6,0.0, ,40.1,26.8,88,29,3.70,28.23
+CURTIN AERO,19/12/2017,8.3,0.0, ,39.6,27.3,84,33,3.75,27.18
+CURTIN AERO,20/12/2017,7.9,3.4, ,38.5,23.4,98,33,3.15,29.45
+CURTIN AERO,21/12/2017,7.7,0.0, ,38.8,25.1,82,33,3.05,27.10
+CURTIN AERO,22/12/2017, ,0.0, , ,26.1,92,29,2.84,28.97
+CURTIN AERO,23/12/2017, , , ,41.1, ,86,27,4.03,28.89
+CURTIN AERO,24/12/2017,8.0,0.0, ,40.4,26.5,81,32,3.18,26.41
+CURTIN AERO,25/12/2017,8.0,0.0, ,40.0,25.2,90,32,3.01,28.40
+CURTIN AERO,26/12/2017,7.9,0.0, ,38.1,26.0,91,38,5.49,22.39
+Totals:,,173.9,25.4, ,,,,,, 

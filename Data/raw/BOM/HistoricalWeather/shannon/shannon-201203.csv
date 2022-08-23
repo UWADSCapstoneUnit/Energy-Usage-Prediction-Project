@@ -1,0 +1,38 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SHANNON Western Australia for March 2012,,,,,,,,,,
+Issued at 22:33 GMT on Sunday 25 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SHANNON,01/03/2012,6.0,0.0, ,26.5,13.5,83,33,4.99,25.42
+SHANNON,02/03/2012,5.8,0.0, ,26.9,10.1,91,24,3.96,25.35
+SHANNON,03/03/2012,6.3,0.0, ,29.2,12.3,85,21,3.81,25.19
+SHANNON,04/03/2012,7.0,0.0, ,32.8,12.2,87,17,3.76,24.73
+SHANNON,05/03/2012,7.1,0.0, ,37.2,11.5,99,12,3.02,23.77
+SHANNON,06/03/2012,9.5,0.0, ,37.5,16.9,76,10,5.33,24.21
+SHANNON,07/03/2012,4.4,0.0, ,24.2,18.0,87,38,3.99,17.27
+SHANNON,08/03/2012,4.2,0.0, ,24.8,9.7,95,44,2.81,22.81
+SHANNON,09/03/2012,5.6,0.0, ,30.7,10.7,95,29,3.19,23.86
+SHANNON,10/03/2012,5.0,0.0, ,30.3,12.6,100,47,3.66,22.33
+SHANNON,11/03/2012,6.4,0.0, ,34.9,15.4,91,29,3.47,22.71
+SHANNON,12/03/2012,3.9,0.0, ,28.7,16.3,98,57,3.74,16.21
+SHANNON,13/03/2012,4.2,0.4, ,23.2,16.0,95,46,4.91,18.73
+SHANNON,14/03/2012,3.5,0.0, ,22.5,11.8,89,44,3.27,14.81
+SHANNON,15/03/2012,3.9,0.0, ,23.3,9.7,99,41,2.91,21.14
+SHANNON,16/03/2012,5.0,0.0, ,26.8,8.6,97,26,3.25,22.68
+SHANNON,17/03/2012,6.7,0.0, ,31.6,12.9,91,14,4.18,22.65
+SHANNON,18/03/2012,6.6,0.0, ,33.3,13.8,82,19,3.80,21.81
+SHANNON,19/03/2012,2.7,0.0, ,20.6,15.0,96,56,5.14,8.49
+SHANNON,20/03/2012,2.7,0.0, ,19.7,13.8,84,51,3.51,8.76
+SHANNON,21/03/2012,2.1,0.6, ,19.8,10.9,100,56,2.46,9.04
+SHANNON,22/03/2012,3.2,0.0, ,21.4,12.8,76,51,3.43,13.11
+SHANNON,23/03/2012,4.8,0.0, ,24.8,12.3,73,35,4.07,20.12
+SHANNON,24/03/2012, ,0.0, , ,10.6, , , ,20.50
+Totals:,,116.6,1, ,,,,,, 

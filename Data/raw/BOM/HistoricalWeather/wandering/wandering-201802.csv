@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/02/2018,6.6,0.0, ,29.2,14.5,78,35,3.75,28.33
+WANDERING,02/02/2018,5.5,0.0, ,29.8,20.0,65,34,2.85,19.59
+WANDERING,03/02/2018,6.7,0.0, ,34.1,19.7,69,29,3.05,23.58
+WANDERING,04/02/2018,6.5,0.0, ,31.4,17.6,92,27,2.50,28.79
+WANDERING,05/02/2018,7.1,0.0, ,36.6,14.9,88,22,2.65,26.64
+WANDERING,06/02/2018,6.9,0.0, ,33.1,16.4,87,33,3.18,28.24
+WANDERING,07/02/2018,4.9,0.0, ,25.9,16.1,77,41,5.28,13.68
+WANDERING,08/02/2018,5.4,0.0, ,30.4,14.4,74,37,2.92,20.67
+WANDERING,09/02/2018,6.3,0.0, ,31.1,13.7,93,34,3.06,28.00
+WANDERING,10/02/2018,6.5,0.0, ,29.5,12.5,81,24,3.34,27.29
+WANDERING,11/02/2018,7.4,0.0, ,32.2,11.5,82,19,3.84,27.62
+WANDERING,12/02/2018,6.9,0.0, ,32.2,12.6,82,19,3.14,27.46
+WANDERING,13/02/2018,6.3,0.0, ,29.3,12.2,90,29,3.78,25.88
+WANDERING,14/02/2018,6.1,0.0, ,30.8,12.7,87,27,2.58,27.18
+WANDERING,15/02/2018,8.1,0.0, ,35.8,14.7,80,15,3.75,26.92
+WANDERING,16/02/2018,7.6,0.0, ,38.8,17.5,77,21,3.60,20.90
+WANDERING,17/02/2018,6.3,1.4, ,32.5,18.5,91,24,2.45,26.62
+WANDERING,18/02/2018,6.1,0.0, ,33.6,13.9,96,27,2.28,26.70
+WANDERING,19/02/2018,6.6,0.0, ,30.3,18.3,86,32,4.37,25.71
+WANDERING,20/02/2018,5.2,1.0, ,25.6,13.6,98,30,5.63,16.29
+WANDERING,21/02/2018,5.6,0.0, ,29.3,9.8,91,33,2.85,25.75
+WANDERING,22/02/2018,5.8,0.0, ,33.3,16.3,93,30,2.70,22.26
+WANDERING,23/02/2018,4.5,0.0, ,26.0,15.5,88,52,6.18,15.18
+WANDERING,24/02/2018,7.3,0.0, ,28.6,12.3,80,19,5.42,25.55
+WANDERING,25/02/2018,3.3,0.0, ,25.9,15.8,90,54,2.64,12.77
+WANDERING,26/02/2018,4.0,3.8, ,24.6,17.3,99,39,3.06,16.74
+WANDERING,27/02/2018,4.9,0.0, ,23.1,8.0,88,33,3.47,25.15
+WANDERING,28/02/2018,5.0,0.0, ,27.0,9.4,93,28,2.36,25.22
+Totals:,,169.4,6.2, ,,,,,, 

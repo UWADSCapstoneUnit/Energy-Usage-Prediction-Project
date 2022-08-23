@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for November 2021,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 December 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/11/2021,4.3,0.8, ,18.9,14.4,93,44,3.89,24.32
+PERTH METRO,02/11/2021,4.0,0.0, ,20.0,13.8,81,46,2.79,20.86
+PERTH METRO,03/11/2021,4.3,0.0, ,22.6,9.8,91,45,1.51,26.18
+PERTH METRO,04/11/2021,4.7,0.0, ,22.9,10.6,89,50,2.36,28.52
+PERTH METRO,05/11/2021,4.3,0.0, ,22.2,14.6,78,52,1.87,23.97
+PERTH METRO,06/11/2021,4.7,0.0, ,22.5,12.4,70,39,1.80,26.58
+PERTH METRO,07/11/2021,5.4,0.0, ,24.7,11.9,69,34,2.14,29.01
+PERTH METRO,08/11/2021,5.8,0.0, ,28.0,13.7,62,32,2.61,26.36
+PERTH METRO,09/11/2021,2.8,40.4, ,20.7,13.0,98,41,1.99,11.55
+PERTH METRO,10/11/2021,4.8,0.0, ,21.4,11.4,82,36,1.66,28.86
+PERTH METRO,11/11/2021,5.1,0.0, ,24.8,8.5,95,31,1.67,29.58
+PERTH METRO,12/11/2021,6.2,0.0, ,27.4,13.5,72,27,2.77,29.02
+PERTH METRO,13/11/2021,6.6,0.0, ,30.1,12.3,57,19,2.42,29.88
+PERTH METRO,14/11/2021,7.9,0.0, ,32.2,13.6,57,18,3.81,28.15
+PERTH METRO,15/11/2021,5.5,0.0, ,25.6,14.6,81,41,2.22,29.12
+PERTH METRO,16/11/2021, ,0.0, , ,16.8,87,51,2.44,27.68
+PERTH METRO,17/11/2021, , , ,26.2, , , , ,25.21
+PERTH METRO,18/11/2021,3.3,0.0, ,20.5,15.1,70,53,3.30,10.77
+PERTH METRO,19/11/2021,4.8,0.0, ,23.0,14.6,70,44,3.48,21.31
+PERTH METRO,20/11/2021,7.0,0.0, ,30.0,13.4,70,28,3.29,30.40
+PERTH METRO,21/11/2021,6.1,0.0, ,32.1,14.8,84,28,2.65,24.27
+PERTH METRO,22/11/2021,4.6,6.8, ,22.0,16.5,95,48,3.94,23.36
+PERTH METRO,23/11/2021,5.5,0.0, ,24.5,10.8,90,38,2.47,30.84
+PERTH METRO,24/11/2021,6.1,0.0, ,28.4,12.6,92,30,2.34,30.80
+PERTH METRO,25/11/2021,7.6,0.0, ,33.1,15.9,80,18,3.01,30.99
+PERTH METRO,26/11/2021,8.1,0.0, ,35.3,17.5,76,16,3.00,31.07
+PERTH METRO,27/11/2021,8.2,0.0, ,37.4,18.9,64,10,2.75,29.52
+PERTH METRO,28/11/2021,7.0,0.0, ,32.8,16.2,88,21,2.37,30.89
+PERTH METRO,29/11/2021,5.9,0.0, ,25.2,16.8,88,47,3.95,29.80
+PERTH METRO,30/11/2021,6.1,0.0, ,23.1,15.5,73,36,4.17,29.88
+Totals:,,156.7,48, ,,,,,, 

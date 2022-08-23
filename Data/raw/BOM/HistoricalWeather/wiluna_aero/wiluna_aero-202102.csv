@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WILUNA AERO Western Australia for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WILUNA AERO,01/02/2021,3.8,3.6, ,23.6,18.8,93,49,8.11,7.62
+WILUNA AERO,02/02/2021,7.2,7.4, ,33.9,19.0,95,37,6.50,21.00
+WILUNA AERO,03/02/2021,7.9,8.0, ,35.5,21.1,95,32,5.27,25.44
+WILUNA AERO,04/02/2021,7.8,0.0, ,30.7,20.9,81,39,8.50,24.76
+WILUNA AERO,05/02/2021,7.2,0.0, ,27.9,19.0,57,34,7.10,17.84
+WILUNA AERO,06/02/2021,6.2,0.0, ,27.8,20.5,88,32,6.40,18.60
+WILUNA AERO,07/02/2021, ,9.6, , ,18.5,93,27,4.38,23.36
+WILUNA AERO,08/02/2021,7.1, , ,34.8,20.5,82,25,3.01,26.37
+WILUNA AERO,09/02/2021,9.7,0.0, ,37.0,23.4,47,21,4.83,28.46
+WILUNA AERO,10/02/2021,11.7,0.0, ,38.3,25.2,34,21,6.82,27.32
+WILUNA AERO,11/02/2021,9.5,0.0, ,33.7,25.2,61,24,7.23,23.09
+WILUNA AERO,12/02/2021,9.9,0.0, ,34.4,22.6,51,19,5.95,28.32
+WILUNA AERO,13/02/2021,10.1,0.0, ,35.3,23.4,35,14,5.30,27.91
+WILUNA AERO,14/02/2021,9.6,0.0, ,36.3,23.5,34,16,4.58,28.20
+WILUNA AERO,15/02/2021,8.3,0.0, ,38.5,27.5,82,25,4.22,24.84
+WILUNA AERO,16/02/2021,8.0,2.0, ,37.5,24.3,86,32,4.94,23.55
+WILUNA AERO,17/02/2021,6.8,21.0, ,36.4,22.5,96,39,4.12,22.72
+WILUNA AERO,18/02/2021,6.6,7.6, ,33.7,23.1,95,42,4.30,24.50
+WILUNA AERO,19/02/2021,7.7,0.2, ,33.0,21.7,62,37,5.70,22.32
+WILUNA AERO,20/02/2021,8.2,0.0, ,36.8,21.3,72,25,3.95,27.53
+WILUNA AERO,21/02/2021,8.8,0.0, ,36.8,22.5,58,19,4.27,26.83
+WILUNA AERO,22/02/2021,11.3,0.0, ,36.7,23.5,31,8,6.18,27.25
+WILUNA AERO,23/02/2021,9.8,0.0, ,36.1,19.7,51,12,5.35,27.10
+WILUNA AERO,24/02/2021,9.3,0.0, ,37.7,21.1,47,8,4.19,26.95
+WILUNA AERO,25/02/2021,8.4,0.0, ,38.7,21.5,36,8,3.15,26.69
+WILUNA AERO,26/02/2021,11.8,0.0, ,40.6,23.7,28,7,5.82,26.47
+WILUNA AERO,27/02/2021,8.0,0.0, ,37.6,20.6,43,11,3.36,23.43
+WILUNA AERO,28/02/2021,7.9,0.0, ,37.7,19.2,53,13,3.11,25.96
+Totals:,,228.6,59.4, ,,,,,, 

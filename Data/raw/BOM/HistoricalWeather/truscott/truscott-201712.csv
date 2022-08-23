@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/12/2017,6.4,0.0, ,34.7,27.0,89,48,2.45,25.94
+TRUSCOTT,02/12/2017,5.4,0.0, ,35.5,26.6,93,46,2.37,20.22
+TRUSCOTT,03/12/2017,3.4,0.0, ,33.0,26.2,88,57,2.39,10.33
+TRUSCOTT,04/12/2017, ,0.0, , ,25.4,88,36,2.19,25.55
+TRUSCOTT,05/12/2017, , , ,36.9, ,72,34,2.93,25.52
+TRUSCOTT,06/12/2017,4.8,0.0, ,34.5,27.7,79,50,2.58,15.62
+TRUSCOTT,07/12/2017,6.0,0.0, ,35.3,26.8,87,51,3.89,20.46
+TRUSCOTT,08/12/2017,6.1,1.2, ,34.6,26.7,86,52,3.48,22.64
+TRUSCOTT,09/12/2017,7.2,0.0, ,36.0,27.8,83,46,2.86,28.33
+TRUSCOTT,10/12/2017,7.0,0.0, ,36.7,27.8,90,42,2.54,27.30
+TRUSCOTT,11/12/2017,6.9,0.0, ,36.9,27.7,86,41,2.54,26.26
+TRUSCOTT,12/12/2017,7.6,0.0, ,36.9,27.9,83,39,3.46,26.91
+TRUSCOTT,13/12/2017,6.5,0.0, ,35.7,26.3,91,45,3.86,22.62
+TRUSCOTT,14/12/2017,6.5,6.4, ,34.9,23.3,92,55,4.03,26.05
+TRUSCOTT,15/12/2017,1.5,45.4, ,30.5,22.3,100,76,3.17,2.26
+TRUSCOTT,16/12/2017,5.6,2.2, ,33.1,22.3,96,64,2.21,25.88
+TRUSCOTT,17/12/2017,5.1,0.0, ,34.5,26.6,97,51,1.84,20.51
+TRUSCOTT,18/12/2017,6.7,0.6, ,35.2,26.4,96,47,2.55,27.55
+TRUSCOTT,19/12/2017,6.5,0.0, ,34.9,27.2,88,48,2.83,25.30
+TRUSCOTT,20/12/2017,6.4,0.0, ,34.0,25.0,89,53,2.68,27.07
+TRUSCOTT,21/12/2017,6.7,0.0, ,35.8,25.1,87,40,2.29,27.04
+TRUSCOTT,22/12/2017, ,0.0, , ,27.2,95,44,2.61,18.11
+TRUSCOTT,23/12/2017, , , , , , , , ,23.66
+TRUSCOTT,24/12/2017, , , ,34.2, ,100,53,3.63,25.62
+TRUSCOTT,25/12/2017,3.3,5.2, ,31.4,24.9,100,67,3.37,11.62
+TRUSCOTT,26/12/2017, ,174.4, ,28.4,23.6,100,94,2.66, 
+Totals:,,115.6,235.4, ,,,,,, 

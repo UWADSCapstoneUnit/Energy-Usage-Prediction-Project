@@ -1,0 +1,29 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for March 2016,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 16 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/03/2016, , , ,37.1, , , , ,25.31
+TRUSCOTT,02/03/2016,6.5,0.0, ,36.4,26.5,92,39,2.11,26.25
+TRUSCOTT,03/03/2016,6.6,0.0, ,36.9,27.3,86,44,3.10,23.53
+TRUSCOTT,04/03/2016,7.1,0.0, ,36.3,29.8,95,38,4.22,23.45
+TRUSCOTT,05/03/2016,6.2,2.2, ,34.9,25.3,91,51,3.49,24.16
+TRUSCOTT,06/03/2016,6.4,0.0, ,35.5,26.8,83,55,3.64,23.78
+TRUSCOTT,07/03/2016,6.4,0.0, ,36.3,27.5,87,45,2.89,23.82
+TRUSCOTT,08/03/2016,5.9,0.2, ,35.8,28.8,92,47,2.71,21.74
+TRUSCOTT,09/03/2016,5.5,7.0, ,34.2,25.9,94,54,2.19,23.30
+TRUSCOTT,10/03/2016,5.9,0.0, ,34.8,27.1,96,48,2.49,23.98
+TRUSCOTT,11/03/2016,5.7,0.0, ,35.3,27.4,94,53,3.07,21.72
+TRUSCOTT,12/03/2016, ,3.0, , ,24.1, , , ,22.88
+TRUSCOTT,13/03/2016, , , ,35.2, , , , ,21.91
+TRUSCOTT,14/03/2016,7.3,0.0, ,36.8,26.7,86,43,4.46,24.41
+TRUSCOTT,15/03/2016, ,23.2, , ,23.9,100,69,4.26,12.70
+Totals:,,69.5,35.6, ,,,,,, 

@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/02/2014,5.9,0.0, ,36.8,27.6,100,80,3.48,26.09
+DERBY AERO,02/02/2014,6.4,0.0, ,35.3,26.6,100,66,4.37,27.48
+DERBY AERO,03/02/2014,6.0,0.0, ,35.7,27.7,100,74,5.24,25.67
+DERBY AERO,04/02/2014,4.3,0.0, ,35.2,24.0,100,98,5.02,23.85
+DERBY AERO,05/02/2014,4.3,1.4, ,34.1,25.2,100,61,3.35,15.10
+DERBY AERO,06/02/2014,4.3,4.4, ,32.0,25.2,95,65,3.02,16.93
+DERBY AERO,07/02/2014,6.0,48.6, ,35.8,24.8,96,52,3.58,22.00
+DERBY AERO,08/02/2014,7.3,0.0, ,36.1,27.5,93,47,5.08,25.13
+DERBY AERO,09/02/2014,2.4,1.0, ,29.0,24.9,96,78,7.66,5.59
+DERBY AERO,10/02/2014,1.5,71.0, ,28.6,24.8,99,85,9.82,2.57
+DERBY AERO,11/02/2014,4.4,77.6, ,32.0,24.4,94,70,9.82,13.20
+DERBY AERO,12/02/2014,5.2,19.0, ,32.9,25.6,95,66,7.00,18.52
+DERBY AERO,13/02/2014,6.2,6.4, ,33.6,27.5,100,64,5.54,26.14
+DERBY AERO,14/02/2014,5.1,0.0, ,33.5,26.4,100,90,4.60,26.41
+DERBY AERO,15/02/2014,4.4,0.0, ,33.1,26.3,100,92,3.16,21.51
+DERBY AERO,16/02/2014,3.6,0.0, ,33.4,27.0,100,89,3.77,16.98
+DERBY AERO,17/02/2014,5.0,5.0, ,34.8,24.8,100,96,3.39,25.67
+DERBY AERO,18/02/2014,5.0,0.0, ,35.0,27.0,100,98,4.29,26.21
+DERBY AERO,19/02/2014, ,4.4, , ,26.0,100,59,3.76,27.41
+DERBY AERO,20/02/2014, , , ,35.7, ,95,45,3.17,27.14
+DERBY AERO,21/02/2014,6.6,0.0, ,36.2,25.6,93,49,3.98,23.85
+DERBY AERO,22/02/2014,7.0,3.0, ,36.7,24.0,92,28,2.40,27.76
+DERBY AERO,23/02/2014,7.2,0.0, ,36.6,23.5,89,22,2.48,28.36
+DERBY AERO,24/02/2014,7.6,0.0, ,37.3,23.5,95,23,3.14,27.70
+DERBY AERO,25/02/2014,7.0,0.0, ,36.5,23.9,90,45,3.14,27.56
+DERBY AERO,26/02/2014,6.8,0.0, ,36.1,24.9,90,42,3.43,25.07
+DERBY AERO,27/02/2014,5.3,0.0, ,34.9,26.4,87,54,3.15,18.57
+DERBY AERO,28/02/2014,7.3,1.6, ,38.1,24.8,92,28,2.74,26.98
+Totals:,,142.1,243.4, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for December 2019,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 31 December 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/12/2019,7.2,0.0, ,30.5,8.1,83,27,3.80,30.33
+LAKE GRACE,02/12/2019,8.2,0.0, ,32.7,13.1,93,14,4.06,30.46
+LAKE GRACE,03/12/2019,8.8,0.0, ,38.5,13.5,82,10,3.26,29.14
+LAKE GRACE,04/12/2019,9.7,0.6, ,38.9,21.1,82,11,4.42,28.08
+LAKE GRACE,05/12/2019,9.2,0.6, ,35.4,13.7,88,14,4.48,31.30
+LAKE GRACE,06/12/2019,10.3,0.0, ,40.6,13.8,81,8,4.81,23.22
+LAKE GRACE,07/12/2019,10.4,0.0, ,34.8,21.3,55,12,6.28,25.71
+LAKE GRACE,08/12/2019,6.6,0.0, ,25.7,14.2,77,27,4.28,29.05
+LAKE GRACE,09/12/2019,7.4,0.0, ,29.2,10.1,83,13,3.59,31.00
+LAKE GRACE,10/12/2019, ,0.0, , ,10.6,85,13,4.31,30.39
+LAKE GRACE,11/12/2019,9.1, , ,31.9,12.8,82,18,5.83,31.35
+LAKE GRACE,12/12/2019,9.2,0.0, ,35.1,13.4,87,11,4.33,31.28
+LAKE GRACE,13/12/2019,9.0,0.0, ,37.5,14.3,71,7,3.28,30.88
+LAKE GRACE,14/12/2019,11.4,0.0, ,40.7,17.8,46,6,4.61,31.16
+LAKE GRACE,15/12/2019,11.1,0.0, ,42.4,17.1,44,6,3.97,31.46
+LAKE GRACE,16/12/2019,10.2,0.0, ,38.5,17.8,56,15,4.39,31.78
+LAKE GRACE,17/12/2019,10.0,0.0, ,38.1,16.1,86,14,4.98,28.82
+LAKE GRACE,18/12/2019,9.7,0.0, ,40.4,15.9,84,13,3.66,31.28
+LAKE GRACE,19/12/2019,9.3,0.0, ,32.1,19.8,69,25,6.32,30.93
+LAKE GRACE,20/12/2019,7.3,0.0, ,27.9,13.5,73,25,4.37,30.40
+LAKE GRACE,21/12/2019,10.1,0.0, ,37.9,14.7,79,14,4.87,30.48
+LAKE GRACE,22/12/2019,6.4,0.0, ,29.7,17.5,84,37,4.74,22.52
+LAKE GRACE,23/12/2019,8.3,0.0, ,33.5,16.3,82,21,4.37,28.87
+LAKE GRACE,24/12/2019,9.1,0.0, ,34.2,15.4,83,25,5.74,30.47
+LAKE GRACE,25/12/2019,7.4,0.0, ,37.2,15.3,72,22,3.94,17.40
+LAKE GRACE,26/12/2019,11.6,0.0, ,42.1,19.5,75,10,5.69,25.66
+LAKE GRACE,27/12/2019,8.7,0.0, ,33.6,18.4,80,11,4.03,30.55
+LAKE GRACE,28/12/2019,8.2,0.0, ,34.6,14.4,90,15,3.32,31.73
+LAKE GRACE,29/12/2019,9.2,0.0, ,34.1,14.6,83,20,5.21,31.51
+LAKE GRACE,30/12/2019,7.2,0.0, ,26.1,13.3,67,21,4.25,30.97
+LAKE GRACE,31/12/2019,7.4,0.0, ,31.0,11.3,76,12,2.84,31.45
+Totals:,,267.7,1.2, ,,,,,, 

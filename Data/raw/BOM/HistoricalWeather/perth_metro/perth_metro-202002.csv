@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/02/2020,6.4,0.0, ,27.4,14.6,66,31,3.38,28.18
+PERTH METRO,02/02/2020,8.0,0.0, ,34.8,17.0,64,16,3.21,29.27
+PERTH METRO,03/02/2020,8.9,0.0, ,38.4,18.2,64,16,3.60,28.88
+PERTH METRO,04/02/2020,9.5,0.0, ,42.7,22.6,47,12,3.40,26.67
+PERTH METRO,05/02/2020,6.7,0.0, ,34.9,22.4,90,23,1.90,28.48
+PERTH METRO,06/02/2020,5.7,0.0, ,30.9,21.2,92,50,1.91,27.08
+PERTH METRO,07/02/2020,5.4,0.0, ,29.1,21.0,85,50,2.47,24.86
+PERTH METRO,08/02/2020,5.7,0.0, ,28.0,20.0,88,54,3.77,27.39
+PERTH METRO,09/02/2020,7.0,0.0, ,27.8,15.2,73,25,4.44,28.33
+PERTH METRO,10/02/2020,7.5,0.0, ,32.9,15.3,61,20,3.30,28.43
+PERTH METRO,11/02/2020,7.1,0.0, ,34.8,19.3,66,29,3.57,23.54
+PERTH METRO,12/02/2020,6.9,0.0, ,34.3,19.5,74,35,3.02,27.46
+PERTH METRO,13/02/2020,7.1,0.0, ,36.1,21.6,79,25,3.20,24.26
+PERTH METRO,14/02/2020,8.1,0.0, ,40.6,23.8,83,23,3.06,26.82
+PERTH METRO,15/02/2020,2.7,0.0, ,25.6,22.3,91,69,2.92,9.62
+PERTH METRO,16/02/2020,5.8,0.0, ,26.3,18.0,73,48,4.06,26.49
+PERTH METRO,17/02/2020,6.7,0.0, ,32.0,18.2,72,28,3.12,26.87
+PERTH METRO,18/02/2020,6.8,0.0, ,33.5,16.9,57,26,3.43,21.93
+PERTH METRO,19/02/2020,7.1,0.0, ,36.2,22.1,48,25,2.91,23.34
+PERTH METRO,20/02/2020,7.6,0.0, ,37.1,24.6,44,17,2.91,24.78
+PERTH METRO,21/02/2020,5.1,0.0, ,31.9,22.9,50,24,2.83,10.82
+PERTH METRO,22/02/2020,3.6,1.0, ,27.7,20.1,85,34,1.86,12.54
+PERTH METRO,23/02/2020,5.9,0.0, ,33.5,19.6,87,35,2.60,23.73
+PERTH METRO,24/02/2020,5.7,0.0, ,32.0,21.0,71,45,3.66,19.22
+PERTH METRO,25/02/2020,6.1,1.0, ,34.4,21.7,91,41,3.54,22.02
+PERTH METRO,26/02/2020,4.3,19.2, ,29.7,21.1,85,52,3.41,14.96
+PERTH METRO,27/02/2020,2.6,2.0, ,26.6,22.3,88,55,4.23,2.39
+PERTH METRO,28/02/2020,5.0,11.0, ,30.8,21.4,91,46,4.28,16.96
+PERTH METRO,29/02/2020,4.4,0.2, ,27.7,20.9,90,56,2.74,19.94
+Totals:,,179.4,34.4, ,,,,,, 

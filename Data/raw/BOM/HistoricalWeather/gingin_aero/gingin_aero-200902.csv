@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GINGIN AERO Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GINGIN AERO,01/02/2009,8.2,2.8, ,37.8,19.0,90,30,3.69,29.68
+GINGIN AERO,02/02/2009,9.2,0.0, ,40.4,19.4,93,16,3.54,30.97
+GINGIN AERO,03/02/2009,7.8,0.0, ,34.7,19.0,95,34,4.11,30.92
+GINGIN AERO,04/02/2009,7.6,0.0, ,31.4,18.2,91,35,5.32,30.41
+GINGIN AERO,05/02/2009,9.2,0.0, ,33.3,17.4,75,28,6.78,30.24
+GINGIN AERO,06/02/2009,6.9,0.0, ,27.1,13.8,83,38,6.46,29.30
+GINGIN AERO,07/02/2009,7.1,0.0, ,28.3,7.6,83,29,4.89,30.90
+GINGIN AERO,08/02/2009,10.6,0.0, ,33.7,14.9,72,17,7.65,31.10
+GINGIN AERO,09/02/2009,11.7,0.0, ,35.6,18.3,57,13,7.56,31.22
+GINGIN AERO,10/02/2009, ,0.0, , ,20.9,48,13,6.36,28.48
+GINGIN AERO,11/02/2009, ,0.0, ,39.1, ,35,10,4.71,30.50
+GINGIN AERO,12/02/2009,11.5,0.0, ,40.8,20.4,75,10,6.44,24.25
+GINGIN AERO,13/02/2009,5.3,0.0, ,26.8,21.6,74,52,6.17,16.15
+GINGIN AERO,14/02/2009,6.2,0.6, ,32.1,18.3,85,28,5.42,12.41
+GINGIN AERO,15/02/2009,7.6,0.0, ,34.7,14.2,94,19,3.57,28.35
+GINGIN AERO,16/02/2009,6.0,0.0, ,27.4,19.1,91,43,5.23,25.69
+GINGIN AERO,17/02/2009, ,0.0, ,31.5,14.8,81,29,5.28, 
+GINGIN AERO,18/02/2009, ,0.0, ,32.0,17.4,73,24,6.80, 
+GINGIN AERO,19/02/2009,9.4,0.0, ,34.2,16.6,62,20,5.76,29.50
+GINGIN AERO,20/02/2009,10.7,0.0, ,37.6,20.0,55,16,6.02,28.88
+GINGIN AERO,21/02/2009,10.8,0.0, ,40.6,22.7,51,13,5.43,24.70
+GINGIN AERO,22/02/2009,7.4,0.0, ,31.0,20.5,76,29,4.82,27.28
+GINGIN AERO,23/02/2009,9.5,0.0, ,35.7,17.5,68,23,6.55,25.24
+GINGIN AERO,24/02/2009,5.1,0.0, ,27.1,17.8,92,50,4.18,23.00
+GINGIN AERO,25/02/2009,4.0,0.0, ,23.8,12.3,91,51,4.29,17.03
+GINGIN AERO,26/02/2009,4.9,3.2, ,24.6,7.4,93,35,3.38,25.24
+GINGIN AERO,27/02/2009,7.9,0.0, ,31.7,11.8,83,19,5.03,28.01
+GINGIN AERO,28/02/2009,8.9,0.0, ,36.6,12.9,86,20,5.88,21.05
+Totals:,,193.5,6.6, ,,,,,, 

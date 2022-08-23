@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for October 2016,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 November 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/10/2016,3.1,2.8, ,16.7,10.8,97,55,9.27,15.08
+PEARCE RAAF,02/10/2016,3.4,5.2, ,17.9,8.9,91,50,6.41,15.84
+PEARCE RAAF,03/10/2016,2.7,0.0, ,20.0,6.9,97,63,3.98,14.47
+PEARCE RAAF,04/10/2016,3.5,4.4, ,22.1,12.1,98,54,3.65,17.89
+PEARCE RAAF,05/10/2016,4.5,0.0, ,24.7,6.8,97,38,2.92,24.27
+PEARCE RAAF,06/10/2016,3.6,0.2, ,23.3,10.5,97,55,5.22,15.22
+PEARCE RAAF,07/10/2016,4.6,0.0, ,26.1,12.7,96,47,4.15,20.99
+PEARCE RAAF,08/10/2016,2.3,15.2, ,18.6,14.3,97,67,6.27,8.69
+PEARCE RAAF,09/10/2016, ,8.0, , ,10.2,91,46,5.33,16.25
+PEARCE RAAF,10/10/2016, , , , , ,88,39,3.66,25.04
+PEARCE RAAF,11/10/2016, , , ,25.4, ,92,29,3.55,25.23
+PEARCE RAAF,12/10/2016,7.9,0.0, ,32.5,12.7,70,18,4.79,25.41
+PEARCE RAAF,13/10/2016,4.8,0.0, ,26.6,10.0,93,48,3.13,25.38
+PEARCE RAAF,14/10/2016,3.9,0.2, ,21.1,13.2,96,50,6.10,17.48
+PEARCE RAAF,15/10/2016,4.0,3.8, ,17.6,10.2,91,45,7.26,20.76
+PEARCE RAAF,16/10/2016,4.1,1.2, ,19.9,5.9,94,45,3.36,25.66
+PEARCE RAAF,17/10/2016,3.8,0.0, ,21.0,6.0,96,50,3.07,22.32
+PEARCE RAAF,18/10/2016,4.8,0.0, ,22.1,8.9,94,42,4.59,26.34
+PEARCE RAAF,19/10/2016,3.4,0.0, ,19.2,4.6,96,52,3.24,20.91
+PEARCE RAAF,20/10/2016,4.4,2.2, ,19.5,9.8,96,34,4.39,23.66
+PEARCE RAAF,21/10/2016,5.9,0.0, ,22.1,8.0,82,22,5.49,26.79
+PEARCE RAAF,22/10/2016,7.4,0.0, ,28.6,7.4,84,13,4.86,26.94
+PEARCE RAAF,23/10/2016,6.6,0.0, ,29.9,10.4,87,18,3.43,27.09
+PEARCE RAAF,24/10/2016,4.1,0.0, ,22.4,8.1,93,55,3.66,24.10
+PEARCE RAAF,25/10/2016,3.5,0.0, ,20.8,8.3,91,50,2.81,18.90
+PEARCE RAAF,26/10/2016,4.3,0.0, ,23.1,5.6,96,48,2.60,26.06
+PEARCE RAAF,27/10/2016,4.7,0.0, ,23.3,5.2,96,42,2.85,27.29
+PEARCE RAAF,28/10/2016,4.9,0.0, ,23.1,4.7,95,40,3.59,27.62
+PEARCE RAAF,29/10/2016,3.9,0.0, ,20.9,9.6,92,51,6.20,17.70
+PEARCE RAAF,30/10/2016,5.3,1.4, ,22.4,8.0,85,35,4.14,27.96
+PEARCE RAAF,31/10/2016,5.9,0.0, ,24.5,9.0,87,33,4.89,27.84
+Totals:,,125.3,44.6, ,,,,,, 

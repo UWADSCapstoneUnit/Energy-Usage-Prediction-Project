@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for September 2013,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 October 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/09/2013,5.6,0.0, ,39.1,18.5,100,89,3.48,27.57
+DERBY AERO,02/09/2013,6.9,0.0, ,37.3,19.5,100,45,3.30,27.65
+DERBY AERO,03/09/2013,5.5,0.0, ,33.2,20.0,100,75,4.33,28.10
+DERBY AERO,04/09/2013,7.3,0.0, ,36.4,18.5,100,17,3.09,27.55
+DERBY AERO,05/09/2013,7.4,0.0, ,34.6,21.0,95,26,3.78,28.20
+DERBY AERO,06/09/2013,7.5,0.0, ,35.2,20.4,91,20,3.35,28.31
+DERBY AERO,07/09/2013,8.1,0.0, ,35.0,19.9,87,18,3.92,29.25
+DERBY AERO,08/09/2013,7.4,0.0, ,34.3,18.3,91,27,3.61,28.73
+DERBY AERO,09/09/2013,7.7,0.0, ,33.9,21.1,91,28,4.35,28.67
+DERBY AERO,10/09/2013,8.2,0.0, ,35.5,18.6,79,24,4.04,29.37
+DERBY AERO,11/09/2013,7.9,0.0, ,35.3,18.8,73,17,3.30,29.07
+DERBY AERO,12/09/2013,7.5,0.0, ,36.3,17.2,82,31,3.15,29.47
+DERBY AERO,13/09/2013,8.5,0.0, ,36.6,17.5,90,14,3.65,29.93
+DERBY AERO,14/09/2013,7.5,0.0, ,34.4,18.3,83,34,3.95,29.09
+DERBY AERO,15/09/2013,7.3,0.0, ,33.1,18.3,82,35,3.69,29.85
+DERBY AERO,16/09/2013,8.6,0.0, ,36.8,17.3,82,11,3.36,30.84
+DERBY AERO,17/09/2013,9.3,0.0, ,37.6,17.2,69,7,3.60,31.26
+DERBY AERO,18/09/2013,9.3,0.0, ,37.3,17.3,74,8,3.68,31.44
+DERBY AERO,19/09/2013,10.0,0.0, ,37.5,16.9,58,6,4.20,31.17
+DERBY AERO,20/09/2013,9.6,0.0, ,38.4,16.5,72,8,3.80,31.30
+DERBY AERO,21/09/2013,8.9,0.0, ,38.5,16.5,70,16,3.30,31.48
+DERBY AERO,22/09/2013,7.8,0.0, ,37.4,19.5,93,52,4.34,31.39
+DERBY AERO,23/09/2013,8.2,0.0, ,36.3,18.0,95,22,3.62,30.91
+DERBY AERO,24/09/2013,8.0,0.0, ,35.8,17.6,91,27,3.33,31.57
+DERBY AERO,25/09/2013,9.4,0.0, ,39.1,20.2,93,9,3.66,31.76
+DERBY AERO,26/09/2013,10.0,0.0, ,39.8,20.7,91,11,4.20,31.87
+DERBY AERO,27/09/2013,9.7,0.0, ,40.3,20.4,92,7,3.58,31.83
+DERBY AERO,28/09/2013,11.7,0.0, ,41.4,20.0,62,8,5.02,32.01
+DERBY AERO,29/09/2013,9.4,0.0, ,37.4,22.0,100,27,5.39,31.86
+DERBY AERO,30/09/2013,6.2,0.0, ,36.5,21.3,100,45,2.74,25.02
+Totals:,,246.4,0, ,,,,,, 

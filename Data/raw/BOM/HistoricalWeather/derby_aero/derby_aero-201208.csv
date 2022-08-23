@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for August 2012,,,,,,,,,,
+Issued at 22:38 GMT on Saturday 01 September 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/08/2012,5.4,0.0, ,29.3,8.8,86,15,3.45,19.56
+DERBY AERO,02/08/2012,4.4,0.0, ,29.9,8.4,90,13,2.08,19.74
+DERBY AERO,03/08/2012,5.3,0.0, ,31.8,8.6,76,10,2.59,19.84
+DERBY AERO,04/08/2012,5.3,0.0, ,33.0,8.6,73,8,2.39,20.03
+DERBY AERO,05/08/2012,6.9,0.0, ,33.7,8.0,73,5,3.62,20.02
+DERBY AERO,06/08/2012,6.0,0.0, ,33.5,9.0,62,6,2.84,20.03
+DERBY AERO,07/08/2012,5.2,0.0, ,31.5,8.9,69,14,2.53,20.24
+DERBY AERO,08/08/2012,4.9,0.0, ,31.0,10.7,73,10,2.24,20.37
+DERBY AERO,09/08/2012,5.3,0.0, ,31.5,11.1,78,14,2.63,20.70
+DERBY AERO,10/08/2012,6.3,0.0, ,34.1,11.9,64,12,3.12,20.50
+DERBY AERO,11/08/2012,8.1,0.0, ,33.0,12.9,50,6,4.98,20.54
+DERBY AERO,12/08/2012,6.5,0.0, ,29.6,15.7,100,5,4.69,20.62
+DERBY AERO,13/08/2012,5.2,0.0, ,29.3,8.2,100,9,2.87,20.68
+DERBY AERO,14/08/2012,5.0,0.0, ,29.7,8.1,82,18,2.65,21.07
+DERBY AERO,15/08/2012,5.0,0.0, ,29.8,8.0,78,13,2.39,21.11
+DERBY AERO,16/08/2012,5.4,0.0, ,31.9,10.6,89,11,2.52,21.29
+DERBY AERO,17/08/2012,5.2,0.0, ,33.2,11.9,92,16,2.27,21.50
+DERBY AERO,18/08/2012,7.3,0.0, ,34.7,10.1,71,6,3.68,21.27
+DERBY AERO,19/08/2012,7.1,0.0, ,34.0,15.5,100,7,4.21,21.38
+DERBY AERO,20/08/2012,5.6,0.0, ,32.4,9.8,100,14,2.72,21.81
+DERBY AERO,21/08/2012,6.6,0.0, ,32.6,12.7,78,10,3.52,22.14
+DERBY AERO,22/08/2012,5.6,0.0, ,33.5,11.9,90,15,2.48,22.14
+DERBY AERO,23/08/2012,5.9,0.0, ,32.9,12.4,89,13,2.78,22.34
+DERBY AERO,24/08/2012,7.0,0.0, ,35.1,15.1,61,14,3.46,22.80
+DERBY AERO,25/08/2012,6.6,0.0, ,35.8,13.2,69,11,2.83,22.91
+DERBY AERO,26/08/2012,6.1,0.0, ,33.6,14.4,74,23,3.02,23.00
+DERBY AERO,27/08/2012,7.2,0.0, ,36.9,16.8,73,15,3.34,23.22
+DERBY AERO,28/08/2012,7.8,0.0, ,34.4,21.4,81,16,4.98,22.82
+DERBY AERO,29/08/2012,6.5,0.0, ,34.4,18.1,88,25,3.58,23.36
+DERBY AERO,30/08/2012,7.8,0.0, ,37.1,16.6,84,6,3.77,23.43
+DERBY AERO,31/08/2012,8.2,0.0, ,37.2,14.2,52,6,3.77,23.68
+Totals:,,190.7,0, ,,,,,, 

@@ -1,0 +1,24 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MUNGLINUP WEST Western Australia for December 2010,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 11 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MUNGLINUP WEST,01/12/2010,6.8,0.0, ,25.8,13.4,91,31,6.45,28.73
+MUNGLINUP WEST,02/12/2010,2.1,0.4, ,18.6,13.4,95,87,4.93,13.19
+MUNGLINUP WEST,03/12/2010,3.6,2.4, ,18.5,10.2,91,58,3.70,20.80
+MUNGLINUP WEST,04/12/2010,4.6,2.2, ,22.2,8.8,93,47,4.75,22.90
+MUNGLINUP WEST,05/12/2010,4.5,3.6, ,22.4,10.8,93,46,3.56,22.90
+MUNGLINUP WEST,06/12/2010,4.4,0.0, ,24.6,11.8,91,40,2.51,20.10
+MUNGLINUP WEST,07/12/2010,4.9,0.6, ,22.2,12.9,92,52,5.73,25.84
+MUNGLINUP WEST,08/12/2010,4.6,1.6, ,21.6,12.2,91,47,4.00,23.51
+MUNGLINUP WEST,09/12/2010,4.3,0.0, ,19.3,10.9,91,43,4.01,23.18
+MUNGLINUP WEST,10/12/2010, ,0.0, ,21.4,9.1, , , ,28.45
+Totals:,,39.8,10.8, ,,,,,, 

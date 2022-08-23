@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2009,7.5,0.0, ,34.5,18.7,91,35,4.14,28.13
+ROCKY GULLY,02/02/2009,9.1,0.0, ,39.6,19.4,91,24,4.38,28.31
+ROCKY GULLY,03/02/2009,3.9,0.0, ,24.2,18.5,95,60,3.80,17.96
+ROCKY GULLY,04/02/2009,4.9,0.0, ,23.6,12.4,95,43,3.98,24.67
+ROCKY GULLY,05/02/2009,5.5,0.0, ,24.9,8.2,94,34,3.18,29.77
+ROCKY GULLY,06/02/2009,5.6,0.0, ,22.4,14.3,73,38,5.10,25.29
+ROCKY GULLY,07/02/2009,4.8,0.8, ,21.2,10.9,93,40,4.00,25.70
+ROCKY GULLY,08/02/2009,6.7,0.0, ,26.3,12.2,77,31,4.65,31.03
+ROCKY GULLY,09/02/2009,7.2,0.0, ,28.0,11.1,86,31,5.63,30.78
+ROCKY GULLY,10/02/2009,8.0,0.0, ,29.9,14.9,82,22,6.43,26.88
+ROCKY GULLY,11/02/2009,9.5,0.0, ,35.7,15.4,78,12,4.91,30.32
+ROCKY GULLY,12/02/2009,6.4,0.0, ,31.5,20.2,94,19,5.28,14.64
+ROCKY GULLY,13/02/2009,2.9,1.4, ,18.2,12.9,94,63,6.37,13.46
+ROCKY GULLY,14/02/2009,3.6,1.0, ,22.4,13.8,96,48,7.18,8.17
+ROCKY GULLY,15/02/2009,8.0,0.4, ,34.3,16.4,90,24,4.62,28.20
+ROCKY GULLY,16/02/2009,5.5,0.0, ,26.3,13.6,94,41,4.60,24.89
+ROCKY GULLY,17/02/2009, ,0.0, ,20.9,12.6,91,59,3.90, 
+ROCKY GULLY,18/02/2009, ,0.0, ,23.8,12.9,84,39,4.58, 
+ROCKY GULLY,19/02/2009,6.1,0.0, ,26.7,10.5,87,34,4.31,28.80
+ROCKY GULLY,20/02/2009,7.3,0.0, ,30.7,9.7,92,24,4.53,29.39
+ROCKY GULLY,21/02/2009,8.6,0.0, ,36.1,14.2,87,17,4.66,26.72
+ROCKY GULLY,22/02/2009,4.7,0.0, ,21.5,12.9,90,43,4.59,23.99
+ROCKY GULLY,23/02/2009,6.7,0.0, ,28.5,8.5,85,25,4.70,27.43
+ROCKY GULLY,24/02/2009,4.2,0.0, ,24.4,14.7,86,50,4.86,16.34
+ROCKY GULLY,25/02/2009,2.1,0.0, ,17.0,12.5,92,72,3.39,10.89
+ROCKY GULLY,26/02/2009,3.1,16.4, ,18.7,9.0,92,59,4.10,16.73
+ROCKY GULLY,27/02/2009,4.6,0.0, ,23.9,8.5,91,39,2.69,25.85
+ROCKY GULLY,28/02/2009,5.5,0.0, ,26.5,12.0,89,44,4.92,25.46
+Totals:,,152,20, ,,,,,, 

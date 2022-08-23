@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for April 2019,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 May 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/04/2019,6.3,0.0, ,36.3,15.2,40,7,2.36,22.59
+NEWMAN AERO,02/04/2019,6.3,0.0, ,38.1,16.8,29,8,2.26,22.48
+NEWMAN AERO,03/04/2019,7.1,0.0, ,37.5,18.2,28,6,2.89,22.29
+NEWMAN AERO,04/04/2019,5.8,0.0, ,37.6,16.4,27,6,1.97,22.19
+NEWMAN AERO,05/04/2019,6.8,0.0, ,37.4,17.8,34,7,2.76,22.01
+NEWMAN AERO,06/04/2019,7.1,0.0, ,37.5,18.0,36,7,3.06,21.84
+NEWMAN AERO,07/04/2019,7.0,0.0, ,38.1,17.5,26,7,2.90,21.34
+NEWMAN AERO,08/04/2019,6.6,0.0, ,38.1,20.1,23,11,2.66,20.72
+NEWMAN AERO,09/04/2019,6.4,0.0, ,36.9,24.9,22,14,3.17,11.50
+NEWMAN AERO,10/04/2019,7.3,0.0, ,37.3,20.8,32,13,3.81,14.87
+NEWMAN AERO,11/04/2019,6.3,0.0, ,35.6,26.0,33,14,3.19,13.39
+NEWMAN AERO,12/04/2019,7.1,0.0, ,36.0,25.4,47,21,4.01,17.68
+NEWMAN AERO,13/04/2019,5.3,0.0, ,34.3,23.4,64,27,2.66,17.23
+NEWMAN AERO,14/04/2019,6.6,0.0, ,35.7,23.4,69,26,3.90,19.56
+NEWMAN AERO,15/04/2019,4.6,0.0, ,33.5,22.5,90,43,3.04,16.14
+NEWMAN AERO,16/04/2019,5.4,3.8, ,34.5,20.7,93,30,3.00,19.41
+NEWMAN AERO,17/04/2019,5.6,0.0, ,34.7,19.2,58,25,2.67,20.45
+NEWMAN AERO,18/04/2019,6.9,0.0, ,37.0,21.7,51,20,3.64,19.11
+NEWMAN AERO,19/04/2019,6.4,0.0, ,32.5,23.0,56,27,4.15,18.75
+NEWMAN AERO,20/04/2019,6.6,0.0, ,25.6,16.0,52,16,5.92,17.44
+NEWMAN AERO,21/04/2019,6.3,0.0, ,25.3,11.8,33,10,4.66,19.87
+NEWMAN AERO,22/04/2019,5.5,0.0, ,29.4,8.4,38,8,2.94,19.76
+NEWMAN AERO,23/04/2019,5.2,0.0, ,32.6,10.8,45,12,2.44,19.20
+NEWMAN AERO,24/04/2019,6.2,0.0, ,32.9,16.1,34,11,3.24,19.53
+NEWMAN AERO,25/04/2019,6.2,0.0, ,31.8,13.9,34,13,3.48,19.22
+NEWMAN AERO,26/04/2019,7.1,0.0, ,29.6,19.0,33,14,4.93,19.26
+NEWMAN AERO,27/04/2019, ,0.0, , ,17.4,37,16,4.80,19.14
+NEWMAN AERO,28/04/2019, , , , , , , , ,19.02
+NEWMAN AERO,29/04/2019, , , , , , , , ,18.86
+NEWMAN AERO,30/04/2019, , , ,30.7, ,28,15,4.28,18.54
+Totals:,,164,3.8, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for September 2016,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 October 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/09/2016,2.0,2.8, ,14.7,0.1,98,59,1.78,17.92
+WANDERING,02/09/2016,2.0,0.0, ,15.8,1.7,98,52,1.92,13.00
+WANDERING,03/09/2016,2.3,0.0, ,16.6,4.5,99,54,1.37,18.40
+WANDERING,04/09/2016,2.1,0.0, ,19.8,4.4,98,58,1.28,14.53
+WANDERING,05/09/2016,2.5,0.0, ,19.7,2.5,99,59,2.08,18.43
+WANDERING,06/09/2016,2.7,0.2, ,19.5,7.3,98,59,3.89,16.13
+WANDERING,07/09/2016,2.8,6.2, ,15.0,9.6,90,46,4.95,13.84
+WANDERING,08/09/2016,2.5,4.6, ,15.9,6.2,95,55,2.23,18.91
+WANDERING,09/09/2016,1.7,0.0, ,15.6,2.1,98,65,2.01,10.41
+WANDERING,10/09/2016,2.1,0.2, ,17.9,7.8,99,66,2.69,12.46
+WANDERING,11/09/2016,1.7,8.6, ,12.2,8.0,96,64,5.10,8.21
+WANDERING,12/09/2016,2.7,0.6, ,14.3,4.7,86,53,5.57,15.23
+WANDERING,13/09/2016,2.3,0.0, ,13.4,1.0,97,55,3.50,16.48
+WANDERING,14/09/2016,2.2,0.0, ,15.0,-0.1,98,50,1.48,17.86
+WANDERING,15/09/2016,2.4,0.0, ,16.3,-0.4,97,54,3.00,15.37
+WANDERING,16/09/2016,2.5,2.4, ,14.1,4.2,93,54,2.92,17.94
+WANDERING,17/09/2016,2.3,0.0, ,14.8,-1.4,97,46,1.42,17.92
+WANDERING,18/09/2016,2.3,0.0, ,15.2,-0.7,97,53,3.56,12.74
+WANDERING,19/09/2016,2.4,11.2, ,14.7,2.2,93,55,2.66,16.43
+WANDERING,20/09/2016,2.8,0.2, ,18.7,0.6,99,47,1.94,19.40
+WANDERING,21/09/2016,3.5,0.0, ,21.5,0.3,98,36,2.35,21.62
+WANDERING,22/09/2016,1.8,0.0, ,17.7,1.8,98,68,2.75,9.82
+WANDERING,23/09/2016,2.3,8.6, ,12.7,4.0,96,55,2.34,17.93
+WANDERING,24/09/2016,2.1,0.6, ,14.0,-1.5,98,54,2.35,15.03
+WANDERING,25/09/2016,2.7,2.0, ,14.5,4.1,98,44,2.70,18.61
+WANDERING,26/09/2016,2.2,0.0, ,15.8,-0.4,98,65,3.18,15.31
+WANDERING,27/09/2016,2.0,4.8, ,15.8,6.8,98,72,3.56,12.37
+WANDERING,28/09/2016,2.4,10.2, ,13.4,1.9,96,54,2.73,17.37
+WANDERING,29/09/2016,2.9,0.2, ,17.1,-1.9,98,45,1.46,23.03
+WANDERING,30/09/2016,2.3,0.0, ,16.6,1.6,98,64,3.35,15.21
+Totals:,,70.5,63.4, ,,,,,, 

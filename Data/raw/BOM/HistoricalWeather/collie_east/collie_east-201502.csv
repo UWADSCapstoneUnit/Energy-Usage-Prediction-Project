@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for February 2015,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/02/2015,5.1,0.0, ,30.7,16.9,71,28,3.58,11.15
+COLLIE EAST,02/02/2015,5.7,0.0, ,33.8,18.0,73,26,2.12,21.39
+COLLIE EAST,03/02/2015,7.3,0.0, ,38.8,18.0,80,15,2.81,22.62
+COLLIE EAST,04/02/2015,6.8,1.0, ,34.9,18.2,85,27,2.33,28.36
+COLLIE EAST,05/02/2015,5.2,0.0, ,31.4,14.1,91,36,1.82,23.54
+COLLIE EAST,06/02/2015,6.5,0.0, ,32.4,13.5,91,21,2.42,28.14
+COLLIE EAST,07/02/2015,7.1,0.0, ,32.2,14.9,84,22,3.25,28.98
+COLLIE EAST,08/02/2015,7.3,0.0, ,38.9,14.6,82,22,2.21,28.26
+COLLIE EAST,09/02/2015,6.1,0.0, ,36.2,13.9,90,19,1.44,27.44
+COLLIE EAST,10/02/2015,7.0,0.0, ,36.2,15.9,84,22,2.49,27.19
+COLLIE EAST,11/02/2015,7.4,0.0, ,34.1,18.6,70,27,3.30,28.26
+COLLIE EAST,12/02/2015,3.4,0.0, ,29.0,18.5,75,46,1.78,11.82
+COLLIE EAST,13/02/2015,5.0,0.0, ,29.1,17.5,81,45,2.48,21.93
+COLLIE EAST,14/02/2015,5.4,1.0, ,25.4,13.3,91,30,2.41,28.18
+COLLIE EAST,15/02/2015,5.5,0.2, ,28.1,6.0,89,22,2.08,28.35
+COLLIE EAST,16/02/2015,6.1,0.0, ,33.0,10.6,80,25,2.12,27.35
+COLLIE EAST,17/02/2015,6.0,0.0, ,35.9,15.7,80,21,2.05,22.95
+COLLIE EAST,18/02/2015,3.9,0.0, ,32.6,20.0,78,17,1.43,12.67
+COLLIE EAST,19/02/2015,5.4,0.0, ,31.2,18.4,82,26,2.59,19.82
+COLLIE EAST,20/02/2015,5.3,0.0, ,30.3,13.3,84,29,1.99,24.92
+COLLIE EAST,21/02/2015,4.6,0.0, ,28.6,10.3,90,34,1.56,23.24
+COLLIE EAST,22/02/2015,4.7,0.0, ,27.3,14.3,87,27,2.50,19.46
+COLLIE EAST,23/02/2015,6.7,0.0, ,30.3,11.3,70,23,3.46,27.36
+COLLIE EAST,24/02/2015,6.6,0.0, ,38.4,14.6,78,27,2.41,23.88
+COLLIE EAST,25/02/2015,6.0,0.0, ,37.5,18.2,80,26,1.96,23.57
+COLLIE EAST,26/02/2015,5.6,0.0, ,35.7,19.2,85,36,2.26,21.40
+COLLIE EAST,27/02/2015,5.0,0.4, ,28.8,19.6,90,31,2.50,21.22
+COLLIE EAST,28/02/2015,5.4,0.0, ,28.3,13.3,86,25,2.64,24.67
+Totals:,,162.1,2.6, ,,,,,, 

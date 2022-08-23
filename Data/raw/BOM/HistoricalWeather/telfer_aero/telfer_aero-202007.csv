@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TELFER AERO Western Australia for July 2020,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 August 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TELFER AERO,01/07/2020, ,0.0, , ,16.7,43,18,2.96,13.26
+TELFER AERO,02/07/2020, , , ,28.6, ,48,22,6.24,15.03
+TELFER AERO,03/07/2020,7.3,0.0, ,28.9,17.4,35,18,6.44,16.07
+TELFER AERO,04/07/2020,7.0,0.0, ,30.3,15.8,38,23,6.03,16.75
+TELFER AERO,05/07/2020,6.0,0.0, ,26.9,13.7,44,14,5.05,16.77
+TELFER AERO,06/07/2020,6.0,0.0, ,27.0,9.3,37,12,4.72,16.78
+TELFER AERO,07/07/2020,6.0,0.0, ,26.8,9.1,44,12,4.99,16.82
+TELFER AERO,08/07/2020,5.6,0.0, ,27.2,10.8,31,14,4.18,16.13
+TELFER AERO,09/07/2020,5.6,0.0, ,28.7,10.7,34,13,3.89,16.92
+TELFER AERO,10/07/2020,7.6,0.0, ,28.6,14.8,28,12,6.28,16.91
+TELFER AERO,11/07/2020,6.6,0.0, ,24.6,12.0,50,19,7.49,17.02
+TELFER AERO,12/07/2020,5.7,0.0, ,23.1,7.6,58,13,6.12,17.05
+TELFER AERO,13/07/2020,5.6,0.0, ,26.3,8.6,32,14,4.31,17.11
+TELFER AERO,14/07/2020,5.1,0.0, ,26.3,10.1,35,14,3.60,17.18
+TELFER AERO,15/07/2020,5.8,0.0, ,27.3,9.9,35,13,4.39,17.25
+TELFER AERO,16/07/2020,5.4,0.0, ,25.8,8.4,54,11,4.33,17.26
+TELFER AERO,17/07/2020,4.5,0.0, ,28.5,7.7,57,9,2.63,17.37
+TELFER AERO,18/07/2020,6.7,0.0, ,28.0,17.1,50,17,5.94,16.94
+TELFER AERO,19/07/2020,3.3,0.0, ,18.8,16.0,84,50,8.30,7.10
+TELFER AERO,20/07/2020,5.9,1.6, ,26.4,11.2,88,21,6.94,17.65
+TELFER AERO,21/07/2020,6.8,0.0, ,28.6,11.9,58,15,5.99,17.72
+TELFER AERO,22/07/2020,6.1,0.0, ,27.5,11.9,45,19,5.05,17.77
+TELFER AERO,23/07/2020,5.2,0.0, ,26.4,11.0,50,19,3.98,17.84
+TELFER AERO,24/07/2020,5.7,0.0, ,26.9,9.5,46,17,4.51,17.91
+TELFER AERO,25/07/2020,6.6,0.0, ,25.5,11.5,45,17,6.43,17.95
+TELFER AERO,26/07/2020,6.6,0.0, ,25.9,10.6,31,10,5.51,18.01
+TELFER AERO,27/07/2020,5.9,0.0, ,26.7,6.7,62,11,4.78,18.09
+TELFER AERO,28/07/2020,6.3,0.0, ,28.8,8.5,53,11,4.60,18.19
+TELFER AERO,29/07/2020,6.9,0.0, ,28.5,12.0,29,11,5.14,18.26
+TELFER AERO,30/07/2020,6.8,0.0, ,29.9,10.4,24,8,4.44,18.35
+TELFER AERO,31/07/2020,5.9,0.0, ,29.7,9.1,29,10,3.56,18.44
+Totals:,,174.5,1.6, ,,,,,, 

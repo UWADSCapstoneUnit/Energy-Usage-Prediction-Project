@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WITCHCLIFFE Western Australia for May 2018,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 June 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WITCHCLIFFE,01/05/2018,2.9,1.6, ,18.4,13.3,76,40,3.95,10.09
+WITCHCLIFFE,02/05/2018,2.8,2.4, ,17.1,12.6,91,46,6.20,10.73
+WITCHCLIFFE,03/05/2018,2.3,0.2, ,18.5,12.9,78,46,2.79,8.97
+WITCHCLIFFE,04/05/2018,1.7,0.2, ,19.0,11.9,93,51,1.63,8.69
+WITCHCLIFFE,05/05/2018,3.1,0.0, ,24.0,5.6,100,30,3.04,12.28
+WITCHCLIFFE,06/05/2018,2.3,3.2, ,17.9,12.7,90,62,7.09,6.46
+WITCHCLIFFE,07/05/2018,1.7,1.6, ,19.7,9.6,96,50,1.08,12.95
+WITCHCLIFFE,08/05/2018,1.4,1.2, ,19.6,6.7,100,50,1.00,9.52
+WITCHCLIFFE,09/05/2018,1.9,0.2, ,22.3,7.3,100,52,1.55,13.06
+WITCHCLIFFE,10/05/2018,2.2,0.0, ,22.5,9.3,99,45,2.37,12.59
+WITCHCLIFFE,11/05/2018,1.8,0.2, ,25.8,6.7,99,40,0.95,12.99
+WITCHCLIFFE,12/05/2018,2.7,0.0, ,26.6,8.1,100,49,2.87,12.88
+WITCHCLIFFE,13/05/2018,1.6,0.0, ,21.3,12.7,100,61,1.59,9.79
+WITCHCLIFFE,14/05/2018,2.0,0.0, ,22.2,13.8,100,55,2.70,10.74
+WITCHCLIFFE,15/05/2018,2.1,0.2, ,24.2,7.4,99,39,1.78,12.57
+WITCHCLIFFE,16/05/2018,2.0,0.0, ,24.8,7.6,99,38,1.56,12.34
+WITCHCLIFFE,17/05/2018, ,0.0, , ,5.1,100,33,1.31,12.39
+WITCHCLIFFE,18/05/2018, , , , , ,99,32,1.71,12.29
+WITCHCLIFFE,19/05/2018, , , , , ,99,38,1.52,11.85
+WITCHCLIFFE,20/05/2018, , , , , , , , ,11.85
+WITCHCLIFFE,21/05/2018, , , ,23.2, , , , ,12.03
+WITCHCLIFFE,22/05/2018,2.1,0.0, ,24.4,4.4,100,42,1.95,11.95
+WITCHCLIFFE,23/05/2018, ,0.2, , ,8.3,100,36,3.30,11.77
+WITCHCLIFFE,24/05/2018, , , ,23.5, ,100,43,7.85,8.34
+WITCHCLIFFE,25/05/2018, ,51.6, , , ,100,51,7.82,6.04
+WITCHCLIFFE,26/05/2018, , , , , ,91,66,5.85,7.08
+WITCHCLIFFE,27/05/2018, , , , , ,90,52,6.15,6.69
+WITCHCLIFFE,28/05/2018, , , , , , , , ,9.81
+WITCHCLIFFE,29/05/2018, , , , , , , , ,5.25
+WITCHCLIFFE,30/05/2018, , , , , , , , ,11.20
+WITCHCLIFFE,31/05/2018, , , , , ,90,51,4.89,7.03
+Totals:,,36.6,62.8, ,,,,,, 

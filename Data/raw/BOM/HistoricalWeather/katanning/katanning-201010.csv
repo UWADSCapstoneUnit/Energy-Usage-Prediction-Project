@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for October 2010,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 November 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/10/2010,4.8,0.0, ,25.4,10.1,92,26,2.70,24.03
+KATANNING,02/10/2010,3.6,0.0, ,20.4,8.5,93,50,4.05,20.27
+KATANNING,03/10/2010,4.0,0.0, ,21.0,3.2,94,31,3.02,21.29
+KATANNING,04/10/2010,4.2,0.0, ,22.9,6.6,89,35,2.59,23.20
+KATANNING,05/10/2010,4.1,0.0, ,22.1,6.0,93,42,4.26,20.37
+KATANNING,06/10/2010,4.6,0.0, ,20.7,2.2,83,24,3.26,25.93
+KATANNING,07/10/2010,4.5,0.0, ,24.3,3.1,89,15,2.05,24.75
+KATANNING,08/10/2010,5.5,0.0, ,28.2,5.6,87,11,2.45,26.15
+KATANNING,09/10/2010,8.5,0.0, ,31.9,5.5,73,10,5.31,25.60
+KATANNING,10/10/2010,4.2,0.8, ,21.2,11.3,89,39,4.74,18.72
+KATANNING,11/10/2010,3.4,2.8, ,16.1,2.8,91,33,2.88,21.53
+KATANNING,12/10/2010,4.1,0.0, ,20.8,2.0,88,26,1.86,27.09
+KATANNING,13/10/2010,5.0,0.0, ,22.9,4.4,92,29,3.65,26.80
+KATANNING,14/10/2010,4.1,0.0, ,16.6,3.0,87,33,5.16,23.63
+KATANNING,15/10/2010,5.4,0.0, ,20.5,8.7,76,27,5.25,26.29
+KATANNING,16/10/2010,5.0,0.0, ,22.9,3.2,88,21,2.65,28.05
+KATANNING,17/10/2010,5.2,0.0, ,26.8,4.4,91,13,1.94,28.29
+KATANNING,18/10/2010,6.3,0.0, ,30.6,6.1,82,10,2.38,28.69
+KATANNING,19/10/2010,8.3,0.0, ,31.6,9.2,55,8,4.32,28.70
+KATANNING,20/10/2010,6.9,0.0, ,28.8,11.2,89,15,4.86,22.87
+KATANNING,21/10/2010,3.8,3.2, ,17.2,7.4,90,38,2.89,23.11
+KATANNING,22/10/2010,3.9,0.0, ,21.0,5.0,87,32,2.24,21.50
+KATANNING,23/10/2010,4.9,0.0, ,23.4,5.0,93,25,2.76,26.49
+KATANNING,24/10/2010,6.2,0.0, ,27.0,6.8,92,18,3.45,28.40
+KATANNING,25/10/2010,5.8,0.0, ,26.6,6.3,91,21,2.78,29.01
+KATANNING,26/10/2010,6.0,0.0, ,30.9,9.4,92,16,2.01,29.16
+KATANNING,27/10/2010,5.0,0.0, ,26.6,13.6,82,29,3.72,16.74
+KATANNING,28/10/2010,5.4,0.6, ,19.9,10.3,90,24,6.07,25.58
+KATANNING,29/10/2010,4.5,0.2, ,18.7,3.0,88,31,4.04,26.18
+KATANNING,30/10/2010,5.2,0.0, ,21.4,3.0,87,26,3.26,29.89
+KATANNING,31/10/2010,6.1,0.0, ,25.4,4.2,86,15,3.23,30.38
+Totals:,,158.5,7.6, ,,,,,, 

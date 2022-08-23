@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for November 2017,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/11/2017, , , , , ,100,100,6.35,28.66
+BROOME NTC,02/11/2017, , , , , ,100,100,4.63,28.77
+BROOME NTC,03/11/2017, , , , , ,100,100,5.34,28.66
+BROOME NTC,04/11/2017, , , , , ,100,100,5.16,28.32
+BROOME NTC,05/11/2017, , , , , ,100,100,6.03,28.88
+BROOME NTC,06/11/2017, , , , , ,100,100,5.80,26.75
+BROOME NTC,07/11/2017, , , , , ,100,100,6.60,28.60
+BROOME NTC,08/11/2017, , , , , ,100,100,5.56,29.01
+BROOME NTC,09/11/2017, , , , , ,100,100,4.37,28.97
+BROOME NTC,10/11/2017, , , , , ,100,100,4.53,28.29
+BROOME NTC,11/11/2017, , , , , , , , ,28.62
+BROOME NTC,12/11/2017, , , , , , , , ,29.03
+BROOME NTC,13/11/2017, , , ,28.0, ,17,16,6.52,29.02
+BROOME NTC,14/11/2017,10.0, , ,28.2,26.6,17,16,5.64,28.79
+BROOME NTC,15/11/2017,10.8, , ,28.7,26.6,17,16,6.61,28.97
+BROOME NTC,16/11/2017,11.2, , ,28.9,26.5,18,15,7.10,29.09
+BROOME NTC,17/11/2017,11.0, , ,29.2,26.6,17,15,6.70,29.31
+BROOME NTC,18/11/2017,10.3, , ,29.6,26.4,18,15,5.68,29.27
+BROOME NTC,19/11/2017,9.3, , ,31.7,26.8,17,13,4.32,26.98
+BROOME NTC,20/11/2017,9.7, , ,29.9,27.9,16,15,4.94,26.98
+BROOME NTC,21/11/2017,9.6, , ,31.1,28.4,16,14,4.43,27.77
+BROOME NTC,22/11/2017,11.8, , ,31.2,28.4,16,14,6.82,28.98
+BROOME NTC,23/11/2017, , , , ,28.4,16,14,5.23,28.67
+BROOME NTC,24/11/2017, , , , , , , , ,29.20
+BROOME NTC,25/11/2017, , , ,29.7, ,16,15,6.34,29.30
+BROOME NTC,26/11/2017, , , , ,27.2,100,13,6.25,29.13
+BROOME NTC,27/11/2017, , , ,30.0, ,16,15,5.16,29.28
+BROOME NTC,28/11/2017,10.7, , ,30.3,28.2,16,14,5.73,29.18
+BROOME NTC,29/11/2017,10.9, , ,30.6,28.7,15,14,5.83,29.28
+BROOME NTC,30/11/2017,10.6, , ,31.3,29.1,15,14,5.25,29.19
+Totals:,,125.9, , ,,,,,, 

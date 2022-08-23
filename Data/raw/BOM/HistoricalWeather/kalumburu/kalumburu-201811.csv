@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for November 2018,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/11/2018,7.5,0.0, ,40.2,23.3,88,27,2.71,25.82
+KALUMBURU,02/11/2018,7.8,0.0, ,40.0,23.6,86,31,3.01,26.89
+KALUMBURU,03/11/2018,5.0,0.0, ,36.1,25.4,83,41,2.20,16.62
+KALUMBURU,04/11/2018,7.4,0.0, ,40.6,23.4,82,29,2.51,26.10
+KALUMBURU,05/11/2018,6.7,0.0, ,39.0,24.6,88,33,2.58,23.36
+KALUMBURU,06/11/2018,7.6,0.0, ,38.8,25.3,78,31,2.75,27.70
+KALUMBURU,07/11/2018,6.7,0.0, ,38.7,26.5,78,32,2.88,20.75
+KALUMBURU,08/11/2018,5.4,0.0, ,39.5,26.8,81,26,1.57,18.41
+KALUMBURU,09/11/2018,6.2,0.2, ,40.4,26.0,82,32,2.00,21.50
+KALUMBURU,10/11/2018,8.4, , ,41.6,24.6,86,20,2.87,28.25
+KALUMBURU,11/11/2018,7.4,0.0, ,39.6,24.6,89,32,2.81,26.21
+KALUMBURU,12/11/2018,7.7,0.0, ,39.4,24.3,90,31,2.85,28.10
+KALUMBURU,13/11/2018,7.9,0.0, ,39.0,25.4,85,35,3.16,28.49
+KALUMBURU,14/11/2018,7.8,0.0, ,38.2,25.9,83,39,3.35,28.14
+KALUMBURU,15/11/2018,7.9,0.0, ,39.0,24.2,80,31,3.05,28.29
+KALUMBURU,16/11/2018,7.7,0.0, ,38.9,24.7,89,32,2.84,28.12
+KALUMBURU,17/11/2018, ,0.8, , ,24.6,87,35,1.82,19.45
+KALUMBURU,18/11/2018, , , ,36.7, ,88,42,2.11,25.22
+KALUMBURU,19/11/2018,6.9,0.0, ,36.6,26.1,84,42,2.74,26.09
+KALUMBURU,20/11/2018,7.0, , ,37.0,25.2,89,45,3.23,26.20
+KALUMBURU,21/11/2018,7.3,0.0, ,37.6,24.8,89,40,2.82,27.95
+KALUMBURU,22/11/2018,7.4,1.6, ,38.1,25.0,89,40,2.74,28.46
+KALUMBURU,23/11/2018,7.5,0.0, ,38.6,24.8,85,35,2.59,28.43
+KALUMBURU,24/11/2018,7.7,0.0, ,38.6,25.0,85,28,2.86,27.55
+KALUMBURU,25/11/2018,7.6,0.0, ,38.3,25.1,84,36,2.74,28.73
+KALUMBURU,26/11/2018,8.2,0.0, ,40.0,25.9,73,30,3.17,27.47
+KALUMBURU,27/11/2018,8.0,0.0, ,41.0,25.3,77,28,2.82,27.33
+KALUMBURU,28/11/2018, ,0.0, , ,27.2,71,31,2.70,19.91
+KALUMBURU,29/11/2018, , , ,37.1, ,75,38,2.65,20.58
+KALUMBURU,30/11/2018,7.4,0.0, ,39.3,25.7,84,31,2.78,25.75
+Totals:,,190.1,2.6, ,,,,,, 

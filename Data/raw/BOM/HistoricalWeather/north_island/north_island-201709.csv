@@ -1,0 +1,27 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NORTH ISLAND Western Australia for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 14 September 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NORTH ISLAND,01/09/2017, , , ,21.1,15.3,81,48,8.48, 
+NORTH ISLAND,02/09/2017, ,1.2, ,18.5,13.3,76,53,8.36, 
+NORTH ISLAND,03/09/2017, ,0.4, ,18.9,13.8,66,48,9.35, 
+NORTH ISLAND,04/09/2017, ,0.0, ,21.1,14.6,71,48,9.50, 
+NORTH ISLAND,05/09/2017, ,0.0, ,24.3,16.4,78,40,7.74, 
+NORTH ISLAND,06/09/2017, ,0.0, ,22.5,18.5,83,49,6.93, 
+NORTH ISLAND,07/09/2017, ,7.0, ,23.0,14.7,85,61,6.20, 
+NORTH ISLAND,08/09/2017, ,0.2, ,24.1,17.1, , , , 
+NORTH ISLAND,09/09/2017, ,0.0, , ,10.7,95,65,2.72, 
+NORTH ISLAND,10/09/2017, , , , , , , , , 
+NORTH ISLAND,11/09/2017, , , ,22.6, , , , , 
+NORTH ISLAND,12/09/2017, ,0.0, ,22.4,16.9, , , , 
+NORTH ISLAND,13/09/2017, ,0.0, , ,16.0, , , , 
+Totals:,, ,8.8, ,,,,,, 

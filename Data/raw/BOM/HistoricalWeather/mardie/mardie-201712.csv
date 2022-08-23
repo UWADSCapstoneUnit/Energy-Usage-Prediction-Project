@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARDIE Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARDIE,01/12/2017, , , , , ,89,10,2.88,29.67
+MARDIE,02/12/2017, , , ,38.0, ,99,20,2.26,17.71
+MARDIE,03/12/2017, ,0.0, , ,27.6,90,39,1.93,5.77
+MARDIE,04/12/2017, , , ,38.7, ,78,23,3.81,20.13
+MARDIE,05/12/2017, ,0.0, , ,27.7,73,18,4.45,27.92
+MARDIE,06/12/2017, , , ,37.4, ,88,33,5.30,30.00
+MARDIE,07/12/2017, ,0.0, , ,26.2,100,46,3.85,30.44
+MARDIE,08/12/2017, , , ,33.6, ,100,46,3.01,30.44
+MARDIE,09/12/2017,6.7,0.0, ,32.1,24.3,100,53,3.71,30.43
+MARDIE,10/12/2017,7.4,0.0, ,32.4,23.2,87,36,3.69,30.42
+MARDIE,11/12/2017,7.2,0.0, ,31.7,21.7,73,40,3.31,30.49
+MARDIE,12/12/2017,8.1,0.0, ,33.3,22.7,81,37,4.82,30.51
+MARDIE,13/12/2017, ,0.0, , ,22.7,87,40,4.00,30.53
+MARDIE,14/12/2017, , , , , ,99,32,3.00,30.53
+MARDIE,15/12/2017, , , , , ,100,36,5.54,30.54
+MARDIE,16/12/2017, , , ,34.4, ,79,23,6.16,30.55
+MARDIE,17/12/2017,9.7,0.0, ,34.3,22.0,74,30,7.18,30.56
+MARDIE,18/12/2017,11.3,0.0, ,37.3,21.5,64,11,6.28,30.55
+MARDIE,19/12/2017,10.8,0.0, ,39.3,19.6,83,7,5.06,30.56
+MARDIE,20/12/2017,9.6,0.0, ,41.4,20.3,100,7,3.50,30.57
+MARDIE,21/12/2017, ,0.0, , ,21.9,93,27,2.71,30.56
+MARDIE,22/12/2017, , , ,36.9, ,99,38,2.48,30.49
+MARDIE,23/12/2017, ,0.0, , ,23.6,100,30,3.77,30.42
+MARDIE,24/12/2017, , , , , ,98,20,2.66,28.30
+MARDIE,25/12/2017, , , ,38.4, ,100,30,3.79,28.15
+MARDIE,26/12/2017,9.7,0.0, ,42.1,26.7,77,18,3.61,30.34
+Totals:,,80.5,0, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for July 2014,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 August 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/07/2014,2.2,0.0, ,18.6,9.6,80,42,3.54,6.12
+KATANNING,02/07/2014,2.3,3.8, ,14.8,12.3,89,41,5.59,5.49
+KATANNING,03/07/2014,1.3,12.0, ,12.6,2.5,87,47,1.99,10.43
+KATANNING,04/07/2014,1.7,0.0, ,16.3,2.3,90,56,3.73,10.34
+KATANNING,05/07/2014,1.7,0.8, ,18.1,6.8,92,59,3.65,8.96
+KATANNING,06/07/2014,1.6,2.8, ,15.3,11.9,89,68,6.07,3.42
+KATANNING,07/07/2014,1.4,7.0, ,13.0,7.2,89,73,7.14,4.02
+KATANNING,08/07/2014,1.5,19.2, ,11.7,4.4,90,61,5.21,9.04
+KATANNING,09/07/2014,1.0,0.6, ,12.2,5.4,92,73,2.13,7.63
+KATANNING,10/07/2014,1.4,0.8, ,13.8,7.0,88,58,2.85,9.62
+KATANNING,11/07/2014,1.0,0.0, ,12.1,6.3,89,81,3.81,5.99
+KATANNING,12/07/2014,1.2,1.2, ,13.3,7.0,91,71,3.07,7.30
+KATANNING,13/07/2014,1.5,0.2, ,14.7,4.3,91,50,2.59,11.34
+KATANNING,14/07/2014,2.1,7.8, ,13.6,7.3,89,50,5.85,9.16
+KATANNING,15/07/2014,1.7,2.8, ,14.8,5.1,88,62,4.77,9.86
+KATANNING,16/07/2014,1.5,0.2, ,13.1,7.3,90,57,3.24,9.31
+KATANNING,17/07/2014,1.2,0.0, ,14.4,5.1,90,56,1.54,10.57
+KATANNING,18/07/2014,1.4,0.2, ,15.6,1.9,92,53,1.95,11.60
+KATANNING,19/07/2014,1.4,0.0, ,15.4,3.9,89,63,2.78,10.30
+KATANNING,20/07/2014,1.3,0.0, ,15.7,7.5,87,54,1.67,8.72
+KATANNING,21/07/2014,1.7,0.2, ,15.7,6.9,92,56,3.66,9.28
+KATANNING,22/07/2014,1.6,10.2, ,12.9,7.4,90,65,4.57,10.74
+KATANNING,23/07/2014,1.7,1.4, ,13.5,6.3,91,59,4.24,10.19
+KATANNING,24/07/2014,1.7,0.6, ,14.6,7.2,92,57,3.35,10.98
+KATANNING,25/07/2014,1.6,0.4, ,16.5,7.5,90,70,5.44,6.85
+KATANNING,26/07/2014,1.6,1.2, ,14.8,11.0,89,71,6.07,6.59
+KATANNING,27/07/2014,2.0,7.4, ,16.1,7.2,90,57,5.11,9.64
+KATANNING,28/07/2014,1.7,0.2, ,16.1,8.8,91,69,4.64,10.75
+KATANNING,29/07/2014,1.8,0.2, ,15.8,9.3,91,64,4.70,8.17
+KATANNING,30/07/2014,2.4,0.0, ,16.7,11.1,87,55,6.09,10.97
+KATANNING,31/07/2014,1.7,0.4, ,10.8,5.7,80,54,3.46,11.02
+Totals:,,49.9,81.6, ,,,,,, 

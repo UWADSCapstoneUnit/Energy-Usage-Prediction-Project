@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2017,5.0,0.0, ,27.2,8.9,93,37,2.23,24.76
+ROCKY GULLY,02/02/2017,6.2,0.0, ,31.6,8.5,92,22,2.16,28.96
+ROCKY GULLY,03/02/2017,5.9,0.0, ,30.2,11.7,92,39,2.44,28.51
+ROCKY GULLY,04/02/2017,4.3,0.0, ,24.3,14.9,92,45,2.59,20.79
+ROCKY GULLY,05/02/2017,4.3,0.0, ,21.1,10.4,83,43,2.85,22.55
+ROCKY GULLY,06/02/2017,6.2,0.0, ,30.0,9.3,91,24,2.68,27.91
+ROCKY GULLY,07/02/2017,4.9,0.0, ,28.0,15.3,90,43,3.50,19.86
+ROCKY GULLY,08/02/2017,4.0,0.0, ,19.6,10.9,87,35,3.83,17.39
+ROCKY GULLY,09/02/2017,2.6,0.0, ,18.1,11.0,77,51,2.99,8.42
+ROCKY GULLY,10/02/2017,1.1,22.2, ,15.6,12.6,94,78,3.33,2.10
+ROCKY GULLY,11/02/2017,1.0,7.8, ,16.7,13.6,94,87,3.59,2.21
+ROCKY GULLY,12/02/2017,3.1,3.6, ,22.2,14.0,92,60,3.49,13.69
+ROCKY GULLY,13/02/2017,3.3,0.6, ,26.1,15.3,90,57,2.21,13.96
+ROCKY GULLY,14/02/2017,3.5,12.8, ,27.2,18.3,93,61,2.29,15.66
+ROCKY GULLY,15/02/2017,2.4,1.4, ,19.1,13.0,94,60,2.44,10.38
+ROCKY GULLY,16/02/2017,4.5,0.0, ,23.4,7.4,93,45,2.18,26.95
+ROCKY GULLY,17/02/2017,4.5,0.0, ,25.7,13.2,89,38,2.62,21.00
+ROCKY GULLY,18/02/2017,5.9,0.0, ,28.8,10.4,90,20,2.69,26.63
+ROCKY GULLY,19/02/2017,6.8,0.0, ,35.0,14.1,83,20,2.88,25.40
+ROCKY GULLY,20/02/2017,4.4,0.0, ,25.5,13.7,87,40,2.71,20.37
+ROCKY GULLY,21/02/2017,3.7,3.2, ,18.0,10.4,91,48,3.47,22.30
+ROCKY GULLY,22/02/2017,3.2,1.4, ,23.2,10.9,91,49,2.01,14.90
+ROCKY GULLY,23/02/2017,4.6,0.0, ,27.8,9.0,94,33,1.87,23.62
+ROCKY GULLY,24/02/2017,6.6,0.2, ,33.1,13.6,88,18,2.99,25.33
+ROCKY GULLY,25/02/2017,7.2,0.0, ,36.7,17.3,90,13,3.00,25.24
+ROCKY GULLY,26/02/2017,5.0,0.0, ,27.0,12.9,92,37,2.55,25.15
+ROCKY GULLY,27/02/2017,3.8,0.0, ,26.9,11.1,94,44,1.59,19.04
+ROCKY GULLY,28/02/2017,5.4,0.0, ,30.5,14.2,91,32,2.42,24.14
+Totals:,,123.4,53.2, ,,,,,, 

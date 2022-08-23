@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for June 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 July 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/06/2014,4.2,0.0, ,29.7,9.5,46,10,2.14,17.89
+MARBLE BAR,02/06/2014,3.5,0.0, ,29.6,8.3,49,9,1.57,17.88
+MARBLE BAR,03/06/2014,3.7,0.0, ,31.6,9.6,48,12,1.59,17.98
+MARBLE BAR,04/06/2014,5.0,0.0, ,31.0,12.2,52,16,3.07,16.61
+MARBLE BAR,05/06/2014,6.3,0.0, ,28.3,18.0,37,12,4.61,17.52
+MARBLE BAR,06/06/2014,5.6,0.0, ,27.9,13.7,43,15,4.12,17.38
+MARBLE BAR,07/06/2014,6.1,0.0, ,29.2,16.6,44,23,4.97,17.25
+MARBLE BAR,08/06/2014,5.9,0.0, ,28.7,15.0,46,16,4.60,15.39
+MARBLE BAR,09/06/2014,5.3,0.0, ,27.8,12.0,35,18,3.89,15.46
+MARBLE BAR,10/06/2014,3.7,0.0, ,29.0,12.1,41,10,1.86,15.82
+MARBLE BAR,11/06/2014,4.5,0.0, ,29.5,15.5,39,12,2.63,15.68
+MARBLE BAR,12/06/2014,5.4,0.0, ,23.8,13.3,57,25,5.80,17.46
+MARBLE BAR,13/06/2014,5.7,0.0, ,22.3,11.2,53,19,6.67,17.59
+MARBLE BAR,14/06/2014,5.2,0.0, ,23.2,11.9,52,19,5.16,17.65
+MARBLE BAR,15/06/2014,4.9,0.0, ,24.1,10.9,54,20,4.39,17.43
+MARBLE BAR,16/06/2014,4.5,0.0, ,24.6,7.3,57,15,3.52,17.15
+MARBLE BAR,17/06/2014,4.0,0.0, ,24.7,10.7,49,19,2.81,17.12
+MARBLE BAR,18/06/2014,2.6,0.0, ,27.5,13.7,42,12,0.95,16.90
+MARBLE BAR,19/06/2014,4.0,0.0, ,27.8,7.8,49,14,2.33,17.46
+MARBLE BAR,20/06/2014,4.5,0.0, ,27.7,10.8,52,11,2.91,17.46
+MARBLE BAR,21/06/2014,3.6,0.0, ,31.7,8.6,50,17,1.60,17.00
+MARBLE BAR,22/06/2014,3.7,0.0, ,31.5,16.3,56,24,1.93,14.40
+MARBLE BAR,23/06/2014,2.5,0.2, ,16.9,16.8,87,38,4.30,4.66
+MARBLE BAR,24/06/2014,4.0,0.8, ,22.5,12.3,53,28,3.92,11.24
+MARBLE BAR,25/06/2014,5.0,0.0, ,28.5,15.3,33,17,3.25,16.32
+MARBLE BAR,26/06/2014,4.0,0.0, ,28.9,13.3,44,16,2.20,16.70
+MARBLE BAR,27/06/2014,4.5,0.0, ,28.9,12.2,56,20,2.92,16.50
+MARBLE BAR,28/06/2014,5.2,0.0, ,23.6,11.8,48,13,4.51,17.32
+MARBLE BAR,29/06/2014,4.8,0.0, ,23.0,8.3,43,15,4.08,17.27
+MARBLE BAR,30/06/2014,4.9,0.0, ,25.2,10.4,39,11,3.63,16.89
+Totals:,,136.8,1, ,,,,,, 

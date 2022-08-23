@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/02/2009,8.0,0.0, ,34.6,18.0,88,30,4.22,29.97
+KATANNING,02/02/2009,9.9,0.0, ,39.6,19.8,100,13,4.93,29.03
+KATANNING,03/02/2009,7.8,0.0, ,32.6,18.2,92,27,4.47,30.59
+KATANNING,04/02/2009,7.0,0.0, ,27.2,15.8,83,30,5.51,29.20
+KATANNING,05/02/2009,7.8,0.0, ,29.0,9.9,83,15,4.82,30.99
+KATANNING,06/02/2009,7.1,0.0, ,27.0,14.9,73,24,4.89,28.67
+KATANNING,07/02/2009,6.4,0.0, ,23.7,12.0,83,27,5.20,29.86
+KATANNING,08/02/2009,7.9,0.0, ,27.7,10.7,71,24,6.10,31.48
+KATANNING,09/02/2009,8.2,0.0, ,28.1,13.3,78,25,7.35,31.21
+KATANNING,10/02/2009,8.8,0.0, ,30.2,13.3,74,19,6.90,29.38
+KATANNING,11/02/2009,9.3,0.0, ,34.8,13.6,80,12,4.85,30.77
+KATANNING,12/02/2009,11.3,0.0, ,38.7,21.2,84,10,7.50,24.37
+KATANNING,13/02/2009,2.1,1.2, ,17.9,14.8,91,78,7.34,8.76
+KATANNING,14/02/2009,2.8,3.4, ,23.9,14.8,92,71,7.78,8.35
+KATANNING,15/02/2009,10.7,1.8, ,37.1,17.5,77,9,6.23,28.40
+KATANNING,16/02/2009,7.3,0.0, ,30.2,15.4,89,24,4.99,27.91
+KATANNING,17/02/2009, ,0.0, ,26.2,12.6,89,33,6.00, 
+KATANNING,18/02/2009, ,0.0, ,25.4,11.5,86,30,6.12, 
+KATANNING,19/02/2009,7.4,0.0, ,27.7,12.5,79,25,5.90,29.43
+KATANNING,20/02/2009,8.2,0.0, ,30.3,12.9,83,20,5.79,29.88
+KATANNING,21/02/2009,9.3,0.0, ,36.7,11.9,89,15,5.18,27.35
+KATANNING,22/02/2009,7.0,0.8, ,26.5,15.4,84,30,6.59,28.79
+KATANNING,23/02/2009,7.3,0.0, ,29.6,10.6,83,24,5.46,26.84
+KATANNING,24/02/2009,5.8,5.6, ,27.8,15.4,88,35,5.54,19.57
+KATANNING,25/02/2009,4.8,0.0, ,24.9,11.9,88,38,5.08,16.94
+KATANNING,26/02/2009,5.0,4.0, ,21.7,9.1,89,38,5.22,25.26
+KATANNING,27/02/2009,5.7,0.0, ,26.8,7.8,87,29,3.37,27.98
+KATANNING,28/02/2009,7.3,0.0, ,30.2,12.9,89,29,7.18,22.42
+Totals:,,190.2,16.8, ,,,,,, 

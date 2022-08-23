@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BEDOUT ISLAND Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BEDOUT ISLAND,01/02/2018, , , ,31.3, ,100,72,5.04,27.67
+BEDOUT ISLAND,02/02/2018,6.8, , ,32.4,24.8,83,70,8.63,28.59
+BEDOUT ISLAND,03/02/2018,8.3, , ,32.8,27.2,75,54,7.93,29.37
+BEDOUT ISLAND,04/02/2018,7.3, , ,31.9,26.7,79,60,6.16,29.29
+BEDOUT ISLAND,05/02/2018,7.6, , ,32.1,26.2,78,50,5.60,29.25
+BEDOUT ISLAND,06/02/2018,6.9, , ,32.5,26.3,79,63,7.22,25.29
+BEDOUT ISLAND,07/02/2018,7.2, , ,32.8,27.5,87,64,7.87,29.04
+BEDOUT ISLAND,08/02/2018,6.4, , ,33.0,27.7,87,64,7.99,22.63
+BEDOUT ISLAND,09/02/2018,7.0, , ,33.1,27.6,86,66,5.87,28.94
+BEDOUT ISLAND,10/02/2018,6.5, , ,33.3,28.0,88,68,4.34,27.90
+BEDOUT ISLAND,11/02/2018,6.9, , ,33.5,28.1,87,65,5.58,28.46
+BEDOUT ISLAND,12/02/2018,6.3, , ,33.3,28.6,87,71,8.27,24.33
+BEDOUT ISLAND,13/02/2018,6.3, , ,32.8,28.2,90,76,9.34,27.88
+BEDOUT ISLAND,14/02/2018,6.4, , ,33.7,28.3,96,73,7.50,28.44
+BEDOUT ISLAND,15/02/2018,5.2, , ,32.9,28.4,100,80,6.81,24.80
+BEDOUT ISLAND,16/02/2018,6.5, , ,34.0,27.8,93,65,8.44,24.62
+BEDOUT ISLAND,17/02/2018,3.6, , ,30.6,26.6,100,70,13.72,7.93
+BEDOUT ISLAND,18/02/2018,5.1, , ,32.9,24.5,100,68,9.90,18.40
+BEDOUT ISLAND,19/02/2018,5.7, , ,31.2,24.6,100,71,10.66,27.34
+BEDOUT ISLAND,20/02/2018,6.9, , ,31.6,26.9,82,64,10.80,23.83
+BEDOUT ISLAND,21/02/2018,6.0, , ,32.8,27.0,85,66,6.67,21.83
+BEDOUT ISLAND,22/02/2018,6.5, , ,32.3,27.3,87,67,5.83,27.69
+BEDOUT ISLAND,23/02/2018,6.8, , ,32.8,27.3,88,64,6.58,27.45
+BEDOUT ISLAND,24/02/2018,6.8, , ,32.6,27.5,85,67,7.33,27.66
+BEDOUT ISLAND,25/02/2018,7.0, , ,32.3,27.6,85,65,8.64,27.55
+BEDOUT ISLAND,26/02/2018,6.9, , ,31.9,27.4,85,66,9.19,27.25
+BEDOUT ISLAND,27/02/2018,6.6, , ,32.3,27.0,86,68,7.48,27.21
+BEDOUT ISLAND,28/02/2018,5.7, , ,32.3,27.0,89,71,6.38,23.75
+Totals:,,175.2, , ,,,,,, 

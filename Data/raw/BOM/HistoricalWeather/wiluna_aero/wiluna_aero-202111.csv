@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WILUNA AERO Western Australia for November 2021,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 December 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WILUNA AERO,01/11/2021,11.6,0.0, ,35.6,25.5,33,8,6.68,27.44
+WILUNA AERO,02/11/2021,8.8,0.0, ,30.5,17.5,40,14,5.12,28.78
+WILUNA AERO,03/11/2021,9.5,0.0, ,35.0,15.1,29,13,4.62,28.42
+WILUNA AERO,04/11/2021,10.4,0.0, ,38.9,20.2,44,6,4.97,24.61
+WILUNA AERO,05/11/2021,10.6,0.0, ,36.0,19.0,27,10,5.45,28.65
+WILUNA AERO,06/11/2021,7.2,0.0, ,31.8,20.1,63,18,4.30,19.48
+WILUNA AERO,07/11/2021,8.1,0.0, ,35.3,19.0,81,21,4.84,23.59
+WILUNA AERO,08/11/2021,9.1,0.0, ,36.1,18.6,91,6,4.59,28.04
+WILUNA AERO,09/11/2021,9.1,0.0, ,30.1,17.9,68,14,6.44,29.10
+WILUNA AERO,10/11/2021, ,2.6, , ,13.7,92,40,6.51,18.16
+WILUNA AERO,11/11/2021, , , ,26.1, ,84,13,4.60,29.62
+WILUNA AERO,12/11/2021,7.6,0.0, ,28.7,10.4,43,11,3.82,29.76
+WILUNA AERO,13/11/2021,8.4,0.0, ,31.8,15.3,34,9,3.79,29.83
+WILUNA AERO,14/11/2021,10.8,0.0, ,34.4,19.3,28,8,5.81,29.29
+WILUNA AERO,15/11/2021,10.0,0.0, ,38.2,18.3,25,7,4.26,27.24
+WILUNA AERO,16/11/2021,9.6,0.0, ,38.0,25.4,25,8,4.57,19.11
+WILUNA AERO,17/11/2021,10.3,0.0, ,39.4,19.5,47,13,4.95,25.98
+WILUNA AERO,18/11/2021,5.8,1.6, ,31.0,23.0,75,29,4.72,12.12
+WILUNA AERO,19/11/2021,5.0,1.6, ,26.7,19.9,77,36,4.22,14.76
+WILUNA AERO,20/11/2021,8.3,0.4, ,31.8,16.6,82,21,5.20,29.55
+WILUNA AERO,21/11/2021,4.9,0.0, ,28.6,19.4,95,33,5.37,10.86
+WILUNA AERO,22/11/2021,4.7,22.2, ,26.8,16.9,96,36,3.96,15.99
+WILUNA AERO,23/11/2021,7.0,2.6, ,28.6,14.5,90,27,4.32,30.21
+WILUNA AERO,24/11/2021,8.1,0.0, ,30.4,14.4,71,20,4.67,30.40
+WILUNA AERO,25/11/2021,10.0,0.0, ,32.6,17.9,44,9,5.54,30.58
+WILUNA AERO,26/11/2021,9.1,0.0, ,32.2,18.3,54,16,4.90,30.66
+WILUNA AERO,27/11/2021,9.6,0.0, ,33.4,18.5,41,12,4.83,30.71
+WILUNA AERO,28/11/2021,8.9,0.0, ,35.7,18.5,42,8,3.41,30.75
+WILUNA AERO,29/11/2021,9.4,0.0, ,38.5,19.3,32,6,3.34,30.79
+WILUNA AERO,30/11/2021, ,0.0, , ,21.3,28,7,4.38,30.79
+Totals:,,231.9,31, ,,,,,, 

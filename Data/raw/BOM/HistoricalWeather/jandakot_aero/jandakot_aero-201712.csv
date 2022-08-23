@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for JANDAKOT AERO Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+JANDAKOT AERO,01/12/2017,7.9,0.0, ,27.3,12.9,80,19,5.80,31.35
+JANDAKOT AERO,02/12/2017,9.6,0.0, ,34.3,12.2,87,12,5.26,31.31
+JANDAKOT AERO,03/12/2017,8.9,0.0, ,35.6,19.8,93,12,6.11,19.58
+JANDAKOT AERO,04/12/2017,2.1,6.4, ,24.8,18.8,96,70,2.96,6.71
+JANDAKOT AERO,05/12/2017,6.0,0.2, ,26.9,17.7,95,49,4.95,28.52
+JANDAKOT AERO,06/12/2017,8.2,0.0, ,28.9,14.9,75,24,5.85,31.74
+JANDAKOT AERO,07/12/2017,8.2,0.0, ,29.3,14.4,76,23,5.60,31.76
+JANDAKOT AERO,08/12/2017,10.8,0.0, ,35.6,15.8,50,10,5.63,30.68
+JANDAKOT AERO,09/12/2017,7.6,0.0, ,34.1,21.4,70,12,4.96,13.25
+JANDAKOT AERO,10/12/2017,8.9,0.0, ,37.0,16.5,77,21,3.79,31.23
+JANDAKOT AERO,11/12/2017,8.3,0.0, ,36.8,18.1,88,21,3.69,28.48
+JANDAKOT AERO,12/12/2017,6.7,0.0, ,28.1,18.3,96,45,5.58,31.14
+JANDAKOT AERO,13/12/2017,6.1,0.0, ,25.2,13.4,84,41,5.92,26.27
+JANDAKOT AERO,14/12/2017,7.1,0.0, ,27.0,13.4,83,35,5.39,31.99
+JANDAKOT AERO,15/12/2017,7.4,0.0, ,28.9,14.7,83,34,5.23,31.02
+JANDAKOT AERO,16/12/2017,6.9,0.0, ,27.7,14.6,87,38,5.31,31.09
+JANDAKOT AERO,17/12/2017,4.4,4.4, ,21.6,14.8,96,59,9.56,21.89
+JANDAKOT AERO,18/12/2017,4.1,10.4, ,21.3,13.0,94,61,8.97,20.62
+JANDAKOT AERO,19/12/2017,6.0,5.8, ,23.3,11.2,94,37,5.26,31.74
+JANDAKOT AERO,20/12/2017,7.6,0.0, ,28.9,13.4,83,30,5.04,31.98
+JANDAKOT AERO,21/12/2017,9.4,0.0, ,35.0,14.6,91,12,4.60,32.02
+JANDAKOT AERO,22/12/2017,8.1,0.0, ,31.3,18.7,87,25,4.67,31.91
+JANDAKOT AERO,23/12/2017,8.3,0.0, ,30.9,16.6,83,29,5.59,31.97
+JANDAKOT AERO,24/12/2017,10.3,0.0, ,34.3,17.4,65,19,6.28,31.92
+JANDAKOT AERO,25/12/2017,8.3,0.0, ,31.8,19.2,88,26,4.96,31.97
+JANDAKOT AERO,26/12/2017,6.5,0.0, ,26.4,16.0,92,41,5.22,31.13
+Totals:,,193.7,27.2, ,,,,,, 

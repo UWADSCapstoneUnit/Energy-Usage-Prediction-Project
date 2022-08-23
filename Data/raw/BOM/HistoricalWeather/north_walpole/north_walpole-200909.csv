@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NORTH WALPOLE Western Australia for September 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NORTH WALPOLE,01/09/2009,2.8,1.0, ,16.7,10.2,93,55,7.91,12.91
+NORTH WALPOLE,02/09/2009,2.8,6.4, ,12.8,6.9,86,49,6.98,16.81
+NORTH WALPOLE,03/09/2009,1.5,2.0, ,12.8,7.6,95,71,2.30,10.74
+NORTH WALPOLE,04/09/2009,2.6,0.2, ,16.9,7.1,94,51,3.80,16.73
+NORTH WALPOLE,05/09/2009,2.0,6.8, ,11.5,7.6,94,63,7.94,11.75
+NORTH WALPOLE,06/09/2009,2.2,10.8, ,16.4,7.8,94,65,4.45,14.19
+NORTH WALPOLE,07/09/2009,2.2,0.6, ,17.4,10.0,94,68,5.72,11.98
+NORTH WALPOLE,08/09/2009,2.8,15.6, ,17.8,5.5,96,54,3.33,20.55
+NORTH WALPOLE,09/09/2009,2.9,1.8, ,16.9,10.5,96,53,5.70,17.55
+NORTH WALPOLE,10/09/2009, ,2.8, , ,11.8,94,63,8.94,9.33
+NORTH WALPOLE,11/09/2009, , , , , , , , ,13.57
+NORTH WALPOLE,12/09/2009, , , , , , , , ,18.14
+NORTH WALPOLE,13/09/2009, , , , , , , , ,17.15
+NORTH WALPOLE,14/09/2009, , , , , , , , ,15.88
+NORTH WALPOLE,15/09/2009, , , , , , , , ,18.54
+NORTH WALPOLE,16/09/2009, , , , , , , , ,17.49
+NORTH WALPOLE,17/09/2009, , , , , , , , ,18.87
+NORTH WALPOLE,18/09/2009, , , , , , , , ,17.39
+NORTH WALPOLE,19/09/2009, , , , , , , , ,16.09
+NORTH WALPOLE,20/09/2009, , , , , , , , ,14.48
+NORTH WALPOLE,21/09/2009, , , , , , , , ,14.77
+NORTH WALPOLE,22/09/2009, , , , , , , , ,17.05
+NORTH WALPOLE,23/09/2009, , , , , , , , ,21.00
+NORTH WALPOLE,24/09/2009, , , ,13.9, ,92,56,7.49,19.05
+NORTH WALPOLE,25/09/2009,2.9,0.8, ,14.0,8.6,81,53,3.26,19.79
+NORTH WALPOLE,26/09/2009,3.3,0.0, ,18.4,3.4,94,45,2.06,24.12
+NORTH WALPOLE,27/09/2009,4.5,0.0, ,22.5,5.7,87,36,4.35,21.64
+NORTH WALPOLE,28/09/2009,2.6,5.8, ,13.7,9.4,96,63,3.85,19.06
+NORTH WALPOLE,29/09/2009,2.4,12.2, ,13.0,5.8,95,62,4.61,17.27
+NORTH WALPOLE,30/09/2009,2.7,1.4, ,14.3,7.1,95,58,2.92,20.23
+Totals:,,40.2,68.2, ,,,,,, 

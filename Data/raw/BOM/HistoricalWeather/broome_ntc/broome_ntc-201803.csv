@@ -1,0 +1,38 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for March 2018,,,,,,,,,,
+Issued at 06:31 GMT on Sunday 25 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/03/2018,7.4, , ,29.4,24.3,17,15,3.35,23.58
+BROOME NTC,02/03/2018,9.2, , ,29.7,28.2,16,15,4.48,27.23
+BROOME NTC,03/03/2018,9.1, , ,30.2,28.0,16,14,4.50,26.33
+BROOME NTC,04/03/2018,10.5, , ,30.8,28.8,16,14,5.84,25.85
+BROOME NTC,05/03/2018, , , , ,27.5,100,12,4.64,24.51
+BROOME NTC,06/03/2018, , , ,30.6, ,22,14,7.06,26.54
+BROOME NTC,07/03/2018, , , , ,22.1,100,14,4.21,27.04
+BROOME NTC,08/03/2018, , , , , ,100,9,3.78,26.82
+BROOME NTC,09/03/2018, , , , , , , , ,26.85
+BROOME NTC,10/03/2018, , , ,30.7, ,19,14,4.23,26.80
+BROOME NTC,11/03/2018,9.3, , ,30.4,25.1,20,14,5.42,22.72
+BROOME NTC,12/03/2018, , , , ,24.3,100,11,5.00,26.60
+BROOME NTC,13/03/2018, , , ,35.5, ,15,11,4.30,26.49
+BROOME NTC,14/03/2018,8.1, , ,33.9,28.6,16,12,3.18,26.39
+BROOME NTC,15/03/2018,8.3, , ,33.9,29.0,15,12,3.36,26.28
+BROOME NTC,16/03/2018,8.0, , ,33.2,28.4,15,12,3.21,26.19
+BROOME NTC,17/03/2018,9.7, , ,32.2,27.4,17,13,5.03,26.01
+BROOME NTC,18/03/2018, , , , ,29.3, , , ,25.97
+BROOME NTC,19/03/2018, , , ,32.8, ,15,12,7.64,16.89
+BROOME NTC,20/03/2018,8.8, , ,33.0,27.9,16,12,4.55,19.01
+BROOME NTC,21/03/2018,8.7, , ,31.1,28.1,16,14,4.35,23.84
+BROOME NTC,22/03/2018,10.4, , ,31.7,28.3,16,13,5.89,25.39
+BROOME NTC,23/03/2018,11.2, , ,31.2,28.8,15,14,6.85,25.37
+BROOME NTC,24/03/2018,9.0, , ,31.6,29.7,15,13,4.38,25.05
+Totals:,,127.7, , ,,,,,, 

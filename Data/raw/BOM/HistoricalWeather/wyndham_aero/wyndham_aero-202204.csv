@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WYNDHAM AERO Western Australia for April 2022,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 27 April 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WYNDHAM AERO,01/04/2022,7.3,0.0, ,38.7,23.0,80,22,3.05,24.37
+WYNDHAM AERO,02/04/2022,6.3,0.0, ,38.8,23.7,78,21,1.96,24.20
+WYNDHAM AERO,03/04/2022,6.7,0.0, ,38.3,24.4,92,21,2.69,23.73
+WYNDHAM AERO,04/04/2022,6.7,0.0, ,39.8,22.8,81,14,2.24,24.03
+WYNDHAM AERO,05/04/2022,6.3,0.0, ,40.1,22.9,79,21,1.92,23.90
+WYNDHAM AERO,06/04/2022,6.8,0.0, ,39.5,25.1,87,35,3.09,22.93
+WYNDHAM AERO,07/04/2022,6.5,0.0, ,39.4,25.2,84,31,2.48,23.32
+WYNDHAM AERO,08/04/2022,7.2,0.0, ,40.1,24.8,92,18,2.98,23.05
+WYNDHAM AERO,09/04/2022,6.6,0.0, ,39.1,23.1,77,15,2.42,22.90
+WYNDHAM AERO,10/04/2022,6.7,0.0, ,39.6,21.0,76,13,2.40,22.98
+WYNDHAM AERO,11/04/2022,6.7,0.0, ,40.6,20.1,70,12,2.29,23.09
+WYNDHAM AERO,12/04/2022,7.2,0.0, ,40.9,22.8,59,19,2.72,22.92
+WYNDHAM AERO,13/04/2022,5.1,38.8, ,33.7,23.1,96,51,3.32,19.73
+WYNDHAM AERO,14/04/2022,5.7,22.6, ,34.2,23.1,96,49,4.39,20.90
+WYNDHAM AERO,15/04/2022,5.6,7.4, ,35.9,22.6,94,47,2.70,23.01
+WYNDHAM AERO,16/04/2022,5.5,0.0, ,36.8,25.4,90,39,2.15,21.79
+WYNDHAM AERO,17/04/2022,6.0,0.0, ,37.5,25.9,88,38,2.45,22.66
+WYNDHAM AERO,18/04/2022,6.2,0.0, ,38.1,26.1,89,31,2.66,22.13
+WYNDHAM AERO,19/04/2022,6.1,0.0, ,37.9,25.9,83,36,2.54,22.59
+WYNDHAM AERO,20/04/2022,6.2,0.0, ,37.2,26.3,92,39,3.19,21.95
+WYNDHAM AERO,21/04/2022,6.3,0.0, ,36.6,24.6,86,26,2.92,22.40
+WYNDHAM AERO,22/04/2022,6.5,0.0, ,36.5,21.3,86,21,3.13,22.31
+WYNDHAM AERO,23/04/2022,5.7,0.0, ,36.5,19.5,80,21,2.22,22.18
+WYNDHAM AERO,24/04/2022, ,0.0, , ,20.4,78,20,2.65,22.06
+WYNDHAM AERO,25/04/2022, , , , , , , , ,21.96
+WYNDHAM AERO,26/04/2022, , , , , , , , ,21.50
+Totals:,,145.9,68.8, ,,,,,, 

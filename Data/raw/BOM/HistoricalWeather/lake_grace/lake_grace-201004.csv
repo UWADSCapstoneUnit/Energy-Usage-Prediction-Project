@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for April 2010,,,,,,,,,,
+Issued at 04:44 GMT on Monday 26 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/04/2010,6.2,0.0, ,28.2,14.9,83,30,6.18,21.50
+LAKE GRACE,02/04/2010,5.1,0.0, ,28.3,17.2,93,41,5.41,19.02
+LAKE GRACE,03/04/2010,2.6,13.0, ,20.3,15.8,94,58,2.91,13.39
+LAKE GRACE,04/04/2010,4.3,0.0, ,22.2,10.6,87,39,5.65,18.46
+LAKE GRACE,05/04/2010,3.7,0.0, ,22.3,10.2,97,37,2.68,21.61
+LAKE GRACE,06/04/2010,2.3,0.0, ,22.3,13.3,100,55,1.86,12.12
+LAKE GRACE,07/04/2010,2.9,0.0, ,27.3,11.4,100,97,2.52,21.76
+LAKE GRACE,08/04/2010,4.5,0.0, ,27.6,13.1,100,30,3.10,21.46
+LAKE GRACE,09/04/2010,4.2,0.0, ,23.6,14.9,89,37,3.75,21.01
+LAKE GRACE,10/04/2010,4.0,0.0, ,21.3,8.8,89,31,3.48,21.68
+LAKE GRACE,11/04/2010,4.8,0.0, ,27.1,9.8,97,29,3.93,21.03
+LAKE GRACE,12/04/2010,6.0,0.0, ,28.6,15.1,88,30,6.75,18.70
+LAKE GRACE,13/04/2010,4.6,3.2, ,28.0,12.0,94,27,3.22,20.47
+LAKE GRACE,14/04/2010,5.3,0.0, ,25.3,13.4,81,32,6.36,18.99
+LAKE GRACE,15/04/2010,4.1,0.0, ,23.6,13.6,82,39,4.63,17.81
+LAKE GRACE,16/04/2010,3.3,0.2, ,23.9,9.6,98,37,2.50,18.80
+LAKE GRACE,17/04/2010,3.3,0.0, ,23.5,10.3,97,40,2.65,18.63
+LAKE GRACE,18/04/2010,4.9,0.0, ,28.8,12.8,88,26,3.68,19.81
+LAKE GRACE,19/04/2010,4.9,0.0, ,32.1,15.6,70,27,2.88,19.35
+LAKE GRACE,20/04/2010,4.4,0.0, ,29.5,14.9,84,31,2.83,19.46
+LAKE GRACE,21/04/2010,3.6,0.0, ,24.6,13.0,94,40,3.44,18.01
+LAKE GRACE,22/04/2010,2.3,0.0, ,19.1,15.3,76,62,2.93,10.66
+LAKE GRACE,23/04/2010,3.1,0.0, ,20.6,7.7,93,33,3.14,16.88
+LAKE GRACE,24/04/2010,3.1,0.0, ,20.7,4.8,88,28,2.23,19.11
+LAKE GRACE,25/04/2010,4.2,0.0, ,26.0,6.4,81,20,2.95,18.73
+LAKE GRACE,26/04/2010,3.5,0.0, ,21.5,12.0,88,34,3.39,18.83
+LAKE GRACE,27/04/2010,2.8,0.0, ,22.9,5.9,100,32,1.64,18.54
+LAKE GRACE,28/04/2010,3.0,0.0, ,27.0,5.8,100,31,1.39,18.64
+LAKE GRACE,29/04/2010,4.8,0.0, ,30.6,10.9,53,15,2.75,18.16
+LAKE GRACE,30/04/2010,3.4,0.0, ,24.6,11.1,97,40,3.32,17.64
+Totals:,,119.2,16.4, ,,,,,, 

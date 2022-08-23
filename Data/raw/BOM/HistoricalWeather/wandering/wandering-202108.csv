@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for August 2021,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 September 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/08/2021,1.5,19.8, ,11.5,6.0,93,67,4.28,11.45
+WANDERING,02/08/2021,1.5,3.6, ,14.5,0.9,98,57,2.26,11.27
+WANDERING,03/08/2021,1.3,0.0, ,15.3,3.5,98,62,1.38,11.30
+WANDERING,04/08/2021,1.6,0.0, ,15.8,1.4,100,50,1.73,12.90
+WANDERING,05/08/2021,1.7,0.2, ,17.0,-0.4,98,45,1.49,14.39
+WANDERING,06/08/2021,2.1,0.0, ,18.7,-0.8,98,42,2.08,14.51
+WANDERING,07/08/2021,2.0,0.0, ,17.2,1.6,98,43,3.03,7.95
+WANDERING,08/08/2021, ,1.6, , ,10.6,98,68,5.17,8.38
+WANDERING,09/08/2021,2.2, , ,16.0,10.6,95,59,5.63,11.32
+WANDERING,10/08/2021,1.5,21.0, ,11.1,5.9,96,61,3.42,9.98
+WANDERING,11/08/2021,1.7,2.2, ,15.4,1.3,100,52,2.61,10.41
+WANDERING,12/08/2021,1.3,0.4, ,14.3,4.3,100,71,1.28,11.10
+WANDERING,13/08/2021,2.0,2.4, ,17.7,5.7,100,41,1.65,15.32
+WANDERING,14/08/2021,1.8,0.0, ,18.1,0.6,99,55,1.50,15.44
+WANDERING,15/08/2021,2.0,0.2, ,18.4,2.5,100,49,1.72,14.45
+WANDERING,16/08/2021,2.2,0.2, ,20.0,2.4,100,45,1.76,15.79
+WANDERING,17/08/2021,2.9,0.8, ,24.0,5.8,99,41,2.44,15.85
+WANDERING,18/08/2021, ,0.2, , ,7.2,100,47,2.27,13.53
+WANDERING,19/08/2021, , , , , ,100,68,3.17,10.79
+WANDERING,20/08/2021, , , ,16.4, ,100,61,2.39,13.55
+WANDERING,21/08/2021,2.0,1.2, ,17.2,7.9,100,63,3.16,12.72
+WANDERING,22/08/2021,1.8,1.2, ,14.0,7.3,97,52,2.23,11.61
+WANDERING,23/08/2021,1.9,0.0, ,14.5,-0.3,99,54,2.01,15.66
+WANDERING,24/08/2021,2.5,0.0, ,16.9,0.9,99,37,2.64,16.95
+WANDERING,25/08/2021,2.9,0.0, ,20.3,3.3,98,41,3.03,17.10
+WANDERING,26/08/2021,1.9,0.6, ,16.1,6.7,100,64,3.12,13.00
+WANDERING,27/08/2021,2.2,2.8, ,15.7,3.0,98,48,2.58,15.14
+WANDERING,28/08/2021,1.9,0.2, ,16.7,2.7,100,56,2.37,12.36
+WANDERING,29/08/2021,2.1,1.0, ,16.8,9.7,100,60,3.05,12.77
+WANDERING,30/08/2021,2.0,2.0, ,17.1,11.2,98,67,3.59,11.22
+WANDERING,31/08/2021,2.7,3.8, ,19.1,11.5,96,59,3.76,16.37
+Totals:,,53.2,65.4, ,,,,,, 

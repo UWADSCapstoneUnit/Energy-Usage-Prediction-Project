@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for March 2016,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 April 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/03/2016,5.7,0.0, ,26.8,16.8,78,27,3.45,24.71
+LAKE GRACE,02/03/2016,6.2,0.0, ,31.0,11.7,83,28,3.59,24.42
+LAKE GRACE,03/03/2016,7.6,0.0, ,36.0,14.4,86,17,3.93,23.59
+LAKE GRACE,04/03/2016,6.1,0.0, ,27.1,16.6,82,30,5.20,22.28
+LAKE GRACE,05/03/2016,3.4,0.0, ,24.5,14.2,95,53,4.89,11.05
+LAKE GRACE,06/03/2016,4.5,0.8, ,26.3,16.8,95,42,5.20,15.50
+LAKE GRACE,07/03/2016,5.1,0.0, ,27.2,16.5,85,42,5.10,17.77
+LAKE GRACE,08/03/2016,5.8,0.0, ,30.3,15.4,92,28,3.46,23.65
+LAKE GRACE,09/03/2016,6.8,0.0, ,34.4,15.9,91,21,3.68,23.51
+LAKE GRACE,10/03/2016,8.4,0.0, ,36.2,18.8,76,15,5.52,18.64
+LAKE GRACE,11/03/2016,5.1,0.0, ,27.9,16.8,90,44,5.50,17.95
+LAKE GRACE,12/03/2016,6.8,0.0, ,33.6,17.5,85,29,4.65,22.12
+LAKE GRACE,13/03/2016,7.8,0.0, ,34.6,19.0,89,17,5.11,22.43
+LAKE GRACE,14/03/2016,7.8,0.0, ,35.6,17.7,84,22,5.19,21.86
+LAKE GRACE,15/03/2016,7.9,0.0, ,36.1,22.6,63,22,4.87,20.02
+LAKE GRACE,16/03/2016,4.8,2.2, ,25.8,19.2,90,33,4.71,15.97
+LAKE GRACE,17/03/2016, ,0.0, , ,11.0,88,33,4.89,20.67
+LAKE GRACE,18/03/2016, , , ,23.9, ,83,42,5.46,15.78
+LAKE GRACE,19/03/2016,4.8,0.0, ,27.3,13.5,77,36,4.30,15.23
+LAKE GRACE,20/03/2016,5.3,0.0, ,29.3,15.5,91,36,4.15,20.31
+LAKE GRACE,21/03/2016,5.1,0.0, ,31.5,16.8,86,36,3.93,16.09
+LAKE GRACE,22/03/2016,1.7,4.2, ,20.1,17.7,93,79,5.85,5.38
+LAKE GRACE,23/03/2016,1.1,6.8, ,17.4,15.1,96,88,5.74,3.93
+LAKE GRACE,24/03/2016,1.9,3.0, ,21.0,15.9,95,81,5.58,8.61
+LAKE GRACE,25/03/2016,3.3,0.2, ,24.0,16.6,93,63,4.65,14.67
+LAKE GRACE,26/03/2016,1.1,11.6, ,18.1,16.1,95,87,4.30,3.69
+LAKE GRACE,27/03/2016,2.2,25.0, ,18.7,12.5,95,69,5.53,10.12
+LAKE GRACE,28/03/2016,3.2,0.6, ,22.1,10.5,96,49,2.88,17.04
+LAKE GRACE,29/03/2016,3.5,0.0, ,24.4,11.2,95,43,1.76,21.49
+LAKE GRACE,30/03/2016,4.2,0.0, ,26.7,13.0,91,37,2.59,21.33
+LAKE GRACE,31/03/2016,4.5,0.0, ,28.8,13.7,89,31,2.73,20.40
+Totals:,,141.7,54.4, ,,,,,, 

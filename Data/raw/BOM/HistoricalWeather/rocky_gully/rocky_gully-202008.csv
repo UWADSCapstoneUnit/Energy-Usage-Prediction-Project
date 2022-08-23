@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for August 2020,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 September 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/08/2020,1.3,1.8, ,16.8,5.4,95,60,0.94,12.30
+ROCKY GULLY,02/08/2020,1.3,0.0, ,15.4,6.9,94,61,1.55,9.66
+ROCKY GULLY,03/08/2020,0.8,17.8, ,10.0,5.6,94,87,1.85,6.54
+ROCKY GULLY,04/08/2020,0.9,30.0, ,12.4,6.2,95,87,3.33,7.64
+ROCKY GULLY,05/08/2020,1.4,4.8, ,14.0,9.8,94,70,2.52,9.83
+ROCKY GULLY,06/08/2020,1.5,0.0, ,13.9,8.4,91,54,1.74,10.80
+ROCKY GULLY,07/08/2020,1.2,0.0, ,13.1,2.8,93,60,1.25,9.99
+ROCKY GULLY,08/08/2020,2.2,0.2, ,15.6,6.1,89,50,4.03,13.41
+ROCKY GULLY,09/08/2020,2.1,3.2, ,13.2,8.8,89,47,5.52,5.28
+ROCKY GULLY,10/08/2020,1.8,3.8, ,16.4,9.1,93,64,3.77,9.94
+ROCKY GULLY,11/08/2020,1.4,10.8, ,14.1,10.5,93,75,3.20,10.44
+ROCKY GULLY,12/08/2020,1.3,6.4, ,14.1,9.3,95,84,1.90,11.43
+ROCKY GULLY,13/08/2020,1.2,9.4, ,14.1,9.2,95,82,1.26,9.93
+ROCKY GULLY,14/08/2020,1.6,5.6, ,15.9,4.4,96,59,1.51,12.86
+ROCKY GULLY,15/08/2020,2.4,0.2, ,18.5,7.5,93,47,3.60,11.87
+ROCKY GULLY,16/08/2020,2.0,14.2, ,11.9,7.6,91,47,4.12,12.40
+ROCKY GULLY,17/08/2020,1.6,8.6, ,12.4,4.7,93,62,3.64,11.25
+ROCKY GULLY,18/08/2020,1.3,7.0, ,11.6,7.6,93,71,2.69,8.97
+ROCKY GULLY,19/08/2020,1.9,9.6, ,15.3,4.9,94,49,1.79,14.61
+ROCKY GULLY,20/08/2020,1.5,0.0, ,15.6,4.0,94,62,1.33,11.70
+ROCKY GULLY,21/08/2020,1.6,1.4, ,15.7,2.4,95,54,0.92,13.27
+ROCKY GULLY,22/08/2020,2.4,0.0, ,18.8,6.5,90,45,2.26,15.31
+ROCKY GULLY,23/08/2020,1.5,1.0, ,15.5,7.9,94,77,1.83,11.73
+ROCKY GULLY,24/08/2020,1.4,2.2, ,15.9,6.2,95,61,0.82,10.26
+ROCKY GULLY,25/08/2020,1.6,0.2, ,16.6,3.4,94,51,0.81,11.92
+ROCKY GULLY,26/08/2020,1.5,0.0, ,15.8,5.8,95,65,1.19,10.87
+ROCKY GULLY,27/08/2020,2.2,0.2, ,19.7,7.7,94,52,1.40,15.88
+ROCKY GULLY,28/08/2020,3.3,0.2, ,23.1,8.7,93,38,3.22,16.14
+ROCKY GULLY,29/08/2020,2.1,3.2, ,14.1,6.9,88,47,2.41,14.08
+ROCKY GULLY,30/08/2020,2.0,0.0, ,15.7,2.5,94,48,1.37,16.88
+ROCKY GULLY,31/08/2020,2.7,0.0, ,19.2,3.8,92,44,2.61,16.77
+Totals:,,53,141.8, ,,,,,, 

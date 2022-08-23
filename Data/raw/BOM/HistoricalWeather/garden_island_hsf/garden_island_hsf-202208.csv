@@ -1,0 +1,36 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GARDEN ISLAND HSF Western Australia for August 2022,,,,,,,,,,
+Issued at 06:30 GMT on Tuesday 23 August 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GARDEN ISLAND HSF,01/08/2022,3.1,1.8, ,19.5,11.3,97,56,12.51,8.07
+GARDEN ISLAND HSF,02/08/2022,3.4,13.2, ,16.5,10.2,88,53,16.74,10.39
+GARDEN ISLAND HSF,03/08/2022,3.1,7.4, ,16.9,10.8,89,57,14.17,11.95
+GARDEN ISLAND HSF,04/08/2022,2.4,12.4, ,15.8,12.4,91,64,9.78,11.79
+GARDEN ISLAND HSF,05/08/2022,1.4,0.8, ,14.6,8.1,96,69,3.40,8.21
+GARDEN ISLAND HSF,06/08/2022,2.2,0.8, ,17.6,11.4,98,60,5.72,11.25
+GARDEN ISLAND HSF,07/08/2022,2.8,13.8, ,18.0,12.6,92,55,7.23,12.77
+GARDEN ISLAND HSF,08/08/2022,2.8,0.0, ,17.9,14.7,90,56,10.15,5.50
+GARDEN ISLAND HSF,09/08/2022,2.0,16.6, ,13.2,8.3,92,65,9.55,9.42
+GARDEN ISLAND HSF,10/08/2022,2.0,7.2, ,16.0,7.2,91,61,3.43,14.79
+GARDEN ISLAND HSF,11/08/2022,2.2,0.0, ,17.4,8.8,94,58,3.59,15.13
+GARDEN ISLAND HSF,12/08/2022,3.2,0.2, ,20.4,10.8,85,51,5.58,15.03
+GARDEN ISLAND HSF,13/08/2022,3.3,0.0, ,18.2,14.0,96,42,9.70,5.65
+GARDEN ISLAND HSF,14/08/2022,2.7,8.8, ,19.1,12.1,89,52,3.83,14.66
+GARDEN ISLAND HSF,15/08/2022,2.6,0.0, ,20.8,12.6,98,60,5.10,14.63
+GARDEN ISLAND HSF,16/08/2022,2.7,13.2, ,18.3,15.1,98,59,10.75,10.68
+GARDEN ISLAND HSF,17/08/2022,2.4,14.8, ,15.9,11.2,95,60,10.36,7.15
+GARDEN ISLAND HSF,18/08/2022,2.2,13.4, ,16.8,4.4,98,59,4.04,14.57
+GARDEN ISLAND HSF,19/08/2022,2.3,0.0, ,17.8,12.2,92,60,3.57,14.38
+GARDEN ISLAND HSF,20/08/2022,2.4,0.0, ,18.5,10.2,90,59,3.70,14.54
+GARDEN ISLAND HSF,21/08/2022,2.6,0.0, ,17.6,9.6,92,62,5.85,16.03
+GARDEN ISLAND HSF,22/08/2022,3.3,0.0, ,17.4,9.4,86,46,6.46,16.64
+Totals:,,57.1,124.4, ,,,,,, 

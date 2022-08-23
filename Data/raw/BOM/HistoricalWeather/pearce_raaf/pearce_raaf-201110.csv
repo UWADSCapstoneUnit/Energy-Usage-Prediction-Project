@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for October 2011,,,,,,,,,,
+Issued at 22:34 GMT on Tuesday 01 November 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/10/2011,6.1,0.0, ,27.9,15.1,83,25,5.13,19.61
+PEARCE RAAF,02/10/2011,3.5,0.2, ,22.5,13.1,92,54,3.50,17.03
+PEARCE RAAF,03/10/2011,3.1,0.0, ,20.5,12.7,93,60,4.62,15.02
+PEARCE RAAF,04/10/2011,3.3,0.0, ,21.0,13.5,91,54,3.05,17.49
+PEARCE RAAF,05/10/2011,3.6,0.0, ,22.1,6.5,93,46,1.92,21.96
+PEARCE RAAF,06/10/2011,4.4,0.2, ,23.6,8.7,92,43,2.60,25.75
+PEARCE RAAF,07/10/2011, ,0.0, , ,7.0,94,47,2.69,23.78
+PEARCE RAAF,08/10/2011, , , ,22.5, ,95,57,2.00,17.23
+PEARCE RAAF,09/10/2011,5.5,0.0, ,25.6,9.6,94,34,5.77,21.58
+PEARCE RAAF,10/10/2011,6.2,0.0, ,27.2,12.8,84,33,6.53,21.14
+PEARCE RAAF,11/10/2011,4.3,1.6, ,24.1,11.3,93,48,3.10,22.74
+PEARCE RAAF,12/10/2011,3.9,0.0, ,21.9,15.0,87,48,3.98,17.41
+PEARCE RAAF,13/10/2011,4.4,0.2, ,20.3,13.3,87,44,5.36,21.56
+PEARCE RAAF,14/10/2011,4.4,1.2, ,21.6,6.7,91,52,4.28,27.07
+PEARCE RAAF,15/10/2011,5.7,0.0, ,27.6,12.9,83,32,3.87,24.02
+PEARCE RAAF,16/10/2011,9.8,0.0, ,35.5,18.9,88,14,6.83,25.75
+PEARCE RAAF,17/10/2011,3.4,0.0, ,22.4,15.1,95,56,3.78,15.69
+PEARCE RAAF,18/10/2011,3.0,7.6, ,19.5,11.0,95,53,3.72,13.40
+PEARCE RAAF,19/10/2011,4.6,5.0, ,21.0,4.9,94,31,2.56,28.89
+PEARCE RAAF,20/10/2011,6.0,0.0, ,24.4,8.1,86,21,4.11,28.99
+PEARCE RAAF,21/10/2011,8.3,0.0, ,29.0,10.2,61,16,5.84,28.64
+PEARCE RAAF,22/10/2011,4.6,0.0, ,27.2,15.0,93,26,4.34,10.27
+PEARCE RAAF,23/10/2011,4.7,3.6, ,24.0,14.9,92,49,3.82,24.10
+PEARCE RAAF,24/10/2011,5.2,0.0, ,23.4,13.8,80,47,7.04,21.42
+PEARCE RAAF,25/10/2011,3.0,30.0, ,21.7,14.2,96,63,3.61,13.97
+PEARCE RAAF,26/10/2011,2.1,0.8, ,21.5,14.0,95,66,2.13,8.03
+PEARCE RAAF,27/10/2011,4.4,9.6, ,23.2,15.1,96,54,3.33,23.75
+PEARCE RAAF,28/10/2011,5.4,0.0, ,23.1,12.1,93,35,4.93,26.31
+PEARCE RAAF,29/10/2011,7.5,0.0, ,25.0,11.7,64,30,8.10,29.59
+PEARCE RAAF,30/10/2011, ,0.0, , ,12.7,70,22,6.32,30.08
+PEARCE RAAF,31/10/2011, , , , , , , , ,28.72
+Totals:,,130.4,60, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for August 2018,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 September 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/08/2018,4.0,0.2, ,22.0,7.1,93,35,7.35,9.91
+ESPERANCE,02/08/2018,2.3,25.2, ,14.2,6.9,95,47,6.62,9.34
+ESPERANCE,03/08/2018,2.5,5.8, ,17.5,8.3,96,57,8.22,10.65
+ESPERANCE,04/08/2018,1.4,12.6, ,11.5,8.4,94,74,6.15,9.10
+ESPERANCE,05/08/2018,2.1,27.0, ,13.4,6.5,90,55,6.82,9.29
+ESPERANCE,06/08/2018,2.1,6.0, ,14.4,9.1,84,57,4.90,10.11
+ESPERANCE,07/08/2018,2.4,0.4, ,17.8,10.6,95,55,5.90,12.17
+ESPERANCE,08/08/2018,3.0,0.0, ,17.9,8.6,92,45,6.43,13.21
+ESPERANCE,09/08/2018,2.3,0.8, ,15.4,11.6,94,54,7.24,9.08
+ESPERANCE,10/08/2018,2.3,21.2, ,13.8,6.3,95,46,5.57,11.10
+ESPERANCE,11/08/2018,1.8,3.2, ,16.0,8.0,95,61,3.50,11.62
+ESPERANCE,12/08/2018,2.9,0.2, ,19.9,6.3,95,40,4.23,14.69
+ESPERANCE,13/08/2018,5.4,0.2, ,24.8,9.3,64,23,6.19,14.84
+ESPERANCE,14/08/2018,3.6,0.0, ,20.0,12.6,92,34,6.18,12.54
+ESPERANCE,15/08/2018,2.0,5.8, ,16.6,8.6,99,58,3.84,12.91
+ESPERANCE,16/08/2018,2.8,0.8, ,19.0,8.2,92,46,4.34,15.24
+ESPERANCE,17/08/2018,2.2,8.6, ,14.6,10.9,97,47,4.32,12.62
+ESPERANCE,18/08/2018,2.2,0.6, ,16.1,8.6,87,42,2.53,11.73
+ESPERANCE,19/08/2018,3.5,0.0, ,20.4,6.1,87,31,4.39,15.46
+ESPERANCE,20/08/2018,3.1,0.0, ,21.8,6.8,89,32,3.27,12.02
+ESPERANCE,21/08/2018,3.9,0.0, ,22.6,13.3,99,32,5.57,13.37
+ESPERANCE,22/08/2018,2.8,15.6, ,14.4,8.4,92,42,6.38,14.35
+ESPERANCE,23/08/2018,2.3,1.8, ,15.9,9.9,90,63,5.23,13.67
+ESPERANCE,24/08/2018,2.3,0.2, ,15.9,11.3,87,56,3.21,14.03
+ESPERANCE,25/08/2018,2.9,0.0, ,20.6,6.3,95,43,3.16,16.23
+ESPERANCE,26/08/2018,2.5,0.2, ,20.1,6.5,99,51,2.44,16.71
+ESPERANCE,27/08/2018,5.1,0.0, ,26.0,10.5,94,26,5.99,15.64
+ESPERANCE,28/08/2018,3.0,0.0, ,21.9,8.4,96,45,3.90,12.89
+ESPERANCE,29/08/2018,2.3,2.2, ,16.2,9.1,92,53,3.58,13.02
+ESPERANCE,30/08/2018,1.6,4.4, ,14.6,7.1,99,70,6.23,6.28
+ESPERANCE,31/08/2018,2.0,6.0, ,15.4,9.8,98,60,4.19,11.62
+Totals:,,84.6,149, ,,,,,, 

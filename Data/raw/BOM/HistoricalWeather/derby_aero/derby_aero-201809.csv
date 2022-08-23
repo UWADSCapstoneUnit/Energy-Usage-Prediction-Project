@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for September 2018,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 October 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/09/2018,5.4,0.0, ,30.7,14.1,89,27,2.84,23.30
+DERBY AERO,02/09/2018,5.5,0.0, ,32.8,14.9,90,32,2.64,23.35
+DERBY AERO,03/09/2018,7.1,0.0, ,37.8,16.5,91,12,3.10,23.43
+DERBY AERO,04/09/2018,8.3,0.0, ,38.1,16.2,70,12,4.03,23.48
+DERBY AERO,05/09/2018,6.9,0.0, ,35.0,18.5,76,21,3.48,23.57
+DERBY AERO,06/09/2018,6.9,0.0, ,36.2,16.5,94,17,3.33,23.73
+DERBY AERO,07/09/2018,7.0,0.0, ,36.9,15.3,84,15,3.03,23.82
+DERBY AERO,08/09/2018,8.5,0.0, ,37.3,16.1,50,9,4.00,23.85
+DERBY AERO,09/09/2018,8.6,0.0, ,38.9,15.7,64,8,3.91,23.86
+DERBY AERO,10/09/2018,7.6,0.0, ,39.2,16.9,99,8,3.12,24.08
+DERBY AERO,11/09/2018,9.2,0.0, ,39.8,16.9,86,7,4.36,24.17
+DERBY AERO,12/09/2018, ,0.0, , ,16.2,87,35,3.63,24.54
+DERBY AERO,13/09/2018, , , , , , , , ,24.73
+DERBY AERO,14/09/2018, , , , , , , , ,24.74
+DERBY AERO,15/09/2018, , , ,35.6, ,87,18,3.34,24.94
+DERBY AERO,16/09/2018,9.2,0.0, ,39.9,17.8,72,11,4.32,25.03
+DERBY AERO,17/09/2018,8.3,0.0, ,36.0,21.9,93,24,5.60,25.13
+DERBY AERO,18/09/2018,7.6,0.0, ,36.1,21.4,99,23,4.41,25.25
+DERBY AERO,19/09/2018,8.5,0.0, ,37.5,17.4,97,10,4.40,25.05
+DERBY AERO,20/09/2018,11.3,0.0, ,35.9,24.4,30,12,7.67,15.67
+DERBY AERO,21/09/2018,8.6,0.0, ,36.5,20.3,67,15,4.60,24.14
+DERBY AERO,22/09/2018,7.0,0.0, ,35.4,19.4,83,29,3.50,25.18
+DERBY AERO,23/09/2018,7.5,0.0, ,38.3,18.7,57,12,2.81,25.58
+DERBY AERO,24/09/2018, ,0.0, , ,18.4,59,8,4.24,25.63
+DERBY AERO,25/09/2018, , , ,39.0, ,70,12,3.79,25.75
+DERBY AERO,26/09/2018,6.9,0.0, ,33.4,16.4,82,36,4.23,25.61
+DERBY AERO,27/09/2018,8.1,0.0, ,34.9,22.0,98,18,4.99,26.09
+DERBY AERO,28/09/2018,8.5,0.0, ,36.6,21.2,92,12,4.47,25.82
+DERBY AERO,29/09/2018,8.3,0.0, ,36.9,21.8,91,17,4.30,26.31
+DERBY AERO,30/09/2018,7.5,0.0, ,34.7,20.8,82,30,4.37,26.24
+Totals:,,188.3,0, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANDURAH Western Australia for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANDURAH,01/11/2010, ,0.0, ,27.4,15.6,54,19,4.53, 
+MANDURAH,02/11/2010, ,0.0, ,31.0,16.6,57,15,4.30, 
+MANDURAH,03/11/2010, ,0.0, ,31.8,19.1,63,23,4.34, 
+MANDURAH,04/11/2010, ,0.0, ,24.0,17.1,89,54,4.70, 
+MANDURAH,05/11/2010, ,0.0, ,21.9,16.0,69,45,5.59, 
+MANDURAH,06/11/2010, ,0.0, ,21.1,12.6,74,45,4.62, 
+MANDURAH,07/11/2010, ,0.0, ,22.6,13.0,71,44,4.86, 
+MANDURAH,08/11/2010, ,0.0, ,24.8,15.2,74,50,4.56, 
+MANDURAH,09/11/2010, ,0.0, ,23.7,18.7,88,68,2.50, 
+MANDURAH,10/11/2010, ,0.0, ,19.7,18.2,99,75,3.60, 
+MANDURAH,11/11/2010, ,7.6, ,20.5,15.6,95,45,6.62, 
+MANDURAH,12/11/2010, ,0.0, ,20.7,11.6,73,34,4.95, 
+MANDURAH,13/11/2010, ,0.0, ,22.4,12.2,57,32,5.94, 
+MANDURAH,14/11/2010, ,0.0, ,27.4,13.6,62,22,5.63, 
+MANDURAH,15/11/2010, ,0.0, ,27.6,14.0,66,26,6.02, 
+MANDURAH,16/11/2010, ,0.0, ,28.1,14.4,66,29,5.33, 
+MANDURAH,17/11/2010,8.3,0.0, ,30.6,17.1,72,24,4.89,31.89
+MANDURAH,18/11/2010,10.3,0.0, ,34.6,19.4,46,20,5.89,31.38
+MANDURAH,19/11/2010,10.2,0.0, ,35.7,25.0,42,12,4.78,30.19
+MANDURAH,20/11/2010,5.2,0.0, ,26.7,21.7,89,24,3.43,17.84
+MANDURAH,21/11/2010,5.0,1.2, ,29.4,21.4,98,41,4.42,16.73
+MANDURAH,22/11/2010,5.4,0.4, ,26.0,19.8,100,58,6.78,27.37
+MANDURAH,23/11/2010,6.3,0.0, ,23.2,16.4,75,47,6.50,30.58
+MANDURAH,24/11/2010,6.8,0.0, ,25.0,15.2,69,41,5.37,32.51
+MANDURAH,25/11/2010,7.0,0.0, ,25.6,16.0,74,46,6.88,32.41
+MANDURAH,26/11/2010,8.7,0.0, ,29.9,16.9,69,26,6.33,31.54
+MANDURAH,27/11/2010,9.8,0.0, ,32.7,14.4,57,18,5.74,32.81
+MANDURAH,28/11/2010,10.4,0.0, ,35.5,17.9,49,12,4.89,33.06
+MANDURAH,29/11/2010,10.1,0.0, ,32.1,22.0,41,17,5.47,32.87
+MANDURAH,30/11/2010,8.7,0.0, ,30.6,21.2,72,25,4.98,33.52
+Totals:,,112.2,9.2, ,,,,,, 

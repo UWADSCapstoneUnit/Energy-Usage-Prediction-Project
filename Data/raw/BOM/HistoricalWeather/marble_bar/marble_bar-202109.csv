@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for September 2021,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 October 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/09/2021,5.9,0.0, ,35.3,14.4,65,10,2.35,21.93
+MARBLE BAR,02/09/2021,6.0,0.0, ,34.2,17.2,71,12,2.71,20.94
+MARBLE BAR,03/09/2021,7.8,0.0, ,29.9,17.8,24,13,4.84,22.00
+MARBLE BAR,04/09/2021,7.9,0.0, ,29.3,18.0,23,8,4.93,21.78
+MARBLE BAR,05/09/2021,8.9,0.0, ,30.8,15.9,25,15,6.28,22.41
+MARBLE BAR,06/09/2021,9.0,0.0, ,31.3,18.8,22,9,5.70,22.55
+MARBLE BAR,07/09/2021,7.9,0.0, ,30.9,14.5,19,5,4.46,22.63
+MARBLE BAR,08/09/2021,7.9,0.0, ,32.3,15.6,18,5,4.10,22.73
+MARBLE BAR,09/09/2021,5.5,0.0, ,34.7,12.3,28,9,1.84,22.81
+MARBLE BAR,10/09/2021,5.0,0.0, ,35.5,14.6,42,8,1.44,22.82
+MARBLE BAR,11/09/2021,6.1,0.0, ,36.2,16.9,36,7,2.15,23.10
+MARBLE BAR,12/09/2021,6.3,0.0, ,34.6,17.3,35,9,2.41,23.24
+MARBLE BAR,13/09/2021,6.4,0.0, ,33.5,18.7,50,10,2.66,23.37
+MARBLE BAR,14/09/2021,5.2,0.0, ,34.3,14.3,88,6,1.59,23.46
+MARBLE BAR,15/09/2021,7.1,0.0, ,35.1,16.5,81,8,3.40,23.11
+MARBLE BAR,16/09/2021,6.2,0.0, ,35.5,18.9,63,7,2.22,23.64
+MARBLE BAR,17/09/2021,6.8,0.0, ,33.7,16.6,39,10,2.87,23.89
+MARBLE BAR,18/09/2021,7.7,0.0, ,34.5,18.2,30,9,3.50,23.84
+MARBLE BAR,19/09/2021,6.8,0.0, ,37.3,14.0,29,6,2.43,24.12
+MARBLE BAR,20/09/2021,11.1,0.0, ,37.3,16.2,21,3,5.97,24.17
+MARBLE BAR,21/09/2021,11.2,0.0, ,35.4,22.2,25,10,6.84,24.32
+MARBLE BAR,22/09/2021,9.8,0.0, ,35.8,22.4,15,5,4.94,23.70
+MARBLE BAR,23/09/2021,6.2,0.0, ,34.3,18.9,13,3,2.25,22.27
+MARBLE BAR,24/09/2021,5.4,0.0, ,36.0,14.2,21,4,1.45,24.67
+MARBLE BAR,25/09/2021,6.9,0.0, ,36.3,14.6,52,6,2.48,24.84
+MARBLE BAR,26/09/2021,7.4,0.0, ,36.4,16.3,76,7,3.08,24.94
+MARBLE BAR,27/09/2021,6.8,0.0, ,34.1,18.4,36,9,2.61,25.07
+MARBLE BAR,28/09/2021,6.8,0.0, ,34.6,19.3,27,6,2.44,25.15
+MARBLE BAR,29/09/2021,6.5,0.0, ,37.1,15.7,30,4,2.07,25.30
+MARBLE BAR,30/09/2021,6.9,0.0, ,37.8,14.4,52,6,2.25,25.44
+Totals:,,215.4,0, ,,,,,, 

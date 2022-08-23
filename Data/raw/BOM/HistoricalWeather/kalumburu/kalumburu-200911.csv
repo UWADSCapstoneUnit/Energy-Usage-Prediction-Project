@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/11/2009,6.2,0.0, ,35.3,23.7,100,34,2.54,23.91
+KALUMBURU,02/11/2009, ,0.0, , , ,100,33,3.25,28.41
+KALUMBURU,03/11/2009, ,10.0, , , ,100,49,2.49,28.74
+KALUMBURU,04/11/2009, ,0.0, , , ,100,100,2.29,27.44
+KALUMBURU,05/11/2009, ,0.2, , , ,100,100,2.58,19.59
+KALUMBURU,06/11/2009, ,0.0, , , ,100,100,2.69,28.91
+KALUMBURU,07/11/2009, ,0.0, , , ,100,100,2.19,29.26
+KALUMBURU,08/11/2009, ,0.0, , , ,100,100,1.72,20.96
+KALUMBURU,09/11/2009, ,19.0, , , ,100,100,2.23,28.65
+KALUMBURU,10/11/2009, ,0.0, , , ,100,100,2.23,28.32
+KALUMBURU,11/11/2009, ,0.0, , , ,100,21,2.53,24.10
+KALUMBURU,12/11/2009, ,0.0, , , ,100,100,2.33, 
+KALUMBURU,13/11/2009, ,0.2, , , ,100,100,2.22,27.34
+KALUMBURU,14/11/2009, ,0.0, , , ,100,100,2.23,24.36
+KALUMBURU,15/11/2009, , , , , ,100,34,3.07,29.40
+KALUMBURU,16/11/2009, ,11.8, ,36.4, ,91,41,1.66, 
+KALUMBURU,17/11/2009, ,0.0, ,35.7,22.8,87,47,2.38, 
+KALUMBURU,18/11/2009, ,1.4, ,37.0,23.0,90,46,1.83, 
+KALUMBURU,19/11/2009, ,4.2, ,37.5,23.9,89,39,2.39, 
+KALUMBURU,20/11/2009, ,0.0, ,35.4,27.2,85,48,2.05, 
+KALUMBURU,21/11/2009, ,0.0, ,37.4,24.7,88,38,2.47, 
+KALUMBURU,22/11/2009, ,0.0, ,38.4,25.5,88,31,2.86, 
+KALUMBURU,23/11/2009, ,0.0, ,36.2,26.2,84,36,3.28, 
+KALUMBURU,24/11/2009, ,1.4, ,34.4,23.5,84,34,3.41, 
+KALUMBURU,25/11/2009, ,0.2, ,37.9,19.7,87,15,2.61, 
+KALUMBURU,26/11/2009, ,0.0, ,38.5,22.1,86,17,2.96, 
+KALUMBURU,27/11/2009, ,0.0, ,38.2,23.2,89,24,2.86, 
+KALUMBURU,28/11/2009,8.3,0.0, ,41.0,23.6,86,16,2.36,30.75
+KALUMBURU,29/11/2009,8.8,0.0, ,39.6,27.5,79,27,3.25,30.66
+KALUMBURU,30/11/2009,8.3,0.0, ,38.1,26.7,82,43,3.87,30.34
+Totals:,,31.6,48.4, ,,,,,, 

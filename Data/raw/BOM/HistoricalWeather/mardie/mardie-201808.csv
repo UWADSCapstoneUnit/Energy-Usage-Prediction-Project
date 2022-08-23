@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARDIE Western Australia for August 2018,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 September 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARDIE,01/08/2018,5.3,0.0, ,26.5,10.8,92,28,5.69,18.53
+MARDIE,02/08/2018, ,0.0, , ,13.5,57,19,7.91,18.59
+MARDIE,03/08/2018, ,0.0, ,25.4, ,66,11,3.27,18.63
+MARDIE,04/08/2018,5.0,0.0, ,26.0,7.7,66,22,3.90,18.80
+MARDIE,05/08/2018, ,0.0, , ,11.9,81,10,4.15,18.90
+MARDIE,06/08/2018, , , , , ,59,13,2.76,19.00
+MARDIE,07/08/2018, , , ,27.7, ,67,7,3.72,19.08
+MARDIE,08/08/2018, ,0.0, , ,8.2,87,6,3.17,19.21
+MARDIE,09/08/2018, , , , , ,82,9,3.62,18.37
+MARDIE,10/08/2018, , , ,26.2, ,79,12,6.56,19.37
+MARDIE,11/08/2018, ,0.0, , ,8.0,54,6,4.34,19.48
+MARDIE,12/08/2018, , , , , ,57,6,4.89,19.58
+MARDIE,13/08/2018, , , , , ,61,6,5.89,19.67
+MARDIE,14/08/2018, , , ,28.7, ,72,8,3.49,19.78
+MARDIE,15/08/2018, ,0.0, , ,9.5,100,11,2.73,19.90
+MARDIE,16/08/2018, , , ,29.5, ,100,20,2.13,20.13
+MARDIE,17/08/2018, ,0.0, , ,11.8, , , ,20.21
+MARDIE,18/08/2018, , , , , ,100,4,2.88,20.29
+MARDIE,19/08/2018, , , , , ,95,9,4.63,20.40
+MARDIE,20/08/2018, , , , , ,83,5,4.43,20.47
+MARDIE,21/08/2018, , , , , , , , ,20.61
+MARDIE,22/08/2018, , , , , ,70,15,4.27,20.73
+MARDIE,23/08/2018, , , , , ,68,9,3.17,20.83
+MARDIE,24/08/2018, , , , , ,73,7,3.50,20.91
+MARDIE,25/08/2018, , , , , ,68,12,3.37,21.02
+MARDIE,26/08/2018, , , , , ,77,11,3.12,21.16
+MARDIE,27/08/2018, , , ,32.5, ,83,9,2.80,21.28
+MARDIE,28/08/2018,7.1,0.0, ,30.4,12.1,81,15,5.32,21.32
+MARDIE,29/08/2018,5.1,0.0, ,25.3,18.3,96,38,6.63,20.00
+MARDIE,30/08/2018, ,0.0, , ,9.9,73,12,4.44,21.60
+MARDIE,31/08/2018, , , ,27.8, ,76,15,3.08,21.71
+Totals:,,22.5,0, ,,,,,, 

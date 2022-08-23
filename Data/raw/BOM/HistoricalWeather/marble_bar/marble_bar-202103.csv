@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for March 2021,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 April 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/03/2021, , , , , , , , ,25.18
+MARBLE BAR,02/03/2021, , , ,35.5, ,81,29,2.55,16.95
+MARBLE BAR,03/03/2021,4.8,0.2, ,33.1,26.3,100,49,3.31,17.11
+MARBLE BAR,04/03/2021,6.3,6.6, ,35.8,23.3,92,31,1.79,26.94
+MARBLE BAR,05/03/2021,6.8,0.2, ,37.9,24.5,79,29,2.10,26.81
+MARBLE BAR,06/03/2021,6.6,0.0, ,39.0,23.3,83,25,1.74,26.68
+MARBLE BAR,07/03/2021,7.0,0.0, ,38.5,23.6,85,24,2.36,26.55
+MARBLE BAR,08/03/2021,7.0,0.0, ,38.5,24.8,85,27,2.33,26.41
+MARBLE BAR,09/03/2021,6.9,0.0, ,39.9,25.4,78,25,2.01,25.95
+MARBLE BAR,10/03/2021,6.4,0.0, ,41.0,26.9,78,16,1.33,26.04
+MARBLE BAR,11/03/2021,6.5,0.0, ,39.5,26.4,85,29,2.40,22.25
+MARBLE BAR,12/03/2021,2.7,2.8, ,30.4,24.6,99,62,1.59,10.27
+MARBLE BAR,13/03/2021,5.4,6.4, ,34.8,23.2,93,38,2.36,20.40
+MARBLE BAR,14/03/2021,6.5,0.0, ,33.6,25.1,87,37,4.70,20.43
+MARBLE BAR,15/03/2021,8.0,0.0, ,35.2,24.2,66,27,4.36,25.48
+MARBLE BAR,16/03/2021,7.3,0.0, ,35.4,24.9,72,31,3.97,23.67
+MARBLE BAR,17/03/2021,6.7,0.4, ,36.7,24.9,87,26,2.87,23.77
+MARBLE BAR,18/03/2021,6.9,0.2, ,35.2,24.2,87,32,4.18,22.73
+MARBLE BAR,19/03/2021,6.2,0.0, ,29.9,22.0,77,39,5.95,17.98
+MARBLE BAR,20/03/2021,4.6,0.0, ,25.5,20.1,73,50,6.41,10.59
+MARBLE BAR,21/03/2021,7.4,0.0, ,33.4,20.2,74,27,4.74,24.09
+MARBLE BAR,22/03/2021,5.9,0.0, ,35.7,18.5,85,20,2.04,23.81
+MARBLE BAR,23/03/2021,5.1,0.0, ,36.9,20.3,69,21,1.05,23.98
+MARBLE BAR,24/03/2021,5.5,0.0, ,38.0,21.2,71,19,1.29,24.23
+MARBLE BAR,25/03/2021,6.1,0.0, ,37.9,22.4,68,20,1.88,24.04
+MARBLE BAR,26/03/2021,6.0,0.0, ,38.4,23.8,72,23,1.80,23.90
+MARBLE BAR,27/03/2021,6.1,0.0, ,39.5,25.6,64,23,1.82,23.18
+MARBLE BAR,28/03/2021, ,0.0, , ,26.2,67,23,1.53,17.73
+MARBLE BAR,29/03/2021, , , ,40.7, ,100,14,2.76,22.69
+MARBLE BAR,30/03/2021,8.0,0.0, ,39.7,26.7,40,17,3.39,22.85
+MARBLE BAR,31/03/2021,7.9,0.0, ,37.5,24.2,40,11,3.46,23.16
+Totals:,,170.6,16.8, ,,,,,, 

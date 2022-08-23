@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANDURAH Western Australia for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANDURAH,01/02/2017,7.1,0.0, ,32.2,17.4,79,22,2.96,28.75
+MANDURAH,02/02/2017,6.7,0.0, ,31.3,19.7,83,41,3.18,29.11
+MANDURAH,03/02/2017,6.3,0.0, ,29.7,20.8,85,49,3.39,28.94
+MANDURAH,04/02/2017,6.0,0.0, ,26.1,16.9,80,52,5.45,28.85
+MANDURAH,05/02/2017,7.7,0.0, ,30.7,18.5,67,25,4.34,28.61
+MANDURAH,06/02/2017,7.8,0.0, ,32.4,17.0,62,34,4.51,28.72
+MANDURAH,07/02/2017,5.8,0.0, ,26.2,21.4,75,50,6.36,21.08
+MANDURAH,08/02/2017,8.0,0.0, ,27.1,14.6,69,20,6.78,28.28
+MANDURAH,09/02/2017,2.6,0.0, ,17.8,14.0,90,45,4.99,4.32
+MANDURAH,10/02/2017,2.1,74.2, ,22.1,15.0,100,72,4.82,7.49
+MANDURAH,11/02/2017,3.9,13.4, ,25.0,16.2,100,57,6.03,15.54
+MANDURAH,12/02/2017,5.5,0.0, ,28.5,19.4,77,48,4.76,19.32
+MANDURAH,13/02/2017,3.6,0.0, ,30.3,21.2,79,57,2.46,11.66
+MANDURAH,14/02/2017,5.8,0.2, ,30.0,22.9,98,55,3.00,27.50
+MANDURAH,15/02/2017,5.9,0.0, ,31.0,20.7,85,45,3.62,24.07
+MANDURAH,16/02/2017,6.2,0.0, ,29.2,17.0,75,40,3.51,27.40
+MANDURAH,17/02/2017,7.4,0.0, ,33.0,16.0,73,25,3.80,27.24
+MANDURAH,18/02/2017,7.6,0.0, ,35.8,18.1,66,22,3.23,26.97
+MANDURAH,19/02/2017,7.2,0.0, ,33.0,23.9,70,29,3.43,26.90
+MANDURAH,20/02/2017,5.6,0.0, ,24.7,18.9,82,50,5.22,26.20
+MANDURAH,21/02/2017,5.2,2.2, ,21.6,16.6,84,40,6.14,22.87
+MANDURAH,22/02/2017,3.6,0.0, ,22.7,15.0,84,51,2.65,16.37
+MANDURAH,23/02/2017,5.4,0.0, ,27.7,15.6,96,43,3.29,26.23
+MANDURAH,24/02/2017,6.9,0.0, ,34.4,19.8,76,27,3.06,25.98
+MANDURAH,25/02/2017,6.8,0.0, ,34.0,22.9,80,29,3.09,25.92
+MANDURAH,26/02/2017,5.5,0.0, ,26.8,19.4,84,53,4.50,25.65
+MANDURAH,27/02/2017,5.6,0.0, ,27.9,18.9,76,51,3.64,25.59
+MANDURAH,28/02/2017,5.8,0.0, ,29.2,20.1,80,43,3.41,25.31
+Totals:,,163.6,90, ,,,,,, 

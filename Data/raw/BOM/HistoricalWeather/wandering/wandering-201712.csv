@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/12/2017,5.8,0.0, ,26.7,5.5,91,18,2.25,29.64
+WANDERING,02/12/2017,7.5,0.0, ,32.3,7.6,87,14,3.21,29.51
+WANDERING,03/12/2017,7.2,0.0, ,33.6,14.7,63,13,3.51,20.40
+WANDERING,04/12/2017,2.1,4.8, ,23.1,17.9,96,56,2.28,5.77
+WANDERING,05/12/2017,5.5,0.2, ,28.5,12.2,99,35,3.20,23.71
+WANDERING,06/12/2017,7.5,0.0, ,27.1,12.7,74,28,5.80,30.11
+WANDERING,07/12/2017,7.1,0.0, ,27.8,9.6,87,20,4.24,30.10
+WANDERING,08/12/2017,7.6,0.0, ,32.7,10.7,70,12,3.24,27.88
+WANDERING,09/12/2017,7.2,0.0, ,37.1,11.8,68,12,2.77,20.93
+WANDERING,10/12/2017,7.2,0.0, ,37.7,12.4,92,19,2.30,27.36
+WANDERING,11/12/2017,6.6,25.0, ,36.5,18.0,98,23,2.46,23.40
+WANDERING,12/12/2017,6.7,0.2, ,30.6,17.2,97,29,3.63,27.16
+WANDERING,13/12/2017,5.2,0.0, ,25.8,11.4,91,34,3.25,23.27
+WANDERING,14/12/2017,6.5,0.0, ,29.6,10.1,92,24,2.60,30.36
+WANDERING,15/12/2017,7.3,0.0, ,32.0,12.5,90,21,3.47,28.54
+WANDERING,16/12/2017,7.5,0.0, ,32.6,12.9,89,25,3.54,30.27
+WANDERING,17/12/2017,4.5,3.6, ,20.1,12.4,93,34,4.65,19.35
+WANDERING,18/12/2017,3.4,16.2, ,19.9,9.7,96,66,3.79,19.78
+WANDERING,19/12/2017,5.9,2.6, ,23.9,11.0,89,33,3.46,30.65
+WANDERING,20/12/2017,6.4,0.0, ,29.2,8.3,93,21,2.40,30.87
+WANDERING,21/12/2017,7.6,0.0, ,35.4,10.2,89,12,2.41,30.93
+WANDERING,22/12/2017,8.5,0.0, ,34.9,14.8,82,13,3.61,30.27
+WANDERING,23/12/2017,7.6,0.0, ,29.9,15.0,78,29,4.79,30.14
+WANDERING,24/12/2017,8.1,0.0, ,32.8,13.4,77,18,3.69,30.70
+WANDERING,25/12/2017,8.4,0.0, ,36.4,14.8,68,17,3.12,30.63
+WANDERING,26/12/2017,6.7,0.0, ,29.2,11.8,74,32,3.07,30.58
+Totals:,,171.6,52.6, ,,,,,, 

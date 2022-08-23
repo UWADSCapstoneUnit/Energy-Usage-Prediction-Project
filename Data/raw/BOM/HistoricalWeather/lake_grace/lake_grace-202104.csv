@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/04/2021,5.8,0.0, ,33.7,16.5,86,21,3.56,18.22
+LAKE GRACE,02/04/2021,5.0,0.0, ,32.5,15.2,91,31,3.41,16.41
+LAKE GRACE,03/04/2021,2.7,0.0, ,21.9,16.9,94,64,5.69,9.58
+LAKE GRACE,04/04/2021,5.4,0.0, ,29.3,15.5,85,30,4.74,17.71
+LAKE GRACE,05/04/2021,4.2,0.0, ,32.5,16.5,91,22,2.46,12.56
+LAKE GRACE,06/04/2021,4.7,0.0, ,31.9,13.8,96,22,2.64,17.96
+LAKE GRACE,07/04/2021,3.5,0.0, ,26.4,17.1,85,46,3.61,11.11
+LAKE GRACE,08/04/2021,3.0,0.2, ,20.9,14.5,87,59,6.28,9.53
+LAKE GRACE,09/04/2021,2.4,0.0, ,20.2,13.9,91,71,6.45,10.99
+LAKE GRACE,10/04/2021,4.4,0.0, ,23.5,13.6,87,32,5.19,15.94
+LAKE GRACE,11/04/2021,2.2,0.4, ,17.6,15.8,94,51,5.39,3.30
+LAKE GRACE,12/04/2021,2.3,21.2, ,20.7,14.1,96,68,4.88,10.61
+LAKE GRACE,13/04/2021,2.6,1.2, ,17.7,10.0,91,50,3.58,14.39
+LAKE GRACE,14/04/2021,2.4,0.0, ,19.4,7.1,98,47,1.56,16.77
+LAKE GRACE,15/04/2021,2.7,0.0, ,21.7,8.8,97,38,1.82,15.55
+LAKE GRACE,16/04/2021,2.9,0.0, ,22.0,11.6,93,36,2.25,14.60
+LAKE GRACE,17/04/2021,3.8,0.0, ,24.2,11.4,85,31,3.24,16.74
+LAKE GRACE,18/04/2021,2.9,0.0, ,24.9,9.0,91,26,1.57,16.62
+LAKE GRACE,19/04/2021,3.0,0.0, ,22.8,9.4,91,39,2.37,16.05
+LAKE GRACE,20/04/2021,2.6,0.0, ,21.9,13.8,98,48,2.90,12.21
+LAKE GRACE,21/04/2021,3.2,0.0, ,22.3,9.3,97,31,2.87,15.88
+LAKE GRACE,22/04/2021,2.7,0.0, ,20.9,11.4,89,44,2.66,13.65
+LAKE GRACE,23/04/2021,3.4,0.0, ,24.7,12.2,87,32,3.23,12.16
+LAKE GRACE,24/04/2021,4.8,0.0, ,28.4,13.8,66,22,3.83,13.35
+LAKE GRACE,25/04/2021,4.1,0.0, ,29.7,11.6,65,19,2.46,15.52
+LAKE GRACE,26/04/2021,2.7,0.0, ,29.9,9.3,83,20,1.12,14.86
+LAKE GRACE,27/04/2021,2.6,0.0, ,29.3,13.9,66,18,1.10,12.99
+LAKE GRACE,28/04/2021,2.9,0.0, ,30.1,11.5,70,18,1.29,14.87
+LAKE GRACE,29/04/2021,5.1,0.0, ,29.8,14.3,90,21,4.89,11.07
+LAKE GRACE,30/04/2021,2.7,3.0, ,17.6,10.5,90,38,3.43,14.71
+Totals:,,102.7,26, ,,,,,, 

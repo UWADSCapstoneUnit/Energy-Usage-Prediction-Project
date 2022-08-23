@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for April 2012,,,,,,,,,,
+Issued at 22:38 GMT on Tuesday 01 May 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/04/2012,4.1,0.0, ,25.1,8.1,89,36,3.75,16.09
+WANDERING,02/04/2012,2.7,0.0, ,22.8,16.3,92,61,3.98,10.50
+WANDERING,03/04/2012,3.7,3.2, ,25.3,17.5,90,51,3.94,15.51
+WANDERING,04/04/2012,3.5,0.0, ,25.4,14.8,90,51,3.75,14.89
+WANDERING,05/04/2012,3.2,4.6, ,20.2,13.7,91,42,2.97,16.71
+WANDERING,06/04/2012,3.2,0.0, ,20.6,3.8,88,28,2.43,17.53
+WANDERING,07/04/2012,3.6,0.0, ,27.4,3.4,89,27,1.88,17.31
+WANDERING,08/04/2012,4.7,0.0, ,29.7,13.2,68,25,2.79,17.80
+WANDERING,09/04/2012,3.9,0.0, ,30.8,8.1,89,23,1.74,17.88
+WANDERING,10/04/2012,5.1,0.0, ,33.3,8.6,92,17,2.74,17.67
+WANDERING,11/04/2012,5.2,0.0, ,32.2,14.7,52,13,2.79,16.70
+WANDERING,12/04/2012,3.8,0.0, ,31.6,9.3,71,12,1.68,14.63
+WANDERING,13/04/2012,3.5,0.0, ,27.3,10.8,86,28,2.15,15.26
+WANDERING,14/04/2012,2.9,0.0, ,24.9,7.5,91,35,1.76,15.68
+WANDERING,15/04/2012,3.3,0.0, ,27.9,6.9,90,27,1.63,17.25
+WANDERING,16/04/2012,3.4,0.0, ,26.8,10.1,83,34,2.13,16.40
+WANDERING,17/04/2012,3.2,0.0, ,25.6,8.0,90,39,2.56,14.58
+WANDERING,18/04/2012,2.8,0.0, ,23.9,9.5,93,48,2.97,12.01
+WANDERING,19/04/2012,1.9,0.2, ,20.1,7.6,90,43,1.25,10.15
+WANDERING,20/04/2012,2.3,0.2, ,19.7,5.6,90,47,2.32,11.85
+WANDERING,21/04/2012,2.7,0.0, ,20.6,3.0,88,41,2.75,12.88
+WANDERING,22/04/2012,2.8,0.0, ,20.3,5.4,94,31,2.54,15.04
+WANDERING,23/04/2012,2.8,0.0, ,19.9,3.0,92,34,2.77,15.83
+WANDERING,24/04/2012,2.9,0.0, ,22.1,6.5,82,28,2.40,12.20
+WANDERING,25/04/2012,3.0,0.0, ,27.1,7.9,67,21,1.65,12.35
+WANDERING,26/04/2012,2.9,0.0, ,28.6,5.6,75,15,1.33,14.75
+WANDERING,27/04/2012,2.1,0.0, ,25.0,13.2,53,21,1.05,5.58
+WANDERING,28/04/2012,2.8,0.0, ,25.1,15.6,82,23,2.51,2.88
+WANDERING,29/04/2012,2.3,19.8, ,22.5,15.9,92,62,3.60,9.35
+WANDERING,30/04/2012,2.4,6.6, ,20.8,15.6,89,47,2.66,11.14
+Totals:,,96.7,34.6, ,,,,,, 

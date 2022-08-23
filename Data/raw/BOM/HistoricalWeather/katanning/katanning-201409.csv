@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for September 2014,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 October 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/09/2014,2.1,0.4, ,14.3,1.4,92,43,1.50,16.96
+KATANNING,02/09/2014,2.2,0.4, ,19.3,6.1,87,55,2.21,11.57
+KATANNING,03/09/2014,2.5,0.0, ,16.3,6.2,90,54,2.99,17.06
+KATANNING,04/09/2014,2.5,0.0, ,15.8,3.1,86,53,3.13,17.31
+KATANNING,05/09/2014,2.6,0.2, ,20.7,6.8,90,58,3.31,13.56
+KATANNING,06/09/2014,2.5,0.0, ,19.8,11.3,88,68,6.40,9.50
+KATANNING,07/09/2014,2.7,7.2, ,16.8,8.1,89,52,5.26,11.58
+KATANNING,08/09/2014,2.4,10.0, ,13.9,6.7,89,63,8.75,13.16
+KATANNING,09/09/2014,2.5,13.0, ,16.2,7.2,88,59,5.60,12.25
+KATANNING,10/09/2014,2.5,0.0, ,18.5,8.3,89,59,3.23,14.04
+KATANNING,11/09/2014,2.3,0.0, ,19.0,6.9,91,52,1.79,13.54
+KATANNING,12/09/2014,3.1,0.0, ,20.5,7.8,92,46,2.58,18.05
+KATANNING,13/09/2014,2.9,0.2, ,17.3,7.2,90,47,2.54,19.07
+KATANNING,14/09/2014,2.9,0.0, ,19.4,4.0,90,50,2.30,19.06
+KATANNING,15/09/2014,2.7,2.4, ,17.9,9.1,91,49,1.86,18.02
+KATANNING,16/09/2014,3.0,0.0, ,17.5,3.1,91,47,2.92,20.68
+KATANNING,17/09/2014,3.2,0.0, ,22.5,5.2,91,43,2.09,18.10
+KATANNING,18/09/2014,3.5,0.2, ,23.7,7.0,92,42,2.11,20.17
+KATANNING,19/09/2014,3.0,0.2, ,22.1,8.9,91,49,1.77,17.90
+KATANNING,20/09/2014,5.9,0.0, ,28.5,9.0,89,26,4.79,21.05
+KATANNING,21/09/2014,5.0,0.0, ,25.1,11.4,89,29,6.06,12.28
+KATANNING,22/09/2014,2.9,13.6, ,14.6,6.2,89,46,4.16,16.94
+KATANNING,23/09/2014,1.6,0.2, ,13.2,4.8,87,66,2.53,8.02
+KATANNING,24/09/2014,2.4,0.0, ,18.0,9.9,88,57,2.24,12.79
+KATANNING,25/09/2014,3.2,0.0, ,21.1,5.9,92,50,2.56,19.18
+KATANNING,26/09/2014,3.5,0.0, ,21.3,8.0,92,48,4.13,16.47
+KATANNING,27/09/2014,2.5,4.8, ,14.5,12.3,89,59,6.91,9.26
+KATANNING,28/09/2014,3.7,3.6, ,19.8,7.0,89,46,5.23,17.32
+KATANNING,29/09/2014,3.6,1.8, ,20.4,10.5,90,49,4.52,17.82
+KATANNING,30/09/2014,2.7,0.2, ,18.0,7.1,90,52,2.23,16.04
+Totals:,,88.1,58.4, ,,,,,, 

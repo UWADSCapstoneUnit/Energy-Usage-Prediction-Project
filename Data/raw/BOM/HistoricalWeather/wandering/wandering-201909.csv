@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for September 2019,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 October 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/09/2019,1.8,0.0, ,16.6,5.3,97,73,4.79,11.65
+WANDERING,02/09/2019,2.7,5.4, ,17.9,4.5,99,55,5.07,15.69
+WANDERING,03/09/2019,2.4,11.4, ,16.1,3.8,100,49,3.00,16.01
+WANDERING,04/09/2019,2.2,2.2, ,15.3,6.7,96,46,2.80,12.46
+WANDERING,05/09/2019,2.2,0.2, ,13.9,-1.6,99,48,1.87,18.32
+WANDERING,06/09/2019,2.3,0.0, ,17.2,-1.4,99,44,1.30,18.93
+WANDERING,07/09/2019,2.5,0.2, ,18.5,-1.2,98,52,1.78,19.09
+WANDERING,08/09/2019,2.9,0.0, ,21.8,2.9,100,43,1.66,18.95
+WANDERING,09/09/2019,3.9,0.0, ,28.3,2.2,100,23,1.81,19.41
+WANDERING,10/09/2019,4.7,0.0, ,28.7,4.1,98,28,3.18,19.57
+WANDERING,11/09/2019,3.1,0.0, ,22.6,11.7,98,57,2.76,17.86
+WANDERING,12/09/2019,3.4,0.0, ,25.1,6.7,100,46,2.13,19.78
+WANDERING,13/09/2019,3.5,0.0, ,26.2,7.7,100,38,1.80,19.58
+WANDERING,14/09/2019,2.8,0.0, ,24.8,10.8,95,61,1.97,15.19
+WANDERING,15/09/2019,3.0,0.0, ,20.1,12.9,91,53,3.18,15.22
+WANDERING,16/09/2019,3.4,0.0, ,22.1,8.2,93,53,2.76,20.19
+WANDERING,17/09/2019,3.3,0.0, ,23.6,6.5,99,55,2.10,20.39
+WANDERING,18/09/2019,2.2,0.4, ,18.6,6.3,100,64,4.33,11.03
+WANDERING,19/09/2019,2.9,8.4, ,14.3,6.6,90,44,3.51,19.11
+WANDERING,20/09/2019,2.5,0.0, ,15.4,-0.3,98,48,2.26,17.44
+WANDERING,21/09/2019,2.3,0.2, ,14.6,0.3,100,48,1.83,17.22
+WANDERING,22/09/2019,2.7,0.0, ,17.6,-0.8,100,47,1.35,21.43
+WANDERING,23/09/2019,3.4,0.0, ,21.9,1.4,98,33,1.81,20.83
+WANDERING,24/09/2019,5.1,0.0, ,26.8,3.4,98,20,3.29,21.85
+WANDERING,25/09/2019,2.4,0.0, ,20.6,1.4,99,64,2.66,14.34
+WANDERING,26/09/2019,2.9,1.0, ,19.0,5.0,100,45,1.69,18.74
+WANDERING,27/09/2019,3.3,0.0, ,21.2,6.1,96,49,2.51,20.04
+WANDERING,28/09/2019,3.7,0.0, ,22.2,7.5,100,45,2.55,22.24
+WANDERING,29/09/2019,4.1,0.0, ,27.2,5.4,100,28,1.48,22.80
+WANDERING,30/09/2019,4.3,0.0, ,24.4,6.9,94,32,2.77,22.26
+Totals:,,91.9,29.4, ,,,,,, 

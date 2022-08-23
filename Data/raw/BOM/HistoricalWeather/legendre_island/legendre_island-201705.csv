@@ -1,0 +1,36 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEGENDRE ISLAND Western Australia for May 2017,,,,,,,,,,
+Issued at 06:30 GMT on Thursday 01 June 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEGENDRE ISLAND,01/05/2017, , , , , ,100,40,4.74,19.78
+LEGENDRE ISLAND,02/05/2017, , , , , ,100,41,6.83,19.70
+LEGENDRE ISLAND,03/05/2017, , , , , ,100,100,8.10,19.57
+LEGENDRE ISLAND,04/05/2017, , , , , ,100,52,5.89,19.47
+LEGENDRE ISLAND,05/05/2017, , , , , ,100,37,4.61,19.38
+LEGENDRE ISLAND,06/05/2017, , , , , ,100,100,3.94,19.27
+LEGENDRE ISLAND,07/05/2017, , , , , ,100,42,4.02,19.14
+LEGENDRE ISLAND,15/05/2017, , , , , ,100,100,4.60,18.32
+LEGENDRE ISLAND,16/05/2017, , , , , ,100,43,4.57,18.28
+LEGENDRE ISLAND,18/05/2017, , , , , ,100,100,6.08,18.12
+LEGENDRE ISLAND,19/05/2017, , , , , ,100,54,5.13,18.04
+LEGENDRE ISLAND,21/05/2017, , , , , ,100,100,5.66,17.89
+LEGENDRE ISLAND,22/05/2017, , , , , ,100,29,4.50,17.77
+LEGENDRE ISLAND,23/05/2017, , , ,28.1, ,99,46,5.42,17.72
+LEGENDRE ISLAND,24/05/2017,4.0, , ,27.9,21.7,100,47,3.93,17.49
+LEGENDRE ISLAND,25/05/2017, , , , ,21.4,100,47,3.64,17.36
+LEGENDRE ISLAND,26/05/2017, , , ,31.0, ,100,33,3.56,17.53
+LEGENDRE ISLAND,27/05/2017,5.2, , ,32.1,22.0,100,29,4.50,17.16
+LEGENDRE ISLAND,28/05/2017,4.5, , ,29.1,21.1,100,47,5.70,17.27
+LEGENDRE ISLAND,29/05/2017,4.9, , ,27.2,20.8,79,50,6.52,17.26
+LEGENDRE ISLAND,30/05/2017,4.3, , ,28.9,20.5,100,43,4.45,17.26
+LEGENDRE ISLAND,31/05/2017,4.3, , ,28.2,21.6,97,54,6.29,17.18
+Totals:,,27.2, , ,,,,,, 

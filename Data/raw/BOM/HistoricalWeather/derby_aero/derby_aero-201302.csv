@@ -1,0 +1,41 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for February 2013,,,,,,,,,,
+Issued at 22:38 GMT on Friday 01 March 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/02/2013,8.2,0.0, ,37.6,27.1,86,43,6.12,24.20
+DERBY AERO,02/02/2013,8.6,0.0, ,38.0,26.0,84,40,5.06,28.28
+DERBY AERO,03/02/2013, ,0.0, , ,23.9,97,44,7.37,27.87
+DERBY AERO,05/02/2013, , , , , , , , ,28.40
+DERBY AERO,06/02/2013, , , , , , , , ,25.26
+DERBY AERO,07/02/2013, , , , , ,84,50,4.60,27.53
+DERBY AERO,08/02/2013, , , ,36.7, ,79,33,5.02,20.49
+DERBY AERO,09/02/2013,6.5,0.0, ,36.7,27.4,87,42,4.39,19.02
+DERBY AERO,10/02/2013,6.7,0.0, ,33.9,22.6,90,45,4.57,24.60
+DERBY AERO,11/02/2013,7.2,0.0, ,36.3,25.5,86,37,3.30,26.14
+DERBY AERO,12/02/2013,7.3,0.0, ,36.6,25.4,86,38,3.58,26.12
+DERBY AERO,13/02/2013,7.5,0.0, ,38.9,26.0,81,31,3.05,25.06
+DERBY AERO,14/02/2013,6.4,0.0, ,36.9,27.8,82,42,3.54,20.15
+DERBY AERO,15/02/2013,4.7,9.2, ,35.2,23.3,98,65,4.04,17.35
+DERBY AERO,16/02/2013,4.2,1.8, ,34.4,24.2,98,76,3.33,17.71
+DERBY AERO,17/02/2013,4.2,6.8, ,32.5,23.7,100,83,2.77,20.21
+DERBY AERO,18/02/2013,5.5,0.2, ,36.6,26.1,100,69,2.14,23.21
+DERBY AERO,19/02/2013,5.5,0.0, ,37.4,26.1,100,88,3.96,25.43
+DERBY AERO,20/02/2013,7.0,0.0, ,37.5,26.8,100,39,3.71,24.43
+DERBY AERO,21/02/2013,6.4,2.2, ,35.8,25.5,96,47,3.36,24.29
+DERBY AERO,22/02/2013,5.5,6.8, ,35.6,25.1,94,46,4.02,17.04
+DERBY AERO,23/02/2013,3.8,7.4, ,31.9,25.9,96,60,5.57,9.68
+DERBY AERO,24/02/2013,1.4,85.8, ,27.1,24.1,98,86,5.98,2.91
+DERBY AERO,25/02/2013,2.8,55.2, ,30.6,24.5,98,76,6.78,8.32
+DERBY AERO,26/02/2013,2.9,64.6, ,30.0,24.8,100,81,8.70,10.91
+DERBY AERO,27/02/2013,4.6,53.8, ,31.8,23.5,96,71,9.26,17.19
+DERBY AERO,28/02/2013,3.5,16.6, ,30.9,23.7,99,77,8.44,13.57
+Totals:,,120.4,310.4, ,,,,,, 

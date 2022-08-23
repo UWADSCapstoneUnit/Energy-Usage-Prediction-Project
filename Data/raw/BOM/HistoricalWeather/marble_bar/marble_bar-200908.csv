@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for August 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/08/2009,7.2,0.0, ,27.6,14.2,30,9,5.32,20.30
+MARBLE BAR,02/08/2009,7.5,0.0, ,28.0,15.2,24,9,5.49,20.36
+MARBLE BAR,03/08/2009,6.6,0.0, ,28.1,14.6,23,9,4.33,20.50
+MARBLE BAR,04/08/2009,4.8,0.0, ,29.1,8.8,37,9,2.39,20.56
+MARBLE BAR,05/08/2009,4.3,0.0, ,30.4,9.0,38,8,1.78,20.70
+MARBLE BAR,06/08/2009,4.9,0.0, ,32.7,11.0,37,7,2.08,20.79
+MARBLE BAR,07/08/2009,5.1,0.0, ,32.8,10.9,39,6,2.23,20.73
+MARBLE BAR,08/08/2009,5.3,0.0, ,33.5,10.3,40,6,2.31,20.74
+MARBLE BAR,09/08/2009,5.5,0.0, ,33.3,10.8,41,8,2.50,20.78
+MARBLE BAR,10/08/2009,5.7,0.0, ,32.4,11.6,51,14,2.93,20.34
+MARBLE BAR,11/08/2009,4.6,0.0, ,31.3,12.8,71,23,2.16,20.10
+MARBLE BAR,12/08/2009,5.8,0.0, ,32.0,19.6,61,22,3.41,20.03
+MARBLE BAR,13/08/2009,4.7,0.0, ,30.9,13.5,64,21,2.24,20.83
+MARBLE BAR,14/08/2009,5.0,0.0, ,31.7,12.4,77,16,2.43,21.07
+MARBLE BAR,15/08/2009,4.3,0.0, ,30.7,11.5,60,16,1.68,21.12
+MARBLE BAR,16/08/2009,5.7,0.0, ,29.3,11.6,68,22,3.78,21.08
+MARBLE BAR,17/08/2009,6.3,0.0, ,32.0,14.7,73,19,4.04,21.14
+MARBLE BAR,18/08/2009,5.2,0.0, ,31.1,13.9,98,26,3.26,21.24
+MARBLE BAR,19/08/2009,4.7,0.0, ,29.8,14.6,91,18,2.32,21.69
+MARBLE BAR,20/08/2009,5.8,0.0, ,35.2,12.3,72,13,2.50,21.79
+MARBLE BAR,21/08/2009,7.5,0.0, ,35.3,15.2,55,12,4.05,21.66
+MARBLE BAR,22/08/2009,6.0,0.0, ,34.5,16.5,61,26,3.10,21.24
+MARBLE BAR,23/08/2009,5.8,0.0, ,32.4,19.3,82,24,3.36,21.55
+MARBLE BAR,24/08/2009,6.5,0.0, ,33.3,15.8,52,15,3.43,21.38
+MARBLE BAR,25/08/2009,5.5,0.0, ,33.5,16.3,66,17,2.43,21.94
+MARBLE BAR,26/08/2009,6.8,0.0, ,34.5,18.3,51,15,3.53,20.58
+MARBLE BAR,27/08/2009,6.5,0.0, ,30.8,17.9,71,27,4.72,22.36
+MARBLE BAR,28/08/2009,6.5,0.0, ,30.9,17.2,84,16,4.35,21.51
+MARBLE BAR,29/08/2009,6.1,0.0, ,28.6,19.6,50,18,3.67,20.53
+MARBLE BAR,30/08/2009,7.8,0.0, ,29.6,15.7,49,16,5.76,22.97
+MARBLE BAR,31/08/2009,6.9,0.0, ,32.5,18.8,39,16,3.60,22.91
+Totals:,,180.9,0, ,,,,,, 

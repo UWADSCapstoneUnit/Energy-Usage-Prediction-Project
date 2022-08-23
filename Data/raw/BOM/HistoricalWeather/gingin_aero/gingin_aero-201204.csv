@@ -1,0 +1,39 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GINGIN AERO Western Australia for April 2012,,,,,,,,,,
+Issued at 22:38 GMT on Tuesday 01 May 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GINGIN AERO,01/04/2012,4.1,0.0, ,25.4,11.9,85,42,4.39,14.16
+GINGIN AERO,02/04/2012, ,0.6, , ,14.1, , , ,13.82
+GINGIN AERO,03/04/2012, , , ,25.8, , , , ,11.06
+GINGIN AERO,04/04/2012, ,0.0, , ,18.0, , , ,13.92
+GINGIN AERO,10/04/2012, , , , , , , , ,18.17
+GINGIN AERO,11/04/2012, , , , , , , , ,17.85
+GINGIN AERO,12/04/2012, , , ,32.7, , , , ,15.18
+GINGIN AERO,13/04/2012, ,0.0, ,26.8,15.0, , , ,16.22
+GINGIN AERO,14/04/2012,3.9,0.0, ,27.3,7.9,92,33,2.72,17.14
+GINGIN AERO,15/04/2012,3.8,0.0, ,28.6,8.4,92,29,2.28,17.19
+GINGIN AERO,16/04/2012,3.3,0.0, ,27.2,10.1,88,41,2.10,16.91
+GINGIN AERO,17/04/2012,3.0,0.2, ,25.7,8.4,98,43,2.35,13.82
+GINGIN AERO,18/04/2012,3.4,0.0, ,24.5,11.4,100,43,4.35,12.86
+GINGIN AERO,19/04/2012,2.5,3.8, ,22.9,12.8,100,39,1.95,12.15
+GINGIN AERO,20/04/2012,3.1,0.0, ,23.0,8.8,98,45,3.33,15.53
+GINGIN AERO,21/04/2012,2.6,0.0, ,21.8,5.7,94,46,2.80,11.23
+GINGIN AERO,22/04/2012,2.7,0.0, ,22.1,9.0,99,32,2.27,13.17
+GINGIN AERO,23/04/2012,4.3,0.0, ,22.9,8.1,85,32,5.23,16.37
+GINGIN AERO,24/04/2012,6.2,0.0, ,27.4,11.9,55,23,6.07,14.60
+GINGIN AERO,25/04/2012,5.1,0.0, ,28.7,16.0,48,18,3.86,8.81
+GINGIN AERO,26/04/2012,5.2,0.0, ,32.1,13.7,54,11,3.02,15.25
+GINGIN AERO,27/04/2012,4.5,0.0, ,30.7,16.3,37,12,2.68,6.26
+GINGIN AERO,28/04/2012,4.3,0.0, ,28.0,20.8,97,14,4.66,3.71
+GINGIN AERO,29/04/2012,3.3,20.0, ,23.4,16.9,100,29,4.28,8.92
+GINGIN AERO,30/04/2012,2.9,10.2, ,22.9,16.3,100,45,3.76,12.64
+Totals:,,68.2,34.8, ,,,,,, 

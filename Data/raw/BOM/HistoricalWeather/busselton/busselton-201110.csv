@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON Western Australia for October 2011,,,,,,,,,,
+Issued at 22:34 GMT on Tuesday 01 November 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON,01/10/2011,3.3, , ,23.5,8.9,94,50,0.19,23.35
+BUSSELTON,02/10/2011,2.2, , ,21.4,13.0,98,64,0.00,13.21
+BUSSELTON,03/10/2011,2.9, , ,20.9,12.2,94,66,0.00,19.62
+BUSSELTON,04/10/2011,2.6, , ,20.6,13.5,94,51,0.00,17.04
+BUSSELTON,05/10/2011,2.2, , ,19.6,11.4,98,69,0.00,14.05
+BUSSELTON,06/10/2011,3.4, , ,21.4,10.8,99,61,0.00,24.02
+BUSSELTON,07/10/2011,2.9, , ,20.7,9.3,99,69,0.00,19.69
+BUSSELTON,08/10/2011,3.0, , ,21.1,12.0,99,66,0.00,20.33
+BUSSELTON,09/10/2011,3.1, , ,22.0,12.6,99,57,0.00,20.50
+BUSSELTON,10/10/2011,3.6, , ,24.3,8.7,96,50,0.00,25.77
+BUSSELTON,11/10/2011,3.8, , ,25.2,10.3,98,54,0.00,25.80
+BUSSELTON,12/10/2011,2.9, , ,20.4,12.9,91,54,0.12,19.04
+BUSSELTON,13/10/2011,3.5, , ,20.0,14.2,98,36,0.00,24.73
+BUSSELTON,14/10/2011,2.2, , ,19.9,11.1,98,67,0.00,13.74
+BUSSELTON,15/10/2011,3.5, , ,23.2,9.3,99,52,0.00,23.88
+BUSSELTON,16/10/2011,4.1, , ,27.3,13.3,98,40,0.00,26.72
+BUSSELTON,17/10/2011,2.6, , ,21.8,14.9,98,59,0.00,15.34
+BUSSELTON,18/10/2011,3.5, , ,18.6,13.3,98,57,0.00,23.56
+BUSSELTON,19/10/2011,3.2, , ,20.0,5.4,98,44,0.00,24.21
+BUSSELTON,20/10/2011,3.8, , ,21.9,6.1,98,49,0.00,28.17
+BUSSELTON,21/10/2011,3.9, , ,25.1,7.4,98,32,0.00,28.14
+BUSSELTON,22/10/2011,2.3, , ,24.0,12.0,98,48,0.00,13.39
+BUSSELTON,23/10/2011,2.8, , ,23.3,13.9,99,53,0.00,16.62
+BUSSELTON,24/10/2011,3.0, , ,21.6,13.1,98,59,0.40,17.76
+BUSSELTON,25/10/2011,3.0, , ,22.5,13.2,93,55,0.18,17.85
+BUSSELTON,26/10/2011,3.6, , ,20.9,10.6,99,71,0.00,23.47
+BUSSELTON,27/10/2011,3.9, , ,22.7,13.1,99,53,0.08,24.73
+BUSSELTON,28/10/2011,3.0, , ,21.3,8.7,98,44,0.00,20.32
+BUSSELTON,29/10/2011,4.1, , ,23.0,6.7,89,34,0.00,30.17
+BUSSELTON,30/10/2011,4.4, , ,26.0,11.3,85,34,0.00,30.02
+BUSSELTON,31/10/2011,4.5, , ,28.1,12.3,86,37,0.00,29.42
+Totals:,,100.8, , ,,,,,, 

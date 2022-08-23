@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WILUNA AERO Western Australia for November 2020,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 December 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WILUNA AERO,01/11/2020,11.2,0.0, ,37.9,23.3,59,15,7.04,26.03
+WILUNA AERO,02/11/2020,8.8,0.0, ,30.2,21.0,64,22,6.84,27.01
+WILUNA AERO,03/11/2020,8.0,0.0, ,32.1,16.0,56,13,3.81,29.00
+WILUNA AERO,04/11/2020,10.5,0.0, ,34.8,18.5,43,17,6.47,28.47
+WILUNA AERO,05/11/2020,11.2,0.0, ,37.2,21.4,43,16,6.74,26.74
+WILUNA AERO,06/11/2020,11.2,0.0, ,39.5,19.6,57,8,5.63,27.29
+WILUNA AERO,07/11/2020,10.4,0.0, ,38.0,18.7,48,6,4.75,29.36
+WILUNA AERO,08/11/2020,8.9,0.0, ,37.3,20.9,43,10,3.46,29.44
+WILUNA AERO,09/11/2020,12.0,0.0, ,35.3,21.3,35,9,7.30,29.58
+WILUNA AERO,10/11/2020,8.1,0.0, ,26.6,16.4,64,17,6.09,29.24
+WILUNA AERO,11/11/2020,8.1,0.0, ,32.3,13.3,37,8,3.44,29.73
+WILUNA AERO,12/11/2020,9.1,0.0, ,35.0,16.7,35,7,3.89,29.82
+WILUNA AERO,13/11/2020,9.7,0.0, ,37.3,14.2,24,4,3.85,29.90
+WILUNA AERO,14/11/2020,10.9,0.0, ,34.9,17.3,40,12,6.34,29.98
+WILUNA AERO,15/11/2020,8.8,0.0, ,29.6,17.2,50,10,5.13,30.04
+WILUNA AERO,16/11/2020,9.7,0.0, ,34.9,14.5,27,4,4.32,30.06
+WILUNA AERO,17/11/2020,12.9,0.0, ,42.0,16.0,16,5,5.92,26.18
+WILUNA AERO,18/11/2020,9.6,0.0, ,39.5,21.7,15,5,3.51,28.52
+WILUNA AERO,19/11/2020, ,0.0, , ,18.4,20,7,4.00,22.76
+WILUNA AERO,20/11/2020, , , ,41.4, ,21,6,4.39,30.09
+WILUNA AERO,21/11/2020,11.3,0.0, ,39.2,23.3,27,9,5.01,30.40
+WILUNA AERO,22/11/2020,12.2,0.0, ,37.7,24.5,34,17,6.89,30.45
+WILUNA AERO,23/11/2020,11.5,0.0, ,38.2,24.5,31,15,5.76,30.16
+WILUNA AERO,24/11/2020,10.5,0.0, ,39.7,25.3,33,11,4.25,30.48
+WILUNA AERO,25/11/2020,10.6,0.0, ,40.2,26.9,58,13,5.55,23.96
+WILUNA AERO,26/11/2020,10.4,13.6, ,41.0,23.9,68,17,4.73,29.30
+WILUNA AERO,27/11/2020,10.9,1.4, ,40.2,26.3,52,11,4.76,30.36
+WILUNA AERO,28/11/2020,11.2,0.0, ,36.9,23.4,26,9,5.34,30.81
+WILUNA AERO,29/11/2020,10.7,0.0, ,41.9,22.0,46,12,4.63,26.12
+WILUNA AERO,30/11/2020,11.2,0.0, ,32.5,22.4,39,8,6.77,30.76
+Totals:,,289.6,15, ,,,,,, 

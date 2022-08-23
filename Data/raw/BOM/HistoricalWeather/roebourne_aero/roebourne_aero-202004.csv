@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROEBOURNE AERO Western Australia for April 2020,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 08 April 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROEBOURNE AERO,01/04/2020, , , , , , , , ,22.75
+ROEBOURNE AERO,02/04/2020, , , , , , , , ,22.63
+ROEBOURNE AERO,03/04/2020,8.3, , ,38.8,21.7,69,19,4.33,22.58
+ROEBOURNE AERO,04/04/2020,7.4,0.0, ,36.2,23.7,87,25,4.98,19.92
+ROEBOURNE AERO,05/04/2020,5.5,0.0, ,34.6,23.5,87,31,2.89,19.38
+ROEBOURNE AERO,06/04/2020, ,0.0, , ,23.6,87,24,3.89,19.65
+ROEBOURNE AERO,07/04/2020, , , , , ,78,47,3.84,18.89
+Totals:,,21.2,0, ,,,,,, 

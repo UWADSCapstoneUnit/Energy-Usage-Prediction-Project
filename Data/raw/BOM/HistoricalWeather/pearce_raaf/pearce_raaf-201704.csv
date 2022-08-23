@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for April 2017,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 May 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/04/2017,7.1,0.0, ,30.9,15.4,63,17,5.13,19.44
+PEARCE RAAF,02/04/2017,6.6,0.0, ,32.2,16.0,61,18,4.24,19.30
+PEARCE RAAF,03/04/2017,5.8,0.0, ,33.1,11.2,71,19,3.15,19.09
+PEARCE RAAF,04/04/2017,5.8,0.0, ,31.5,15.1,85,23,4.22,17.25
+PEARCE RAAF,05/04/2017,5.2,0.0, ,32.8,11.0,90,20,2.75,18.70
+PEARCE RAAF,06/04/2017,3.6,0.0, ,26.5,11.1,98,47,3.45,15.60
+PEARCE RAAF,07/04/2017,3.9,0.0, ,23.1,13.1,80,31,4.02,12.52
+PEARCE RAAF,08/04/2017,4.1,0.0, ,25.4,6.6,87,24,2.73,18.21
+PEARCE RAAF,09/04/2017,5.1,0.0, ,27.3,7.9,89,23,4.20,18.01
+PEARCE RAAF,10/04/2017,4.9,0.0, ,30.0,13.5,59,18,2.80,17.77
+PEARCE RAAF,11/04/2017,5.8,0.0, ,31.4,14.2,83,19,4.01,17.64
+PEARCE RAAF,12/04/2017,3.7,0.0, ,25.4,7.7,95,39,3.31,16.30
+PEARCE RAAF,13/04/2017,4.3,0.0, ,28.5,11.0,93,30,3.06,17.08
+PEARCE RAAF,14/04/2017,4.1,0.0, ,30.9,11.9,88,26,2.50,13.83
+PEARCE RAAF,15/04/2017,4.2,0.0, ,30.2,11.3,93,33,2.97,15.51
+PEARCE RAAF,16/04/2017,4.2,0.0, ,27.3,16.9,84,41,4.40,13.43
+PEARCE RAAF,17/04/2017,2.3,0.0, ,22.6,11.4,93,57,3.32,7.94
+PEARCE RAAF,18/04/2017,2.8,0.0, ,26.1,9.7,95,53,2.54,13.36
+PEARCE RAAF,19/04/2017,3.1,0.0, ,27.0,8.9,97,39,1.91,15.84
+PEARCE RAAF,20/04/2017,3.4,0.0, ,29.7,7.7,95,30,1.79,15.68
+PEARCE RAAF,21/04/2017, ,0.0, , ,10.8,91,29,2.25,14.31
+PEARCE RAAF,22/04/2017, , , ,30.2, ,89,31,4.48,15.13
+PEARCE RAAF,23/04/2017,5.3,0.0, ,29.1,16.9,80,37,5.80,15.11
+PEARCE RAAF,24/04/2017,3.7,0.0, ,27.2,13.4,87,35,3.01,15.02
+PEARCE RAAF,25/04/2017,3.7,0.0, ,25.1,12.1,86,34,3.30,15.42
+PEARCE RAAF,26/04/2017,3.7,0.0, ,27.3,6.6,89,25,2.54,15.28
+PEARCE RAAF,27/04/2017,3.8,0.0, ,27.7,12.6,75,25,2.56,15.25
+PEARCE RAAF,28/04/2017,3.5,0.0, ,26.7,6.6,86,23,2.29,15.07
+PEARCE RAAF,29/04/2017,3.4,0.0, ,28.1,7.2,81,21,1.98,14.93
+PEARCE RAAF,30/04/2017,2.9,0.0, ,25.6,5.0,93,48,2.73,14.64
+Totals:,,120,0, ,,,,,, 

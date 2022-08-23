@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for September 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,01/09/2009,5.8,0.0, ,37.3,18.2,88,23,2.08,23.18
+CURTIN AERO,02/09/2009,5.5,0.0, ,35.4,19.1,91,33,2.16,23.03
+CURTIN AERO,03/09/2009,5.3,0.0, ,37.3,17.8,84,21,1.52,23.25
+CURTIN AERO,04/09/2009,7.3,0.0, ,38.9,18.8,68,11,2.89,23.88
+CURTIN AERO,05/09/2009,6.6,0.0, ,39.1,16.9,74,11,2.33,23.77
+CURTIN AERO,06/09/2009,5.9,0.0, ,36.7,15.9,94,19,2.06,24.04
+CURTIN AERO,07/09/2009,7.3,0.0, ,36.0,19.9,76,11,3.30,24.48
+CURTIN AERO,08/09/2009,8.2,0.0, ,36.5,20.2,29,8,3.61,24.91
+CURTIN AERO,09/09/2009,8.8,0.0, ,37.2,21.7,24,8,4.06,23.65
+CURTIN AERO,10/09/2009,6.8,0.0, ,39.7,13.7,58,8,2.21,25.05
+CURTIN AERO,11/09/2009,6.6,0.0, ,39.1,14.6,71,8,2.12,25.20
+CURTIN AERO,12/09/2009,6.2,0.0, ,37.4,15.1,98,14,2.13,24.83
+CURTIN AERO,13/09/2009,6.4,0.0, ,37.7,18.5,97,17,2.21,24.89
+CURTIN AERO,14/09/2009,6.2,0.0, ,37.9,18.0,96,17,2.01,24.99
+CURTIN AERO,15/09/2009, ,0.0, , ,18.8,83,20,2.39,24.75
+CURTIN AERO,16/09/2009, ,0.0, ,35.1, ,92,33,2.49,24.03
+CURTIN AERO,17/09/2009,6.2,0.0, ,36.6,20.2,85,28,2.17,25.03
+CURTIN AERO,18/09/2009, ,0.0, , ,19.0, , , ,24.86
+CURTIN AERO,19/09/2009, , , , , , , , ,21.64
+CURTIN AERO,20/09/2009, , , ,36.8, , , , ,25.28
+CURTIN AERO,21/09/2009, ,0.0, ,36.1,19.2, , , ,25.49
+CURTIN AERO,22/09/2009,6.7,0.0, ,36.8,19.3,95,14,2.43,25.94
+CURTIN AERO,23/09/2009,9.6,0.0, ,37.3,19.4,26,9,4.48,26.64
+CURTIN AERO,24/09/2009,8.5,0.0, ,39.5,23.3,24,7,3.17,26.68
+CURTIN AERO,25/09/2009,6.9,0.0, ,40.4,13.3,59,8,1.93,26.85
+CURTIN AERO,26/09/2009,9.3,0.0, ,39.7,21.3,51,9,3.98,26.47
+CURTIN AERO,27/09/2009,9.1,0.0, ,40.6,23.8,62,9,3.93,24.91
+CURTIN AERO,28/09/2009,7.1,0.0, ,37.9,17.2,92,19,2.69,26.44
+CURTIN AERO,29/09/2009,7.7,0.0, ,36.9,20.2,92,15,3.50,26.32
+CURTIN AERO,30/09/2009,6.9,0.0, ,34.8,19.6,96,29,3.47,26.00
+Totals:,,170.9,0, ,,,,,, 

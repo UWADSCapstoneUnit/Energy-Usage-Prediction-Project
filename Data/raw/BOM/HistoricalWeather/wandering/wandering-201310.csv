@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for October 2013,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 November 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/10/2013,3.8,0.0, ,18.2,2.1,93,51,2.64,27.94
+WANDERING,02/10/2013,4.4,0.0, ,22.7,5.3,92,40,1.61,29.00
+WANDERING,03/10/2013,6.0,0.0, ,30.5,5.0,93,22,2.47,28.59
+WANDERING,04/10/2013,3.4,0.0, ,20.7,12.3,90,62,2.45,20.95
+WANDERING,05/10/2013,3.0,1.2, ,21.0,5.9,94,60,3.18,17.26
+WANDERING,06/10/2013,4.2,0.8, ,20.4,7.4,95,49,2.96,27.72
+WANDERING,07/10/2013,5.0,0.0, ,23.0,5.2,95,39,2.94,30.38
+WANDERING,08/10/2013,3.6,0.0, ,21.7,5.5,95,52,3.10,20.65
+WANDERING,09/10/2013,3.7,3.4, ,18.4,10.6,92,45,2.77,22.60
+WANDERING,10/10/2013,4.4,0.0, ,20.3,2.7,93,42,2.50,29.90
+WANDERING,11/10/2013,3.0,0.0, ,19.8,5.3,94,54,2.94,16.22
+WANDERING,12/10/2013,4.0,0.4, ,17.4,4.5,89,39,2.46,28.51
+WANDERING,13/10/2013,4.5,0.0, ,19.0,0.7,92,34,1.48,32.29
+WANDERING,14/10/2013,5.4,0.0, ,25.2,0.9,92,20,1.67,32.44
+WANDERING,15/10/2013,4.6,0.0, ,21.9,2.6,93,49,3.08,30.18
+WANDERING,16/10/2013,5.0,0.6, ,21.8,13.5,91,35,3.07,28.53
+WANDERING,17/10/2013,5.2,0.0, ,24.1,4.4,94,43,2.35,31.73
+WANDERING,18/10/2013,5.3,0.0, ,23.3,4.9,93,45,3.46,31.84
+WANDERING,19/10/2013,2.9,1.8, ,18.6,13.9,90,66,3.01,15.51
+WANDERING,20/10/2013,2.8,10.0, ,14.5,8.6,92,62,2.90,18.86
+WANDERING,21/10/2013,4.6,5.6, ,17.8,0.9,94,42,2.34,33.88
+WANDERING,22/10/2013,5.3,0.0, ,20.8,2.5,91,35,2.86,33.86
+WANDERING,23/10/2013,6.1,0.0, ,21.9,7.5,83,29,4.68,33.12
+WANDERING,24/10/2013,4.5,0.2, ,22.4,10.0,81,44,4.24,21.16
+WANDERING,25/10/2013,5.1,0.2, ,26.8,5.7,91,33,1.90,28.35
+WANDERING,26/10/2013,4.3,0.0, ,24.2,8.3,93,41,2.69,21.97
+WANDERING,27/10/2013,4.9,0.0, ,25.0,7.3,93,33,1.93,28.06
+WANDERING,28/10/2013,6.6,0.0, ,27.1,9.9,87,20,2.66,33.36
+WANDERING,29/10/2013,7.0,0.0, ,30.3,7.1,91,22,2.53,33.76
+WANDERING,30/10/2013,8.5,0.0, ,35.9,8.9,87,16,3.01,33.58
+WANDERING,31/10/2013,5.5,0.0, ,27.7,9.9,92,21,2.21,26.72
+Totals:,,146.6,24.2, ,,,,,, 

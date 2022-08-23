@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for April 2016,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 May 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/04/2016,6.4,0.0, ,38.5,25.6,53,20,2.70,19.37
+NEWMAN AERO,02/04/2016,6.8,2.6, ,39.3,26.1,66,11,2.72,22.04
+NEWMAN AERO,03/04/2016,7.3,0.0, ,39.8,22.1,46,10,2.98,22.43
+NEWMAN AERO,04/04/2016,5.5,0.0, ,40.0,20.8,38,9,1.57,22.33
+NEWMAN AERO,05/04/2016,7.6,0.0, ,40.9,21.4,39,10,3.13,21.20
+NEWMAN AERO,06/04/2016,6.5, , ,30.4,21.4,67,30,6.05,14.98
+NEWMAN AERO,07/04/2016,4.1,0.0, ,28.1,15.4,78,34,3.53,9.47
+NEWMAN AERO,08/04/2016,6.5,0.0, ,34.8,19.0,59,23,3.54,20.45
+NEWMAN AERO,09/04/2016,6.2,0.0, ,36.7,19.8,63,18,2.92,19.20
+NEWMAN AERO,10/04/2016,8.3,0.0, ,35.2,25.5,38,22,5.73,14.27
+NEWMAN AERO,11/04/2016,7.6,0.0, ,36.0,23.9,39,18,4.39,16.82
+NEWMAN AERO,12/04/2016,7.0,0.0, ,32.6,24.6,27,16,4.23,12.38
+NEWMAN AERO,13/04/2016,6.2,0.0, ,33.1,19.8,28,10,3.17,16.53
+NEWMAN AERO,14/04/2016, , , , ,21.6, , , ,20.02
+NEWMAN AERO,15/04/2016, , , ,34.1, ,43,15,2.56,21.29
+NEWMAN AERO,16/04/2016,5.6,0.0, ,35.5,15.1,44,9,2.23,21.18
+NEWMAN AERO,17/04/2016,5.4,0.0, ,36.5,15.2,38,9,2.01,20.75
+NEWMAN AERO,18/04/2016,5.9,0.0, ,37.3,15.9,37,9,2.35,20.73
+NEWMAN AERO,19/04/2016,6.1,0.0, ,35.0,18.6,46,19,3.01,19.70
+NEWMAN AERO,20/04/2016,6.0,0.0, ,33.3,18.2,48,17,3.10,20.44
+NEWMAN AERO,21/04/2016,6.3,0.0, ,29.5,18.3,56,22,4.54,19.86
+NEWMAN AERO,22/04/2016,6.1,0.0, ,31.7,16.2,63,22,4.01,19.73
+NEWMAN AERO,23/04/2016,5.8,0.0, ,35.1,18.7,59,19,2.92,18.88
+NEWMAN AERO,24/04/2016,6.9,0.0, ,36.0,21.3,43,15,3.73,18.50
+NEWMAN AERO,25/04/2016,6.3,0.0, ,36.1,22.3,39,14,3.19,17.70
+NEWMAN AERO,26/04/2016,6.5,0.0, ,35.2,23.5,34,13,3.48,16.74
+NEWMAN AERO,27/04/2016,4.8,0.0, ,32.2,19.0,46,20,2.29,17.26
+NEWMAN AERO,28/04/2016,5.0,0.0, ,30.3,20.4,54,27,3.46,12.36
+NEWMAN AERO,29/04/2016,5.3,0.0, ,29.6,18.6,38,24,3.20,17.93
+NEWMAN AERO,30/04/2016,5.0,0.0, ,30.9,17.0,42,20,2.80,16.19
+Totals:,,173,2.6, ,,,,,, 

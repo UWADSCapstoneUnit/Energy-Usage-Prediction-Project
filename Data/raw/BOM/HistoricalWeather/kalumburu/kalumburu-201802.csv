@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/02/2018,5.9,10.4, ,32.4,23.9,90,54,2.74,25.40
+KALUMBURU,02/02/2018,4.3,15.6, ,31.3,23.0,91,59,1.98,18.14
+KALUMBURU,03/02/2018,6.0,19.2, ,34.7,23.2,91,47,1.96,25.57
+KALUMBURU,04/02/2018, ,0.2, , ,24.9,88,45,1.91,23.90
+KALUMBURU,05/02/2018, , , ,33.5, ,90,56,1.37,19.43
+KALUMBURU,06/02/2018,5.2,6.8, ,33.7,24.1,89,56,1.52,22.67
+KALUMBURU,07/02/2018,6.5,6.0, ,36.2,23.2,91,41,1.86,27.92
+KALUMBURU,08/02/2018,6.4,0.0, ,35.0,25.2,89,43,1.89,27.37
+KALUMBURU,09/02/2018,5.4,14.8, ,34.7,24.2,90,55,1.91,22.99
+KALUMBURU,10/02/2018,5.3,7.2, ,35.1,24.9,90,48,1.43,22.46
+KALUMBURU,11/02/2018,6.1,4.6, ,35.9,23.3,91,46,1.62,26.83
+KALUMBURU,12/02/2018,6.4,3.6, ,36.6,23.7,91,39,1.70,27.35
+KALUMBURU,13/02/2018,6.1,6.6, ,36.0,23.4,91,50,1.86,26.11
+KALUMBURU,14/02/2018,4.3,14.8, ,33.9,23.8,91,53,1.01,18.67
+KALUMBURU,15/02/2018,2.7,64.6, ,29.2,24.0,91,75,3.16,8.96
+KALUMBURU,16/02/2018, ,91.0, , ,23.7,91,75,1.57,8.19
+KALUMBURU,17/02/2018, , , , , , , , ,15.33
+KALUMBURU,18/02/2018, , , ,26.1, ,91,87,1.55,1.79
+KALUMBURU,19/02/2018,2.1,54.4, ,28.6,24.1,91,78,1.08,7.92
+KALUMBURU,20/02/2018,4.5,26.8, ,33.4,23.2,91,59,1.50,19.50
+KALUMBURU,21/02/2018,5.7,8.4, ,34.1,23.9,91,48,1.69,25.29
+KALUMBURU,22/02/2018,5.5,0.0, ,34.9,24.6,90,52,1.82,23.38
+KALUMBURU,23/02/2018,5.7,0.2, ,36.3,24.2,91,50,1.27,25.02
+KALUMBURU,24/02/2018,1.6,24.6, ,30.0,25.3,90,74,1.37,4.22
+KALUMBURU,25/02/2018,2.5,19.6, ,29.2,22.3,91,69,1.27,9.96
+KALUMBURU,26/02/2018,5.7,7.4, ,34.5,22.6,91,49,1.72,25.18
+KALUMBURU,27/02/2018, ,0.0, , ,24.6,89,52,1.00,21.18
+KALUMBURU,28/02/2018, , , ,34.1, ,91,54,1.49,26.66
+Totals:,,103.9,406.8, ,,,,,, 

@@ -1,0 +1,39 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEGENDRE ISLAND Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 29 February 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEGENDRE ISLAND,01/02/2020,5.1, , ,30.3,25.3,100,83,8.29,29.33
+LEGENDRE ISLAND,02/02/2020,4.7, , ,30.0,24.7,100,92,6.15,28.37
+LEGENDRE ISLAND,03/02/2020,4.3, , ,31.1,26.0,100,100,6.93,27.78
+LEGENDRE ISLAND,04/02/2020,6.4, , ,35.4,26.8,100,74,6.06,28.90
+LEGENDRE ISLAND,05/02/2020,7.3, , ,36.1,28.5,100,47,5.09,26.43
+LEGENDRE ISLAND,06/02/2020,6.7, , ,33.5,27.5,100,61,5.50,28.52
+LEGENDRE ISLAND,07/02/2020,0.8, , ,29.0,28.5,100,99,10.12,4.22
+LEGENDRE ISLAND,08/02/2020, , , , ,23.9,100,3,22.29,1.65
+LEGENDRE ISLAND,09/02/2020, , , , , , , , ,25.45
+LEGENDRE ISLAND,10/02/2020,5.0, , ,37.8,27.0,15,10,0.59,26.28
+LEGENDRE ISLAND,11/02/2020,4.7, , ,33.9,29.3,16,12,0.33,27.96
+LEGENDRE ISLAND,12/02/2020,4.2, , ,31.6,25.9,18,14,0.00,28.62
+LEGENDRE ISLAND,13/02/2020,4.2, , ,30.7,26.3,18,15,0.00,28.55
+LEGENDRE ISLAND,14/02/2020, , , , ,26.3,18,14,0.00,28.45
+LEGENDRE ISLAND,15/02/2020, , , , , , , , ,28.49
+LEGENDRE ISLAND,16/02/2020,4.2, , ,31.7,26.9,17,14,0.00,28.46
+LEGENDRE ISLAND,17/02/2020, , , , ,26.5,18,14,0.00,28.39
+LEGENDRE ISLAND,18/02/2020, , , , , , , , ,28.31
+LEGENDRE ISLAND,19/02/2020, , , , , , , , ,28.15
+LEGENDRE ISLAND,22/02/2020, , , , , , , , ,27.86
+LEGENDRE ISLAND,23/02/2020, , , , , , , , ,27.77
+LEGENDRE ISLAND,24/02/2020, , , , , , , , ,25.02
+LEGENDRE ISLAND,26/02/2020, , , , , , , , ,26.36
+LEGENDRE ISLAND,27/02/2020, , , , , , , , ,26.66
+LEGENDRE ISLAND,28/02/2020, , , , , , , , ,26.90
+Totals:,,57.6, , ,,,,,, 

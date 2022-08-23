@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DALWALLINU Western Australia for February 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 March 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DALWALLINU,01/02/2011,9.5,0.0, ,33.6,19.0,69,27,6.49,31.10
+DALWALLINU,02/02/2011,9.9,0.0, ,36.9,20.0,57,27,5.64,30.00
+DALWALLINU,03/02/2011,9.6,0.0, ,39.8,21.1,66,23,4.59,28.01
+DALWALLINU,04/02/2011,10.1,0.0, ,37.6,21.1,85,26,6.52,30.18
+DALWALLINU,05/02/2011,9.7,0.0, ,29.3,17.1,69,30,11.96,30.01
+DALWALLINU,06/02/2011,10.7,0.0, ,30.5,16.2,53,23,10.79,29.76
+DALWALLINU,07/02/2011,9.1,0.0, ,31.1,19.3,42,21,6.89,21.36
+DALWALLINU,08/02/2011, ,0.0, , ,21.1,59,32,5.29,28.66
+DALWALLINU,09/02/2011, , , , , ,85,20,4.60,29.44
+DALWALLINU,10/02/2011, , , ,38.5, ,76,25,7.94,28.92
+DALWALLINU,11/02/2011,8.6,0.0, ,33.2,22.1,70,39,9.18,21.14
+DALWALLINU,12/02/2011,9.7,0.0, ,31.5,19.6,65,27,9.09,27.68
+DALWALLINU,13/02/2011,8.3,0.0, ,30.7,20.6,63,35,7.66,23.92
+DALWALLINU,14/02/2011,8.9,0.0, ,36.9,19.5,71,26,5.31,25.21
+DALWALLINU,15/02/2011,7.8,0.0, ,39.1,22.6,66,27,3.51,23.33
+DALWALLINU,16/02/2011,6.7,0.0, ,36.5,23.6,98,35,4.16,21.23
+DALWALLINU,17/02/2011,6.5,9.4, ,31.0,20.8,98,47,7.65,23.57
+DALWALLINU,18/02/2011,7.4,0.0, ,31.6,20.0,77,37,5.75,25.77
+DALWALLINU,19/02/2011,4.6,0.0, ,28.3,21.4,79,56,4.57,15.10
+DALWALLINU,20/02/2011,5.8,0.0, ,31.2,20.7,87,43,7.73,11.19
+DALWALLINU,21/02/2011,9.3,0.0, ,34.1,21.1,62,30,6.62,27.98
+DALWALLINU,22/02/2011, ,0.0, , ,18.2,68,34,7.96,28.42
+DALWALLINU,23/02/2011, , , ,34.5, , , , ,26.46
+DALWALLINU,24/02/2011,8.0,1.0, ,37.2,22.7,83,33,5.57,21.81
+DALWALLINU,25/02/2011,8.5,0.0, ,39.7,22.9,80,18,3.76,26.21
+DALWALLINU,26/02/2011,8.5,0.0, ,40.5,23.4,68,18,3.50,26.18
+DALWALLINU,27/02/2011,8.9,0.0, ,40.4,22.9,68,22,4.21,25.56
+DALWALLINU,28/02/2011,7.9,0.0, ,38.1,23.8,99,26,4.61,24.11
+Totals:,,194,10.4, ,,,,,, 

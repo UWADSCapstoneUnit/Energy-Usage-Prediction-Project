@@ -1,0 +1,39 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,01/11/2016,9.1,0.0, ,43.0,24.2,89,16,3.46,27.71
+CURTIN AERO,02/11/2016,9.0,0.0, ,41.6,25.6,93,17,3.60,28.28
+CURTIN AERO,03/11/2016,8.8,0.0, ,41.6,24.1,89,16,3.25,28.23
+CURTIN AERO,04/11/2016,8.1,0.0, ,42.7,25.7,84,17,2.97,23.76
+CURTIN AERO,05/11/2016, ,0.0, , ,27.7,75,13,3.56,25.27
+CURTIN AERO,06/11/2016, , , , , , , , ,28.52
+CURTIN AERO,12/11/2016, , , , , , , , ,28.64
+CURTIN AERO,13/11/2016, , , , , , , , ,28.98
+CURTIN AERO,14/11/2016, , , ,43.9, , , , ,28.84
+CURTIN AERO,15/11/2016,8.6,0.0, ,39.2,26.5,77,36,4.70,26.12
+CURTIN AERO,16/11/2016,8.3,0.0, ,40.2,25.6,76,25,3.72,24.03
+CURTIN AERO,17/11/2016,7.3,1.0, ,40.9,23.6,83,22,2.57,23.59
+CURTIN AERO,18/11/2016,9.7,0.0, ,43.0,28.0,69,12,4.06,24.77
+CURTIN AERO,19/11/2016,10.0,0.0, ,42.6,21.8,82,16,4.17,28.42
+CURTIN AERO,20/11/2016,9.0,0.0, ,39.6,27.3,84,29,4.59,27.41
+CURTIN AERO,21/11/2016,7.8,0.0, ,39.1,27.9,85,24,3.70,23.04
+CURTIN AERO,22/11/2016,7.7,0.2, ,36.7,27.4,83,36,3.95,26.12
+CURTIN AERO,23/11/2016,7.6,0.0, ,38.9,26.4,83,21,3.26,23.21
+CURTIN AERO,24/11/2016,8.2,0.2, ,39.1,24.9,73,25,3.32,26.78
+CURTIN AERO,25/11/2016,8.5,0.0, ,41.2,25.0,76,25,3.25,27.27
+CURTIN AERO,26/11/2016,8.8,0.0, ,41.5,25.9,71,22,3.77,24.85
+CURTIN AERO,27/11/2016,8.3,0.0, ,40.9,25.6,75,24,3.78,22.75
+CURTIN AERO,28/11/2016,8.0,0.0, ,41.6,28.8,71,19,3.65,18.93
+CURTIN AERO,29/11/2016,9.1,0.0, ,42.5,28.2,66,18,4.35,20.05
+CURTIN AERO,30/11/2016,8.3,5.8, ,40.7,28.2,89,22,4.29,21.10
+Totals:,,170.2,7.2, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/11/2009,7.1,0.0, ,24.6,10.4,65,16,4.67,31.35
+PERTH METRO,02/11/2009,6.9,0.0, ,26.4,10.6,69,19,3.75,31.68
+PERTH METRO,03/11/2009,7.6,0.0, ,31.1,11.4,63,13,3.31,31.20
+PERTH METRO,04/11/2009,7.9,0.0, ,34.2,15.9,54,10,3.44,26.24
+PERTH METRO,05/11/2009,5.3,0.0, ,30.6,17.8,73,22,2.37,18.86
+PERTH METRO,06/11/2009,5.2,0.0, ,27.2,17.7,83,47,2.93,24.41
+PERTH METRO,07/11/2009,4.9,0.0, ,23.4,14.5,93,48,2.52,27.64
+PERTH METRO,08/11/2009,5.3,0.0, ,23.1,12.1,96,41,2.80,31.33
+PERTH METRO,09/11/2009,6.1,0.0, ,29.6,11.1,91,35,2.70,29.85
+PERTH METRO,10/11/2009,6.2,0.0, ,29.9,17.4,90,36,2.77,28.27
+PERTH METRO,11/11/2009,5.8,0.0, ,31.8,14.8,97,39,1.47,29.37
+PERTH METRO,12/11/2009, ,0.0, ,30.1,20.2,92,50,2.66, 
+PERTH METRO,13/11/2009,4.9,3.4, ,24.9,18.9,90,51,3.25,24.18
+PERTH METRO,14/11/2009,5.5,0.0, ,23.7,14.7,86,44,3.15,30.24
+PERTH METRO,15/11/2009,5.8,0.0, ,26.6,11.6,97,43,2.80,31.93
+PERTH METRO,16/11/2009, ,0.0, ,23.5,17.9,81,51,3.75, 
+PERTH METRO,17/11/2009, ,0.0, ,22.6,13.7,92,50,2.54, 
+PERTH METRO,18/11/2009, ,11.8, ,21.7,15.6,97,52,5.05, 
+PERTH METRO,19/11/2009, ,22.4, ,20.2,13.6,91,50,6.04, 
+PERTH METRO,20/11/2009, ,0.6, ,20.8,12.4,83,44,3.76, 
+PERTH METRO,21/11/2009, ,0.0, ,21.6,11.8,81,42,3.91, 
+PERTH METRO,22/11/2009, ,0.0, ,26.9,11.4,96,35,2.98, 
+PERTH METRO,23/11/2009, ,0.0, ,33.6,11.9,96,14,2.62, 
+PERTH METRO,24/11/2009, ,0.0, ,35.8,13.0,86,9,2.04, 
+PERTH METRO,25/11/2009, ,0.0, ,23.0,15.7,95,44,4.60, 
+PERTH METRO,26/11/2009, ,0.0, ,20.3,11.8,73,32,5.01, 
+PERTH METRO,27/11/2009, ,0.0, ,21.7,8.6,84,33,3.22, 
+PERTH METRO,28/11/2009,7.8,0.0, ,31.5,11.9,88,16,3.27,33.58
+PERTH METRO,29/11/2009,7.1,0.0, ,28.7,13.6,85,28,3.26,33.88
+PERTH METRO,30/11/2009,6.4,0.0, ,25.6,12.5,96,31,3.08,34.20
+Totals:,,105.8,38.2, ,,,,,, 

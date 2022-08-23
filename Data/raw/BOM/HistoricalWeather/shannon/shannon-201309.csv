@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SHANNON Western Australia for September 2013,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 04 September 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SHANNON,28/08/2013, , , , , , , , ,15.25
+SHANNON,29/08/2013, , , , , , , , ,15.90
+SHANNON,30/08/2013, , , ,16.2, , , , ,14.13
+SHANNON,31/08/2013, ,4.8, , ,12.1, , , ,15.55
+SHANNON,01/09/2013, , , , , , , , ,19.53
+SHANNON,02/09/2013, , , ,20.7, , , , ,15.32
+SHANNON,03/09/2013, ,0.2, , ,11.1, , , ,11.11
+Totals:,, ,5, ,,,,,, 

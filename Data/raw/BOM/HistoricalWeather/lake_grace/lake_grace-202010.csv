@@ -1,0 +1,32 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for October 2020,,,,,,,,,,
+Issued at 22:31 GMT on Monday 19 October 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/10/2020,5.1,0.0, ,24.8,11.1,89,35,4.95,21.32
+LAKE GRACE,02/10/2020,2.8,0.0, ,17.7,8.3,91,50,4.09,11.61
+LAKE GRACE,03/10/2020,3.8,0.0, ,16.5,4.3,86,32,4.46,20.97
+LAKE GRACE,04/10/2020,4.0,0.0, ,18.0,6.3,82,34,4.44,19.46
+LAKE GRACE,05/10/2020, ,0.0, ,17.9,5.0,75,29,3.62, 
+LAKE GRACE,06/10/2020, ,0.0, ,20.0,4.2,86,21,2.49, 
+LAKE GRACE,07/10/2020,6.7,0.0, ,24.8,6.3,61,10,5.82,19.31
+LAKE GRACE,08/10/2020,4.3,0.2, ,22.2,9.8,91,31,3.26,20.93
+LAKE GRACE,09/10/2020,4.7,0.2, ,24.1,5.9,91,28,2.85,23.62
+LAKE GRACE,10/10/2020,5.0,0.0, ,26.3,9.8,90,24,3.61,18.14
+LAKE GRACE,11/10/2020,5.4,0.0, ,25.5,10.4,90,25,3.84,23.73
+LAKE GRACE,12/10/2020,5.5,0.0, ,27.4,7.8,89,22,3.24,23.66
+LAKE GRACE,13/10/2020,6.6,0.0, ,33.7,10.0,87,21,3.65,19.90
+LAKE GRACE,14/10/2020,3.4,0.0, ,21.6,14.4,89,52,4.84,12.25
+LAKE GRACE,15/10/2020,3.5,0.0, ,21.3,12.4,93,50,4.82,14.27
+LAKE GRACE,16/10/2020,4.1,0.2, ,22.1,11.4,95,40,4.06,17.92
+LAKE GRACE,17/10/2020, ,0.0, , ,6.4,90,26,4.72,24.56
+LAKE GRACE,18/10/2020, , , , , , , , ,22.02
+Totals:,,64.9,0.6, ,,,,,, 

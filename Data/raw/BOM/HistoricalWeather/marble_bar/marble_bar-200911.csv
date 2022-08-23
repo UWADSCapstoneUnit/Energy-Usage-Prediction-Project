@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/11/2009,11.4,0.0, ,44.1,27.4,68,8,4.79,28.67
+MARBLE BAR,02/11/2009,11.0,0.0, ,40.6,26.4,68,12,5.41,28.45
+MARBLE BAR,03/11/2009,11.7,0.0, ,41.2,28.1,45,9,5.23,29.73
+MARBLE BAR,04/11/2009,10.9,0.0, ,42.4,24.4,26,8,4.15,29.88
+MARBLE BAR,05/11/2009,10.8,0.0, ,42.2,23.8,62,14,4.93,27.14
+MARBLE BAR,06/11/2009,8.8,2.8, ,37.8,23.1,85,27,4.47,29.00
+MARBLE BAR,07/11/2009,9.5,0.0, ,39.3,24.6,68,16,4.13,28.58
+MARBLE BAR,08/11/2009,10.5,0.0, ,39.8,23.4,80,19,6.07,26.44
+MARBLE BAR,09/11/2009,6.6,4.8, ,33.3,21.7,78,29,4.79,16.05
+MARBLE BAR,10/11/2009,8.3,0.6, ,39.0,21.7,71,18,2.79,30.14
+MARBLE BAR,11/11/2009,9.1,0.0, ,40.6,25.3,84,19,3.86,28.10
+MARBLE BAR,12/11/2009, ,3.4, ,40.6,24.4,87,19,4.73, 
+MARBLE BAR,13/11/2009,9.8,0.0, ,40.3,26.0,64,17,4.03,29.61
+MARBLE BAR,14/11/2009,11.5,0.0, ,43.6,27.5,49,10,4.69,29.30
+MARBLE BAR,15/11/2009,12.6,0.0, ,43.1,28.1,40,9,5.56,30.23
+MARBLE BAR,16/11/2009, ,0.0, ,43.6,28.9,33,9,4.18, 
+MARBLE BAR,17/11/2009, ,0.0, ,42.9,28.1,36,10,4.40, 
+MARBLE BAR,18/11/2009, ,0.0, ,42.2,25.0,38,8,5.52, 
+MARBLE BAR,19/11/2009, ,0.0, ,40.4,22.0,58,9,5.79, 
+MARBLE BAR,20/11/2009, ,0.0, ,35.8,22.1,75,9,5.19, 
+MARBLE BAR,21/11/2009, ,0.0, ,36.7,21.3,28,8,4.22, 
+MARBLE BAR,22/11/2009, ,0.0, ,37.9,24.0,21,8,5.98, 
+MARBLE BAR,23/11/2009, ,0.0, ,35.9,24.8,19,7,9.14, 
+MARBLE BAR,24/11/2009, ,0.0, ,37.2,24.2,14,4,7.27, 
+MARBLE BAR,25/11/2009, ,0.0, ,39.4,18.8,17,4,3.82, 
+MARBLE BAR,26/11/2009, ,0.0, ,41.4,20.9,28,5,3.35, 
+MARBLE BAR,27/11/2009, ,0.0, ,39.9,20.9,44,8,3.07, 
+MARBLE BAR,28/11/2009,9.3,0.0, ,41.6,21.8,34,5,2.70,32.42
+MARBLE BAR,29/11/2009,9.7,0.0, ,42.5,23.2,28,5,2.82,32.91
+MARBLE BAR,30/11/2009,10.1,0.0, ,43.4,23.2,28,4,2.94,33.16
+Totals:,,171.6,11.6, ,,,,,, 

@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEONORA AERO Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEONORA AERO,01/12/2017,8.1,0.0, ,29.1,14.5,67,17,4.81,31.07
+LEONORA AERO,02/12/2017,9.6,0.0, ,32.0,17.9,39,13,5.14,31.15
+LEONORA AERO,03/12/2017,10.0,0.0, ,32.0,19.6,26,9,5.66,26.58
+LEONORA AERO,04/12/2017,9.2,0.0, ,33.5,21.6,22,9,4.61,22.55
+LEONORA AERO,05/12/2017,8.3,0.0, ,35.3,21.4,59,16,4.63,19.80
+LEONORA AERO,06/12/2017,9.9,0.2, ,32.9,19.3,48,10,5.17,31.28
+LEONORA AERO,07/12/2017,9.2,0.0, ,29.9,15.6,59,14,6.01,31.34
+LEONORA AERO,08/12/2017,10.2,0.0, ,32.9,17.3,39,9,5.49,31.15
+LEONORA AERO,09/12/2017,7.6,0.0, ,33.2,21.6,48,8,4.30,13.63
+LEONORA AERO,10/12/2017,8.6,0.0, ,36.1,25.2,35,9,4.78,11.70
+LEONORA AERO,11/12/2017,10.8,0.0, ,38.1,24.4,56,22,6.33,27.39
+LEONORA AERO,12/12/2017,12.2,0.0, ,39.1,25.0,62,10,6.61,30.68
+LEONORA AERO,13/12/2017,9.5,0.0, ,35.5,22.5,61,18,4.56,30.47
+LEONORA AERO,14/12/2017,9.6,0.0, ,34.9,21.2,51,19,4.58,31.45
+LEONORA AERO,15/12/2017,10.0,0.0, ,40.5,24.5,52,10,3.89,28.60
+LEONORA AERO,16/12/2017,15.2,1.2, ,44.4,24.1,56,3,7.60,30.09
+LEONORA AERO,17/12/2017,12.0,0.0, ,34.7,21.8,42,8,7.22,31.34
+LEONORA AERO,18/12/2017,9.8,0.0, ,28.0,16.1,48,19,8.74,29.39
+LEONORA AERO,19/12/2017,8.2,0.0, ,28.7,16.3,61,18,5.07,29.48
+LEONORA AERO,20/12/2017,9.2,0.0, ,31.8,17.2,47,15,4.81,31.63
+LEONORA AERO,21/12/2017,9.5,0.0, ,37.5,17.6,32,6,3.41,31.59
+LEONORA AERO,22/12/2017,11.9,0.0, ,42.9,25.8,15,4,4.46,31.55
+LEONORA AERO,23/12/2017,11.0,0.0, ,38.4,24.5,43,10,5.48,26.26
+LEONORA AERO,24/12/2017,11.1,0.0, ,37.6,19.6,57,15,6.10,29.63
+LEONORA AERO,25/12/2017,13.4,0.0, ,42.3,24.1,37,8,6.70,26.87
+LEONORA AERO,26/12/2017,10.7,0.0, ,41.4,27.8,28,6,4.62,22.20
+Totals:,,264.8,1.4, ,,,,,, 

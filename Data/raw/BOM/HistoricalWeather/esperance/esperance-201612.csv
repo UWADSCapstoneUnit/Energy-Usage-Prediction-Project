@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for December 2016,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 January 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/12/2016, ,0.2, , ,13.3,93,45,4.48,16.64
+ESPERANCE,02/12/2016, , , , , ,79,47,4.75,26.10
+ESPERANCE,03/12/2016, , , , , ,81,25,4.89,24.49
+ESPERANCE,04/12/2016, , , ,20.2, ,90,33,5.10,26.57
+ESPERANCE,05/12/2016,5.0,0.0, ,20.9,10.7,85,42,4.33,26.54
+ESPERANCE,06/12/2016, ,0.0, ,23.1,10.8,91,42,4.19, 
+ESPERANCE,07/12/2016,5.3,0.0, ,20.7,15.1,86,37,6.45,23.52
+ESPERANCE,08/12/2016,5.5,0.0, ,21.3,14.9,74,45,5.34,26.90
+ESPERANCE,09/12/2016,6.5,0.0, ,26.1,8.7,85,31,4.33,30.60
+ESPERANCE,10/12/2016,7.8,0.0, ,30.6,12.6,77,34,5.43,30.58
+ESPERANCE,11/12/2016, ,0.0, , ,19.8,86,11,7.60,21.64
+ESPERANCE,12/12/2016, , , ,18.3, ,98,77,4.31,3.50
+ESPERANCE,13/12/2016,3.5,6.8, ,19.2,15.0,94,47,5.36,12.95
+ESPERANCE,14/12/2016,5.6,0.6, ,20.9,14.7,78,49,5.41,29.85
+ESPERANCE,15/12/2016,6.3,0.0, ,25.6,9.9,90,36,4.38,31.14
+ESPERANCE,16/12/2016,4.5,0.0, ,20.7,15.3,91,45,6.48,19.16
+ESPERANCE,17/12/2016,7.2,0.0, ,24.5,12.7,70,30,6.57,30.24
+ESPERANCE,18/12/2016,7.0,0.2, ,28.9,14.8,75,41,5.31,28.19
+ESPERANCE,19/12/2016,5.3,0.0, ,20.8,15.7,74,43,5.00,24.19
+ESPERANCE,20/12/2016,5.3,0.0, ,23.1,15.5,79,56,5.15,26.66
+ESPERANCE,21/12/2016,7.4,0.0, ,28.8,11.4,86,33,5.73,31.10
+ESPERANCE,22/12/2016,9.5,0.0, ,37.3,19.1,83,18,6.72,18.25
+ESPERANCE,23/12/2016,4.9,0.0, ,21.5,17.0,84,62,5.73,26.97
+ESPERANCE,24/12/2016,5.1,0.0, ,23.8,14.9,93,60,4.83,29.01
+ESPERANCE,25/12/2016,4.3,0.2, ,20.7,17.4,89,59,6.78,21.25
+ESPERANCE,26/12/2016,6.0,0.0, ,23.6,13.2,80,49,5.53,31.06
+ESPERANCE,27/12/2016,4.5,0.6, ,19.9,15.6,93,47,8.21,19.07
+ESPERANCE,28/12/2016,3.5,10.6, ,19.1,13.5,89,53,8.55,10.18
+ESPERANCE,29/12/2016,2.9,1.4, ,18.7,14.0,96,56,4.97,11.27
+ESPERANCE,30/12/2016,4.8,0.0, ,19.9,14.2,93,50,4.51,27.65
+ESPERANCE,31/12/2016,4.6,1.6, ,20.3,13.4,92,51,4.50,26.23
+Totals:,,132.3,22.2, ,,,,,, 

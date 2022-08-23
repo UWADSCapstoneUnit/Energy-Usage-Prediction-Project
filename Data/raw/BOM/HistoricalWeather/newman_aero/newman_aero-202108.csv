@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for August 2021,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 September 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/08/2021,3.8,0.0, ,20.8,4.9,78,21,3.53,17.79
+NEWMAN AERO,02/08/2021,4.4,0.0, ,19.7,7.5,74,14,4.72,17.86
+NEWMAN AERO,03/08/2021,4.2,0.0, ,20.9,0.4,55,16,3.60,17.95
+NEWMAN AERO,04/08/2021,4.8,0.0, ,22.9,4.1,55,13,3.95,18.05
+NEWMAN AERO,05/08/2021,4.9,0.0, ,22.8,7.1,47,13,4.11,18.16
+NEWMAN AERO,06/08/2021,4.7,0.0, ,23.4,3.0,51,12,3.65,18.24
+NEWMAN AERO,07/08/2021,4.8,0.0, ,25.4,2.7,47,12,3.26,18.26
+NEWMAN AERO,08/08/2021,5.2,0.0, ,27.1,8.5,38,10,3.39,17.77
+NEWMAN AERO,09/08/2021,5.7,0.0, ,27.9,11.6,34,11,3.90,15.99
+NEWMAN AERO,10/08/2021,4.3,0.0, ,21.8,15.9,74,19,4.46,11.84
+NEWMAN AERO,11/08/2021,4.9,0.0, ,20.1,8.5,59,15,4.99,18.78
+NEWMAN AERO,12/08/2021,4.6,0.0, ,22.4,-0.1,49,10,3.46,18.90
+NEWMAN AERO,13/08/2021,4.5,0.0, ,25.7,2.7,41,15,2.72,19.01
+NEWMAN AERO,14/08/2021,4.8,0.0, ,26.9,4.8,41,7,2.66,19.13
+NEWMAN AERO,15/08/2021, ,0.0, , ,6.5,100,12,2.13,18.64
+NEWMAN AERO,16/08/2021,5.3, , ,31.1,14.3,49,13,2.92,17.87
+NEWMAN AERO,17/08/2021,5.3,0.0, ,30.8,11.4,44,13,2.76,19.45
+NEWMAN AERO,18/08/2021,5.6,0.0, ,31.2,11.4,43,12,2.94,19.50
+NEWMAN AERO,19/08/2021,6.0,0.0, ,31.4,12.3,40,11,3.29,19.68
+NEWMAN AERO,20/08/2021,5.1,0.0, ,30.8,13.7,46,14,2.49,19.66
+NEWMAN AERO,21/08/2021,5.5,0.0, ,31.0,14.2,47,12,2.82,19.93
+NEWMAN AERO,22/08/2021,6.2,0.0, ,29.2,14.1,42,16,3.96,20.06
+NEWMAN AERO,23/08/2021,5.9,0.0, ,25.5,14.8,39,19,4.61,17.88
+NEWMAN AERO,24/08/2021,5.6,0.0, ,27.7,10.4,37,12,3.27,20.29
+NEWMAN AERO,25/08/2021,5.0,0.0, ,28.8,7.8,36,12,2.50,20.41
+NEWMAN AERO,26/08/2021,5.7,0.0, ,30.9,8.8,40,15,3.04,20.25
+NEWMAN AERO,27/08/2021,5.4,0.0, ,26.9,12.7,47,21,3.49,20.66
+NEWMAN AERO,28/08/2021,4.9,0.0, ,26.8,9.3,49,14,2.69,20.77
+NEWMAN AERO,29/08/2021,6.1,0.0, ,31.0,8.0,38,11,3.23,20.87
+NEWMAN AERO,30/08/2021,5.4,0.0, ,30.7,9.9,32,8,2.48,21.05
+NEWMAN AERO,31/08/2021,6.3,0.0, ,32.3,9.5,30,9,3.06,21.18
+Totals:,,154.9,0, ,,,,,, 

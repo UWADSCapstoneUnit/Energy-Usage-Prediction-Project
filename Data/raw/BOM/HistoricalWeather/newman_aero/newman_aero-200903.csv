@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for March 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/03/2009,2.5,68.0, ,26.9,22.3,100,78,7.02,9.52
+NEWMAN AERO,02/03/2009,4.5,48.0, ,31.8,22.2,96,57,2.00,19.63
+NEWMAN AERO,03/03/2009,5.4,5.8, ,31.3,22.6,95,55,5.20,21.04
+NEWMAN AERO,04/03/2009,7.6,1.0, ,29.0,19.9,58,35,6.22,25.56
+NEWMAN AERO,05/03/2009,7.9,0.0, ,34.2,20.1,53,24,3.86,27.70
+NEWMAN AERO,06/03/2009,7.5,0.0, ,34.8,20.8,60,21,3.09,28.38
+NEWMAN AERO,07/03/2009,8.4,0.0, ,32.9,20.7,49,17,4.36,28.64
+NEWMAN AERO,08/03/2009,8.5,0.0, ,31.6,18.7,46,13,4.45,29.20
+NEWMAN AERO,09/03/2009,7.4,0.0, ,32.3,16.7,59,11,3.10,29.26
+NEWMAN AERO,10/03/2009,7.0,0.0, ,33.2,16.6,64,13,2.53,29.10
+NEWMAN AERO,11/03/2009,6.5,0.0, ,33.4,17.2,59,15,2.14,28.60
+NEWMAN AERO,12/03/2009,6.4,0.0, ,35.6,18.0,66,14,1.78,28.38
+NEWMAN AERO,13/03/2009,6.5,0.0, ,38.1,18.9,67,10,1.65,28.05
+NEWMAN AERO,14/03/2009,8.3,0.0, ,38.7,19.8,64,10,3.25,27.81
+NEWMAN AERO,15/03/2009,8.8,0.0, ,38.0,23.8,39,11,3.80,27.46
+NEWMAN AERO,16/03/2009,7.9,0.0, ,38.2,20.5,46,11,3.04,26.80
+NEWMAN AERO,17/03/2009,7.6,0.0, ,38.5,18.7,51,8,2.71,27.12
+NEWMAN AERO,18/03/2009,6.5,0.0, ,38.9,18.4,56,8,1.82,27.12
+NEWMAN AERO,19/03/2009,7.1,0.0, ,39.4,22.8,43,8,2.32,25.97
+NEWMAN AERO,20/03/2009, ,0.0, ,39.5,21.7,47,12,2.79, 
+NEWMAN AERO,21/03/2009, ,0.0, ,37.7,22.6,33,14,3.58, 
+NEWMAN AERO,22/03/2009, ,0.0, ,38.4,22.4,40,14,2.42, 
+NEWMAN AERO,23/03/2009,8.1,0.0, ,36.6,25.5,39,19,3.83,24.66
+NEWMAN AERO,24/03/2009,6.9,0.0, ,35.6,20.1,33,13,2.61,26.10
+NEWMAN AERO,25/03/2009,6.5,0.0, ,36.6,18.8,45,13,2.25,25.89
+NEWMAN AERO,26/03/2009,7.5,0.0, ,37.2,21.0,37,14,3.11,25.53
+NEWMAN AERO,27/03/2009, ,0.0, ,37.5,23.4,39,13,3.51, 
+NEWMAN AERO,28/03/2009, ,0.0, ,38.4,19.4,51,11,2.66, 
+NEWMAN AERO,29/03/2009, ,0.0, ,39.3,21.8,37,16,3.23, 
+NEWMAN AERO,30/03/2009,7.2,0.0, ,36.8,26.8,42,23,3.67,18.96
+NEWMAN AERO,31/03/2009, ,0.0, ,34.8, ,55,22,2.40,15.93
+Totals:,,168.5,122.8, ,,,,,, 

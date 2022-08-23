@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON AERO Western Australia for May 2017,,,,,,,,,,
+Issued at 06:30 GMT on Thursday 01 June 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON AERO,01/05/2017,3.2,0.2, ,21.1,6.5,83,37,3.95,13.69
+BUSSELTON AERO,02/05/2017,3.0,0.0, ,23.4,8.9,80,41,3.10,13.46
+BUSSELTON AERO,03/05/2017,2.8,0.0, ,23.3,6.9,91,54,4.25,13.07
+BUSSELTON AERO,04/05/2017,2.1,0.0, ,23.7,12.7,100,61,3.71,6.99
+BUSSELTON AERO,05/05/2017,1.8,3.4, ,21.9,7.5,100,58,2.17,9.72
+BUSSELTON AERO,06/05/2017,2.2,0.6, ,23.6,8.9,100,50,1.95,13.43
+BUSSELTON AERO,07/05/2017,2.5,0.0, ,24.1,8.8,99,49,2.88,13.34
+BUSSELTON AERO,08/05/2017,1.9,0.0, ,23.6,8.9,99,67,3.43,8.85
+BUSSELTON AERO,09/05/2017,2.4,2.6, ,19.6,12.8,97,38,3.26,11.27
+BUSSELTON AERO,10/05/2017,2.1,0.8, ,19.3,6.7,100,50,3.40,11.42
+BUSSELTON AERO,11/05/2017,2.1,0.0, ,20.3,4.7,99,45,2.56,12.13
+BUSSELTON AERO,12/05/2017,1.6,0.0, ,18.3,5.3,100,48,1.94,8.65
+BUSSELTON AERO,13/05/2017, ,0.0, , ,7.0,94,47,2.37,10.20
+BUSSELTON AERO,14/05/2017, , , ,21.7, ,96,46,5.69,8.90
+BUSSELTON AERO,15/05/2017, ,13.8, , ,14.0,93,50,5.59,12.01
+BUSSELTON AERO,16/05/2017, , , ,20.3, ,99,58,3.12,9.47
+BUSSELTON AERO,17/05/2017,2.0,0.0, ,20.7,7.5,100,55,3.00,11.97
+BUSSELTON AERO,18/05/2017,1.9,0.0, ,21.2,9.0,99,64,4.67,6.38
+BUSSELTON AERO,19/05/2017, ,5.0, , ,11.5,100,61,3.90,8.30
+BUSSELTON AERO,20/05/2017, , , , , ,97,60,4.06,8.16
+BUSSELTON AERO,21/05/2017, , , , , ,92,57,5.13,11.54
+BUSSELTON AERO,22/05/2017, , , , , ,99,55,2.09,8.17
+BUSSELTON AERO,23/05/2017, , , , , ,100,88,2.22,8.60
+BUSSELTON AERO,24/05/2017, , , , , ,100,57,2.19,9.81
+BUSSELTON AERO,25/05/2017, , , , , ,100,59,4.18,8.60
+BUSSELTON AERO,26/05/2017, , , , , ,95,62,3.32,10.49
+BUSSELTON AERO,27/05/2017, , , , , ,99,55,2.78,9.21
+BUSSELTON AERO,28/05/2017, , , , , ,100,50,1.81,9.95
+BUSSELTON AERO,29/05/2017, , , , , ,88,49,3.32,10.50
+BUSSELTON AERO,30/05/2017, , , ,20.7, ,99,55,3.35,11.20
+BUSSELTON AERO,31/05/2017,1.5,0.0, ,21.2,9.4,100,65,2.56,9.24
+Totals:,,33.1,26.4, ,,,,,, 

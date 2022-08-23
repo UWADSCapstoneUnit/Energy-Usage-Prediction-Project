@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for July 2010,,,,,,,,,,
+Issued at 04:30 GMT on Sunday 01 August 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/07/2010,1.3,0.0, ,13.6,2.9,87,52,2.23,10.89
+KATANNING,02/07/2010,1.7,5.0, ,12.5,6.9,91,42,3.35,11.03
+KATANNING,03/07/2010,1.6,0.0, ,12.2,2.5,91,51,3.98,11.74
+KATANNING,04/07/2010,1.5,0.0, ,13.9,5.4,93,52,3.08,9.36
+KATANNING,05/07/2010,1.2,0.0, ,13.7,2.8,92,48,1.60,11.89
+KATANNING,06/07/2010,1.1,0.0, ,14.2,2.8,85,50,1.44,8.56
+KATANNING,07/07/2010,2.0,0.0, ,16.4,3.0,85,31,2.86,12.62
+KATANNING,08/07/2010,2.7,0.0, ,17.3,4.7,89,36,5.11,8.18
+KATANNING,09/07/2010,1.6,0.0, ,11.7,7.2,91,56,4.75,9.60
+KATANNING,10/07/2010,1.5,0.0, ,13.7,4.2,89,64,4.53,11.32
+KATANNING,11/07/2010,1.7,0.4, ,15.5,7.1,90,69,6.72,9.56
+KATANNING,12/07/2010,1.7,22.0, ,9.7,6.2,87,62,7.40,11.24
+KATANNING,13/07/2010,1.4,0.6, ,14.1,5.5,92,68,3.99,10.34
+KATANNING,14/07/2010,1.2,0.2, ,14.0,5.3,93,69,2.48,11.22
+KATANNING,15/07/2010,1.7,0.2, ,16.3,4.8,91,56,3.32,11.30
+KATANNING,16/07/2010,1.7,0.0, ,17.6,6.0,92,60,3.45,9.81
+KATANNING,17/07/2010,1.5,5.0, ,13.4,4.3,92,61,3.32,12.66
+KATANNING,18/07/2010,1.4,0.4, ,13.2,3.7,92,65,3.41,11.35
+KATANNING,19/07/2010,1.3,0.2, ,13.7,5.3,93,57,2.33,9.82
+KATANNING,20/07/2010,1.1,0.0, ,14.3,3.9,91,55,1.05,11.37
+KATANNING,21/07/2010,1.2,0.2, ,15.4,1.4,93,47,1.03,12.81
+KATANNING,22/07/2010,1.2,0.0, ,15.4,3.7,86,42,0.73,13.71
+KATANNING,23/07/2010,1.3,0.0, ,16.4,2.2,89,40,0.91,13.74
+KATANNING,24/07/2010,1.5,0.0, ,15.2,3.7,89,46,1.74,12.22
+KATANNING,25/07/2010,2.7,0.0, ,18.7,4.5,80,27,3.20,13.92
+KATANNING,26/07/2010,1.9,0.0, ,16.6,6.7,93,54,3.51,12.22
+KATANNING,27/07/2010,1.6,0.0, ,15.7,8.5,94,63,3.05,11.26
+KATANNING,28/07/2010,1.5,0.0, ,14.6,9.3,93,65,3.46,9.62
+KATANNING,29/07/2010,1.8,8.0, ,13.4,8.9,92,57,4.29,11.56
+KATANNING,30/07/2010, ,0.6, ,15.6,4.7,90,57,3.56, 
+KATANNING,31/07/2010, ,0.2, ,16.4,7.2,94,60,2.69, 
+Totals:,,45.6,43, ,,,,,, 

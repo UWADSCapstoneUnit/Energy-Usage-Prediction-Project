@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SWANBOURNE Western Australia for September 2019,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 October 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SWANBOURNE,01/09/2019,2.4,0.4, ,18.4,12.7,99,58,6.49,8.95
+SWANBOURNE,02/09/2019,2.9,6.6, ,19.3,14.9,98,56,7.97,11.53
+SWANBOURNE,03/09/2019,3.1,2.2, ,18.4,13.5,98,51,5.55,16.65
+SWANBOURNE,04/09/2019,3.2,1.6, ,16.5,12.0,80,50,6.05,14.18
+SWANBOURNE,05/09/2019,2.9,0.2, ,16.9,5.3,97,33,2.76,18.95
+SWANBOURNE,06/09/2019,4.0,0.0, ,20.4,5.8,89,25,3.89,19.09
+SWANBOURNE,07/09/2019,3.3,0.0, ,18.9,6.0,97,40,3.59,19.27
+SWANBOURNE,08/09/2019,3.8,0.0, ,22.8,9.1,98,38,3.48,19.47
+SWANBOURNE,09/09/2019,5.4,0.0, ,32.9,11.8,99,14,2.86,19.62
+SWANBOURNE,10/09/2019,3.7,0.0, ,22.6,13.1,100,41,3.53,19.52
+SWANBOURNE,11/09/2019, ,0.0, , ,15.9, , , ,19.68
+SWANBOURNE,12/09/2019, , , ,22.1, ,100,78,1.63,20.10
+SWANBOURNE,13/09/2019,3.0,0.2, ,22.4,14.3,100,70,2.14,19.47
+SWANBOURNE,14/09/2019,2.4,0.2, ,22.1,15.8,100,90,2.63,17.21
+SWANBOURNE,15/09/2019,3.0,0.0, ,19.6,12.9,98,67,3.70,19.97
+SWANBOURNE,16/09/2019,4.4,0.0, ,26.2,13.8,98,40,4.11,19.13
+SWANBOURNE,17/09/2019,2.5,0.0, ,22.3,14.5,100,82,2.72,16.60
+SWANBOURNE,18/09/2019,2.8,0.0, ,21.4,15.7,100,67,7.49,13.43
+SWANBOURNE,19/09/2019, ,6.2, , ,10.4,100,2,7.42,17.79
+SWANBOURNE,20/09/2019, , , ,16.9, ,47,43,3.88,20.12
+SWANBOURNE,21/09/2019,3.8,0.0, ,17.2,6.7,47,46,3.64,21.00
+SWANBOURNE,22/09/2019,4.2,0.0, ,20.1,7.4,48,47,3.85,21.52
+SWANBOURNE,23/09/2019, ,0.0, , ,9.4,55,24,3.82,21.20
+SWANBOURNE,24/09/2019,4.7,0.0, ,24.6,13.5,97,21,3.02,22.27
+SWANBOURNE,25/09/2019,2.9,0.2, ,21.0,10.7,100,69,2.90,18.96
+SWANBOURNE,26/09/2019,3.6,0.2, ,21.0,13.1,88,50,3.17,19.84
+SWANBOURNE,27/09/2019,3.6,0.0, ,20.0,11.9,95,58,4.37,22.66
+SWANBOURNE,28/09/2019,3.3,0.0, ,21.1,10.6,97,71,3.77,22.81
+SWANBOURNE,29/09/2019,4.6,0.0, ,26.7,12.3,98,44,3.28,22.96
+SWANBOURNE,30/09/2019,3.6,0.0, ,22.1,16.2,100,64,3.08,21.77
+Totals:,,87.1,18, ,,,,,, 

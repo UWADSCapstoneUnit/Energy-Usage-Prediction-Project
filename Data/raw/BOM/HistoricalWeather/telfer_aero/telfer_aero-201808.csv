@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TELFER AERO Western Australia for August 2018,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 September 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TELFER AERO,01/08/2018,6.2,0.0, ,29.5,12.0,67,17,4.84,18.42
+TELFER AERO,02/08/2018,5.9,0.0, ,21.4,13.6,59,19,7.28,18.50
+TELFER AERO,03/08/2018,5.2,0.0, ,21.8,4.4,49,19,5.21,18.50
+TELFER AERO,04/08/2018,4.0,0.0, ,24.8,6.2,49,15,2.26,18.68
+TELFER AERO,05/08/2018,5.5,0.0, ,21.3,14.1,49,23,5.84,18.77
+TELFER AERO,06/08/2018,5.2,0.0, ,20.7,2.6,50,17,5.70,18.86
+TELFER AERO,07/08/2018,5.5,0.0, ,24.9,5.4,41,9,4.02,18.95
+TELFER AERO,08/08/2018,6.0,0.0, ,28.1,7.4,35,11,3.91,19.05
+TELFER AERO,09/08/2018,5.3,0.0, ,29.9,7.6,42,7,2.82,19.15
+TELFER AERO,10/08/2018,7.0,0.0, ,23.4,14.6,47,13,7.19,19.28
+TELFER AERO,11/08/2018,6.3,0.0, ,20.4,7.3,38,17,7.96,19.35
+TELFER AERO,12/08/2018,6.8,0.0, ,23.9,6.4,41,11,6.71,19.47
+TELFER AERO,13/08/2018,6.5,0.0, ,26.5,7.5,38,11,4.96,19.55
+TELFER AERO,14/08/2018,5.6,0.0, ,26.9,4.5,44,9,3.56,19.66
+TELFER AERO,15/08/2018,5.3,0.0, ,28.8,5.5,35,7,2.75,19.77
+TELFER AERO,16/08/2018,5.1,0.0, ,29.7,7.3,32,7,2.46,19.90
+TELFER AERO,17/08/2018,6.3,0.0, ,30.7,9.1,29,6,3.49,20.02
+TELFER AERO,18/08/2018,8.1,0.0, ,31.6,10.3,33,7,5.32,20.11
+TELFER AERO,19/08/2018,8.7,0.0, ,31.8,14.0,40,9,6.21,20.22
+TELFER AERO,20/08/2018,7.7,0.0, ,30.9,13.6,32,3,4.72,20.35
+TELFER AERO,21/08/2018,6.1,0.0, ,30.7,9.2,41,9,3.31,20.45
+TELFER AERO,22/08/2018,7.0,0.0, ,29.3,14.0,37,22,5.15,20.64
+TELFER AERO,23/08/2018,7.5,0.0, ,23.1,11.6,31,15,7.77,20.64
+TELFER AERO,24/08/2018,6.3,0.0, ,23.8,7.3,41,20,5.94,20.75
+TELFER AERO,25/08/2018,6.5,0.0, ,26.1,9.7,56,15,5.35,20.88
+TELFER AERO,26/08/2018,6.5,0.0, ,28.3,12.6,38,13,4.17,21.01
+TELFER AERO,27/08/2018,6.2,0.0, ,32.0,11.5,32,11,3.10,21.23
+TELFER AERO,28/08/2018,7.7,0.0, ,32.8,15.0,49,15,4.95,21.23
+TELFER AERO,29/08/2018,6.4,0.0, ,28.4,13.6,100,29,7.49,21.06
+TELFER AERO,30/08/2018,6.3,0.0, ,24.9,15.2,71,13,5.40,21.49
+TELFER AERO,31/08/2018,6.2,0.0, ,26.4,9.7,52,20,4.72,21.58
+Totals:,,194.9,0, ,,,,,, 

@@ -1,0 +1,35 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for EUCLA Western Australia for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+EUCLA,01/04/2021,8.8,0.0,9.6,36.0,13.9,49,8,5.12,19.54
+EUCLA,02/04/2021,9.4,0.0,12.2,37.7,18.0,33,6,5.16,19.37
+EUCLA,03/04/2021,7.7,0.0,12.0,37.8,17.8,87,8,4.29,19.27
+EUCLA,04/04/2021,3.4,0.0,7.0,24.9,15.4,97,66,4.26,18.86
+EUCLA,05/04/2021,4.2,0.2,4.6,31.1,16.7,95,64,4.41,18.95
+EUCLA,06/04/2021, ,0.0,5.0, ,17.8, , , ,18.88
+EUCLA,16/04/2021, ,2.4, ,19.4, , , , ,17.30
+EUCLA,17/04/2021, , ,4.8,21.9,13.4, , , ,15.23
+EUCLA,18/04/2021,3.2,0.0,3.8,21.5,8.7,96,39,3.20,16.42
+EUCLA,19/04/2021,4.1,0.0,4.0,24.4,8.1,93,25,3.81,15.16
+EUCLA,20/04/2021,3.6,0.0,4.0,22.9,9.0,86,36,3.51,16.88
+EUCLA,21/04/2021,2.5,0.0,2.8,21.6,10.8,98,58,2.98,13.66
+EUCLA,22/04/2021,2.2,0.8, ,20.1,11.5,95,63,3.01,12.44
+EUCLA,23/04/2021,2.6,0.6, ,21.1,14.2,91,51,2.53,13.60
+EUCLA,24/04/2021,3.1,0.0, ,22.1,10.1,97,47,3.99,15.81
+EUCLA,25/04/2021,3.0,0.2, ,23.2,11.0,95,50,4.05,13.55
+EUCLA,26/04/2021,5.1,0.2, ,28.6,12.3,96,18,4.49,16.00
+EUCLA,27/04/2021,5.8,0.0, ,30.2,11.4,59,12,4.17,14.80
+EUCLA,28/04/2021,5.6,0.0, ,30.5,12.0,63,13,3.85,15.69
+EUCLA,29/04/2021,6.3,0.0,6.0,31.4,13.0,58,11,4.47,15.56
+EUCLA,30/04/2021,6.7,0.0,9.0,30.6,15.5,88,11,6.27,13.56
+Totals:,,87.3,4.4,84.8,,,,,, 

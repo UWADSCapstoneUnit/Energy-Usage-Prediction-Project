@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for December 2016,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 January 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/12/2016,7.8,0.2, ,37.2,28.5,85,40,4.42,25.78
+TRUSCOTT,02/12/2016,6.9,4.6, ,35.4,23.9,94,46,2.99,28.45
+TRUSCOTT,03/12/2016,4.7,4.6, ,33.3,24.1,94,52,2.20,18.57
+TRUSCOTT,04/12/2016,6.5,41.2, ,34.0,24.7,91,48,2.64,27.63
+TRUSCOTT,05/12/2016,6.5,0.0, ,34.5,27.9,88,40,2.14,26.68
+TRUSCOTT,06/12/2016, ,0.0, ,35.3,26.4,90,42,3.07, 
+TRUSCOTT,07/12/2016,7.2,0.0, ,36.2,27.5,76,36,3.24,24.72
+TRUSCOTT,08/12/2016,7.3,0.0, ,35.9,29.7,84,46,4.07,25.57
+TRUSCOTT,09/12/2016, ,0.0, , ,28.4,83,38,2.92,23.86
+TRUSCOTT,10/12/2016, , , ,34.9, ,80,41,2.76,20.09
+TRUSCOTT,11/12/2016,3.0,0.0, ,32.6,24.8,91,51,1.97,8.36
+TRUSCOTT,12/12/2016,3.3,0.8, ,31.9,24.1,98,52,2.63,9.74
+TRUSCOTT,13/12/2016, ,28.8, , ,24.0, , , ,26.78
+TRUSCOTT,14/12/2016, , , , , , , , ,16.90
+TRUSCOTT,15/12/2016, , , , , , , , ,16.76
+TRUSCOTT,16/12/2016, , , ,34.4, ,88,40,4.15,26.73
+TRUSCOTT,17/12/2016, ,0.0, , ,28.7,95,54,4.76,13.26
+TRUSCOTT,18/12/2016, , , , , , , , ,12.18
+TRUSCOTT,19/12/2016, , , , , , , , ,12.05
+TRUSCOTT,20/12/2016, , , , ,23.8, , , ,10.17
+TRUSCOTT,21/12/2016, , , ,27.9, , , , ,1.24
+TRUSCOTT,22/12/2016,2.1, , ,28.9,23.1,100,72,5.43,3.65
+TRUSCOTT,23/12/2016,1.9,20.0, ,30.8,23.8,100,77,3.60,4.69
+TRUSCOTT,24/12/2016,2.5,83.0, ,30.8,23.9,100,75,2.87,9.08
+TRUSCOTT,25/12/2016,0.9,26.8, ,28.0,24.7,100,79,2.61,0.46
+TRUSCOTT,26/12/2016,1.2,37.6, ,29.3,24.5,100,86,3.40,2.70
+TRUSCOTT,27/12/2016,4.2,17.6, ,31.6,24.0,98,67,3.59,16.76
+TRUSCOTT,28/12/2016,3.3,11.8, ,30.7,26.0,99,73,3.28,12.85
+TRUSCOTT,29/12/2016,5.7,3.8, ,32.3,26.4,92,64,4.93,23.17
+TRUSCOTT,30/12/2016,5.7,0.2, ,32.3,28.0,86,66,6.22,20.40
+TRUSCOTT,31/12/2016,6.0,0.0, ,32.1,28.0,82,65,6.43,21.26
+Totals:,,86.7,281, ,,,,,, 

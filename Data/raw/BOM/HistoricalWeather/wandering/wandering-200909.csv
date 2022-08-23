@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for September 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/09/2009,2.6,0.0, ,17.1,7.5,94,54,4.52,15.37
+WANDERING,02/09/2009,2.4,0.8, ,14.5,5.5,85,52,2.87,16.77
+WANDERING,03/09/2009,2.2,0.0, ,14.2,1.9,93,45,1.67,18.07
+WANDERING,04/09/2009,3.2,0.0, ,19.5,-1.3,95,34,2.79,20.20
+WANDERING,05/09/2009,2.6,8.2, ,13.8,7.2,89,53,3.87,18.84
+WANDERING,06/09/2009,2.4,0.4, ,17.3,1.7,95,54,2.58,16.48
+WANDERING,07/09/2009,2.7,0.6, ,18.2,5.4,95,54,4.12,14.99
+WANDERING,08/09/2009,2.7,6.8, ,17.3,0.3,96,45,2.17,20.89
+WANDERING,09/09/2009,2.5,1.0, ,17.8,6.6,94,60,2.94,16.05
+WANDERING,10/09/2009,2.3,1.0, ,16.9,11.5,90,75,7.09,13.10
+WANDERING,11/09/2009,2.2,3.2, ,15.7,11.3,89,75,5.33,14.46
+WANDERING,12/09/2009,2.4,13.6, ,14.0,4.8,91,61,3.57,18.34
+WANDERING,13/09/2009,2.5,5.0, ,17.1,4.5,96,49,2.23,17.02
+WANDERING,14/09/2009,2.7,0.0, ,17.6,6.8,93,61,3.52,17.44
+WANDERING,15/09/2009,2.4,2.4, ,16.3,11.3,89,62,3.07,14.33
+WANDERING,16/09/2009,2.6,0.8, ,17.2,1.1,95,51,2.67,17.34
+WANDERING,17/09/2009,2.5,0.2, ,16.8,5.6,95,65,5.30,15.04
+WANDERING,18/09/2009,3.1,4.6, ,15.6,7.9,92,44,3.73,19.81
+WANDERING,19/09/2009,2.4,1.6, ,17.0,6.9,95,54,1.65,15.59
+WANDERING,20/09/2009,2.4,0.6, ,16.1,5.9,95,69,3.48,17.14
+WANDERING,21/09/2009,2.4,7.4, ,12.6,9.4,86,65,4.41,15.55
+WANDERING,22/09/2009,2.9,4.8, ,16.8,0.1,94,54,3.09,21.76
+WANDERING,23/09/2009,3.4,1.4, ,19.7,9.3,94,53,3.17,21.07
+WANDERING,24/09/2009,3.3,0.0, ,17.2,8.9,90,46,3.26,19.86
+WANDERING,25/09/2009,2.7,0.0, ,14.5,-0.2,94,51,2.40,21.89
+WANDERING,26/09/2009,3.0,0.0, ,16.3,-0.4,94,44,1.73,24.50
+WANDERING,27/09/2009,4.2,0.0, ,23.7,-0.2,95,24,2.29,24.17
+WANDERING,28/09/2009,2.9,2.6, ,16.2,8.1,94,47,2.65,18.55
+WANDERING,29/09/2009,2.2,0.2, ,13.7,1.8,94,57,2.34,16.02
+WANDERING,30/09/2009,3.1,7.8, ,14.1,3.0,94,44,3.10,23.72
+Totals:,,80.9,75, ,,,,,, 

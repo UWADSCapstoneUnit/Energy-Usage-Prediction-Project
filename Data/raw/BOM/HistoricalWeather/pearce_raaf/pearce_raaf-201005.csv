@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for May 2010,,,,,,,,,,
+Issued at 04:44 GMT on Monday 26 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/05/2010, ,0.0, , , , , , ,14.59
+PEARCE RAAF,02/05/2010, ,0.0, , , , , , ,17.99
+PEARCE RAAF,03/05/2010,2.6,0.0, ,22.7,6.3,93,47,2.35,15.23
+PEARCE RAAF,04/05/2010,3.7,0.0, ,22.2,9.8,82,30,3.64,18.04
+PEARCE RAAF,05/05/2010,3.7,0.0, ,25.6,8.1,77,22,2.44,17.94
+PEARCE RAAF,06/05/2010,4.1,0.0, ,27.4,7.8,82,21,2.89,17.62
+PEARCE RAAF,07/05/2010,4.4,0.0, ,30.4,7.8,82,14,2.52,17.61
+PEARCE RAAF,08/05/2010,4.4,0.0, ,29.4,9.6,79,15,2.84,17.35
+PEARCE RAAF,09/05/2010,2.8,0.0, ,23.3,5.1,96,50,3.17,16.63
+PEARCE RAAF,10/05/2010,2.5,0.0, ,20.1,3.0,91,34,2.34,16.31
+PEARCE RAAF,11/05/2010,4.9,0.0, ,23.5,9.1,66,27,5.72,17.05
+PEARCE RAAF,12/05/2010,3.7,0.0, ,25.1,10.4,88,37,3.90,16.59
+PEARCE RAAF,13/05/2010,1.8,13.2, ,16.4,10.0,94,62,3.81,10.51
+PEARCE RAAF,14/05/2010,2.1,0.4, ,17.9,1.0,96,40,2.39,15.48
+PEARCE RAAF,15/05/2010,2.0,0.0, ,18.3,0.9,90,40,1.60,16.39
+PEARCE RAAF,16/05/2010,2.3,0.0, ,21.3,4.1,87,37,1.92,15.20
+PEARCE RAAF,17/05/2010,3.5,0.0, ,23.1,3.8,89,25,3.36,16.11
+PEARCE RAAF,18/05/2010,4.1,0.0, ,25.4,14.0,79,19,3.86,13.95
+PEARCE RAAF,19/05/2010,2.4,0.0, ,23.6,10.6,92,34,1.84,15.31
+PEARCE RAAF,20/05/2010,3.3,0.0, ,27.6,6.4,93,25,2.28,15.64
+PEARCE RAAF,21/05/2010,4.0,0.0, ,24.6,15.8,77,31,4.90,10.42
+PEARCE RAAF,22/05/2010,2.5, , ,20.6,15.6,94,57,5.29,11.68
+PEARCE RAAF,23/05/2010,2.8, , ,18.8,13.0,92,48,6.28,11.47
+PEARCE RAAF,24/05/2010,2.0,23.2, ,18.7,6.3,92,48,2.17,14.83
+PEARCE RAAF,25/05/2010,2.2,0.2, ,19.4,5.5,90,42,2.45,14.72
+PEARCE RAAF,26/05/2010,3.3,0.0, ,22.8,7.6,86,33,4.05,12.79
+PEARCE RAAF,27/05/2010,1.6,14.4, ,17.7,10.1,94,76,4.73,11.51
+PEARCE RAAF,28/05/2010,1.7,6.2, ,20.1,8.7,95,53,1.68,13.88
+PEARCE RAAF,29/05/2010,2.4,0.0, ,20.9,7.2,93,38,2.38,14.98
+PEARCE RAAF,30/05/2010,2.8,0.0, ,24.0,9.2,85,29,2.50,14.75
+PEARCE RAAF,31/05/2010,1.7,0.0, ,21.8,5.9,93,54,1.50,13.60
+Totals:,,85.3,57.6, ,,,,,, 

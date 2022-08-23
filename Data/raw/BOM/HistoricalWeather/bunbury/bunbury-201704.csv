@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUNBURY Western Australia for April 2017,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 May 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUNBURY,01/04/2017,4.9,0.0, ,29.0,15.0,72,28,3.20,18.86
+BUNBURY,02/04/2017,4.5,0.0, ,29.4,14.2,77,29,2.48,18.98
+BUNBURY,03/04/2017, ,0.0, , ,13.7,90,28,3.74,18.82
+BUNBURY,04/04/2017, ,0.0, ,26.7, ,100,41,2.76,17.09
+BUNBURY,05/04/2017,3.1,0.0, ,25.4,9.1,93,51,1.74,18.41
+BUNBURY,06/04/2017, ,0.0, , ,13.4,90,51,4.26,14.22
+BUNBURY,07/04/2017, ,0.0, ,21.3, ,100,35,2.95,16.45
+BUNBURY,08/04/2017, ,0.0, , ,3.5,100,49,2.24,16.09
+BUNBURY,09/04/2017, ,0.0, , , ,100,44,2.71,17.79
+BUNBURY,10/04/2017, ,0.0, , , ,100,38,1.99,17.62
+BUNBURY,11/04/2017, ,0.0, , , ,91,30,1.91,17.41
+BUNBURY,12/04/2017, ,0.0, , , ,100,60,1.99,13.24
+BUNBURY,13/04/2017, ,0.0, , , ,100,51,3.04,16.14
+BUNBURY,14/04/2017, ,0.0, , , ,100,50,2.86,16.91
+BUNBURY,15/04/2017, ,0.0, , , ,100,54,4.36,11.95
+BUNBURY,16/04/2017, ,0.0, ,25.1, ,83,43,4.16,16.21
+BUNBURY,17/04/2017,2.4,0.0, ,21.1,12.7,90,57,3.36,9.38
+BUNBURY,18/04/2017, ,0.0, , ,14.3,100,63,2.78,12.21
+BUNBURY,19/04/2017, ,0.0, , , ,100,59,1.32,15.70
+BUNBURY,20/04/2017, ,0.0, , , ,100,46,1.05,16.01
+BUNBURY,21/04/2017, ,0.0, , , ,100,49,2.12,14.60
+BUNBURY,22/04/2017, ,0.0, ,25.2, ,86,50,4.21,13.53
+BUNBURY,23/04/2017,3.6,0.0, ,25.6,14.4,87,46,4.26,13.56
+BUNBURY,24/04/2017, ,0.0, , ,11.3,91,42,3.13,15.36
+BUNBURY,25/04/2017, ,0.0, ,22.3, ,100,46,2.28,15.24
+BUNBURY,26/04/2017,2.2,0.0, ,22.2,8.1,94,54,1.66,14.15
+BUNBURY,27/04/2017, ,0.0, , ,7.4,93,38,1.81,14.94
+BUNBURY,28/04/2017, ,0.0, , , ,100,33,1.95,14.81
+BUNBURY,29/04/2017, ,0.0, ,25.3, ,94,30,1.35,14.68
+BUNBURY,30/04/2017,2.0,0.0, ,22.4,8.4,94,59,2.23,10.52
+Totals:,,22.7,0, ,,,,,, 

@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for February 2013,,,,,,,,,,
+Issued at 22:38 GMT on Friday 01 March 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/02/2013,6.9,0.0, ,33.7,13.2,73,16,2.30,28.75
+COLLIE EAST,02/02/2013,6.5,0.0, ,35.5,11.6,89,15,1.71,28.64
+COLLIE EAST,03/02/2013,7.3,0.0, ,37.2,13.7,78,14,2.23,28.51
+COLLIE EAST,04/02/2013,5.7,0.0, ,31.3,13.3,93,28,1.76,27.51
+COLLIE EAST,05/02/2013,4.9,0.0, ,29.9,15.2,88,32,1.87,21.14
+COLLIE EAST,06/02/2013,5.0,0.0, ,28.4,8.8,92,31,1.95,24.26
+COLLIE EAST,07/02/2013,5.5,0.0, ,30.3,9.1,91,20,1.56,27.86
+COLLIE EAST,08/02/2013,6.3,0.0, ,33.2,11.2,91,13,1.95,27.74
+COLLIE EAST,09/02/2013,6.7,0.0, ,33.4,13.2,86,18,2.58,27.59
+COLLIE EAST,10/02/2013,7.4,0.0, ,35.5,15.1,76,19,2.92,27.44
+COLLIE EAST,11/02/2013,5.4,0.0, ,36.8,14.8,82,14,1.51,20.44
+COLLIE EAST,12/02/2013,6.7,0.0, ,39.6,17.0,78,15,1.90,24.82
+COLLIE EAST,13/02/2013,6.5,0.0, ,38.4,17.7,75,22,1.69,27.05
+COLLIE EAST,14/02/2013,4.5,0.0, ,31.5,17.5,84,44,1.85,18.77
+COLLIE EAST,15/02/2013,6.1,0.0, ,32.6,14.4,90,32,2.38,27.32
+COLLIE EAST,16/02/2013,6.2,0.0, ,34.2,15.5,88,22,2.10,26.50
+COLLIE EAST,17/02/2013,4.0,0.0, ,25.1,17.3,84,38,2.19,16.86
+COLLIE EAST,18/02/2013,5.4,0.0, ,26.7,6.5,91,23,2.38,27.98
+COLLIE EAST,19/02/2013,5.9,0.0, ,30.9,10.6,76,20,2.15,27.30
+COLLIE EAST,20/02/2013,6.1,0.0, ,36.2,12.6,80,17,2.02,23.61
+COLLIE EAST,21/02/2013,5.5,0.0, ,35.7,19.3,70,30,2.72,15.60
+COLLIE EAST,22/02/2013,4.4,0.4, ,25.7,19.8,87,45,2.99,19.07
+COLLIE EAST,23/02/2013,4.0,0.0, ,23.9,6.2,93,32,1.58,22.25
+COLLIE EAST,24/02/2013,3.9,0.0, ,28.0,6.2,92,36,1.32,20.14
+COLLIE EAST,25/02/2013,6.3,0.0, ,33.2,15.0,81,26,2.60,25.96
+COLLIE EAST,26/02/2013,6.9,0.0, ,34.0,16.3,83,27,3.56,25.60
+COLLIE EAST,27/02/2013,7.0,0.0, ,31.2,17.9,68,23,3.91,25.26
+COLLIE EAST,28/02/2013,6.5,0.0, ,31.5,15.6,77,20,3.09,25.93
+Totals:,,163.5,0.4, ,,,,,, 

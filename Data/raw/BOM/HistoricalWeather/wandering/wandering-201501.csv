@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for January 2015,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 February 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/01/2015,7.7,0.0, ,32.9,12.2,83,16,2.95,31.78
+WANDERING,02/01/2015,5.8,0.0, ,27.6,14.1,80,30,3.62,22.35
+WANDERING,03/01/2015,7.3,0.0, ,29.0,8.6,85,17,3.70,31.28
+WANDERING,04/01/2015,8.3,0.0, ,36.0,10.9,74,12,2.79,32.65
+WANDERING,05/01/2015,10.1,0.0, ,43.1,18.2,58,12,3.80,26.25
+WANDERING,06/01/2015,8.5,0.0, ,40.0,19.0,55,15,3.07,25.68
+WANDERING,07/01/2015,8.5,0.0, ,29.6,16.3,75,26,7.03,28.60
+WANDERING,08/01/2015,9.4,0.0, ,28.3,12.0,61,18,7.94,32.47
+WANDERING,09/01/2015,8.3,0.0, ,26.3,13.5,63,23,7.72,29.09
+WANDERING,10/01/2015,8.0,0.0, ,28.0,13.3,71,20,5.58,30.47
+WANDERING,11/01/2015,7.3,0.0, ,30.2,12.0,66,16,3.00,31.64
+WANDERING,12/01/2015,7.9,0.0, ,34.8,11.8,68,12,2.68,31.32
+WANDERING,13/01/2015,8.6,0.0, ,39.0,13.0,64,11,2.73,31.28
+WANDERING,14/01/2015,9.2,0.0, ,35.7,14.3,79,19,4.46,31.46
+WANDERING,15/01/2015,8.8,0.0, ,31.2,16.7,67,17,5.47,29.26
+WANDERING,16/01/2015,7.8,0.0, ,32.2,10.7,80,10,3.12,31.95
+WANDERING,17/01/2015,9.1,0.0, ,37.0,14.1,80,13,3.87,30.31
+WANDERING,18/01/2015,8.4,0.0, ,36.0,15.1,75,11,3.25,30.31
+WANDERING,19/01/2015,6.8,0.0, ,31.9,14.1,83,19,2.51,29.14
+WANDERING,20/01/2015,7.3,0.0, ,41.0,11.5,86,12,1.59,29.87
+WANDERING,21/01/2015,8.6,0.0, ,40.6,15.5,57,12,2.97,26.51
+WANDERING,22/01/2015,8.1,0.0, ,32.2,17.4,76,13,4.45,26.77
+WANDERING,23/01/2015,7.7,0.0, ,32.4,11.1,80,15,3.50,29.81
+WANDERING,24/01/2015,7.1,0.0, ,28.9,10.8,86,20,4.33,27.62
+WANDERING,25/01/2015,8.2,0.0, ,30.2,11.6,78,17,5.01,30.74
+WANDERING,26/01/2015,8.5,0.0, ,33.6,10.6,75,13,3.95,30.53
+WANDERING,27/01/2015,7.9,0.0, ,38.1,12.7,76,13,2.70,28.13
+WANDERING,28/01/2015, ,0.0, , ,23.6, , , ,19.70
+WANDERING,29/01/2015, , , ,37.9, , , , ,22.73
+WANDERING,30/01/2015,8.7,0.0, ,35.2,17.8,62,13,5.26,18.50
+WANDERING,31/01/2015,7.1,0.0, ,29.5,15.6,72,24,5.47,20.00
+Totals:,,235,0, ,,,,,, 

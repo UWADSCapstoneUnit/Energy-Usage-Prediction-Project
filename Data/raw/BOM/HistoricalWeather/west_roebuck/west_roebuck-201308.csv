@@ -1,0 +1,41 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WEST ROEBUCK Western Australia for August 2013,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 September 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WEST ROEBUCK,01/08/2013,7.0,0.0, ,32.9,14.5,37,12,3.42,23.94
+WEST ROEBUCK,02/08/2013,6.6,0.0, ,33.4,15.2,34,12,2.98,23.90
+WEST ROEBUCK,03/08/2013,7.4,0.0, ,32.2,14.9,35,13,3.86,24.54
+WEST ROEBUCK,04/08/2013,6.9,0.0, ,29.5,11.5,44,15,3.98,25.10
+WEST ROEBUCK,05/08/2013,6.7,0.0, ,31.3,8.7,53,14,3.39,25.15
+WEST ROEBUCK,06/08/2013, ,0.0, , ,8.8,53,13,2.91,25.47
+WEST ROEBUCK,07/08/2013, , , , , , , , ,25.65
+WEST ROEBUCK,12/08/2013, , , , , , , , ,25.44
+WEST ROEBUCK,13/08/2013, , , ,33.1, , , , ,25.04
+WEST ROEBUCK,14/08/2013,6.3,0.0, ,33.2,14.9,35,12,2.49,25.27
+WEST ROEBUCK,15/08/2013,6.5,0.0, ,32.9,14.3,37,13,2.66,25.35
+WEST ROEBUCK,16/08/2013,6.4,0.0, ,29.2,16.0,33,16,3.01,25.78
+WEST ROEBUCK,17/08/2013,7.2,0.0, ,33.1,12.7,41,12,3.29,25.64
+WEST ROEBUCK,18/08/2013,7.5,0.0, ,35.7,15.0,36,11,3.14,25.53
+WEST ROEBUCK,19/08/2013, ,0.0, , ,15.9,34,11,2.99,25.81
+WEST ROEBUCK,20/08/2013, , , ,35.5, ,31,11,3.79,26.10
+WEST ROEBUCK,21/08/2013,8.8,0.0, ,32.7,17.0,31,13,4.85,26.51
+WEST ROEBUCK,22/08/2013,8.8,0.0, ,32.3,13.9,38,13,5.15,27.09
+WEST ROEBUCK,23/08/2013,8.2,0.0, ,33.7,13.0,41,12,4.27,25.80
+WEST ROEBUCK,24/08/2013,6.6,0.0, ,31.8,17.9,30,13,2.79,25.72
+WEST ROEBUCK,25/08/2013,6.5,0.0, ,31.6,18.0,29,14,2.66,26.15
+WEST ROEBUCK,26/08/2013,6.4,0.2, ,30.8,15.9,33,14,2.61,26.55
+WEST ROEBUCK,27/08/2013,7.7,0.2, ,33.1,18.6,28,13,3.34,27.32
+WEST ROEBUCK,28/08/2013,7.0,0.0, ,32.2,16.7,32,13,2.86,27.48
+WEST ROEBUCK,29/08/2013,7.0,0.2, ,31.7,15.7,34,13,2.99,26.90
+WEST ROEBUCK,30/08/2013,6.4,0.0, ,28.5,19.2,30,16,3.07,25.01
+WEST ROEBUCK,31/08/2013,6.7,0.0, ,29.2,17.7,30,15,3.09,26.35
+Totals:,,148.6,0.6, ,,,,,, 

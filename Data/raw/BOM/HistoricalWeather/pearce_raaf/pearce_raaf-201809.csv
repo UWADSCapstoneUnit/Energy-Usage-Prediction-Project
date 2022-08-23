@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for September 2018,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 October 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/09/2018,2.8,0.0, ,18.6,11.2,92,38,2.01,18.00
+PEARCE RAAF,02/09/2018,2.8,0.0, ,20.2,6.3,91,39,1.99,17.80
+PEARCE RAAF,03/09/2018,2.7,0.0, ,20.5,4.3,94,52,2.23,17.65
+PEARCE RAAF,04/09/2018,2.8,3.6, ,18.8,11.3,97,51,4.78,12.31
+PEARCE RAAF,05/09/2018,3.0,5.0, ,16.3,10.0,92,39,4.84,14.10
+PEARCE RAAF,06/09/2018,2.2,0.6, ,15.8,7.8,93,54,2.21,13.80
+PEARCE RAAF,07/09/2018,2.8,2.6, ,19.1,7.9,95,58,4.65,14.85
+PEARCE RAAF,08/09/2018,2.5,0.4, ,19.3,9.4,94,62,3.96,13.84
+PEARCE RAAF,09/09/2018,3.4,0.8, ,23.3,7.7,95,47,2.45,19.83
+PEARCE RAAF,10/09/2018,2.9,1.0, ,20.4,8.6,96,59,5.05,14.61
+PEARCE RAAF,11/09/2018,2.6,2.6, ,17.0,9.9,87,47,2.70,13.89
+PEARCE RAAF,12/09/2018,1.9,0.0, ,16.9,5.3,93,61,2.16,10.30
+PEARCE RAAF,13/09/2018,2.5,0.6, ,18.5,10.0,95,62,3.69,14.55
+PEARCE RAAF,14/09/2018,3.1,0.8, ,17.8,11.3,95,48,5.16,15.78
+PEARCE RAAF,15/09/2018,3.8,0.0, ,18.5,5.4,83,32,3.77,20.81
+PEARCE RAAF,16/09/2018,3.6,0.0, ,19.8,2.5,90,33,3.07,20.73
+PEARCE RAAF,17/09/2018,2.8,0.0, ,17.4,4.7,92,50,3.75,16.12
+PEARCE RAAF,18/09/2018,3.1,0.0, ,19.6,2.8,94,47,2.44,20.45
+PEARCE RAAF,19/09/2018,2.8,0.2, ,20.4,6.1,96,50,1.67,17.48
+PEARCE RAAF,20/09/2018,4.1,0.0, ,26.3,4.0,95,27,2.05,21.67
+PEARCE RAAF,21/09/2018,3.8,0.0, ,25.4,5.9,93,35,1.91,20.76
+PEARCE RAAF,22/09/2018,4.2,0.0, ,27.8,6.1,97,23,1.69,21.85
+PEARCE RAAF,23/09/2018,4.6,0.0, ,27.9,8.5,93,32,2.53,22.12
+PEARCE RAAF,24/09/2018,3.5,0.0, ,22.1,12.4,96,57,3.08,20.79
+PEARCE RAAF,25/09/2018,3.0,0.0, ,21.4,6.6,100,52,2.37,17.84
+PEARCE RAAF,26/09/2018,3.4,0.0, ,20.9,4.4,100,47,2.64,21.39
+PEARCE RAAF,27/09/2018,4.3,0.2, ,22.0,8.6,90,36,4.01,21.55
+PEARCE RAAF,28/09/2018,6.2,0.0, ,23.4,10.2,67,31,7.77,22.48
+PEARCE RAAF,29/09/2018,5.0,1.4, ,22.8,12.5,75,33,7.13,11.26
+PEARCE RAAF,30/09/2018,4.2,0.6, ,22.3,12.4,89,49,3.63,23.19
+Totals:,,100.4,20.4, ,,,,,, 

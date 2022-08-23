@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2010,8.2,0.0, ,32.5,9.2,89,16,3.93,32.43
+ROCKY GULLY,02/02/2010,3.0,0.0, ,17.2,12.9,93,69,4.33,17.69
+ROCKY GULLY,03/02/2010,5.0,0.4, ,21.0,6.0,89,36,4.20,27.40
+ROCKY GULLY,04/02/2010,6.1,0.0, ,24.5,7.7,80,22,3.32,31.10
+ROCKY GULLY,05/02/2010,6.8,0.0, ,29.3,11.6,72,16,4.29,21.70
+ROCKY GULLY,06/02/2010,5.6,0.0, ,27.0,12.4,87,27,3.54,22.79
+ROCKY GULLY,07/02/2010,4.7,0.0, ,25.4,13.7,88,50,3.18,22.65
+ROCKY GULLY,08/02/2010,8.1,0.0, ,35.1,13.1,94,20,3.90,30.01
+ROCKY GULLY,09/02/2010,7.6,0.0, ,37.5,14.4,93,25,3.49,25.33
+ROCKY GULLY,10/02/2010,6.0,3.4, ,30.4,14.0,94,46,2.88,29.22
+ROCKY GULLY,11/02/2010,4.8,0.0, ,26.6,17.5,93,58,3.49,23.36
+ROCKY GULLY,12/02/2010,5.3,0.4, ,26.9,16.2,94,48,4.20,24.41
+ROCKY GULLY,13/02/2010,6.5,0.0, ,28.5,14.7,81,30,3.60,28.74
+ROCKY GULLY,14/02/2010,7.8,0.0, ,33.9,11.9,93,19,3.65,30.53
+ROCKY GULLY,15/02/2010,7.3,0.0, ,32.6,16.3,82,28,4.34,26.14
+ROCKY GULLY,16/02/2010,3.0,0.6, ,20.4,16.0,94,69,4.66,15.56
+ROCKY GULLY,17/02/2010,3.8,1.0, ,24.3,15.2,94,63,3.66,18.77
+ROCKY GULLY,18/02/2010,7.4,0.0, ,36.0,16.3,93,21,3.13,27.74
+ROCKY GULLY,19/02/2010,3.4,0.0, ,23.0,16.4,96,58,3.46,16.05
+ROCKY GULLY,20/02/2010,2.9,0.2, ,19.9,13.3,95,74,2.99,17.58
+ROCKY GULLY,21/02/2010,4.7,1.2, ,24.5,11.5,92,42,2.93,24.45
+ROCKY GULLY,22/02/2010,5.9,0.0, ,29.0,9.1,94,30,3.08,27.69
+ROCKY GULLY,23/02/2010,6.4,0.0, ,29.9,11.6,95,32,3.79,28.84
+ROCKY GULLY,24/02/2010,7.1,0.0, ,31.5,13.8,93,22,3.82,28.91
+ROCKY GULLY,25/02/2010,7.5,0.0, ,34.8,12.5,95,23,3.61,28.73
+ROCKY GULLY,26/02/2010,6.3,0.0, ,28.0,17.4,84,46,6.17,26.95
+ROCKY GULLY,27/02/2010,7.1,0.0, ,29.1,16.4,83,34,5.85,28.47
+ROCKY GULLY,28/02/2010,8.2,0.0, ,30.9,14.9,87,23,6.56,28.66
+Totals:,,166.5,7.2, ,,,,,, 

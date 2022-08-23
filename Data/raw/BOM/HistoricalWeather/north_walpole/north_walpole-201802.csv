@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NORTH WALPOLE Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NORTH WALPOLE,01/02/2018,6.5,0.0, ,29.6,13.8,98,35,4.83,26.75
+NORTH WALPOLE,02/02/2018,5.4,0.0, ,29.8,17.1,86,39,4.31,16.76
+NORTH WALPOLE,03/02/2018,6.1,0.0, ,33.0,17.9,96,36,3.43,23.00
+NORTH WALPOLE,04/02/2018,6.0,0.0, ,28.1,18.7,99,41,3.71,28.12
+NORTH WALPOLE,05/02/2018,4.7,0.0, ,24.8,13.2,100,60,2.03,27.88
+NORTH WALPOLE,06/02/2018,3.0,0.0, ,23.7,17.1,100,57,2.81,12.72
+NORTH WALPOLE,07/02/2018,4.3,0.0, ,22.8,12.2,88,48,2.82,23.06
+NORTH WALPOLE,08/02/2018,5.1,0.0, ,24.8,14.3,98,46,2.83,27.67
+NORTH WALPOLE,09/02/2018,3.2,0.0, ,23.3,15.2,97,50,3.51,11.72
+NORTH WALPOLE,10/02/2018,4.1,0.0, ,22.2,14.5,79,48,2.67,19.91
+NORTH WALPOLE,11/02/2018,3.6,0.0, ,22.3,10.4,99,52,2.20,20.11
+NORTH WALPOLE,12/02/2018,4.2,0.0, ,23.5,15.8,83,58,2.26,22.14
+NORTH WALPOLE,13/02/2018,3.5,0.0, ,24.2,13.7,88,55,3.50,13.65
+NORTH WALPOLE,14/02/2018, ,0.0, , ,15.1, , , ,23.71
+NORTH WALPOLE,15/02/2018, , , ,24.7, ,94,52,3.96,26.50
+NORTH WALPOLE,16/02/2018,3.8,0.0, ,25.0,13.6,99,60,4.59,17.44
+NORTH WALPOLE,17/02/2018,1.9,0.0, ,23.6,18.2,100,78,3.71,7.06
+NORTH WALPOLE,18/02/2018,1.7,0.4, ,22.6,17.7,100,73,1.94,6.19
+NORTH WALPOLE,19/02/2018,1.8,0.6, ,20.0,16.2,100,66,3.09,5.52
+NORTH WALPOLE,20/02/2018,3.3,2.2, ,20.4,14.5,95,50,5.01,13.09
+NORTH WALPOLE,21/02/2018,2.0,2.8, ,19.6,12.5,100,75,3.39,10.30
+NORTH WALPOLE,22/02/2018,3.8,0.4, ,28.2,15.6,100,56,2.61,17.14
+NORTH WALPOLE,23/02/2018,3.0,4.2, ,21.5,16.6,100,56,4.12,12.56
+NORTH WALPOLE,24/02/2018, ,0.2, , ,15.2,79,47,5.57,19.84
+NORTH WALPOLE,25/02/2018, , , ,27.3, ,100,49,2.66,19.60
+NORTH WALPOLE,26/02/2018,4.2,2.6, ,24.7,16.3,100,44,4.98,16.37
+NORTH WALPOLE,27/02/2018, ,3.0, , ,13.1,74,58,3.78,11.59
+NORTH WALPOLE,28/02/2018, , , ,22.7, ,99,55,2.23,18.72
+Totals:,,85.2,16.4, ,,,,,, 

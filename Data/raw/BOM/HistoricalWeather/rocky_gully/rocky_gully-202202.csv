@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2022,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 March 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2022,5.2,0.0, ,22.3,12.7,68,36,3.48,24.93
+ROCKY GULLY,02/02/2022,6.2,0.0, ,27.2,12.1,81,28,3.31,28.57
+ROCKY GULLY,03/02/2022,6.8,0.0, ,32.2,14.7,80,17,3.14,24.62
+ROCKY GULLY,04/02/2022,7.9,0.0, ,38.1,18.8,69,11,2.95,25.81
+ROCKY GULLY,05/02/2022,9.0,0.0, ,43.0,18.9,61,9,2.94,27.39
+ROCKY GULLY,06/02/2022,2.8,0.0, ,25.8,16.8,92,47,2.31,7.98
+ROCKY GULLY,07/02/2022,3.9,2.4, ,20.2,10.0,93,39,3.34,19.19
+ROCKY GULLY,08/02/2022,2.7,0.4, ,21.2,11.6,93,61,1.60,13.82
+ROCKY GULLY,09/02/2022,4.8,0.4, ,25.1,8.6,94,33,1.79,26.58
+ROCKY GULLY,10/02/2022,6.6,0.2, ,34.3,11.2,91,18,2.24,27.73
+ROCKY GULLY,11/02/2022,6.6,0.0, ,38.3,14.6,94,18,1.80,26.97
+ROCKY GULLY,12/02/2022,2.6,0.0, ,19.5,13.3,94,61,1.92,13.36
+ROCKY GULLY,13/02/2022,5.1,0.2, ,26.8,8.9,91,28,1.92,26.65
+ROCKY GULLY,14/02/2022,5.6,0.2, ,28.9,11.4,91,38,2.73,26.80
+ROCKY GULLY,15/02/2022,6.3,0.0, ,32.3,15.7,83,33,2.76,26.59
+ROCKY GULLY,16/02/2022,5.0,0.0, ,26.7,15.1,91,45,2.88,24.57
+ROCKY GULLY,17/02/2022,5.7,0.0, ,29.8,12.0,89,29,2.39,26.53
+ROCKY GULLY,18/02/2022,6.2,0.0, ,34.1,10.8,92,16,2.04,26.44
+ROCKY GULLY,19/02/2022,5.9,0.0, ,32.0,12.9,85,26,2.34,25.65
+ROCKY GULLY,20/02/2022,3.5,0.0, ,23.9,16.1,81,48,2.80,13.46
+ROCKY GULLY,21/02/2022,5.6,0.0, ,31.2,11.2,81,20,1.93,25.89
+ROCKY GULLY,22/02/2022,5.0,0.0, ,28.1,13.0,89,36,2.19,24.81
+ROCKY GULLY,23/02/2022,3.8,0.0, ,21.6,15.6,84,49,3.37,17.21
+ROCKY GULLY,24/02/2022,2.8,0.0, ,22.1,15.2,88,65,3.33,11.47
+ROCKY GULLY,25/02/2022,3.8,0.4, ,26.7,16.9,94,54,2.83,16.89
+ROCKY GULLY,26/02/2022,2.3,3.2, ,21.5,16.6,94,73,3.36,10.20
+ROCKY GULLY,27/02/2022,3.1,1.0, ,24.0,14.4,92,60,3.08,13.07
+ROCKY GULLY,28/02/2022,5.3,0.6, ,32.3,16.9,91,27,2.79,19.09
+Totals:,,140.1,9, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for October 2016,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 November 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/10/2016,2.7,6.6, ,11.5,7.0,89,50,5.17,17.44
+ROCKY GULLY,02/10/2016,3.0,9.2, ,14.3,4.6,91,46,4.16,19.50
+ROCKY GULLY,03/10/2016,2.5,0.8, ,16.9,8.0,93,66,3.77,14.94
+ROCKY GULLY,04/10/2016,3.1,2.6, ,18.5,9.7,93,53,3.79,16.66
+ROCKY GULLY,05/10/2016,4.2,0.6, ,20.3,11.6,91,42,4.66,21.88
+ROCKY GULLY,06/10/2016,1.8,2.0, ,15.5,13.2,92,75,2.90,9.14
+ROCKY GULLY,07/10/2016,2.1,2.6, ,18.7,8.9,94,73,3.02,11.65
+ROCKY GULLY,08/10/2016,2.8,6.6, ,18.1,13.4,91,59,4.44,13.35
+ROCKY GULLY,09/10/2016,2.6,3.4, ,13.6,7.0,91,62,3.57,17.49
+ROCKY GULLY,10/10/2016,2.4,1.4, ,16.3,5.0,93,49,1.45,15.33
+ROCKY GULLY,11/10/2016,3.3,0.0, ,19.0,3.1,95,49,1.87,23.10
+ROCKY GULLY,12/10/2016,5.0,0.2, ,25.1,7.7,91,27,3.01,24.78
+ROCKY GULLY,13/10/2016,5.2,0.0, ,24.3,10.5,82,29,3.74,24.32
+ROCKY GULLY,14/10/2016,3.0,0.4, ,16.9,11.7,91,48,4.03,14.24
+ROCKY GULLY,15/10/2016,2.6,10.0, ,12.8,5.8,91,54,3.73,17.24
+ROCKY GULLY,16/10/2016,2.4,3.8, ,15.5,3.6,93,56,2.36,14.45
+ROCKY GULLY,17/10/2016,2.8,0.2, ,15.3,9.6,92,53,2.76,16.65
+ROCKY GULLY,18/10/2016,3.1,0.0, ,17.0,4.5,93,40,1.03,21.70
+ROCKY GULLY,19/10/2016,3.0,0.2, ,17.6,5.1,93,51,2.65,17.94
+ROCKY GULLY,20/10/2016,2.9,7.2, ,13.2,5.4,92,47,2.46,19.64
+ROCKY GULLY,21/10/2016,2.7,0.4, ,16.6,4.1,90,45,1.50,17.28
+ROCKY GULLY,22/10/2016,4.7,0.0, ,22.5,5.3,88,29,2.65,26.50
+ROCKY GULLY,23/10/2016,5.7,0.0, ,26.4,9.6,87,20,3.09,26.60
+ROCKY GULLY,24/10/2016,3.9,0.2, ,18.3,8.9,93,39,2.22,24.18
+ROCKY GULLY,25/10/2016,3.3,0.2, ,19.0,4.5,93,51,2.42,20.66
+ROCKY GULLY,26/10/2016,3.1,2.0, ,19.0,8.0,94,44,1.14,19.28
+ROCKY GULLY,27/10/2016,4.0,0.0, ,20.6,6.5,94,43,2.24,24.06
+ROCKY GULLY,28/10/2016,3.3,0.0, ,20.6,7.2,94,44,2.36,17.16
+ROCKY GULLY,29/10/2016,2.9,1.8, ,16.1,9.5,91,59,3.56,16.59
+ROCKY GULLY,30/10/2016,2.7,2.8, ,15.0,2.3,93,47,2.08,17.43
+ROCKY GULLY,31/10/2016,2.8,0.0, ,16.4,5.3,92,50,1.84,17.24
+Totals:,,99.6,65.2, ,,,,,, 

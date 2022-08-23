@@ -1,0 +1,39 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MUNGLINUP WEST Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MUNGLINUP WEST,01/12/2017, ,0.2, , ,6.3, , , ,26.18
+MUNGLINUP WEST,03/12/2017, , , , , , , , ,29.35
+MUNGLINUP WEST,04/12/2017, , , , , , , , ,6.25
+MUNGLINUP WEST,05/12/2017, , , ,25.9, ,100,74,4.68,31.60
+MUNGLINUP WEST,06/12/2017,3.2,0.2, ,21.9,12.6,100,71,4.48,18.13
+MUNGLINUP WEST,07/12/2017,4.8,0.0, ,23.0,9.1,100,64,3.93,31.61
+MUNGLINUP WEST,08/12/2017,6.1,0.0, ,28.8,7.3,100,51,5.04,30.94
+MUNGLINUP WEST,09/12/2017,8.2,0.0, ,35.2,12.6,100,39,5.98,28.82
+MUNGLINUP WEST,10/12/2017,9.4,0.0, ,39.2,18.7,77,37,5.18,30.41
+MUNGLINUP WEST,11/12/2017,6.5,0.0, ,37.5,22.9,100,49,4.94,20.59
+MUNGLINUP WEST,12/12/2017,3.5,1.8, ,25.0,15.5,100,84,4.77,21.55
+MUNGLINUP WEST,13/12/2017,4.0,0.2, ,23.3,12.5,100,72,4.30,24.56
+MUNGLINUP WEST,14/12/2017,4.3,0.0, ,26.9,9.4,100,66,2.52,24.02
+MUNGLINUP WEST,15/12/2017,5.9,0.0, ,30.2,12.0,100,59,3.52,30.30
+MUNGLINUP WEST,16/12/2017,5.7,0.0, ,29.9,12.9,100,67,3.98,31.02
+MUNGLINUP WEST,17/12/2017,4.9,0.0, ,25.5,13.9,100,57,7.10,23.25
+MUNGLINUP WEST,18/12/2017,3.0,0.0, ,19.9,11.9,100,73,7.97,18.53
+MUNGLINUP WEST,19/12/2017,2.2,7.6, ,19.5,12.5,100,88,7.13,16.12
+MUNGLINUP WEST,20/12/2017,5.4,0.2, ,25.6,12.7,100,62,3.34,31.67
+MUNGLINUP WEST,21/12/2017,7.4,0.0, ,33.9,11.3,100,45,4.39,31.67
+MUNGLINUP WEST,22/12/2017,3.9,0.0, ,25.1,14.0,100,84,5.05,25.91
+MUNGLINUP WEST,23/12/2017,3.8,0.0, ,24.1,14.6,100,73,5.08,21.20
+MUNGLINUP WEST,24/12/2017,6.1,0.0, ,29.0,9.4,100,56,5.10,31.61
+MUNGLINUP WEST,25/12/2017,8.1,0.0, ,36.1,12.9,100,50,6.12,31.63
+MUNGLINUP WEST,26/12/2017,4.0,0.0, ,25.7,14.4,100,77,5.93,23.71
+Totals:,,110.4,10.2, ,,,,,, 

@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WYNDHAM AERO Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WYNDHAM AERO,01/02/2018,10.3,2.0, ,34.8,24.7,19,11,5.01,27.07
+WYNDHAM AERO,02/02/2018,8.0,2.6, ,34.9,25.5,19,11,3.01,24.67
+WYNDHAM AERO,03/02/2018,9.2,0.0, ,35.7,27.0,17,11,3.79,26.23
+WYNDHAM AERO,04/02/2018,8.5,0.0, ,37.4,27.0,17,10,2.88,28.28
+WYNDHAM AERO,05/02/2018,7.1,0.0, ,34.3,27.9,16,12,2.90,16.62
+WYNDHAM AERO,06/02/2018,8.4,0.4, ,38.0,25.9,18,9,2.85,27.56
+WYNDHAM AERO,07/02/2018, ,0.0, , ,25.9,18,9,3.14,28.72
+WYNDHAM AERO,08/02/2018, , , ,35.7, ,69,10,3.44,24.99
+WYNDHAM AERO,09/02/2018,6.8,0.6, ,35.0,25.8,18,11,2.32,21.15
+WYNDHAM AERO,10/02/2018,7.4,0.0, ,35.9,25.7,18,11,2.53,23.82
+WYNDHAM AERO,11/02/2018,8.0,0.0, ,38.5,26.1,18,9,2.46,28.46
+WYNDHAM AERO,12/02/2018,8.9,0.0, ,39.5,26.5,18,9,3.05,28.44
+WYNDHAM AERO,13/02/2018,8.0,0.0, ,39.1,27.6,16,9,2.63,25.04
+WYNDHAM AERO,14/02/2018,9.1,0.0, ,34.7,27.1,20,11,4.95,13.37
+WYNDHAM AERO,15/02/2018, ,65.0, ,27.2,24.2,20,17,5.12, 
+WYNDHAM AERO,16/02/2018,5.8,49.2, ,30.0,24.1,20,15,2.78,11.91
+WYNDHAM AERO,17/02/2018,8.0,7.6, ,30.8,25.0,19,15,4.11,19.33
+WYNDHAM AERO,18/02/2018,6.6,0.2, ,31.2,25.5,20,14,3.24,12.54
+WYNDHAM AERO,19/02/2018,6.8,12.6, ,30.8,24.7,19,14,3.18,16.70
+WYNDHAM AERO,20/02/2018,6.8,0.0, ,33.9,25.6,18,12,2.28,23.75
+WYNDHAM AERO,21/02/2018,6.6,0.0, ,34.8,26.3,18,11,2.60,16.15
+WYNDHAM AERO,22/02/2018,7.1,0.0, ,35.6,25.6,18,11,2.36,24.46
+WYNDHAM AERO,23/02/2018,8.9,0.0, ,37.8,26.7,17,9,3.25,27.93
+WYNDHAM AERO,24/02/2018,8.1,0.0, ,30.3,28.2,17,14,4.73,10.83
+WYNDHAM AERO,25/02/2018,8.6,17.2, ,35.4,23.6,21,11,3.78,23.34
+WYNDHAM AERO,26/02/2018,7.9,2.2, ,34.2,24.6,19,12,3.24,23.39
+WYNDHAM AERO,27/02/2018,7.7,14.2, ,35.1,23.0,22,11,2.73,27.34
+WYNDHAM AERO,28/02/2018,8.1,6.2, ,36.1,24.9,19,10,3.07,25.73
+Totals:,,196.7,180, ,,,,,, 

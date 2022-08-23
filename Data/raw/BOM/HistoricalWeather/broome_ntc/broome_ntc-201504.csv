@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for April 2015,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 May 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/04/2015,9.1, , ,32.1,29.7,15,13,4.84,20.38
+BROOME NTC,02/04/2015,8.8, , ,35.4,29.5,15,12,4.08,22.77
+BROOME NTC,03/04/2015,9.2, , ,35.5,28.4,16,11,4.40,23.27
+BROOME NTC,04/04/2015,7.3, , ,36.7,28.7,15,10,2.74,23.45
+BROOME NTC,05/04/2015,10.1, , ,35.9,25.9,18,11,5.37,22.89
+BROOME NTC,06/04/2015,11.3, , ,35.2,27.9,16,11,6.54,23.54
+BROOME NTC,07/04/2015, , , , ,25.1,19,12,7.91,23.68
+BROOME NTC,08/04/2015, , , ,35.3, ,19,11,7.52,23.17
+BROOME NTC,09/04/2015,8.8, , ,31.1,25.5,18,14,5.06,22.79
+BROOME NTC,10/04/2015,6.6, , ,32.5,27.0,17,13,2.64,23.21
+BROOME NTC,11/04/2015,7.6, , ,31.4,26.1,18,14,3.71,23.29
+BROOME NTC,12/04/2015, , , , ,26.1, , , ,22.61
+BROOME NTC,13/04/2015, , , , , , , , ,22.10
+BROOME NTC,14/04/2015, , , ,29.3, ,16,15,4.11,22.41
+BROOME NTC,15/04/2015,8.0, , ,31.0,27.0,17,14,4.21,21.64
+BROOME NTC,16/04/2015,8.7, , ,33.9,27.3,17,12,4.52,21.34
+BROOME NTC,17/04/2015,11.4, , ,34.7,28.4,16,11,6.98,21.64
+BROOME NTC,18/04/2015,9.0, , ,32.8,26.2,18,12,5.15,19.83
+BROOME NTC,19/04/2015,11.8, , ,31.6,27.8,20,13,9.43,10.79
+BROOME NTC,20/04/2015,11.2, , ,28.9,22.9,22,16,11.05,9.98
+BROOME NTC,21/04/2015,9.0, , ,29.5,24.1,23,15,6.99,10.38
+BROOME NTC,22/04/2015,7.3, , ,26.5,19.6,26,18,6.22,7.31
+BROOME NTC,23/04/2015,7.6, , ,28.0,21.9,21,16,5.77,8.36
+BROOME NTC,24/04/2015,8.5, , ,29.9,23.9,19,15,5.93,11.80
+BROOME NTC,25/04/2015,9.0, , ,30.8,25.7,18,14,6.17,11.22
+BROOME NTC,26/04/2015,10.0, , ,32.0,25.8,18,14,6.85,16.80
+BROOME NTC,27/04/2015,9.9, , ,30.8,23.8,20,14,7.28,18.49
+BROOME NTC,28/04/2015,8.6, , ,30.0,21.6,23,15,5.89,21.93
+BROOME NTC,29/04/2015,5.6, , ,31.7,21.0,24,14,2.49,20.98
+BROOME NTC,30/04/2015,8.0, , ,32.1,21.4,24,13,4.69,21.12
+Totals:,,222.4, , ,,,,,, 

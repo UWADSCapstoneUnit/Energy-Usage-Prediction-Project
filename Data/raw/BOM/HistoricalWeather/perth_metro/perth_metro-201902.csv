@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/02/2019,8.3,0.0, ,38.5,20.1,82,15,3.04,29.29
+PERTH METRO,02/02/2019,5.6,0.0, ,27.1,18.3,84,55,4.54,25.74
+PERTH METRO,03/02/2019,7.2,0.0, ,29.6,14.4,64,22,3.76,28.98
+PERTH METRO,04/02/2019,7.0,0.0, ,30.9,15.7,79,20,3.15,28.94
+PERTH METRO,05/02/2019,7.4,0.0, ,33.4,17.5,72,26,3.35,28.82
+PERTH METRO,06/02/2019,7.1,0.0, ,36.0,17.6,79,29,2.92,26.66
+PERTH METRO,07/02/2019,8.4,0.0, ,35.5,21.5,64,27,4.12,28.25
+PERTH METRO,08/02/2019,8.3,0.2, ,34.9,19.2,63,22,4.00,28.38
+PERTH METRO,09/02/2019,7.5,0.0, ,35.0,18.2,62,17,2.84,28.20
+PERTH METRO,10/02/2019,7.6,0.0, ,35.9,20.1,68,21,2.96,27.99
+PERTH METRO,11/02/2019,5.9,0.0, ,26.1,15.2,81,36,3.61,27.96
+PERTH METRO,12/02/2019,5.6,0.0, ,27.3,15.6,79,41,2.88,26.55
+PERTH METRO,13/02/2019,5.4,0.0, ,32.1,16.2,85,25,2.24,21.02
+PERTH METRO,14/02/2019,5.6,0.2, ,30.7,15.9,93,22,1.68,27.26
+PERTH METRO,15/02/2019,5.0,0.0, ,27.2,17.6,99,53,1.96,26.59
+PERTH METRO,16/02/2019,6.1,0.0, ,30.1,18.4,81,43,3.26,27.11
+PERTH METRO,17/02/2019,6.3,0.0, ,30.3,18.0,72,29,2.81,27.02
+PERTH METRO,18/02/2019,6.6,0.0, ,31.3,16.1,66,28,3.12,26.87
+PERTH METRO,19/02/2019,6.0,0.0, ,32.7,15.6,86,25,2.11,26.71
+PERTH METRO,20/02/2019,5.7,0.0, ,31.0,16.8,81,34,2.08,26.56
+PERTH METRO,21/02/2019,2.7,0.0, ,24.6,17.9,89,61,2.38,10.35
+PERTH METRO,22/02/2019,4.7,0.0, ,26.6,19.2,82,47,2.09,22.78
+PERTH METRO,23/02/2019,4.7,0.0, ,28.0,16.3,89,49,2.02,23.98
+PERTH METRO,24/02/2019,5.6,0.0, ,29.7,17.6,91,44,2.94,25.94
+PERTH METRO,25/02/2019,7.0,0.0, ,37.0,18.8,82,26,2.86,25.75
+PERTH METRO,26/02/2019,6.0,0.0, ,35.5,21.5,87,30,2.71,21.20
+PERTH METRO,27/02/2019,5.3,0.0, ,33.4,19.0,97,37,1.72,23.85
+PERTH METRO,28/02/2019,4.3,0.0, ,27.3,19.4,99,61,2.50,21.68
+Totals:,,172.9,0.4, ,,,,,, 

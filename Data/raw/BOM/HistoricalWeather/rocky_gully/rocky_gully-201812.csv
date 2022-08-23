@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for December 2018,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 January 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/12/2018,3.6,0.0, ,20.1,9.5,90,48,2.63,18.34
+ROCKY GULLY,02/12/2018,5.5,0.0, ,26.5,11.5,86,34,2.23,27.57
+ROCKY GULLY,03/12/2018,7.1,0.2, ,33.5,12.2,84,26,2.43,31.38
+ROCKY GULLY,04/12/2018,3.6,0.0, ,22.2,12.0,91,55,2.23,18.00
+ROCKY GULLY,05/12/2018,2.7,0.0, ,20.5,10.2,88,60,1.93,13.16
+ROCKY GULLY,06/12/2018,2.8,9.2, ,17.6,11.1,93,61,1.56,15.94
+ROCKY GULLY,07/12/2018,4.8,1.2, ,21.9,6.8,94,39,1.70,30.21
+ROCKY GULLY,08/12/2018,5.1,0.0, ,25.8,8.6,93,40,1.84,28.08
+ROCKY GULLY,09/12/2018,5.7,0.0, ,26.0,7.3,94,39,2.53,31.75
+ROCKY GULLY,10/12/2018,5.6,0.0, ,25.9,10.3,93,43,2.64,30.18
+ROCKY GULLY,11/12/2018,5.6,0.0, ,24.6,10.7,91,34,2.59,29.85
+ROCKY GULLY,12/12/2018,4.7,1.0, ,21.8,10.5,92,41,2.76,26.02
+ROCKY GULLY,13/12/2018,6.6,0.0, ,29.3,4.6,91,13,2.32,31.97
+ROCKY GULLY,14/12/2018, ,0.0, ,34.8,12.5, , , ,30.25
+ROCKY GULLY,15/12/2018,1.9,0.6, ,21.7,14.9,89,65,2.06,5.67
+ROCKY GULLY,16/12/2018,1.4,3.0, ,17.2,13.6,93,83,2.81,4.99
+ROCKY GULLY,17/12/2018,2.8,3.8, ,18.8,13.0,93,73,3.08,15.10
+ROCKY GULLY,18/12/2018,3.8,0.8, ,21.0,12.3,93,47,2.59,19.11
+ROCKY GULLY,19/12/2018,5.1,0.0, ,23.5,6.6,93,39,2.03,29.80
+ROCKY GULLY,20/12/2018,5.7,0.0, ,25.3,7.5,93,33,2.48,31.76
+ROCKY GULLY,21/12/2018,6.8,0.0, ,30.8,9.6,92,16,2.26,31.93
+ROCKY GULLY,22/12/2018, ,0.0, ,37.1,12.2, , , ,32.09
+ROCKY GULLY,23/12/2018,6.4,0.0, ,28.0,15.2,93,38,2.66,32.05
+ROCKY GULLY,24/12/2018,5.6,0.0, ,25.7,12.2,93,40,2.33,29.89
+ROCKY GULLY,25/12/2018,7.1,0.0, ,33.5,11.6,92,24,2.28,31.97
+ROCKY GULLY,26/12/2018,5.3,0.0, ,27.2,13.6,92,32,2.02,25.57
+ROCKY GULLY,27/12/2018,4.4,0.0, ,26.0,13.4,92,49,2.64,20.35
+ROCKY GULLY,28/12/2018,4.8,0.2, ,22.4,12.2,91,39,2.94,24.87
+ROCKY GULLY,29/12/2018,5.6,0.2, ,25.7,3.3,93,24,1.80,32.04
+ROCKY GULLY,30/12/2018,6.5,0.0, ,31.0,7.9,88,15,1.90,31.70
+ROCKY GULLY,31/12/2018,6.2,0.0, ,30.1,11.8,88,40,2.40,29.95
+Totals:,,142.8,20.2, ,,,,,, 

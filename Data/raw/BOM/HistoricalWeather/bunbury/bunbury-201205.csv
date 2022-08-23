@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUNBURY Western Australia for May 2012,,,,,,,,,,
+Issued at 22:38 GMT on Friday 01 June 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUNBURY,01/05/2012,2.4,0.0, ,22.1,9.3,92,41,2.27,12.55
+BUNBURY,02/05/2012,3.5,0.0, ,25.8,8.6,82,32,3.09,14.08
+BUNBURY,03/05/2012,3.2,0.0, ,25.3,17.3,89,40,3.46,11.84
+BUNBURY,04/05/2012,0.9,0.0, ,19.7,15.6,96,85,2.76,2.56
+BUNBURY,05/05/2012,2.3,49.2, ,22.9,16.5,97,61,3.44,10.92
+BUNBURY,06/05/2012,2.1,5.2, ,19.6,13.8,95,47,2.73,10.44
+BUNBURY,07/05/2012,3.1,7.2, ,20.7,12.0,92,51,8.19,7.42
+BUNBURY,08/05/2012,2.9,7.0, ,19.1,13.9,88,48,5.97,10.82
+BUNBURY,09/05/2012,1.9,1.4, ,21.4,10.1,94,59,2.61,10.44
+BUNBURY,10/05/2012,1.6,2.4, ,20.7,8.3,96,51,1.17,11.29
+BUNBURY,11/05/2012,2.1,0.0, ,22.4,9.3,91,38,1.75,11.37
+BUNBURY,12/05/2012,2.7,0.0, ,24.5,9.4,86,41,2.67,12.04
+BUNBURY,13/05/2012,1.6,0.0, ,20.4,9.9,91,55,2.10,5.92
+BUNBURY,14/05/2012,1.7,0.8, ,21.0,11.2,94,59,1.78,11.03
+BUNBURY,15/05/2012,1.4,0.4, ,20.3,10.0,95,63,1.30,8.92
+BUNBURY,16/05/2012,1.3,0.2, ,19.9,6.2,96,58,0.76,11.34
+BUNBURY,17/05/2012,1.1,0.2, ,20.5,7.3,96,63,0.65,8.66
+BUNBURY,18/05/2012,1.5,0.2, ,21.6,7.9,96,54,1.08,11.43
+BUNBURY,19/05/2012, ,0.2, , ,7.5, , , ,11.31
+BUNBURY,23/05/2012, , , , , , , , ,10.95
+BUNBURY,24/05/2012, , , , , , , , ,10.86
+BUNBURY,25/05/2012, , , ,19.3, ,96,35,0.53,9.18
+BUNBURY,26/05/2012,1.3,0.0, ,21.4,2.7,95,28,0.80,9.83
+BUNBURY,27/05/2012,1.5,0.0, ,23.8,3.8,93,44,1.04,10.66
+BUNBURY,28/05/2012,1.3,0.0, ,21.6,6.8,95,56,0.95,10.55
+BUNBURY,29/05/2012,1.8,0.0, ,22.6,3.3,95,39,1.72,10.46
+BUNBURY,30/05/2012,2.5,0.0, ,22.4,4.5,94,41,3.36,10.18
+BUNBURY,31/05/2012,1.1,22.0, ,18.3,14.8,94,74,2.42,3.49
+Totals:,,46.8,96.4, ,,,,,, 

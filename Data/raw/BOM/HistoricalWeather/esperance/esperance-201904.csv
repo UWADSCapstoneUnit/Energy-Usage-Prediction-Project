@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for April 2019,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 May 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/04/2019,7.1,0.0, ,35.1,17.3,100,18,5.67,14.38
+ESPERANCE,02/04/2019,1.7,1.2, ,19.8,18.5,99,69,4.46,4.83
+ESPERANCE,03/04/2019,2.3,5.6, ,21.9,16.4,88,62,3.94,5.75
+ESPERANCE,04/04/2019,4.4,0.6, ,28.4,17.6,92,49,6.62,11.47
+ESPERANCE,05/04/2019, ,0.0, , ,15.6,83,47,4.77,11.81
+ESPERANCE,06/04/2019,3.4, , ,22.3,7.5,89,40,3.04,18.24
+ESPERANCE,07/04/2019,2.6,0.0, ,21.5,10.8,90,61,3.48,11.96
+ESPERANCE,08/04/2019,2.9,0.0, ,19.8,15.3,76,49,3.47,10.03
+ESPERANCE,09/04/2019,4.4,0.0, ,25.1,9.7,87,36,4.74,17.65
+ESPERANCE,10/04/2019, ,0.0, , ,15.3,77,21,6.44,12.16
+ESPERANCE,11/04/2019, , , , , ,88,28,4.02,13.72
+ESPERANCE,12/04/2019, , , ,21.0, ,89,57,4.59,14.67
+ESPERANCE,13/04/2019,4.8,0.0, ,28.6,13.1,77,37,4.32,16.48
+ESPERANCE,14/04/2019,3.1,0.0, ,24.1,19.7,88,57,5.92,7.79
+ESPERANCE,15/04/2019,4.3,0.2, ,24.2,15.9,78,41,5.27,15.23
+ESPERANCE,16/04/2019,5.3,0.0, ,26.2,15.3,77,33,6.73,12.48
+ESPERANCE,17/04/2019,2.8,0.0, ,19.2,11.7,90,41,3.66,11.83
+ESPERANCE,18/04/2019,5.3,0.0, ,29.1,12.0,79,31,5.45,13.06
+ESPERANCE,19/04/2019,3.3,1.8, ,16.9,12.0,92,40,7.42,11.77
+ESPERANCE,20/04/2019,2.3,13.6, ,15.1,5.9,93,52,5.16,11.75
+ESPERANCE,21/04/2019,2.5,3.6, ,19.6,7.8,90,51,3.06,13.91
+ESPERANCE,22/04/2019, ,0.0, , ,10.1,91,29,3.98,15.62
+ESPERANCE,23/04/2019, , , ,25.0, ,74,29,3.99,15.38
+ESPERANCE,24/04/2019,2.5,0.0, ,20.0,10.1,95,58,3.53,15.29
+ESPERANCE,25/04/2019,2.6,0.0, ,21.6,12.0,96,53,3.05,14.41
+ESPERANCE,26/04/2019, ,0.0, , ,11.3,100,49,3.20,14.05
+ESPERANCE,27/04/2019,3.8, , ,25.0,10.9,95,35,4.29,14.90
+ESPERANCE,28/04/2019,5.0, , ,28.5,10.7,85,23,4.62,14.76
+ESPERANCE,29/04/2019, ,0.0, , ,16.6,93,27,5.99,5.13
+ESPERANCE,30/04/2019, , , , , ,89,52,6.87,10.53
+Totals:,,76.4,26.6, ,,,,,, 

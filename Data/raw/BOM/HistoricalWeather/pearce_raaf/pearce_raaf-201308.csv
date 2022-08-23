@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for August 2013,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 September 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/08/2013,1.7,8.4, ,20.3,10.1,96,63,1.91,11.77
+PEARCE RAAF,02/08/2013,2.0,0.4, ,20.5,6.9,95,53,1.62,15.75
+PEARCE RAAF,03/08/2013,2.4,0.0, ,21.9,5.2,94,49,1.98,17.14
+PEARCE RAAF,04/08/2013,3.4,0.0, ,23.0,7.0,91,34,3.62,16.87
+PEARCE RAAF,05/08/2013,3.1,5.8, ,22.6,12.2,94,52,4.77,15.69
+PEARCE RAAF,06/08/2013,2.5,11.0, ,23.0,15.1,95,61,4.69,10.73
+PEARCE RAAF,07/08/2013,2.7,2.2, ,23.2,16.3,95,62,6.57,9.10
+PEARCE RAAF,08/08/2013,1.6,33.8, ,18.3,15.8,95,77,4.90,7.29
+PEARCE RAAF,09/08/2013, , , ,20.4,10.8,93,60,2.85, 
+PEARCE RAAF,10/08/2013, ,0.0, , ,8.1,94,64,4.14,14.30
+PEARCE RAAF,11/08/2013, , , ,18.3, ,95,40,3.41,17.72
+PEARCE RAAF,12/08/2013,2.7,0.4, ,18.9,10.4,90,48,4.45,11.60
+PEARCE RAAF,13/08/2013,2.4,0.4, ,18.4,11.4,93,61,5.26,13.10
+PEARCE RAAF,14/08/2013,2.5, , ,19.4,6.5,95,47,3.18,14.78
+PEARCE RAAF,15/08/2013,2.6, , ,18.5,10.3,89,61,6.98,10.08
+PEARCE RAAF,16/08/2013, ,12.2, ,16.9, ,92,57,4.34,12.30
+PEARCE RAAF,17/08/2013,2.1,4.8, ,18.0,10.7,93,62,3.42,12.73
+PEARCE RAAF,18/08/2013,2.2,1.6, ,19.0,8.1,95,50,1.70,15.26
+PEARCE RAAF,19/08/2013,2.9,0.0, ,20.6,7.7,87,41,2.30,18.97
+PEARCE RAAF,20/08/2013,2.5,0.0, ,19.4,4.9,93,46,1.70,18.94
+PEARCE RAAF,21/08/2013,2.8,0.0, ,20.0,6.8,93,48,2.10,20.10
+PEARCE RAAF,22/08/2013,2.9,0.0, ,20.5,5.4,92,42,2.05,20.02
+PEARCE RAAF,23/08/2013,4.0,0.0, ,23.9,5.9,84,28,2.83,20.91
+PEARCE RAAF,24/08/2013,4.2,0.0, ,26.2,5.6,83,24,2.60,20.67
+PEARCE RAAF,25/08/2013,2.6,0.0, ,19.5,11.0,93,48,4.33,7.90
+PEARCE RAAF,26/08/2013,2.6,11.2, ,18.9,13.2,94,60,4.22,14.53
+PEARCE RAAF,27/08/2013,1.8,1.0, ,17.3,7.5,93,66,3.13,9.24
+PEARCE RAAF,28/08/2013,2.8,19.2, ,18.6,9.6,96,52,3.08,18.94
+PEARCE RAAF,29/08/2013,3.0,0.2, ,19.8,7.1,94,52,4.25,17.71
+PEARCE RAAF,30/08/2013,3.1,1.8, ,20.9,11.8,94,61,6.76,15.99
+PEARCE RAAF,31/08/2013,3.0,12.2, ,20.9,14.4,92,67,7.15,15.75
+Totals:,,72.1,126.6, ,,,,,, 

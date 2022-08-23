@@ -1,0 +1,36 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DWELLINGUP Western Australia for August 2022,,,,,,,,,,
+Issued at 06:30 GMT on Tuesday 23 August 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DWELLINGUP,01/08/2022,1.9,4.0, ,15.9,7.1,95,66,7.12,8.45
+DWELLINGUP,02/08/2022,2.0,34.4, ,13.5,7.8,89,60,7.75,7.46
+DWELLINGUP,03/08/2022,2.1,15.6, ,13.8,6.9,93,52,6.26,7.64
+DWELLINGUP,04/08/2022,2.0,11.8, ,14.1,8.4,94,50,4.22,11.71
+DWELLINGUP,05/08/2022,1.6,0.0, ,14.5,2.3,96,58,2.72,11.41
+DWELLINGUP,06/08/2022,1.4,0.0, ,15.0,5.6,97,65,2.80,8.63
+DWELLINGUP,07/08/2022,2.0,13.8, ,15.6,9.3,94,52,3.26,12.84
+DWELLINGUP,08/08/2022,1.5,1.4, ,14.5,9.1,94,68,4.50,5.03
+DWELLINGUP,09/08/2022,1.6,56.0, ,11.6,5.0,94,60,3.31,11.31
+DWELLINGUP,10/08/2022,1.8,1.8, ,14.8,1.5,97,59,3.37,14.27
+DWELLINGUP,11/08/2022,2.2,0.0, ,17.0,1.3,96,49,3.19,14.89
+DWELLINGUP,12/08/2022,2.7,0.2, ,18.6,4.5,95,44,4.15,14.83
+DWELLINGUP,13/08/2022,2.7,0.0, ,15.6,9.8,92,37,6.04,5.46
+DWELLINGUP,14/08/2022,2.1,19.4, ,17.0,4.5,97,47,2.29,14.67
+DWELLINGUP,15/08/2022,2.8,0.0, ,20.5,7.9,94,48,4.11,14.49
+DWELLINGUP,16/08/2022,2.1,17.0, ,15.9,13.2,94,62,5.42,9.60
+DWELLINGUP,17/08/2022,1.4,45.8, ,13.0,7.7,93,71,3.78,8.25
+DWELLINGUP,18/08/2022,1.7,6.0, ,15.2,0.5,97,58,2.48,10.99
+DWELLINGUP,19/08/2022,1.6,0.0, ,15.8,7.1,95,69,2.62,10.99
+DWELLINGUP,20/08/2022,2.0,0.2, ,16.9,3.4,96,55,2.54,13.54
+DWELLINGUP,21/08/2022,2.4,0.0, ,17.6,4.1,96,49,3.54,12.96
+DWELLINGUP,22/08/2022,2.8,0.0, ,15.0,4.6,94,39,5.11,16.49
+Totals:,,44.4,227.4, ,,,,,, 

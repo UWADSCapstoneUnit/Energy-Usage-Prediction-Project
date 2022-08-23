@@ -1,0 +1,24 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HALLS CREEK COMPARISON Western Australia for January 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 11 January 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HALLS CREEK COMPARISON,01/01/2017,5.4,0.0, ,33.4,24.5,88,49,5.10,14.74
+HALLS CREEK COMPARISON,02/01/2017,7.9,0.0, ,35.7,24.8,69,33,4.83,22.89
+HALLS CREEK COMPARISON,03/01/2017,7.1,0.0, ,35.7,28.6,93,33,5.59,18.66
+HALLS CREEK COMPARISON,04/01/2017,5.2,0.0, ,33.3,23.6,96,54,6.31,14.24
+HALLS CREEK COMPARISON,05/01/2017,5.6,0.0, ,31.9,24.0,96,59,6.94,20.18
+HALLS CREEK COMPARISON,06/01/2017,5.3,0.0, ,32.5,23.7,89,51,3.97,18.43
+HALLS CREEK COMPARISON,07/01/2017,7.7,0.0, ,36.0,24.2,88,36,3.30,29.57
+HALLS CREEK COMPARISON,08/01/2017,6.9,0.0, ,35.4,25.2,84,38,3.46,24.17
+HALLS CREEK COMPARISON,09/01/2017,6.5,0.0, ,35.8,25.1,94,45,4.00,22.19
+HALLS CREEK COMPARISON,10/01/2017,4.9,2.2, ,31.7,22.0,97,51,2.83,19.43
+Totals:,,62.5,2.2, ,,,,,, 

@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/02/2020,6.4,0.0, ,27.3,7.1,80,22,3.37,29.04
+WANDERING,02/02/2020,8.0,0.0, ,31.8,13.1,83,20,4.76,29.11
+WANDERING,03/02/2020,8.4,0.0, ,34.0,13.9,79,18,4.42,28.84
+WANDERING,04/02/2020,8.4,0.0, ,37.0,17.6,66,18,4.17,23.70
+WANDERING,05/02/2020,9.2,0.0, ,42.0,17.8,65,13,3.35,27.21
+WANDERING,06/02/2020,9.4,0.0, ,40.8,19.6,56,16,3.70,28.48
+WANDERING,07/02/2020,7.9,0.0, ,37.2,19.6,76,16,3.23,26.76
+WANDERING,08/02/2020,8.8,0.0, ,39.2,17.5,74,22,3.91,27.50
+WANDERING,09/02/2020,7.2,0.0, ,27.1,11.6,76,18,4.98,28.08
+WANDERING,10/02/2020,8.0,0.0, ,30.1,10.4,70,19,5.33,28.12
+WANDERING,11/02/2020,4.8,0.0, ,28.9,14.9,80,37,3.98,12.77
+WANDERING,12/02/2020,6.5,0.0, ,33.0,17.3,85,30,2.90,26.58
+WANDERING,13/02/2020,7.7,0.0, ,35.0,19.9,72,22,3.95,24.76
+WANDERING,14/02/2020,8.0,0.0, ,37.6,18.8,79,25,4.18,23.47
+WANDERING,15/02/2020,6.7,1.4, ,33.3,18.1,89,31,3.20,27.07
+WANDERING,16/02/2020,6.7,0.0, ,30.2,15.5,80,22,3.52,27.02
+WANDERING,17/02/2020,7.5,0.0, ,28.5,15.6,71,25,5.79,26.54
+WANDERING,18/02/2020,6.9,0.0, ,30.4,14.0,67,26,4.37,24.12
+WANDERING,19/02/2020,7.2,0.0, ,33.6,16.9,64,23,3.57,24.41
+WANDERING,20/02/2020,7.6,0.0, ,33.6,16.6,76,19,4.06,25.57
+WANDERING,21/02/2020,5.8,0.0, ,31.0,17.1,65,21,3.39,16.20
+WANDERING,22/02/2020,2.9,2.0, ,24.1,18.3,85,31,2.04,7.98
+WANDERING,23/02/2020,5.8,0.4, ,30.5,18.3,92,39,4.57,21.22
+WANDERING,24/02/2020,2.9,0.0, ,24.8,18.8,85,65,5.57,6.30
+WANDERING,25/02/2020,4.5,4.2, ,28.4,18.3,89,51,5.79,13.19
+WANDERING,26/02/2020,3.6,4.0, ,27.2,17.5,85,61,4.57,11.50
+WANDERING,27/02/2020,1.7,8.2, ,22.5,17.6,94,67,3.71,1.77
+WANDERING,28/02/2020,2.8,19.4, ,25.4,17.9,86,64,3.95,7.49
+WANDERING,29/02/2020,4.5,3.2, ,28.6,15.5,98,47,2.53,21.18
+Totals:,,185.8,42.8, ,,,,,, 

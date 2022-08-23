@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 October 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/09/2017,6.4, , ,25.5,20.2,26,19,3.69,22.41
+BROOME NTC,02/09/2017,7.1, , ,25.2,20.8,23,19,4.61,23.00
+BROOME NTC,03/09/2017,7.2, , ,30.3,19.7,26,15,3.89,23.29
+BROOME NTC,04/09/2017,9.2, , ,33.0,22.5,22,13,5.33,23.33
+BROOME NTC,05/09/2017,9.8, , ,33.9,22.4,22,12,5.81,23.51
+BROOME NTC,06/09/2017,8.7, , ,27.8,23.3,21,18,5.79,23.68
+BROOME NTC,07/09/2017, , , , ,22.2, , , ,17.95
+BROOME NTC,08/09/2017, , , ,32.5, , , , ,21.79
+BROOME NTC,09/09/2017,9.2, , ,32.7,21.0,24,12,5.37,23.98
+BROOME NTC,10/09/2017,6.8, , ,27.6,21.0,24,17,3.52,24.07
+BROOME NTC,11/09/2017,7.0, , ,25.6,21.0,24,19,4.14,23.81
+BROOME NTC,12/09/2017,7.3, , ,25.8,21.5,24,18,4.47,24.02
+BROOME NTC,13/09/2017,8.5, , ,33.3,21.6,21,12,4.36,24.31
+BROOME NTC,14/09/2017,11.5, , ,36.5,24.6,20,10,6.67,24.37
+BROOME NTC,15/09/2017,8.0, , ,33.7,24.1,20,12,3.66,24.61
+BROOME NTC,16/09/2017,7.0, , ,28.3,22.6,22,16,3.40,24.80
+BROOME NTC,17/09/2017,8.9, , ,36.0,23.5,21,11,4.14,24.78
+BROOME NTC,18/09/2017,8.3, , ,35.1,21.3,24,11,3.82,25.05
+BROOME NTC,19/09/2017,8.2, , ,35.3,22.4,22,11,3.60,25.15
+BROOME NTC,20/09/2017,7.7, , ,32.2,21.4,22,13,3.55,25.30
+BROOME NTC,21/09/2017,6.8, , ,29.1,20.8,25,16,3.11,24.92
+BROOME NTC,22/09/2017,7.7, , ,27.8,22.8,22,17,4.13,25.27
+BROOME NTC,23/09/2017,8.7, , ,27.3,24.4,20,17,5.25,25.56
+BROOME NTC,24/09/2017,8.7, , ,26.6,24.7,20,18,5.39,25.55
+BROOME NTC,25/09/2017, , , , ,23.7, , , ,25.04
+BROOME NTC,26/09/2017, , , ,25.5, , , , ,23.57
+BROOME NTC,27/09/2017,8.9, , ,25.5,24.3,20,19,6.06,24.48
+BROOME NTC,28/09/2017, , , , ,24.2, , , ,25.34
+BROOME NTC,29/09/2017, , , , , , , , ,25.93
+BROOME NTC,30/09/2017, , , ,29.6, ,20,15,5.58,26.08
+Totals:,,187.6, , ,,,,,, 

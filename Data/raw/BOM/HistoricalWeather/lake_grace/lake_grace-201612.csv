@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for December 2016,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 January 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/12/2016,6.0,0.0, ,24.8,11.6,89,23,3.82,26.64
+LAKE GRACE,02/12/2016,6.9,0.0, ,29.4,8.0,85,16,3.34,28.54
+LAKE GRACE,03/12/2016,7.7,0.0, ,28.9,12.8,76,11,4.70,26.75
+LAKE GRACE,04/12/2016,6.5,0.0, ,25.2,10.8,81,20,3.75,29.98
+LAKE GRACE,05/12/2016,6.5,0.0, ,26.3,9.5,78,21,3.44,29.51
+LAKE GRACE,06/12/2016, ,0.0, ,29.8,11.7,83,20,2.69, 
+LAKE GRACE,07/12/2016,6.7,0.0, ,24.4,13.5,79,21,5.12,27.50
+LAKE GRACE,08/12/2016,7.3,0.0, ,28.1,7.6,77,15,4.06,29.55
+LAKE GRACE,09/12/2016,8.5,0.0, ,33.9,11.1,77,8,3.71,29.65
+LAKE GRACE,10/12/2016,10.1,0.0, ,40.0,15.8,51,8,3.95,28.72
+LAKE GRACE,11/12/2016,9.6,0.0, ,37.0,17.7,67,6,4.75,23.71
+LAKE GRACE,12/12/2016,2.0,11.8, ,20.5,15.5,94,70,5.14,5.18
+LAKE GRACE,13/12/2016,5.7,34.2, ,23.1,12.8,86,44,5.22,28.48
+LAKE GRACE,14/12/2016,5.7,0.2, ,25.9,12.7,93,40,4.20,26.82
+LAKE GRACE,15/12/2016,7.4,0.0, ,31.4,11.4,86,21,3.72,28.54
+LAKE GRACE,16/12/2016,6.7,0.0, ,23.6,14.2,81,33,6.44,31.05
+LAKE GRACE,17/12/2016,7.9,0.0, ,30.4,11.5,76,26,4.65,31.38
+LAKE GRACE,18/12/2016,7.8,0.0, ,30.8,14.3,85,16,3.84,31.36
+LAKE GRACE,19/12/2016,6.9,0.0, ,26.6,12.3,82,27,4.40,31.22
+LAKE GRACE,20/12/2016,8.1,0.0, ,30.4,11.1,82,18,4.53,31.47
+LAKE GRACE,21/12/2016,9.8,0.0, ,37.6,13.1,85,12,4.30,31.73
+LAKE GRACE,22/12/2016,9.2,0.0, ,31.8,23.6,70,18,5.29,31.50
+LAKE GRACE,23/12/2016,8.7,0.0, ,34.1,13.1,86,12,3.97,31.14
+LAKE GRACE,24/12/2016,8.8,0.0, ,34.6,14.8,83,28,5.05,31.36
+LAKE GRACE,25/12/2016,7.2,0.0, ,26.3,14.3,84,31,6.37,29.86
+LAKE GRACE,26/12/2016,9.7,0.0, ,34.0,10.0,81,12,5.35,30.80
+LAKE GRACE,27/12/2016,5.6,0.8, ,21.9,11.1,83,34,7.03,21.82
+LAKE GRACE,28/12/2016,6.3,0.2, ,22.4,12.6,76,34,6.33,28.15
+LAKE GRACE,29/12/2016,7.0,0.0, ,26.5,13.9,74,25,4.29,30.34
+LAKE GRACE,30/12/2016,7.2,0.0, ,29.1,9.5,85,25,4.51,29.09
+LAKE GRACE,31/12/2016,6.2,0.0, ,24.8,13.7,79,35,4.92,27.07
+Totals:,,219.7,47.2, ,,,,,, 

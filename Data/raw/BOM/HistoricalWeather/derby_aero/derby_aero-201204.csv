@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for April 2012,,,,,,,,,,
+Issued at 22:38 GMT on Tuesday 01 May 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/04/2012,5.9,0.0, ,36.3,24.3,92,38,2.56,22.77
+DERBY AERO,02/04/2012,6.0,0.0, ,35.1,25.0,88,43,3.04,23.42
+DERBY AERO,03/04/2012,6.1,0.0, ,36.1,25.8,96,36,2.74,23.35
+DERBY AERO,04/04/2012,5.8,0.0, ,36.3,25.1,93,43,2.40,23.10
+DERBY AERO,05/04/2012,5.4,0.0, ,34.7,26.6,94,56,2.63,22.31
+DERBY AERO,06/04/2012,4.5,0.0, ,34.2,25.5,92,61,2.79,17.47
+DERBY AERO,07/04/2012,4.9,0.0, ,37.2,23.8,100,72,1.78,21.72
+DERBY AERO,08/04/2012,4.7,0.0, ,36.0,24.9,100,86,4.10,22.72
+DERBY AERO,09/04/2012,5.1,0.0, ,34.2,24.3,99,49,2.76,20.76
+DERBY AERO,10/04/2012,6.2,0.0, ,35.1,23.6,99,33,3.94,21.40
+DERBY AERO,11/04/2012,6.5,0.0, ,32.3,20.6,100,27,4.71,23.10
+DERBY AERO,12/04/2012,6.6,0.0, ,32.8,17.7,67,27,3.81,23.14
+DERBY AERO,13/04/2012,5.5,0.0, ,32.6,19.4,100,46,3.90,23.06
+DERBY AERO,14/04/2012,4.0,0.0, ,34.1,18.7,100,91,3.01,22.24
+DERBY AERO,15/04/2012,4.4,0.0, ,35.4,20.1,100,81,2.99,21.48
+DERBY AERO,16/04/2012,5.0,0.0, ,35.7,22.9,100,61,2.71,21.36
+DERBY AERO,17/04/2012,4.1,0.0, ,36.0,20.4,100,96,2.12,21.53
+DERBY AERO,18/04/2012,5.6,0.0, ,36.1,20.7,100,26,2.45,21.89
+DERBY AERO,19/04/2012,5.4,0.0, ,35.9,20.1,85,31,2.11,21.87
+DERBY AERO,20/04/2012,5.3,0.0, ,35.7,20.7,90,29,2.12,21.60
+DERBY AERO,21/04/2012,5.6,0.0, ,35.7,22.2,98,32,2.70,21.29
+DERBY AERO,22/04/2012,5.3,0.0, ,35.5,22.4,96,38,2.44,21.08
+DERBY AERO,23/04/2012,5.3,0.0, ,35.2,24.9,86,29,2.36,19.50
+DERBY AERO,24/04/2012,5.7,0.0, ,35.1,25.5,81,44,3.58,19.72
+DERBY AERO,25/04/2012,6.9,0.0, ,33.0,24.5,77,28,5.02,20.72
+DERBY AERO,26/04/2012,6.9,0.0, ,31.5,20.2,65,25,4.94,21.70
+DERBY AERO,27/04/2012,7.4,0.0, ,31.4,18.6,60,14,4.91,21.86
+DERBY AERO,28/04/2012,6.0,0.0, ,32.1,15.8,65,18,3.25,21.52
+DERBY AERO,29/04/2012,5.0,0.0, ,32.2,13.7,82,24,2.36,21.12
+DERBY AERO,30/04/2012,4.8,0.0, ,31.9,15.7,83,24,2.17,20.72
+Totals:,,165.9,0, ,,,,,, 

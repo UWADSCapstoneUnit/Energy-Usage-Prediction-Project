@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEONORA AERO Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEONORA AERO,01/02/2009,8.8,0.2, ,38.3,22.5,82,18,4.04,27.84
+LEONORA AERO,02/02/2009,10.3,0.0, ,40.9,24.0,50,13,4.17,30.13
+LEONORA AERO,03/02/2009,10.5,0.0, ,42.9,27.7,45,11,3.85,30.27
+LEONORA AERO,04/02/2009,12.9,0.0, ,44.0,30.3,38,9,5.75,28.98
+LEONORA AERO,05/02/2009,11.0,0.0, ,38.4,21.8,59,21,6.47,29.36
+LEONORA AERO,06/02/2009,11.9,0.0, ,43.2,23.7,49,13,5.67,26.75
+LEONORA AERO,07/02/2009,7.2,0.0, ,31.0,24.4,68,32,5.70,19.00
+LEONORA AERO,08/02/2009,9.8,0.0, ,32.0,18.9,60,22,7.30,30.61
+LEONORA AERO,09/02/2009,10.0,0.0, ,31.6,17.4,55,18,7.26,30.85
+LEONORA AERO,10/02/2009,9.8,0.0, ,31.1,17.7,57,17,6.96,30.95
+LEONORA AERO,11/02/2009,9.7,0.0, ,32.8,19.1,45,13,5.42,30.36
+LEONORA AERO,12/02/2009,9.9,0.0, ,37.4,20.2,31,7,4.15,30.63
+LEONORA AERO,13/02/2009,10.5,0.0, ,40.8,22.4,20,7,4.20,29.11
+LEONORA AERO,14/02/2009,12.1,0.0, ,41.0,24.6,13,6,5.40,28.63
+LEONORA AERO,15/02/2009,12.0,0.0, ,40.2,27.1,8,4,5.50,26.61
+LEONORA AERO,16/02/2009,12.3,0.0, ,40.7,29.3,27,3,6.24,20.64
+LEONORA AERO,17/02/2009, ,0.0, ,34.1,27.9,49,23,4.40, 
+LEONORA AERO,18/02/2009, ,0.0, ,32.5,21.5,63,29,4.85, 
+LEONORA AERO,19/02/2009,8.6,0.0, ,32.1,20.2,60,28,5.72,28.90
+LEONORA AERO,20/02/2009,9.1,0.0, ,33.3,20.7,51,22,5.32,28.93
+LEONORA AERO,21/02/2009,9.1,0.0, ,36.0,21.7,37,15,4.03,29.43
+LEONORA AERO,22/02/2009,8.6,0.0, ,38.5,24.6,72,13,4.61,20.06
+LEONORA AERO,23/02/2009,8.9,1.2, ,36.2,20.2,70,19,4.89,27.30
+LEONORA AERO,24/02/2009,12.4,0.0, ,42.2,22.2,62,11,6.98,25.11
+LEONORA AERO,25/02/2009,7.6,2.0, ,37.4,24.6,67,22,5.51,10.52
+LEONORA AERO,26/02/2009,8.6,0.6, ,31.5,17.8,61,10,5.03,28.35
+LEONORA AERO,27/02/2009,9.1,0.0, ,33.6,19.3,52,16,5.74,24.15
+LEONORA AERO,28/02/2009,6.9,0.0, ,30.8,20.3,78,32,6.45,18.22
+Totals:,,257.6,4, ,,,,,, 

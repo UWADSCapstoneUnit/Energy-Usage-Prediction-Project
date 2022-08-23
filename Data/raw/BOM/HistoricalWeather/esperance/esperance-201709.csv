@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 October 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/09/2017,3.0,2.4, ,17.8,10.0,97,41,5.44,12.62
+ESPERANCE,02/09/2017,2.7,8.2, ,13.4,5.9,96,42,6.64,13.05
+ESPERANCE,03/09/2017,1.6,7.2, ,14.8,8.2,100,75,4.69,11.71
+ESPERANCE,04/09/2017,2.0,9.6, ,14.6,10.2,95,50,3.43,8.99
+ESPERANCE,05/09/2017,1.9,0.2, ,14.8,9.6,99,61,2.75,11.28
+ESPERANCE,06/09/2017,3.1,0.0, ,18.8,6.5,90,45,3.75,18.50
+ESPERANCE,07/09/2017,2.6,0.0, ,18.2,8.3,86,50,3.22,13.44
+ESPERANCE,08/09/2017,2.7,0.0, ,17.3,13.1,84,56,5.39,9.29
+ESPERANCE,09/09/2017,2.7,10.0, ,22.3,12.8,100,60,2.55,15.40
+ESPERANCE,10/09/2017,2.3,0.2, ,20.5,13.2,100,66,2.58,12.92
+ESPERANCE,11/09/2017,3.2,0.0, ,20.1,12.5,99,46,4.30,15.69
+ESPERANCE,12/09/2017,3.1,1.6, ,16.2,9.9,99,39,6.00,14.29
+ESPERANCE,13/09/2017,3.2,0.4, ,17.6,10.0,88,38,3.37,17.24
+ESPERANCE,14/09/2017,4.9,0.2, ,23.7,6.9,87,16,4.08,19.85
+ESPERANCE,15/09/2017,2.0,0.0, ,18.4,10.0,92,60,2.59,8.84
+ESPERANCE,16/09/2017,4.2,0.0, ,24.2,11.0,96,29,3.44,19.47
+ESPERANCE,17/09/2017,3.7,0.0, ,20.3,13.4,100,39,4.45,18.16
+ESPERANCE,18/09/2017,3.7,0.0, ,21.8,11.1,95,50,4.48,20.47
+ESPERANCE,19/09/2017,5.2,0.0, ,26.4,10.6,85,25,4.28,20.00
+ESPERANCE,20/09/2017,2.5,1.2, ,20.4,13.7,100,46,2.70,9.97
+ESPERANCE,21/09/2017,7.1,0.4, ,28.1,12.0,90,24,8.21,20.23
+ESPERANCE,22/09/2017,4.4,0.8, ,21.2,12.5,94,36,8.24,12.99
+ESPERANCE,23/09/2017,3.5,8.2, ,16.4,9.9,89,48,7.11,18.83
+ESPERANCE,24/09/2017,2.6,3.0, ,15.3,6.8,100,59,3.77,18.54
+ESPERANCE,25/09/2017,2.6,9.8, ,17.6,10.3,100,52,3.79,12.83
+ESPERANCE,26/09/2017,2.9,6.0, ,17.3,10.0,100,52,4.98,16.06
+ESPERANCE,27/09/2017,3.0,4.4, ,16.1,10.9,95,44,4.63,14.43
+ESPERANCE,28/09/2017,3.1,2.4, ,18.2,7.3,96,47,3.43,17.29
+ESPERANCE,29/09/2017,2.8,3.0, ,17.0,8.0,100,49,3.86,15.55
+ESPERANCE,30/09/2017,3.0,1.0, ,16.8,12.2,91,57,4.05,17.12
+Totals:,,95.3,80.2, ,,,,,, 

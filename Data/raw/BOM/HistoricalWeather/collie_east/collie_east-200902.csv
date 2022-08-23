@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/02/2009,6.4,0.0, ,36.3,18.0,90,32,1.74,27.81
+COLLIE EAST,02/02/2009,7.6,0.4, ,36.6,19.9,81,22,2.51,30.33
+COLLIE EAST,03/02/2009,6.5,0.0, ,34.1,15.4,91,25,1.98,29.23
+COLLIE EAST,04/02/2009,5.9,0.4, ,28.5,14.6,88,32,2.75,27.79
+COLLIE EAST,05/02/2009,6.6,0.0, ,29.8,10.7,83,20,2.65,30.69
+COLLIE EAST,06/02/2009,5.9,0.0, ,25.8,14.0,74,32,2.58,29.88
+COLLIE EAST,07/02/2009,5.7,0.0, ,25.7,12.0,89,26,2.55,29.33
+COLLIE EAST,08/02/2009,7.0,0.0, ,29.4,7.3,82,20,3.46,31.15
+COLLIE EAST,09/02/2009,7.8,0.0, ,31.0,14.2,74,18,4.00,30.87
+COLLIE EAST,10/02/2009,6.8,0.0, ,32.4,14.7,74,23,2.95,27.65
+COLLIE EAST,11/02/2009,7.0,0.0, ,36.9,13.3,79,14,1.86,30.42
+COLLIE EAST,12/02/2009,6.3,0.0, ,34.0,13.9,72,20,2.50,22.89
+COLLIE EAST,13/02/2009,3.9,0.4, ,21.6,14.9,84,54,4.40,17.19
+COLLIE EAST,14/02/2009,4.0,0.0, ,26.4,15.2,83,41,4.02,10.35
+COLLIE EAST,15/02/2009,6.1,0.2, ,33.3,12.8,91,21,1.85,28.72
+COLLIE EAST,16/02/2009,5.4,0.0, ,29.8,12.1,92,30,1.91,26.61
+COLLIE EAST,17/02/2009, ,0.0, ,28.0,10.8,92,33,2.99, 
+COLLIE EAST,18/02/2009, ,0.0, ,28.4,9.8,89,24,3.20, 
+COLLIE EAST,19/02/2009,6.5,0.0, ,29.6,10.5,80,23,3.00,29.45
+COLLIE EAST,20/02/2009,6.9,0.0, ,33.0,13.6,80,20,2.70,29.43
+COLLIE EAST,21/02/2009,6.3,0.6, ,35.7,13.5,77,21,2.26,24.06
+COLLIE EAST,22/02/2009,6.0,0.0, ,29.4,12.0,91,26,2.81,28.19
+COLLIE EAST,23/02/2009,5.9,0.0, ,31.2,12.7,74,31,2.54,26.23
+COLLIE EAST,24/02/2009,3.8,0.0, ,23.3,15.8,83,51,2.44,18.65
+COLLIE EAST,25/02/2009,2.0,0.0, ,18.1,12.1,93,78,1.52,11.54
+COLLIE EAST,26/02/2009,3.7,11.2, ,23.3,5.3,94,41,1.27,23.28
+COLLIE EAST,27/02/2009,4.8,0.2, ,27.7,5.4,94,27,1.47,27.77
+COLLIE EAST,28/02/2009,6.5,0.0, ,31.6,12.1,82,28,3.82,24.51
+Totals:,,151.3,13.4, ,,,,,, 

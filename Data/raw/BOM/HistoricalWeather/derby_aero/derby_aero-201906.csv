@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for June 2019,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 July 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/06/2019,7.8,0.0, ,28.6,16.1,29,9,6.01,17.98
+DERBY AERO,02/06/2019,7.4,0.0, ,29.5,15.3,32,15,5.68,17.93
+DERBY AERO,03/06/2019,7.9,0.0, ,29.5,16.3,28,17,6.27,17.94
+DERBY AERO,04/06/2019, ,0.0, , ,14.5,31,14,5.42,17.81
+DERBY AERO,05/06/2019,7.3, , ,29.8,16.0,26,14,5.18,17.75
+DERBY AERO,06/06/2019,7.3,0.0, ,29.3,15.7,26,9,5.19,17.74
+DERBY AERO,07/06/2019, ,0.0, ,29.9,13.2,46,11,3.20, 
+DERBY AERO,08/06/2019,5.4,0.0, ,31.2,10.1,86,12,3.33,17.59
+DERBY AERO,09/06/2019,4.3,0.0, ,31.3,15.0,80,35,2.69,17.73
+DERBY AERO,10/06/2019,4.3,0.0, ,31.3,16.6,80,34,2.60,17.73
+DERBY AERO,11/06/2019,4.5,0.0, ,31.6,16.9,86,33,2.91,17.36
+DERBY AERO,12/06/2019,5.9,0.0, ,32.9,20.5,73,29,4.36,17.51
+DERBY AERO,13/06/2019,7.1,0.0, ,34.6,18.1,43,21,4.58,17.48
+DERBY AERO,14/06/2019,6.9,0.0, ,35.4,18.1,45,20,4.20,17.50
+DERBY AERO,15/06/2019,6.9,0.0, ,35.1,18.1,43,16,4.15,17.39
+DERBY AERO,16/06/2019,6.3,0.0, ,34.4,16.8,43,14,3.57,17.36
+DERBY AERO,17/06/2019,4.9,0.0, ,33.4,13.8,55,19,2.57,17.32
+DERBY AERO,18/06/2019, ,0.0, , ,16.3,55,21,2.77,17.02
+DERBY AERO,19/06/2019, , , , , ,71,29,2.96,16.90
+DERBY AERO,20/06/2019, , , ,32.9, ,70,18,2.91,17.38
+DERBY AERO,21/06/2019,7.0,0.0, ,32.3,19.8,34,12,4.47,17.31
+DERBY AERO,22/06/2019,6.5,0.0, ,30.5,15.8,39,11,4.31,17.22
+DERBY AERO,23/06/2019,5.5,0.0, ,30.0,15.1,70,12,3.63,17.25
+DERBY AERO,24/06/2019,5.2,0.0, ,31.5,11.3,87,9,3.05,17.06
+DERBY AERO,25/06/2019,5.1,0.0, ,32.0,11.6,79,5,2.75,17.26
+DERBY AERO,26/06/2019,5.2,0.0, ,32.0,11.5,76,9,2.91,17.27
+DERBY AERO,27/06/2019,5.1,0.0, ,31.4,11.9,81,10,2.97,17.31
+DERBY AERO,28/06/2019,4.3,0.0, ,29.3,11.2,87,22,2.69,17.34
+DERBY AERO,29/06/2019,6.7,0.0, ,32.5,12.1,95,10,4.85,17.27
+DERBY AERO,30/06/2019,7.1,0.0, ,32.8,15.3,41,15,4.76,17.34
+Totals:,,151.9,0, ,,,,,, 

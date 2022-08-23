@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for February 2013,,,,,,,,,,
+Issued at 22:38 GMT on Friday 01 March 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/02/2013,9.8,0.0, ,41.9,25.5,69,9,3.71,28.76
+MARBLE BAR,02/02/2013,8.0,0.0, ,42.3,23.2,48,8,2.11,28.55
+MARBLE BAR,03/02/2013,8.5,0.0, ,42.6,23.2,58,5,2.47,28.60
+MARBLE BAR,04/02/2013,7.7,0.0, ,43.6,23.0,72,6,1.80,28.57
+MARBLE BAR,05/02/2013,8.3,0.0, ,44.4,22.9,48,4,2.18,28.42
+MARBLE BAR,06/02/2013,8.6,0.0, ,44.1,25.8,64,11,2.93,24.22
+MARBLE BAR,07/02/2013,8.3,0.0, ,44.1,26.2,91,12,2.70,25.15
+MARBLE BAR,08/02/2013,8.3,5.2, ,39.4,24.8,89,17,3.32,26.88
+MARBLE BAR,09/02/2013,7.1,11.0, ,39.9,21.3,79,17,2.67,21.55
+MARBLE BAR,10/02/2013,7.8,0.0, ,38.7,24.4,73,18,2.73,27.16
+MARBLE BAR,11/02/2013,8.2,0.0, ,39.9,25.6,72,15,2.86,26.89
+MARBLE BAR,12/02/2013,7.1,0.0, ,39.9,26.0,75,23,2.40,23.59
+MARBLE BAR,13/02/2013,7.5,0.0, ,40.9,26.1,76,22,2.35,25.64
+MARBLE BAR,14/02/2013,7.4,0.2, ,40.3,26.1,92,24,2.83,23.94
+MARBLE BAR,15/02/2013,7.3,6.0, ,38.5,23.5,97,28,2.96,26.08
+MARBLE BAR,16/02/2013,6.9,18.6, ,37.4,22.6,96,31,3.18,23.50
+MARBLE BAR,17/02/2013,5.4,5.2, ,36.4,24.6,96,42,2.31,19.53
+MARBLE BAR,18/02/2013,4.8,20.6, ,36.6,23.9,90,38,1.16,19.33
+MARBLE BAR,19/02/2013,8.4,0.2, ,40.6,26.9,75,20,3.19,26.87
+MARBLE BAR,20/02/2013,9.3,0.0, ,40.8,28.0,56,21,3.91,26.91
+MARBLE BAR,21/02/2013,8.4,0.0, ,41.2,27.4,66,22,3.15,26.22
+MARBLE BAR,22/02/2013,8.2,0.0, ,42.2,27.6,67,15,2.63,26.84
+MARBLE BAR,23/02/2013,8.0,0.0, ,41.2,27.6,71,20,2.72,26.10
+MARBLE BAR,24/02/2013,7.2,0.0, ,35.5,25.8,76,40,6.00,17.32
+MARBLE BAR,25/02/2013,2.9,1.0, ,28.2,24.3,98,70,9.83,5.59
+MARBLE BAR,26/02/2013,2.4,15.0, ,25.6,22.4,96,78,13.19,4.37
+MARBLE BAR,27/02/2013,1.5,11.6, ,23.9,20.7,99,87,15.39,3.19
+MARBLE BAR,28/02/2013,4.8,69.2, ,30.6,19.9,100,63,8.62,17.40
+Totals:,,198.1,163.8, ,,,,,, 

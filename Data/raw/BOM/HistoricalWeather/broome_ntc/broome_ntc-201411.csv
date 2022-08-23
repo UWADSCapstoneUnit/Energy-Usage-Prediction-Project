@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for November 2014,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 December 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/11/2014,10.3, , ,32.9,28.3,16,12,5.01,27.99
+BROOME NTC,02/11/2014,13.0, , ,33.0,26.3,17,12,8.54,27.20
+BROOME NTC,03/11/2014,10.7, , ,29.4,27.4,17,15,6.32,27.18
+BROOME NTC,04/11/2014,10.0, , ,30.9,26.2,18,14,5.29,27.59
+BROOME NTC,05/11/2014,10.4, , ,34.4,27.0,16,12,5.04,26.30
+BROOME NTC,06/11/2014,11.6, , ,30.7,28.1,16,14,7.02,27.66
+BROOME NTC,07/11/2014,10.7, , ,30.1,26.1,18,15,6.34,27.39
+BROOME NTC,08/11/2014,10.0, , ,31.0,26.7,22,14,5.37,26.81
+BROOME NTC,09/11/2014,8.6, , ,33.8,21.9,18,12,4.52,16.71
+BROOME NTC,10/11/2014,7.8, , ,32.2,28.4,16,13,4.50,6.13
+BROOME NTC,11/11/2014,9.9, , ,30.9,26.3,18,15,5.19,26.80
+BROOME NTC,12/11/2014,11.0, , ,31.2,28.6,16,14,6.20,26.51
+BROOME NTC,13/11/2014,9.3, , ,29.8,27.4,17,15,5.05,21.62
+BROOME NTC,14/11/2014,8.6, , ,30.1,26.9,17,14,4.29,21.81
+BROOME NTC,15/11/2014,9.2, , ,30.1,25.4,18,15,4.72,25.91
+BROOME NTC,16/11/2014,9.9, , ,32.6,25.6,18,13,5.23,23.57
+BROOME NTC,17/11/2014,9.3, , ,31.9,27.5,15,13,5.01,17.82
+BROOME NTC,18/11/2014,8.7, , ,31.7,27.6,16,13,3.72,26.24
+BROOME NTC,19/11/2014,10.1, , ,31.3,28.8,15,14,5.05,26.62
+BROOME NTC,20/11/2014, , , , ,29.2,15,14,5.27,23.26
+BROOME NTC,21/11/2014, , , , , , , , ,24.05
+BROOME NTC,22/11/2014, , , ,31.6, ,16,14,5.50,26.46
+BROOME NTC,23/11/2014, , , , ,26.7, , , ,27.22
+BROOME NTC,24/11/2014, , , ,32.2, ,15,13,5.30,26.20
+BROOME NTC,25/11/2014,10.2, , ,33.5,28.6,15,12,5.42,19.56
+BROOME NTC,26/11/2014, , , , ,27.8,100,9,6.50,25.29
+BROOME NTC,27/11/2014, , , , , ,100,100,4.64,25.06
+BROOME NTC,28/11/2014, , , , , ,100,14,5.21,26.75
+BROOME NTC,29/11/2014, , , ,31.2, ,15,14,6.61,27.00
+BROOME NTC,30/11/2014,11.8, , ,30.9,29.1,15,14,6.94,26.85
+Totals:,,211.1, , ,,,,,, 

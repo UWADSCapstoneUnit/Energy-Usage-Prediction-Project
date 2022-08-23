@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for May 2014,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 June 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/05/2014,2.7,0.0, ,22.4,5.9,90,42,2.57,15.03
+PEARCE RAAF,02/05/2014,3.1,0.0, ,20.5,9.0,80,33,3.17,14.20
+PEARCE RAAF,03/05/2014,2.6,0.0, ,23.4,6.9,86,43,2.16,13.34
+PEARCE RAAF,04/05/2014,2.3,0.0, ,22.3,13.2,82,47,2.70,6.05
+PEARCE RAAF,05/05/2014,1.9,0.8, ,20.7,14.6,86,65,3.33,5.78
+PEARCE RAAF,06/05/2014,1.9,0.0, ,23.1,16.5,90,69,3.25,6.98
+PEARCE RAAF,07/05/2014,1.8,4.8, ,22.4,17.7,93,70,5.03,3.44
+PEARCE RAAF,08/05/2014,2.8,40.2, ,19.6,12.7,93,52,6.33,10.76
+PEARCE RAAF,09/05/2014,2.9,3.8, ,23.1,12.6,89,54,4.73,11.43
+PEARCE RAAF,10/05/2014,2.4,2.8, ,23.1,12.5,91,56,3.44,10.32
+PEARCE RAAF,11/05/2014,2.5,2.0, ,24.8,11.1,92,38,2.00,12.81
+PEARCE RAAF,12/05/2014,2.9,0.0, ,24.4,10.8,93,43,3.60,10.63
+PEARCE RAAF,13/05/2014,2.0,1.4, ,22.6,12.8,94,51,1.51,12.45
+PEARCE RAAF,14/05/2014,2.0,0.0, ,21.6,11.9,90,55,2.58,8.97
+PEARCE RAAF,15/05/2014,2.1,0.0, ,23.2,13.3,90,45,2.00,9.68
+PEARCE RAAF,16/05/2014,2.0,0.0, ,23.0,9.5,92,54,2.08,10.59
+PEARCE RAAF,17/05/2014,2.1,0.0, ,23.8,7.9,92,47,1.77,12.68
+PEARCE RAAF,18/05/2014,1.9,0.2, ,22.4,10.1,93,63,2.77,8.55
+PEARCE RAAF,19/05/2014,1.9,0.4, ,22.8,13.4,93,65,3.14,7.63
+PEARCE RAAF,20/05/2014,2.1,0.0, ,24.0,14.6,93,61,3.18,9.27
+PEARCE RAAF,21/05/2014,1.4,3.2, ,21.3,12.6,94,72,2.05,7.61
+PEARCE RAAF,22/05/2014,1.9,1.0, ,22.5,10.9,95,63,3.26,8.53
+PEARCE RAAF,23/05/2014,2.6,36.4, ,21.0,14.5,93,52,4.76,10.88
+PEARCE RAAF,24/05/2014,2.7,6.4, ,20.6,13.8,90,55,6.34,9.38
+PEARCE RAAF,25/05/2014,2.6,5.8, ,20.5,11.6,89,51,4.87,8.55
+PEARCE RAAF,26/05/2014,1.8,3.6, ,20.3,11.8,92,55,2.56,8.31
+PEARCE RAAF,27/05/2014, ,2.0, , ,13.8,93,74,3.58,6.50
+PEARCE RAAF,28/05/2014, , , ,19.5, ,95,60,1.36,10.42
+PEARCE RAAF,29/05/2014,1.6,0.0, ,20.0,8.9,93,56,1.60,11.94
+PEARCE RAAF,30/05/2014,1.8,0.0, ,17.9,6.8,89,56,2.57,12.47
+PEARCE RAAF,31/05/2014,2.1,0.0, ,17.2,10.7,72,53,3.37,6.69
+Totals:,,64.4,114.8, ,,,,,, 

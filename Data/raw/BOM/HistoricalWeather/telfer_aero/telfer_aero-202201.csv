@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TELFER AERO Western Australia for January 2022,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 08 January 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TELFER AERO,01/01/2022,12.1,0.0, ,39.6,24.5,20,9,5.52,30.27
+TELFER AERO,02/01/2022,11.0,0.0, ,40.1,24.9,19,8,4.39,30.50
+TELFER AERO,03/01/2022,10.3,0.0, ,42.5,27.1,17,7,3.55,30.24
+TELFER AERO,04/01/2022,13.1,0.0, ,45.5,29.5,14,6,5.46,25.87
+TELFER AERO,05/01/2022,12.8,0.0, ,44.1,29.7,15,7,5.13,30.20
+TELFER AERO,06/01/2022,11.2,1.6, ,42.7,28.1,17,7,4.27,28.25
+TELFER AERO,07/01/2022, ,0.0, , ,26.2,26,7,5.35,30.60
+Totals:,,70.5,1.6, ,,,,,, 

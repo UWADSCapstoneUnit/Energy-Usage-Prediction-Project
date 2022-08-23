@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for November 2017,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/11/2017,10.4,0.0, ,43.3,21.6,57,4,3.81,28.96
+MARBLE BAR,02/11/2017,7.6,0.0, ,41.6,22.8,75,10,1.97,28.51
+MARBLE BAR,03/11/2017,8.0,0.0, ,42.8,22.9,83,7,2.12,29.08
+MARBLE BAR,04/11/2017,7.7,0.0, ,43.5,23.9,55,6,2.18,24.84
+MARBLE BAR,05/11/2017,8.4,0.0, ,43.1,27.1,51,8,2.54,26.79
+MARBLE BAR,06/11/2017,8.9,5.0, ,39.5,24.1,84,13,4.84,20.03
+MARBLE BAR,07/11/2017,7.5,0.2, ,38.3,21.8,71,13,2.76,24.00
+MARBLE BAR,08/11/2017,8.2,0.0, ,39.4,22.3,59,9,2.52,29.39
+MARBLE BAR,09/11/2017,9.5,0.0, ,39.7,23.0,71,11,3.86,29.42
+MARBLE BAR,10/11/2017,8.4,0.0, ,39.6,20.8,78,7,2.75,29.50
+MARBLE BAR,11/11/2017,10.6,0.0, ,40.1,24.7,19,7,4.16,29.57
+MARBLE BAR,12/11/2017,9.0,0.0, ,39.9,19.4,52,4,3.05,29.63
+MARBLE BAR,13/11/2017,8.4,0.0, ,37.5,19.8,77,14,3.21,29.66
+MARBLE BAR,14/11/2017,9.0,0.0, ,38.1,22.1,78,17,3.93,29.29
+MARBLE BAR,15/11/2017,8.7,0.0, ,38.2,22.4,72,9,3.23,29.51
+MARBLE BAR,16/11/2017,8.0,0.0, ,40.1,19.6,78,10,2.31,29.82
+MARBLE BAR,17/11/2017,8.9,0.0, ,39.1,23.9,60,24,3.46,29.80
+MARBLE BAR,18/11/2017,9.5,0.0, ,40.3,22.3,74,17,3.88,29.93
+MARBLE BAR,19/11/2017,8.7,0.0, ,41.8,23.9,71,13,2.65,29.97
+MARBLE BAR,20/11/2017,9.2,0.0, ,43.3,25.0,43,11,2.84,29.46
+MARBLE BAR,21/11/2017,10.8,0.0, ,44.4,27.8,36,8,3.75,29.79
+MARBLE BAR,22/11/2017,9.8,0.0, ,45.1,25.8,34,6,3.01,29.44
+MARBLE BAR,23/11/2017,9.7,0.0, ,43.2,25.8,58,10,3.17,30.12
+MARBLE BAR,24/11/2017,9.8,0.0, ,43.1,25.8,55,6,3.19,29.96
+MARBLE BAR,25/11/2017,11.2,0.0, ,44.6,28.0,39,9,4.16,29.04
+MARBLE BAR,26/11/2017,9.4,0.0, ,40.7,24.7,72,18,3.63,30.22
+MARBLE BAR,27/11/2017,9.5,0.0, ,41.8,22.7,73,10,3.35,29.55
+MARBLE BAR,28/11/2017,9.6,0.0, ,41.9,22.2,65,11,3.31,30.19
+MARBLE BAR,29/11/2017,10.1,0.0, ,41.3,25.3,43,14,3.76,30.32
+MARBLE BAR,30/11/2017,9.2,0.0, ,42.5,23.1,49,9,2.82,30.12
+Totals:,,273.7,5.2, ,,,,,, 

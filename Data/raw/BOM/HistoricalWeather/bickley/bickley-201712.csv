@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BICKLEY Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BICKLEY,01/12/2017,7.3,0.0, ,25.9,9.1,76,21,5.18,31.21
+BICKLEY,02/12/2017,9.4,0.0, ,32.6,12.6,67,12,5.31,31.24
+BICKLEY,03/12/2017,7.9,0.0, ,32.6,15.9,88,15,5.98,17.50
+BICKLEY,04/12/2017,1.7,7.2, ,21.0,16.5,96,77,2.55,6.17
+BICKLEY,05/12/2017,5.3,0.2, ,26.0,15.3,99,48,3.48,26.59
+BICKLEY,06/12/2017,6.9,0.0, ,26.5,12.5,80,29,4.39,31.49
+BICKLEY,07/12/2017,7.6,0.0, ,27.0,11.1,82,24,5.96,31.53
+BICKLEY,08/12/2017,9.7,0.0, ,32.4,12.3,64,12,5.89,30.61
+BICKLEY,09/12/2017,7.5,0.0, ,31.9,18.0,68,18,5.01,18.10
+BICKLEY,10/12/2017,8.2,0.0, ,35.3,18.4,59,23,3.43,29.30
+BICKLEY,11/12/2017,7.9,0.0, ,35.0,19.9,87,21,3.86,26.86
+BICKLEY,12/12/2017,6.5,0.0, ,28.8,17.9,93,48,4.11,30.71
+BICKLEY,13/12/2017,5.9,0.0, ,24.5,12.1,83,39,4.02,29.50
+BICKLEY,14/12/2017,7.1,0.0, ,27.5,12.8,81,31,4.61,31.78
+BICKLEY,15/12/2017,7.7,0.0, ,29.9,13.9,80,27,4.80,30.13
+BICKLEY,16/12/2017,7.1,0.0, ,27.7,14.7,81,38,5.35,31.52
+BICKLEY,17/12/2017,3.9,7.0, ,17.8,12.0,95,49,7.70,18.75
+BICKLEY,18/12/2017,2.4,36.4, ,16.7,9.5,98,77,6.58,16.33
+BICKLEY,19/12/2017,5.5,13.6, ,22.6,9.6,98,42,4.08,31.61
+BICKLEY,20/12/2017,7.3,0.0, ,27.8,10.9,79,27,4.65,31.81
+BICKLEY,21/12/2017,9.1,0.0, ,33.6,14.5,69,13,4.43,31.82
+BICKLEY,22/12/2017,8.4,0.0, ,31.8,17.0,62,21,4.08,31.73
+BICKLEY,23/12/2017,8.1,0.0, ,29.7,13.4,81,25,5.36,31.81
+BICKLEY,24/12/2017,9.0,0.0, ,32.1,13.6,73,22,5.73,31.79
+BICKLEY,25/12/2017,8.2,0.0, ,32.0,18.1,85,26,4.67,31.79
+BICKLEY,26/12/2017,6.3,0.0, ,26.0,14.3,96,43,4.67,31.76
+Totals:,,181.9,64.4, ,,,,,, 

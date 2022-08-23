@@ -1,0 +1,35 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANJIMUP Western Australia for September 2020,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 October 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANJIMUP,01/09/2020,1.7,17.0, ,12.8,6.6,96,70,5.39,10.49
+MANJIMUP,02/09/2020,2.4,10.6, ,15.2,7.1,96,55,4.91,14.89
+MANJIMUP,03/09/2020,2.6,0.6, ,17.0,8.2,90,60,5.49,13.81
+MANJIMUP,04/09/2020,2.3,1.2, ,18.8,11.8,98,62,3.89,11.93
+MANJIMUP,05/09/2020,2.5,0.8, ,19.1,10.8,99,64,6.69,12.50
+MANJIMUP,06/09/2020,1.5,7.0, ,14.9,13.6,97,75,7.82,3.78
+MANJIMUP,07/09/2020,2.5,41.6, ,15.0,6.8,95,52,4.73,15.34
+MANJIMUP,08/09/2020,2.7,1.0, ,18.3,6.3,97,53,4.06,14.55
+MANJIMUP,09/09/2020,3.1,0.2, ,20.2,6.9,98,49,4.40,15.50
+MANJIMUP,10/09/2020,2.6,7.0, ,15.4,8.5,99,52,4.77,16.28
+MANJIMUP,11/09/2020,2.5,1.8, ,16.0,4.3,99,45,2.77,16.50
+MANJIMUP,12/09/2020,2.9,0.0, ,18.8,4.5,95,48,3.07,16.97
+MANJIMUP,13/09/2020,3.1,0.0, ,20.7,6.4,99,46,2.88,18.70
+MANJIMUP,14/09/2020,3.0,0.0, ,20.9,8.8,99,40,3.16,13.31
+MANJIMUP,15/09/2020,3.9,0.2, ,22.5,9.0,99,42,4.15,19.71
+MANJIMUP,16/09/2020,2.3,0.2, ,15.7,9.4,96,66,4.78,14.98
+MANJIMUP,17/09/2020, ,5.0, , ,6.3,92,46,3.87,18.51
+MANJIMUP,18/09/2020, , , , , , , , ,19.41
+MANJIMUP,28/09/2020, , , , , , , , ,17.16
+MANJIMUP,29/09/2020, , , , , , , , ,12.23
+MANJIMUP,30/09/2020, , , ,19.1, ,99,69,5.34,13.03
+Totals:,,41.6,94.2, ,,,,,, 

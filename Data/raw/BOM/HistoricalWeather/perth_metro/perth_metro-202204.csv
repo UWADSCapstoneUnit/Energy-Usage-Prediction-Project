@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for April 2022,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 May 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/04/2022,3.1,0.0, ,30.6,21.2,74,40,1.64,10.29
+PERTH METRO,02/04/2022,3.3,0.0, ,31.2,23.6,63,39,1.07,13.79
+PERTH METRO,03/04/2022, ,0.0, , ,22.2,85,48,0.79,15.85
+PERTH METRO,04/04/2022,2.3, , ,24.5,19.9,76,54,1.41,8.97
+PERTH METRO,05/04/2022,2.7,0.0, ,25.8,13.1,72,35,0.41,18.91
+PERTH METRO,06/04/2022,3.2,0.0, ,28.7,14.1,76,29,0.91,18.32
+PERTH METRO,07/04/2022,3.3,0.0, ,32.5,14.1,78,23,0.77,18.61
+PERTH METRO,08/04/2022,2.7,0.0, ,26.6,18.4,94,37,1.24,12.45
+PERTH METRO,09/04/2022,2.6,7.6, ,22.5,13.7,95,35,0.62,18.00
+PERTH METRO,10/04/2022,2.1,0.0, ,23.6,13.3,97,43,0.54,12.93
+PERTH METRO,11/04/2022,1.8,38.0, ,21.7,12.6,99,44,0.14,12.66
+PERTH METRO,12/04/2022,2.5,1.8, ,25.1,12.0,93,44,0.89,15.73
+PERTH METRO,13/04/2022,2.7,0.0, ,24.5,10.9,92,51,1.12,17.63
+PERTH METRO,14/04/2022, ,0.0, , ,13.9,82,45,0.91,17.43
+PERTH METRO,15/04/2022, , , ,29.2, ,88,41,2.03,17.32
+PERTH METRO,16/04/2022,3.3,0.0, ,25.5,12.9,98,46,2.62,17.19
+PERTH METRO,17/04/2022,3.4,0.0, ,22.3,13.5,85,37,3.21,15.21
+PERTH METRO,18/04/2022,2.9,0.0, ,23.5,7.9,92,35,1.89,16.86
+PERTH METRO,19/04/2022,2.8,0.0, ,25.4,9.9,98,39,1.57,16.45
+PERTH METRO,20/04/2022,2.7,0.0, ,24.8,11.7,96,44,1.44,16.52
+PERTH METRO,21/04/2022,3.8,0.0, ,27.5,14.4,79,34,2.66,16.35
+PERTH METRO,22/04/2022,3.8,0.0, ,26.1,14.0,73,33,2.87,16.02
+PERTH METRO,23/04/2022,3.7,0.0, ,26.5,13.9,73,28,2.55,16.12
+PERTH METRO,24/04/2022,3.5,0.0, ,28.6,12.9,80,24,1.94,15.97
+PERTH METRO,25/04/2022,4.1,0.0, ,30.9,16.9,98,21,3.00,12.14
+PERTH METRO,26/04/2022,2.1,15.0, ,21.9,14.7,99,53,1.98,10.46
+PERTH METRO,27/04/2022,2.0,3.8, ,21.2,13.2,98,56,1.61,11.87
+PERTH METRO,28/04/2022,2.1,6.8, ,20.9,11.2,99,50,2.10,11.25
+PERTH METRO,29/04/2022,2.4,3.2, ,22.5,7.4,98,39,1.55,15.33
+PERTH METRO,30/04/2022,2.6,0.0, ,24.9,8.1,96,31,1.47,15.19
+Totals:,,77.5,76.2, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BUSSELTON Western Australia for August 2011,,,,,,,,,,
+Issued at 22:34 GMT on Thursday 01 September 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BUSSELTON,01/08/2011,1.0,2.4, ,19.1,12.8,98,66,0.00,7.93
+BUSSELTON,02/08/2011,0.9,1.8, ,19.2,14.9,98,58,0.00,5.45
+BUSSELTON,03/08/2011,0.9,2.4, ,16.0,9.8,98,58,0.00,7.34
+BUSSELTON,04/08/2011, ,4.6, ,17.2,4.1,99,50,0.00, 
+BUSSELTON,05/08/2011,1.0,0.0, ,15.8,2.1,99,50,0.00,12.72
+BUSSELTON,06/08/2011,1.1,0.0, ,17.8,5.0,94,51,0.00,12.49
+BUSSELTON,07/08/2011,1.2,1.4, ,19.0,8.8,99,57,0.00,11.54
+BUSSELTON,08/08/2011,1.2,1.6, ,17.5,12.6,98,59,0.00,9.66
+BUSSELTON,09/08/2011,1.1,1.8, ,18.1,7.3,98,58,0.00,10.78
+BUSSELTON,10/08/2011,1.4,0.0, ,17.7,10.0,98,61,0.17,13.22
+BUSSELTON,11/08/2011,1.3,0.0, ,17.9,5.2,98,52,0.00,13.87
+BUSSELTON,12/08/2011,1.3,0.0, ,17.4,6.3,98,60,0.00,13.31
+BUSSELTON,13/08/2011,0.9,0.0, ,18.7,10.8,98,81,0.00,4.95
+BUSSELTON,14/08/2011,1.3,22.8, ,17.9,10.5,98,59,0.00,11.22
+BUSSELTON,15/08/2011,1.1,0.4, ,18.2,13.3,98,61,0.00,7.25
+BUSSELTON,16/08/2011,1.3,12.2, ,16.9,7.5,98,55,0.00,12.12
+BUSSELTON,17/08/2011,1.2,0.4, ,17.9,7.0,98,61,0.00,10.94
+BUSSELTON,18/08/2011,1.5,0.0, ,19.1,11.1,86,56,0.00,12.71
+BUSSELTON,19/08/2011,1.8,0.0, ,18.7,13.7,98,69,0.00,15.35
+BUSSELTON,20/08/2011,1.1,0.2, ,20.2,14.6,98,83,0.00,6.43
+BUSSELTON,21/08/2011,1.1,20.6, ,19.5,16.4,99,80,0.00,5.91
+BUSSELTON,22/08/2011,1.8,10.4, ,18.6,13.8,98,45,0.00,15.47
+BUSSELTON,23/08/2011,1.9,0.0, ,18.8,14.2,98,57,0.00,15.47
+BUSSELTON,24/08/2011,1.6,8.8, ,17.0,8.2,98,49,0.00,15.05
+BUSSELTON,25/08/2011,1.2,0.2, ,15.4,6.6,98,62,0.00,9.15
+BUSSELTON,26/08/2011,1.5,0.0, ,17.1,8.7,98,63,0.07,12.79
+BUSSELTON,27/08/2011,1.5,0.0, ,18.2,7.9,99,69,0.00,11.92
+BUSSELTON,28/08/2011,1.6,0.4, ,18.4,9.1,99,73,0.00,12.83
+BUSSELTON,29/08/2011,2.1,0.2, ,22.2,9.5,98,53,0.00,17.57
+BUSSELTON,30/08/2011,1.6,0.0, ,20.1,11.7,98,64,0.00,11.60
+BUSSELTON,31/08/2011,1.9,0.0, ,21.2,9.6,99,65,0.00,14.81
+Totals:,,40.4,92.6, ,,,,,, 

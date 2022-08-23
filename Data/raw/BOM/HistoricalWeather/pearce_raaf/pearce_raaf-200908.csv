@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for August 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/08/2009,1.8,0.0, ,20.1,2.8,92,47,1.17,15.75
+PEARCE RAAF,02/08/2009,1.9,0.0, ,20.5,2.9,94,43,1.24,15.77
+PEARCE RAAF,03/08/2009,1.9,0.0, ,20.8,2.9,94,44,1.19,15.80
+PEARCE RAAF,04/08/2009,1.9,0.0, ,20.5,3.4,94,43,1.05,16.02
+PEARCE RAAF,05/08/2009,2.6,0.0, ,21.0,6.6,92,52,4.22,11.85
+PEARCE RAAF,06/08/2009,2.4,5.4, ,19.1,12.9,95,55,3.92,13.97
+PEARCE RAAF,07/08/2009,2.1,0.0, ,20.4,7.6,95,51,1.50,15.80
+PEARCE RAAF,08/08/2009,2.2, , ,22.7,12.6,93,64,2.67,13.11
+PEARCE RAAF,09/08/2009,2.3, , ,21.1,11.6,95,61,3.15,14.36
+PEARCE RAAF,10/08/2009,2.6,0.2, ,20.8,13.9,94,64,6.32,12.27
+PEARCE RAAF,11/08/2009,2.3,5.0, ,17.7,11.3,92,50,3.48,11.45
+PEARCE RAAF,12/08/2009,3.3,3.2, ,19.8,12.0,95,43,5.78,15.45
+PEARCE RAAF,13/08/2009,3.2,2.2, ,21.1,10.0,93,52,6.40,14.83
+PEARCE RAAF,14/08/2009,2.8,6.6, ,20.2,13.2,93,64,8.92,11.83
+PEARCE RAAF,15/08/2009,2.8, , ,15.2,9.0,93,50,7.85,15.20
+PEARCE RAAF,16/08/2009,2.1, , ,17.3,8.7,94,65,3.00,15.47
+PEARCE RAAF,17/08/2009,2.9,19.8, ,19.5,10.5,93,42,3.51,15.51
+PEARCE RAAF,18/08/2009,2.2,0.0, ,19.7,8.1,95,68,4.69,12.82
+PEARCE RAAF,19/08/2009,2.7,18.2, ,19.4,12.7,96,51,3.66,14.94
+PEARCE RAAF,20/08/2009,1.8,2.8, ,18.4,12.4,95,68,3.53,8.51
+PEARCE RAAF,21/08/2009,2.4,18.2, ,17.0,10.0,95,53,3.20,14.90
+PEARCE RAAF,22/08/2009,2.1, , ,16.5,10.3,93,70,5.01,12.87
+PEARCE RAAF,23/08/2009,2.7, , ,16.7,10.4,92,51,5.58,13.16
+PEARCE RAAF,24/08/2009,2.1,7.6, ,17.0,11.4,93,63,2.71,13.36
+PEARCE RAAF,25/08/2009,2.3,0.2, ,18.8,6.2,96,52,1.89,16.71
+PEARCE RAAF,26/08/2009,2.6,0.0, ,20.0,5.2,94,52,1.88,18.89
+PEARCE RAAF,27/08/2009,2.4,0.0, ,17.0,3.7,95,51,2.14,18.62
+PEARCE RAAF,28/08/2009,1.7,0.0, ,16.0,7.5,92,71,2.96,10.94
+PEARCE RAAF,29/08/2009,2.4, , ,15.6,1.0,95,42,2.10,19.08
+PEARCE RAAF,30/08/2009,2.1, , ,16.2,6.2,91,55,1.66,14.57
+PEARCE RAAF,31/08/2009,2.5,4.4, ,18.3,5.2,94,44,2.06,17.02
+Totals:,,73.1,93.8, ,,,,,, 

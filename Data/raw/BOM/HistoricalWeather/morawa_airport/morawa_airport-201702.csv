@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MORAWA AIRPORT Western Australia for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MORAWA AIRPORT,01/02/2017,7.1,0.4, ,36.0,22.8,100,35,4.14,24.10
+MORAWA AIRPORT,02/02/2017, ,0.0, , ,22.5,88,31,3.50,29.82
+MORAWA AIRPORT,03/02/2017, , , , , ,74,24,2.77,26.38
+MORAWA AIRPORT,04/02/2017, , , , , ,81,14,3.48,29.61
+MORAWA AIRPORT,05/02/2017, , , , , ,98,25,4.77,29.49
+MORAWA AIRPORT,06/02/2017, , , , , ,78,31,4.60,26.73
+MORAWA AIRPORT,07/02/2017, , , ,39.0, ,91,33,5.27,17.39
+MORAWA AIRPORT,08/02/2017,3.2,3.8, ,20.0,17.3,100,56,10.00,9.88
+MORAWA AIRPORT,09/02/2017,3.4,2.8, ,27.7,14.2,100,65,8.56,8.86
+MORAWA AIRPORT,10/02/2017,6.7,1.8, ,35.2,15.8,100,34,4.56,20.59
+MORAWA AIRPORT,11/02/2017, ,0.0, , ,22.1,100,37,2.28,17.97
+MORAWA AIRPORT,12/02/2017, , , , , ,100,39,4.10,15.71
+MORAWA AIRPORT,13/02/2017, , , ,34.2, ,100,48,3.41,21.49
+MORAWA AIRPORT,14/02/2017, ,17.2, , ,22.6,100,47,1.86,22.45
+MORAWA AIRPORT,15/02/2017, , , ,37.0, ,91,37,2.76,26.89
+MORAWA AIRPORT,16/02/2017,7.6,0.0, ,37.6,23.3,82,34,3.10,28.14
+MORAWA AIRPORT,17/02/2017,9.1,0.0, ,39.1,24.1,59,29,4.40,27.60
+MORAWA AIRPORT,18/02/2017,9.4,0.0, ,39.6,26.4,57,27,4.41,27.85
+MORAWA AIRPORT,19/02/2017,8.1,0.0, ,38.9,25.7,85,27,4.20,24.04
+MORAWA AIRPORT,20/02/2017,5.1,0.6, ,32.9,22.2,99,46,2.86,19.81
+MORAWA AIRPORT,21/02/2017,6.5,2.2, ,27.2,16.4,89,32,5.15,27.43
+MORAWA AIRPORT,22/02/2017,6.5,0.0, ,29.1,12.2,84,19,3.44,27.33
+MORAWA AIRPORT,23/02/2017,7.3,0.0, ,34.9,14.8,64,12,2.85,27.18
+MORAWA AIRPORT,24/02/2017,8.1,0.0, ,36.8,18.5,54,12,3.31,27.03
+MORAWA AIRPORT,25/02/2017, ,0.0, , ,21.1,50,12,3.64,25.80
+MORAWA AIRPORT,26/02/2017, , , , , ,100,19,2.32,19.67
+MORAWA AIRPORT,27/02/2017, , , , , ,79,17,2.71,26.32
+MORAWA AIRPORT,28/02/2017, , , ,39.1, ,84,15,2.92,26.41
+Totals:,,88.1,28.8, ,,,,,, 

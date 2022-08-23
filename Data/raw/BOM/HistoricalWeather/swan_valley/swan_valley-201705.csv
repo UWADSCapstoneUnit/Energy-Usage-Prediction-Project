@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SWAN VALLEY Western Australia for May 2017,,,,,,,,,,
+Issued at 06:30 GMT on Friday 05 May 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SWAN VALLEY,28/04/2017, , , , , , , , ,15.23
+SWAN VALLEY,29/04/2017, , , , , , , , ,15.10
+SWAN VALLEY,30/04/2017, , , , , , , , ,14.60
+SWAN VALLEY,01/05/2017, , , , , , , , ,14.75
+SWAN VALLEY,02/05/2017, , , ,27.1, , , , ,12.65
+SWAN VALLEY,03/05/2017, ,0.0, ,30.4,17.7, , , ,14.33
+SWAN VALLEY,04/05/2017, ,0.0, , ,11.2,94,55,1.04,11.55
+Totals:,, ,0, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for September 2020,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 October 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/09/2020,3.0,11.6, ,17.4,10.9,93,52,7.29,13.77
+PEARCE RAAF,02/09/2020,3.0,5.8, ,19.6,10.3,92,57,5.61,14.13
+PEARCE RAAF,03/09/2020,2.9,0.2, ,20.1,8.2,92,51,3.32,15.85
+PEARCE RAAF,04/09/2020,2.7,0.0, ,21.5,14.3,91,53,2.60,13.21
+PEARCE RAAF,05/09/2020,3.3,0.0, ,22.3,7.3,93,46,2.93,18.29
+PEARCE RAAF,06/09/2020,2.5,0.0, ,21.3,14.4,94,66,6.91,6.97
+PEARCE RAAF,07/09/2020,2.8,16.6, ,18.6,11.2,92,55,4.67,13.01
+PEARCE RAAF,08/09/2020,2.8,0.8, ,20.6,8.9,92,42,1.87,15.81
+PEARCE RAAF,09/09/2020,4.3,0.2, ,25.1,7.8,91,47,5.43,17.62
+PEARCE RAAF,10/09/2020,3.2,2.2, ,18.8,14.1,91,51,4.80,15.13
+PEARCE RAAF,11/09/2020,3.5,0.2, ,19.7,5.9,88,39,3.66,19.31
+PEARCE RAAF,12/09/2020,3.3,0.0, ,20.2,5.1,91,38,2.48,20.05
+PEARCE RAAF,13/09/2020,4.0,0.0, ,23.5,6.7,90,35,3.01,20.53
+PEARCE RAAF,14/09/2020,5.2,0.0, ,26.0,12.3,56,30,4.16,18.30
+PEARCE RAAF,15/09/2020,5.1,0.0, ,27.5,14.5,87,32,3.90,20.85
+PEARCE RAAF,16/09/2020,3.9,0.0, ,21.0,10.7,92,40,4.19,19.14
+PEARCE RAAF,17/09/2020,4.5,0.0, ,20.0,11.0,74,36,5.40,20.05
+PEARCE RAAF,18/09/2020,4.6,0.0, ,22.2,9.7,81,32,4.24,21.33
+PEARCE RAAF,19/09/2020,3.6,8.4, ,18.1,7.8,94,46,7.70,16.37
+PEARCE RAAF,20/09/2020,3.6,4.4, ,16.9,8.4,92,47,7.80,17.89
+PEARCE RAAF,21/09/2020,2.8,4.4, ,18.1,6.3,94,49,2.72,15.93
+PEARCE RAAF,22/09/2020,2.4,0.2, ,20.1,9.1,94,61,2.14,13.21
+PEARCE RAAF,23/09/2020,4.7,0.2, ,25.6,7.6,92,29,3.25,22.24
+PEARCE RAAF,24/09/2020,8.9,0.0, ,30.0,14.7,52,14,7.40,21.61
+PEARCE RAAF,25/09/2020,5.2,0.0, ,24.5,13.6,90,32,5.92,19.00
+PEARCE RAAF,26/09/2020,3.5,0.0, ,22.0,11.3,94,46,4.05,14.43
+PEARCE RAAF,27/09/2020,2.5,5.4, ,20.3,7.9,95,51,2.12,12.15
+PEARCE RAAF,28/09/2020,3.2,5.2, ,21.3,9.7,94,55,2.99,17.42
+PEARCE RAAF,29/09/2020,2.4,0.6, ,20.1,8.6,93,59,3.43,9.76
+PEARCE RAAF,30/09/2020,2.9,0.2, ,22.2,14.8,94,61,2.68,14.28
+Totals:,,110.3,66.6, ,,,,,, 

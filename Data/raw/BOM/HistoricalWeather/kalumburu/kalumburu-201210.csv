@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for October 2012,,,,,,,,,,
+Issued at 22:38 GMT on Thursday 01 November 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/10/2012, ,0.0, , ,22.6,87,29,2.39,20.52
+KALUMBURU,02/10/2012, , , , , ,87,10,2.44,24.95
+KALUMBURU,03/10/2012, , , , , ,82,9,2.72,27.47
+KALUMBURU,04/10/2012, , , , , ,90,23,1.81,27.74
+KALUMBURU,05/10/2012, , , , , ,82,29,2.36,27.77
+KALUMBURU,06/10/2012, , , ,35.9, ,87,25,2.51,23.57
+KALUMBURU,07/10/2012, ,0.0, , ,23.4,84,16,2.53,26.67
+KALUMBURU,08/10/2012, , , ,35.8, ,88,45,2.30,20.15
+KALUMBURU,09/10/2012,6.4,0.2, ,35.2,22.1,91,37,2.33,27.14
+KALUMBURU,10/10/2012, ,0.0, , ,21.2,89,27,2.44,28.04
+KALUMBURU,11/10/2012, , , , , ,90,30,2.29,28.19
+KALUMBURU,12/10/2012, , , ,34.9, ,77,25,3.04,27.54
+KALUMBURU,13/10/2012,7.8,0.0, ,37.3,21.7,76,10,2.80,28.28
+KALUMBURU,14/10/2012,7.3,0.0, ,38.4,14.7,71,8,2.21,28.25
+KALUMBURU,15/10/2012, ,0.0, , ,18.2,90,13,2.67,28.35
+KALUMBURU,16/10/2012, , , ,36.0, ,91,30,2.14,28.41
+KALUMBURU,17/10/2012, , , , ,19.4,91,36,2.50,28.39
+KALUMBURU,18/10/2012, , , ,36.3, ,88,34,3.22,28.14
+KALUMBURU,19/10/2012, ,0.0, , ,23.0,89,35,2.74,28.72
+KALUMBURU,20/10/2012, , , , , ,83,41,2.70,26.99
+KALUMBURU,21/10/2012, , , , , ,90,39,2.63,28.84
+KALUMBURU,22/10/2012, , , , , ,89,41,2.29,27.49
+KALUMBURU,23/10/2012, , , ,36.2, ,90,25,2.29,27.69
+KALUMBURU,24/10/2012, ,6.4, , ,22.1,91,30,2.23,29.52
+KALUMBURU,25/10/2012, , , , , ,87,33,1.99,28.53
+KALUMBURU,26/10/2012, , , , , ,86,25,2.51,28.82
+KALUMBURU,27/10/2012, , , ,37.9, ,87,31,2.58,28.94
+KALUMBURU,28/10/2012, , , ,38.4, ,84,29,2.38,25.43
+KALUMBURU,29/10/2012,7.3,1.0, ,37.7,21.9,90,29,2.37,29.68
+KALUMBURU,30/10/2012, ,0.0, , ,25.7,80,28,2.64,26.86
+KALUMBURU,31/10/2012, , , ,36.1, ,89,45,2.97,30.08
+Totals:,,28.8,7.6, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for June 2017,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 July 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/06/2017,1.4,0.2, ,20.7,9.8,94,57,1.62,10.66
+ROCKY GULLY,02/06/2017,1.6,0.2, ,20.4,9.8,94,51,2.12,10.62
+ROCKY GULLY,03/06/2017,1.1,0.0, ,16.0,12.5,93,66,1.56,6.18
+ROCKY GULLY,04/06/2017,0.9,0.4, ,18.0,5.0,93,61,0.56,9.17
+ROCKY GULLY,05/06/2017,1.2,0.0, ,19.4,5.6,95,60,1.36,9.04
+ROCKY GULLY,06/06/2017,2.4,0.2, ,20.3,8.4,90,31,3.26,9.04
+ROCKY GULLY,07/06/2017,1.2,0.0, ,16.8,11.9,90,52,1.31,9.17
+ROCKY GULLY,08/06/2017,1.2,0.0, ,17.2,5.4,94,60,1.81,8.46
+ROCKY GULLY,09/06/2017,2.2,0.0, ,20.3,6.3,84,20,2.40,10.74
+ROCKY GULLY,10/06/2017,1.8,0.0, ,17.0,6.9,57,36,2.00,6.31
+ROCKY GULLY,11/06/2017,1.8,0.0, ,18.1,5.4,60,32,1.92,7.88
+ROCKY GULLY,12/06/2017,3.0,0.0, ,21.8,7.2,54,20,3.08,10.63
+ROCKY GULLY,13/06/2017,1.8,0.0, ,21.9,8.6,90,24,1.75,10.27
+ROCKY GULLY,14/06/2017,0.7,0.2, ,14.7,10.4,94,87,1.75,4.83
+ROCKY GULLY,15/06/2017,0.8,1.6, ,16.7,8.8,94,59,0.41,7.36
+ROCKY GULLY,16/06/2017,1.0,0.2, ,16.7,5.2,94,69,1.75,7.92
+ROCKY GULLY,17/06/2017,1.1,0.2, ,17.9,8.0,95,55,1.20,8.83
+ROCKY GULLY,18/06/2017,1.4,0.0, ,19.5,5.9,94,49,1.78,10.51
+ROCKY GULLY,19/06/2017,1.1,0.0, ,18.3,8.7,93,63,1.61,5.98
+ROCKY GULLY,20/06/2017,1.1,2.0, ,16.7,9.7,94,77,3.04,6.17
+ROCKY GULLY,21/06/2017,1.8,0.0, ,18.1,9.3,86,46,3.04,9.75
+ROCKY GULLY,22/06/2017,1.6,1.0, ,18.1,9.9,93,56,2.95,8.66
+ROCKY GULLY,23/06/2017,1.4,2.2, ,14.6,10.3,93,57,3.25,9.24
+ROCKY GULLY,24/06/2017,0.9,0.2, ,13.5,4.1,94,63,1.17,9.05
+ROCKY GULLY,25/06/2017,0.7,0.2, ,13.7,6.1,94,75,0.63,7.58
+ROCKY GULLY,26/06/2017,0.9,1.8, ,14.2,3.9,95,68,1.39,7.18
+ROCKY GULLY,27/06/2017,0.9,2.0, ,15.4,6.0,95,67,1.41,9.79
+ROCKY GULLY,28/06/2017,1.0,0.4, ,15.5,3.5,95,49,1.07,10.72
+ROCKY GULLY,29/06/2017,1.6,0.2, ,16.4,4.0,88,40,2.39,10.75
+ROCKY GULLY,30/06/2017,1.5,0.0, ,13.8,4.7,92,55,3.72,6.14
+Totals:,,41.1,13.2, ,,,,,, 

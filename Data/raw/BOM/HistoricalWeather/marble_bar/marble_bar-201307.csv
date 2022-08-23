@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for July 2013,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 August 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/07/2013,5.0,0.0, ,24.5,14.4,51,26,4.35,18.46
+MARBLE BAR,02/07/2013,4.7,0.0, ,25.6,15.4,56,20,3.22,19.33
+MARBLE BAR,03/07/2013,3.1,0.0, ,25.4,10.9,75,19,1.85,15.52
+MARBLE BAR,04/07/2013,3.5,0.0, ,26.8,13.8,77,33,1.75,19.61
+MARBLE BAR,05/07/2013,3.6,0.0, ,26.4,11.1,90,24,1.77,19.89
+MARBLE BAR,06/07/2013,3.2,0.0, ,27.0,10.0,85,21,1.21,20.04
+MARBLE BAR,07/07/2013,3.4,0.0, ,26.7,9.7,87,15,1.35,20.09
+MARBLE BAR,08/07/2013,4.7,0.0, ,26.9,9.7,76,24,3.31,19.99
+MARBLE BAR,09/07/2013,3.9,0.0, ,26.9,13.4,73,35,2.36,19.45
+MARBLE BAR,10/07/2013,3.1,0.0, ,30.1,14.6,83,31,1.35,16.91
+MARBLE BAR,11/07/2013,3.4,0.0, ,31.0,17.2,96,36,1.26,18.79
+MARBLE BAR,12/07/2013,3.5,0.0, ,30.0,17.4,89,38,1.31,19.41
+MARBLE BAR,13/07/2013,3.3,0.0, ,29.6,13.4,92,31,1.09,19.90
+MARBLE BAR,14/07/2013,3.4,0.0, ,30.8,14.1,88,33,1.05,19.98
+MARBLE BAR,15/07/2013,4.2,0.0, ,31.1,14.2,79,21,1.75,20.48
+MARBLE BAR,16/07/2013,3.2,0.0, ,31.7,12.6,86,19,0.73,20.44
+MARBLE BAR,17/07/2013,5.2,0.0, ,25.5,17.6,66,22,4.12,20.02
+MARBLE BAR,18/07/2013,4.3,0.0, ,21.2,8.8,65,22,3.29,21.77
+MARBLE BAR,19/07/2013,5.3,0.0, ,21.3,9.6,59,23,5.44,21.71
+MARBLE BAR,20/07/2013,5.8,0.0, ,21.3,11.2,51,23,6.12,21.77
+MARBLE BAR,21/07/2013,5.0,0.0, ,22.9,9.2,59,27,4.40,21.44
+MARBLE BAR,22/07/2013,4.8,0.0, ,25.9,8.3,65,24,3.24,21.30
+MARBLE BAR,23/07/2013,4.8,0.0, ,30.2,11.8,73,22,2.52,20.96
+MARBLE BAR,24/07/2013,4.7,0.0, ,28.7,12.3,76,22,2.62,21.30
+MARBLE BAR,25/07/2013,5.5,0.0, ,25.9,13.4,48,11,3.27,22.26
+MARBLE BAR,26/07/2013,3.8,0.0, ,27.4,7.4,79,13,1.35,22.11
+MARBLE BAR,27/07/2013,3.8,0.0, ,27.5,10.6,86,28,1.76,21.07
+MARBLE BAR,28/07/2013,5.4,0.0, ,26.6,14.6,54,22,3.55,21.98
+MARBLE BAR,29/07/2013,5.1,0.0, ,26.8,11.3,66,20,3.04,22.27
+MARBLE BAR,30/07/2013,4.1,0.0, ,28.3,10.2,71,16,1.56,22.25
+MARBLE BAR,31/07/2013,4.6,0.0, ,29.0,10.5,65,14,1.97,22.25
+Totals:,,131.4,0, ,,,,,, 

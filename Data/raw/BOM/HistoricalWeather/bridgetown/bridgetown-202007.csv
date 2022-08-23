@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BRIDGETOWN Western Australia for July 2020,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 August 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BRIDGETOWN,01/07/2020,0.8,2.6, ,13.0,6.3,97,77,1.01,8.85
+BRIDGETOWN,02/07/2020,0.7,1.8, ,15.0,7.0,100,70,0.25,8.30
+BRIDGETOWN,03/07/2020,1.0,0.2, ,16.6,4.6,100,60,0.90,11.17
+BRIDGETOWN,04/07/2020,1.1,0.2, ,19.8,3.4,100,47,0.95,11.00
+BRIDGETOWN,05/07/2020,0.8,0.0, ,15.4,7.6,100,64,0.79,4.69
+BRIDGETOWN,06/07/2020,1.0,20.4, ,14.5,9.7,99,81,3.60,7.84
+BRIDGETOWN,07/07/2020,1.2,13.2, ,15.4,10.4,99,60,1.84,9.44
+BRIDGETOWN,08/07/2020,0.9,3.0, ,15.6,4.7,100,65,0.70,9.33
+BRIDGETOWN,09/07/2020,0.8,0.8, ,14.1,1.5,100,82,0.68,10.17
+BRIDGETOWN,10/07/2020,0.8,1.2, ,12.5,0.0,100,60,0.53,10.79
+BRIDGETOWN,11/07/2020, ,0.2, , ,-1.1,100,59,0.77,11.55
+BRIDGETOWN,12/07/2020,1.7,0.2, ,18.3,-1.1,100,38,2.10,11.61
+BRIDGETOWN,13/07/2020,1.4,9.2, ,17.3,6.5,100,63,2.74,9.07
+BRIDGETOWN,14/07/2020, ,15.6, , ,8.5,99,66,2.04,11.58
+BRIDGETOWN,15/07/2020, ,1.2, , , ,100,66,2.04,8.62
+BRIDGETOWN,16/07/2020, ,8.4, , , ,100,73,2.73,7.53
+BRIDGETOWN,17/07/2020, ,7.4, ,12.5, ,100,68,0.80,7.63
+BRIDGETOWN,18/07/2020,1.1,6.4, ,16.7,2.6,100,62,1.22,10.01
+BRIDGETOWN,19/07/2020,0.9,0.2, ,14.9,6.9,100,61,0.59,8.41
+BRIDGETOWN,20/07/2020, ,0.0, , ,4.7,100,53,0.98,9.51
+BRIDGETOWN,21/07/2020,1.6,0.0, ,18.6,4.4,99,45,1.76,11.50
+BRIDGETOWN,22/07/2020,2.1,0.0, ,20.5,6.8,99,51,3.25,11.87
+BRIDGETOWN,23/07/2020,1.2,4.4, ,15.4,10.3,99,64,1.68,9.96
+BRIDGETOWN,24/07/2020, ,0.4, ,18.1, ,100,59,0.60,12.41
+BRIDGETOWN,25/07/2020, ,0.2, , ,2.0,100,48,2.35,7.80
+BRIDGETOWN,26/07/2020, ,9.0, , , ,100,60,0.89,12.72
+BRIDGETOWN,27/07/2020, ,0.0, , , ,100,63,3.64,8.14
+BRIDGETOWN,28/07/2020,1.2,18.0, ,17.8,5.6,100,63,0.78,11.76
+BRIDGETOWN,29/07/2020,1.2,0.8, ,18.0,4.8,100,59,0.51,12.03
+BRIDGETOWN,30/07/2020,1.1,0.0, ,17.3,4.0,100,63,0.69,9.34
+BRIDGETOWN,31/07/2020,1.1,0.6, ,16.7,5.8,100,66,0.60,10.46
+Totals:,,23.7,125.6, ,,,,,, 

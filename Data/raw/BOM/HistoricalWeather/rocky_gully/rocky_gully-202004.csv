@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for April 2020,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 May 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/04/2020,2.5,0.0, ,23.6,11.3,93,42,1.35,12.90
+ROCKY GULLY,02/04/2020,2.1,0.2, ,18.0,13.7,92,59,2.01,11.44
+ROCKY GULLY,03/04/2020,1.9,2.6, ,15.7,10.0,82,52,1.98,7.82
+ROCKY GULLY,04/04/2020,2.5,0.0, ,20.7,4.4,92,34,1.25,16.08
+ROCKY GULLY,05/04/2020,2.1,0.0, ,19.7,9.9,84,48,1.86,8.92
+ROCKY GULLY,06/04/2020,4.1,0.0, ,25.8,14.1,83,27,2.90,17.55
+ROCKY GULLY,07/04/2020,4.6,0.0, ,30.0,13.5,91,23,3.00,17.40
+ROCKY GULLY,08/04/2020,5.5,0.0, ,33.6,18.2,70,21,3.32,17.07
+ROCKY GULLY,09/04/2020,2.2,0.0, ,26.4,17.4,94,53,1.86,7.14
+ROCKY GULLY,10/04/2020,2.6,26.6, ,25.2,15.7,94,59,2.14,13.24
+ROCKY GULLY,11/04/2020,3.5,0.0, ,32.8,15.0,90,27,1.96,10.91
+ROCKY GULLY,12/04/2020,3.2,0.0, ,27.0,18.7,91,42,2.09,14.55
+ROCKY GULLY,13/04/2020,2.3,0.6, ,23.5,15.9,92,52,1.69,11.54
+ROCKY GULLY,14/04/2020,2.2,1.0, ,21.7,14.0,93,46,1.57,10.80
+ROCKY GULLY,15/04/2020,1.8,0.2, ,18.0,12.3,91,66,2.39,8.90
+ROCKY GULLY,16/04/2020,1.6,4.2, ,19.6,10.7,91,52,0.77,9.70
+ROCKY GULLY,17/04/2020,2.6,0.2, ,23.5,8.0,95,37,1.59,15.66
+ROCKY GULLY,18/04/2020,1.8,0.2, ,20.9,11.2,94,55,1.60,8.08
+ROCKY GULLY,19/04/2020,2.3,6.0, ,17.8,12.9,93,54,3.05,13.00
+ROCKY GULLY,20/04/2020,2.8,0.4, ,20.9,9.4,86,45,3.73,10.81
+ROCKY GULLY,21/04/2020,2.5,0.0, ,22.6,11.8,94,48,2.75,10.46
+ROCKY GULLY,22/04/2020,2.5,0.0, ,23.1,14.8,91,51,3.19,9.33
+ROCKY GULLY,23/04/2020,2.1,0.2, ,22.1,12.9,93,50,1.77,10.98
+ROCKY GULLY,24/04/2020,2.1,0.0, ,22.8,11.5,93,51,1.85,10.98
+ROCKY GULLY,25/04/2020,2.2,0.0, ,20.8,14.0,92,50,2.12,12.37
+ROCKY GULLY,26/04/2020,1.9,0.0, ,21.9,6.7,94,42,1.00,13.66
+ROCKY GULLY,27/04/2020,2.2,0.0, ,21.6,5.5,94,42,1.71,14.36
+ROCKY GULLY,28/04/2020,1.7,2.0, ,15.6,9.4,92,49,2.04,9.19
+ROCKY GULLY,29/04/2020,1.9,0.0, ,17.8,6.1,83,41,1.51,12.42
+ROCKY GULLY,30/04/2020,2.1,0.0, ,19.2,5.2,84,36,1.76,13.98
+Totals:,,75.4,44.4, ,,,,,, 

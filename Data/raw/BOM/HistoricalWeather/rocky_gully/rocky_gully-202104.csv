@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/04/2021,1.9,4.6, ,23.9,17.4,92,59,1.69,6.81
+ROCKY GULLY,02/04/2021,2.1,0.2, ,21.9,15.8,93,72,2.25,10.19
+ROCKY GULLY,03/04/2021,2.0,0.6, ,20.5,14.5,93,65,2.41,8.88
+ROCKY GULLY,04/04/2021,2.2,0.0, ,22.2,15.2,92,66,2.15,10.24
+ROCKY GULLY,05/04/2021,3.5,0.0, ,29.1,16.5,91,40,1.91,16.18
+ROCKY GULLY,06/04/2021,2.8,0.0, ,27.1,17.0,92,43,1.29,13.75
+ROCKY GULLY,07/04/2021,1.1,0.0, ,20.5,14.5,94,71,1.10,3.11
+ROCKY GULLY,08/04/2021,1.4,3.2, ,16.4,12.2,94,79,2.88,7.14
+ROCKY GULLY,09/04/2021,2.6,2.2, ,20.1,9.2,85,53,2.59,14.98
+ROCKY GULLY,10/04/2021,3.2,0.0, ,23.0,9.5,88,37,2.33,17.09
+ROCKY GULLY,11/04/2021,1.5,0.0, ,17.4,14.5,94,66,3.14,4.35
+ROCKY GULLY,12/04/2021,1.4,52.8, ,16.7,13.8,95,78,2.24,6.66
+ROCKY GULLY,13/04/2021,1.8,3.6, ,16.2,8.6,92,64,1.84,12.21
+ROCKY GULLY,14/04/2021,1.7,3.0, ,18.1,8.4,95,67,1.19,11.11
+ROCKY GULLY,15/04/2021,1.8,1.2, ,19.9,9.7,95,64,1.09,11.33
+ROCKY GULLY,16/04/2021,2.0,0.2, ,21.6,7.5,95,43,0.88,13.55
+ROCKY GULLY,17/04/2021,2.5,0.0, ,22.6,10.6,93,40,1.52,15.22
+ROCKY GULLY,18/04/2021,2.5,0.0, ,24.0,9.4,93,34,1.23,15.67
+ROCKY GULLY,19/04/2021,1.6,0.0, ,19.7,9.0,94,64,1.23,9.39
+ROCKY GULLY,20/04/2021,1.6,6.4, ,18.9,9.5,95,55,0.75,11.55
+ROCKY GULLY,21/04/2021,1.4,0.0, ,17.7,6.7,95,70,1.08,10.12
+ROCKY GULLY,22/04/2021,1.5,1.2, ,19.1,7.0,94,54,0.74,10.66
+ROCKY GULLY,23/04/2021,2.4,0.0, ,22.9,10.9,93,41,1.59,14.44
+ROCKY GULLY,24/04/2021,2.6,0.0, ,26.2,11.8,91,34,1.35,14.62
+ROCKY GULLY,25/04/2021,2.1,0.0, ,25.1,9.9,92,37,0.80,14.71
+ROCKY GULLY,26/04/2021,2.0,0.0, ,25.4,10.0,95,42,0.95,11.74
+ROCKY GULLY,27/04/2021,2.1,0.0, ,25.6,13.6,91,45,0.92,13.55
+ROCKY GULLY,28/04/2021,1.9,0.0, ,25.2,12.7,95,47,0.64,13.32
+ROCKY GULLY,29/04/2021,2.1,0.2, ,23.1,15.1,92,47,2.42,6.35
+ROCKY GULLY,30/04/2021,1.6,20.4, ,16.6,7.3,93,57,1.21,12.24
+Totals:,,60.9,99.8, ,,,,,, 

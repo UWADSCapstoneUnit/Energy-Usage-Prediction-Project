@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME NTC Western Australia for October 2016,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 November 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME NTC,01/10/2016,6.2, , ,25.5,23.1,22,19,3.74,13.04
+BROOME NTC,02/10/2016, , , , ,22.9, , , ,18.47
+BROOME NTC,03/10/2016, , , , , , , , ,26.55
+BROOME NTC,04/10/2016, , , ,34.3, ,21,12,6.84,26.67
+BROOME NTC,05/10/2016,9.1, , ,29.8,23.7,21,15,5.13,26.68
+BROOME NTC,06/10/2016,8.0, , ,27.5,25.1,19,17,4.03,26.39
+BROOME NTC,07/10/2016,8.2, , ,29.1,24.6,20,15,3.95,26.92
+BROOME NTC,08/10/2016,9.3, , ,27.9,24.6,20,16,5.49,27.05
+BROOME NTC,09/10/2016,10.0, , ,28.4,25.8,18,17,6.18,27.13
+BROOME NTC,10/10/2016,10.3, , ,33.0,26.0,18,12,5.46,27.07
+BROOME NTC,11/10/2016,11.7, , ,37.8,26.5,17,10,5.83,27.23
+BROOME NTC,12/10/2016,9.6, , ,29.7,26.0,18,15,5.29,27.12
+BROOME NTC,13/10/2016,9.4, , ,30.2,27.3,17,15,4.86,27.11
+BROOME NTC,14/10/2016,8.7, , ,29.5,26.3,18,15,4.17,27.56
+BROOME NTC,15/10/2016,9.9, , ,28.5,26.2,18,16,5.82,27.68
+BROOME NTC,16/10/2016,8.9, , ,32.0,26.3,18,14,4.05,27.73
+BROOME NTC,17/10/2016,12.3, , ,32.8,25.6,18,13,7.89,27.74
+BROOME NTC,18/10/2016,9.4, , ,31.8,25.3,18,13,4.67,27.86
+BROOME NTC,19/10/2016,9.7, , ,29.7,25.3,19,15,5.35,27.91
+BROOME NTC,20/10/2016,9.9, , ,28.8,26.8,17,16,5.62,27.56
+BROOME NTC,21/10/2016,8.3, , ,29.1,25.2,19,15,3.82,27.90
+BROOME NTC,22/10/2016,8.7, , ,31.6,26.5,17,14,3.80,28.09
+BROOME NTC,23/10/2016,8.9, , ,31.1,27.2,17,14,4.31,24.35
+BROOME NTC,24/10/2016,10.3, , ,32.6,26.1,18,14,5.35,27.83
+BROOME NTC,25/10/2016,10.1, , ,29.4,26.5,18,15,5.70,28.38
+BROOME NTC,26/10/2016,10.6, , ,29.4,27.0,17,16,6.20,28.47
+BROOME NTC,27/10/2016,11.4, , ,29.4,27.7,16,15,7.16,28.47
+BROOME NTC,28/10/2016,11.6, , ,31.5,28.0,16,14,6.72,28.54
+BROOME NTC,29/10/2016,11.4, , ,29.9,28.1,16,15,6.90,28.60
+BROOME NTC,30/10/2016,9.5, , ,32.5,28.1,16,13,4.80,22.26
+BROOME NTC,31/10/2016,9.4, , ,31.1,28.7,16,14,4.52,25.29
+Totals:,,270.8, , ,,,,,, 

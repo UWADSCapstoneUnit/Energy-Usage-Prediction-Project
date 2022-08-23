@@ -1,0 +1,40 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NORTH WALPOLE Western Australia for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NORTH WALPOLE,01/12/2017,4.9,0.0, ,19.9,10.6,89,45,3.18,30.43
+NORTH WALPOLE,02/12/2017,5.6,0.0, ,24.1,10.7,89,50,4.41,31.31
+NORTH WALPOLE,03/12/2017,5.8,0.0, ,27.7,10.6,99,40,3.85,26.82
+NORTH WALPOLE,04/12/2017,2.8,2.8, ,23.8,17.9,100,50,2.50,9.39
+NORTH WALPOLE,05/12/2017,2.1,26.6, ,18.9,15.3,100,65,2.66,8.35
+NORTH WALPOLE,06/12/2017,2.7,1.2, ,18.7,12.2,100,62,2.94,14.34
+NORTH WALPOLE,07/12/2017,4.0,0.0, ,20.7,10.8,97,55,2.67,23.81
+NORTH WALPOLE,08/12/2017,5.0,0.0, ,23.1,8.9,98,51,3.83,28.91
+NORTH WALPOLE,09/12/2017,6.7,0.0, ,31.3,11.0,100,33,3.04,30.63
+NORTH WALPOLE,10/12/2017,5.8,0.0, ,28.0,16.3,100,61,2.02,31.72
+NORTH WALPOLE,11/12/2017,4.2,0.0, ,23.2,17.9,99,71,2.90,23.95
+NORTH WALPOLE,12/12/2017,3.9,0.0, ,24.0,15.6,91,61,3.06,18.51
+NORTH WALPOLE,13/12/2017,3.4,0.4, ,22.2,13.1,99,54,3.05,16.16
+NORTH WALPOLE,14/12/2017,4.0,0.8, ,23.2,13.3,100,58,2.45,21.50
+NORTH WALPOLE,15/12/2017,4.2,0.0, ,24.6,13.5,95,50,2.37,21.08
+NORTH WALPOLE,16/12/2017,5.2,0.0, ,26.1,13.7,100,49,4.07,25.18
+NORTH WALPOLE,17/12/2017,4.0,9.2, ,18.8,11.6,100,50,8.09,20.48
+NORTH WALPOLE,18/12/2017,4.1,22.2, ,19.5,10.9,99,53,6.94,22.50
+NORTH WALPOLE,19/12/2017,3.0,5.2, ,19.1,13.1,91,58,4.01,12.89
+NORTH WALPOLE,20/12/2017,4.9,0.0, ,21.8,11.6,97,54,2.49,30.62
+NORTH WALPOLE,21/12/2017,4.8,0.0, ,23.1,11.4,99,66,3.39,30.15
+NORTH WALPOLE,22/12/2017,3.8,0.0, ,21.5,14.5,99,63,4.32,21.19
+NORTH WALPOLE,23/12/2017,3.5,0.0, ,21.4,15.3,100,65,3.95,18.69
+NORTH WALPOLE,24/12/2017,5.7,2.2, ,25.2,11.7,99,48,3.41,32.09
+NORTH WALPOLE,25/12/2017,5.9,0.2, ,27.3,12.5,100,47,2.48,32.08
+NORTH WALPOLE,26/12/2017,4.2,0.6, ,23.4,15.0,100,54,3.20,21.59
+Totals:,,114.2,71.4, ,,,,,, 

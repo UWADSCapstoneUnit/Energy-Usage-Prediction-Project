@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/02/2014,8.0,0.0, ,33.3,16.9,73,18,3.79,29.47
+WANDERING,02/02/2014, ,0.0, , ,15.2,64,25,6.48,30.18
+WANDERING,03/02/2014, , , , , ,63,18,4.97,30.17
+WANDERING,04/02/2014, , , , , ,60,20,2.71,29.01
+WANDERING,05/02/2014, , , ,38.6, ,67,18,3.42,26.40
+WANDERING,06/02/2014, ,0.0, , ,18.3,74,30,5.76,27.38
+WANDERING,07/02/2014, , , , , ,82,21,4.87,26.67
+WANDERING,08/02/2014, , , , , ,82,19,5.62,27.45
+WANDERING,09/02/2014, , , , , ,68,14,3.07,29.16
+WANDERING,10/02/2014, , , , , ,60,18,4.35,27.31
+WANDERING,11/02/2014, , , , , ,71,33,7.41,25.58
+WANDERING,12/02/2014, , , , , ,80,37,6.16,18.06
+WANDERING,13/02/2014, , , , , ,76,33,5.15,24.25
+WANDERING,14/02/2014, , , , , , , , ,24.72
+WANDERING,15/02/2014, , , ,35.9, ,64,14,3.04,27.33
+WANDERING,16/02/2014, , , ,33.3, ,63,9,3.08,21.95
+WANDERING,17/02/2014, , , , , ,74,13,4.48,25.36
+WANDERING,18/02/2014, , , , , , , , ,27.37
+WANDERING,19/02/2014, , , , , , , , ,27.51
+WANDERING,20/02/2014, , , , , , , , ,22.58
+WANDERING,21/02/2014, , , , , , , , ,25.85
+WANDERING,22/02/2014, , , , , , , , ,25.50
+WANDERING,23/02/2014, , , , , ,57,13,1.96,25.54
+WANDERING,24/02/2014, , , , , ,58,12,3.34,26.24
+WANDERING,25/02/2014, , , , , ,68,24,5.95,24.04
+WANDERING,26/02/2014, , , , , , , , ,25.64
+WANDERING,27/02/2014, , , , , , , , ,26.09
+WANDERING,28/02/2014, , , , , , , , ,25.60
+Totals:,,8,0, ,,,,,, 

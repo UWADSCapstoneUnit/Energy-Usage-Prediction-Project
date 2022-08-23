@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for June 2021,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 July 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/06/2021,1.4,1.0, ,15.5,10.1,90,64,2.60,8.87
+KATANNING,02/06/2021,1.3,0.0, ,16.2,9.2,87,65,2.02,8.07
+KATANNING,03/06/2021,1.5,0.4, ,17.8,8.6,89,62,2.54,11.27
+KATANNING,04/06/2021,1.8,0.0, ,17.3,8.4,88,53,3.31,11.36
+KATANNING,05/06/2021,1.4,0.2, ,15.4,9.5,85,65,2.78,7.50
+KATANNING,06/06/2021,1.4,0.2, ,15.2,10.0,87,68,3.77,6.83
+KATANNING,07/06/2021,1.6,3.0, ,14.0,6.0,84,57,3.67,10.51
+KATANNING,08/06/2021,1.5,0.0, ,12.2,8.4,83,61,4.00,7.43
+KATANNING,09/06/2021,2.3,0.0, ,15.5,8.7,86,57,8.29,4.42
+KATANNING,10/06/2021,2.1,2.4, ,18.9,8.7,88,67,6.97,7.38
+KATANNING,11/06/2021,1.1,0.6, ,16.3,8.9,91,60,1.45,9.05
+KATANNING,12/06/2021,0.9,0.2, ,15.8,11.2,90,70,0.74,8.61
+KATANNING,13/06/2021,1.2,0.2, ,15.8,6.0,91,60,1.93,11.06
+KATANNING,14/06/2021,1.9,0.2, ,12.0,7.8,86,59,7.68,9.00
+KATANNING,15/06/2021,1.5,0.4, ,15.1,5.5,89,66,4.30,8.28
+KATANNING,16/06/2021,1.4,2.4, ,15.7,7.5,91,63,3.06,10.43
+KATANNING,17/06/2021,0.9,0.4, ,14.1,5.7,90,52,0.74,11.05
+KATANNING,18/06/2021,1.3,0.0, ,14.7,3.5,85,56,2.02,11.05
+KATANNING,19/06/2021,1.7,0.2, ,14.8,3.1,83,49,3.36,8.67
+KATANNING,20/06/2021,1.5,3.0, ,12.1,8.4,88,57,4.37,6.10
+KATANNING,21/06/2021,1.5,6.6, ,9.8,7.2,88,67,7.83,7.80
+KATANNING,22/06/2021,1.3,0.0, ,12.0,4.2,88,69,5.00,9.82
+KATANNING,23/06/2021,1.4,0.2, ,13.3,6.5,87,63,3.48,10.14
+KATANNING,24/06/2021,1.0,0.0, ,12.3,6.0,90,56,1.46,8.47
+KATANNING,25/06/2021,1.4,0.0, ,14.6,3.0,85,60,2.81,10.70
+KATANNING,26/06/2021,1.5,0.2, ,15.3,3.6,88,43,2.36,11.12
+KATANNING,27/06/2021,2.5,0.0, ,15.0,4.8,86,45,6.84,8.20
+KATANNING,28/06/2021,1.9,2.6, ,16.7,8.9,90,61,5.53,9.39
+KATANNING,29/06/2021,1.8,2.2, ,12.4,7.9,87,54,5.01,10.51
+KATANNING,30/06/2021,1.3,0.2, ,13.0,4.4,88,68,3.61,9.41
+Totals:,,45.3,26.8, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for June 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/06/2009,2.4,0.8, ,22.7,7.4,90,38,2.82,12.80
+KATANNING,02/06/2009,1.7,11.0, ,18.4,11.0,91,62,2.88,12.52
+KATANNING,03/06/2009,1.9,0.2, ,17.0,10.0,94,63,5.72,10.65
+KATANNING,04/06/2009,2.2,3.4, ,14.4,5.1,88,57,7.88,11.45
+KATANNING,05/06/2009,1.7,0.8, ,16.5,7.1,91,63,4.38,11.32
+KATANNING,06/06/2009,1.6,0.6, ,16.1,8.0,93,58,3.51,10.41
+KATANNING,07/06/2009,1.2,1.2, ,14.1,6.0,91,76,3.80,10.47
+KATANNING,08/06/2009,1.1,0.8, ,15.3,4.4,94,52,1.12,12.75
+KATANNING,09/06/2009,2.4,0.2, ,17.6,4.4,91,31,3.55,12.84
+KATANNING,10/06/2009,2.8,1.6, ,20.0,8.7,89,48,6.09,11.95
+KATANNING,11/06/2009,1.3,0.0, ,13.1,10.9,91,68,4.18,7.30
+KATANNING,12/06/2009,1.6,1.4, ,13.0,5.5,93,57,4.99,11.14
+KATANNING,13/06/2009,1.5,0.2, ,13.6,3.8,91,60,4.04,11.39
+KATANNING,14/06/2009,1.7,0.2, ,16.7,4.5,91,62,4.36,10.67
+KATANNING,15/06/2009,2.1,0.2, ,18.7,7.7,92,53,4.35,12.21
+KATANNING,16/06/2009,2.2,0.0, ,18.9,8.5,85,51,4.19,12.18
+KATANNING,17/06/2009,3.5,0.0, ,18.9,6.5,71,30,6.06,12.53
+KATANNING,18/06/2009,1.8,0.0, ,17.7,10.5,89,63,4.98,8.42
+KATANNING,19/06/2009,1.6,9.4, ,12.0,11.0,91,68,7.96,7.68
+KATANNING,20/06/2009,1.3,12.2, ,13.8,5.4,92,77,6.41,9.55
+KATANNING,21/06/2009,1.5,22.4, ,10.9,5.5,89,64,6.35,12.00
+KATANNING,22/06/2009,1.3,0.2, ,12.8,3.6,89,55,2.79,11.37
+KATANNING,23/06/2009,1.4,0.0, ,11.8,3.0,89,65,5.02,5.47
+KATANNING,24/06/2009,1.1,2.4, ,12.9,7.1,92,78,4.79,8.10
+KATANNING,25/06/2009,1.3,15.4, ,16.2,7.5,94,72,4.10,10.58
+KATANNING,26/06/2009,1.1,0.2, ,13.5,9.5,94,78,5.65,6.09
+KATANNING,27/06/2009,2.0,7.8, ,14.6,8.9,91,61,8.25,11.20
+KATANNING,28/06/2009,1.9,4.6, ,15.5,9.8,91,67,8.59,9.78
+KATANNING,29/06/2009,1.5,30.4, ,10.9,8.8,88,71,9.01,8.03
+KATANNING,30/06/2009,1.9,5.6, ,12.0,5.0,85,56,6.25,12.04
+Totals:,,52.6,133.2, ,,,,,, 

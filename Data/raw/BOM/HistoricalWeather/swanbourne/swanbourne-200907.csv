@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SWANBOURNE Western Australia for July 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SWANBOURNE,01/07/2009,1.6,10.2, ,17.4,10.3,96,66,3.60,12.50
+SWANBOURNE,02/07/2009,1.9,0.2, ,17.5,6.6,92,54,3.60,13.52
+SWANBOURNE,03/07/2009,2.0,0.2, ,17.5,6.6,92,56,4.46,11.66
+SWANBOURNE,04/07/2009,1.9,0.0, ,18.2,9.5,87,56,3.48,11.97
+SWANBOURNE,05/07/2009,2.3,0.0, ,21.2,9.1,90,50,3.60,13.22
+SWANBOURNE,06/07/2009, ,5.4, ,18.5,12.4,96,56,7.25, 
+SWANBOURNE,07/07/2009, ,2.8, ,19.2,12.4,94,43,4.29, 
+SWANBOURNE,08/07/2009, ,0.8, ,18.7,11.1,94,51,4.40, 
+SWANBOURNE,09/07/2009,2.3,18.8, ,18.8,11.6,95,59,6.48,11.28
+SWANBOURNE,10/07/2009,2.6,11.2, ,18.0,12.2,94,53,8.01,10.32
+SWANBOURNE,11/07/2009,2.0,3.2, ,17.8,10.2,93,53,3.51,13.17
+SWANBOURNE,12/07/2009,2.1,0.2, ,16.7,7.0,94,45,3.58,13.67
+SWANBOURNE,13/07/2009,2.2,0.0, ,17.6,6.0,90,48,3.80,13.88
+SWANBOURNE,14/07/2009,2.1,0.0, ,17.8,4.2,95,48,3.56,14.11
+SWANBOURNE,15/07/2009,4.1,0.0, ,21.7,6.9,95,29,6.91,13.96
+SWANBOURNE,16/07/2009,3.0,8.6, ,17.3,12.4,92,53,10.89,12.36
+SWANBOURNE,17/07/2009,2.8,6.2, ,18.7,12.7,89,55,8.07,12.01
+SWANBOURNE,18/07/2009,2.8,0.0, ,19.8,13.7,95,58,8.91,12.57
+SWANBOURNE,19/07/2009, ,23.8, ,15.4,10.4, , , ,10.48
+SWANBOURNE,20/07/2009, ,17.8, ,15.4,9.2, , , ,11.88
+SWANBOURNE,21/07/2009, ,9.4, ,15.8,7.4, , , ,12.18
+SWANBOURNE,22/07/2009, ,3.0, ,17.0,10.5, , , ,10.75
+SWANBOURNE,23/07/2009,1.9,15.8, ,16.9,11.3,96,59,3.78,12.65
+SWANBOURNE,24/07/2009,2.4,0.0, ,16.3,6.5,92,46,4.51,14.76
+SWANBOURNE,25/07/2009,2.4,3.0, ,15.2,7.1,94,47,5.25,15.04
+SWANBOURNE,26/07/2009,2.0,0.0, ,15.5,6.1,87,48,3.08,13.14
+SWANBOURNE,27/07/2009,1.9,0.0, ,16.8,7.5,88,55,2.70,12.74
+SWANBOURNE,28/07/2009,2.3,0.2, ,18.1,6.8,94,50,3.73,14.97
+SWANBOURNE,29/07/2009,2.5,0.0, ,18.5,5.4,93,47,4.07,15.37
+SWANBOURNE,30/07/2009, ,0.0, ,19.0,7.6, , , ,15.40
+SWANBOURNE,31/07/2009, ,0.0, ,19.0,8.3, , , ,15.49
+Totals:,,51.1,140.8, ,,,,,, 

@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/02/2020,5.9,0.0, ,36.3,26.7,87,50,2.60,21.89
+KALUMBURU,02/02/2020,4.9,0.0, ,33.4,28.0,81,53,2.22,18.25
+KALUMBURU,03/02/2020,3.5,0.0, ,33.4,25.7,96,58,1.83,12.46
+KALUMBURU,04/02/2020,4.8,68.2, ,31.8,22.8,96,58,2.22,21.02
+KALUMBURU,05/02/2020,5.4,12.8, ,32.1,22.9,96,70,3.43,25.36
+KALUMBURU,06/02/2020,6.3,2.8, ,33.1,25.7,95,62,2.35,28.57
+KALUMBURU,07/02/2020,6.4,0.0, ,34.9,25.2,96,54,1.74,28.64
+KALUMBURU,08/02/2020,5.9,0.0, ,35.3,25.5,96,53,1.79,25.26
+KALUMBURU,09/02/2020,6.1,0.0, ,36.6,26.8,89,54,1.88,25.37
+KALUMBURU,10/02/2020,6.7,0.0, ,37.6,25.8,93,45,1.88,28.07
+KALUMBURU,11/02/2020,5.7,0.0, ,35.1,27.7,86,46,1.86,22.65
+KALUMBURU,12/02/2020,6.4,0.0, ,36.9,24.4,93,43,1.68,27.33
+KALUMBURU,13/02/2020,6.0,0.0, ,37.0,28.4,96,55,2.15,23.79
+KALUMBURU,14/02/2020,5.8,43.8, ,36.5,23.7,97,52,1.45,25.51
+KALUMBURU,15/02/2020,6.6,0.0, ,37.0,26.6,92,53,2.18,27.50
+KALUMBURU,16/02/2020,6.0,0.0, ,35.3,25.2,96,51,1.42,26.56
+KALUMBURU,17/02/2020,5.8,0.0, ,38.3,24.4,95,47,1.58,23.89
+KALUMBURU,18/02/2020,6.9,0.0, ,37.8,25.3,95,40,2.15,28.10
+KALUMBURU,19/02/2020,4.8,18.4, ,35.3,24.3,95,56,0.92,21.56
+KALUMBURU,20/02/2020,6.5,15.6, ,36.4,24.8,95,51,2.31,27.51
+KALUMBURU,21/02/2020,5.7,12.4, ,34.8,22.9,94,55,1.82,25.50
+KALUMBURU,22/02/2020,6.6,0.0, ,37.3,25.6,93,50,1.80,27.87
+KALUMBURU,23/02/2020,6.1,0.0, ,36.0,25.1,93,56,1.99,26.27
+KALUMBURU,24/02/2020,6.1,0.8, ,35.6,25.2,95,54,2.28,25.64
+KALUMBURU,25/02/2020,6.1,0.2, ,35.9,27.6,84,54,2.57,23.91
+KALUMBURU,26/02/2020,6.2,0.0, ,36.4,26.2,88,55,2.50,24.99
+KALUMBURU,27/02/2020,6.2,4.4, ,37.1,24.9,95,47,2.73,23.93
+KALUMBURU,28/02/2020,2.4,15.6, ,30.9,24.9,96,77,2.77,8.20
+KALUMBURU,29/02/2020,3.5,65.2, ,30.5,24.7,97,75,4.16,14.42
+Totals:,,165.3,260.2, ,,,,,, 

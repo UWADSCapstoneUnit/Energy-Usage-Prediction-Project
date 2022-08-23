@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BRIDGETOWN Western Australia for April 2019,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 May 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BRIDGETOWN,01/04/2019,2.7,0.0, ,28.4,14.0,91,34,1.47,9.87
+BRIDGETOWN,02/04/2019,3.3,0.8, ,23.9,15.5,92,43,2.45,16.10
+BRIDGETOWN,03/04/2019,2.9,0.0, ,25.5,13.4,89,49,1.76,14.26
+BRIDGETOWN,04/04/2019, ,0.0, , ,15.9,88,50,1.75,11.39
+BRIDGETOWN,05/04/2019, ,0.8, ,20.3, ,98,40,0.87,17.40
+BRIDGETOWN,06/04/2019,2.5,0.0, ,22.5,1.6,99,39,0.87,18.16
+BRIDGETOWN,07/04/2019,2.3,0.0, ,23.6,5.0,98,39,0.91,14.62
+BRIDGETOWN,08/04/2019,2.6,0.0, ,22.9,4.4,98,40,1.52,15.72
+BRIDGETOWN,09/04/2019, ,0.0, , ,11.4,87,33,1.62,17.65
+BRIDGETOWN,10/04/2019, ,0.0, , , ,100,27,0.86,17.48
+BRIDGETOWN,11/04/2019, ,0.0, ,22.1, ,98,59,1.16,11.77
+BRIDGETOWN,12/04/2019,2.5,0.6, ,23.5,4.9,100,35,1.20,16.06
+BRIDGETOWN,13/04/2019,3.2,0.0, ,28.3,11.2,89,49,2.48,13.29
+BRIDGETOWN,14/04/2019,2.5,1.0, ,22.6,12.4,95,51,3.01,10.34
+BRIDGETOWN,15/04/2019,3.0,1.0, ,22.1,14.9,93,43,3.41,13.06
+BRIDGETOWN,16/04/2019,2.2,1.2, ,19.3,14.4,91,45,2.45,8.70
+BRIDGETOWN,17/04/2019,1.6,0.8, ,20.4,5.3,98,41,0.29,12.32
+BRIDGETOWN,18/04/2019,2.4,0.0, ,22.3,3.7,99,44,1.88,14.01
+BRIDGETOWN,19/04/2019,1.3,22.0, ,12.9,6.9,95,69,1.75,8.78
+BRIDGETOWN,20/04/2019,1.6,15.6, ,16.3,2.8,99,54,1.00,12.04
+BRIDGETOWN,21/04/2019,1.6,0.0, ,21.5,1.5,99,32,0.24,15.62
+BRIDGETOWN,22/04/2019,2.2,0.2, ,23.3,2.6,99,31,0.92,15.55
+BRIDGETOWN,23/04/2019, ,0.2, , ,6.4,100,35,0.86,15.38
+BRIDGETOWN,24/04/2019,2.4,0.0, ,24.5,9.5,94,38,1.30,15.06
+BRIDGETOWN,25/04/2019,2.2,0.0, ,23.8,5.9,100,43,1.11,15.08
+BRIDGETOWN,26/04/2019,2.3,0.0, ,25.3,8.4,98,34,1.01,14.95
+BRIDGETOWN,27/04/2019,1.9,0.0, ,26.9,3.5,99,23,0.57,14.81
+BRIDGETOWN,28/04/2019,2.5,0.0, ,26.8,2.9,99,25,1.34,12.69
+BRIDGETOWN,29/04/2019,1.8,0.0, ,19.4,12.2,94,49,1.73,9.54
+BRIDGETOWN,30/04/2019,1.7,0.6, ,18.2,6.7,98,53,1.44,12.02
+Totals:,,55.2,44.8, ,,,,,, 

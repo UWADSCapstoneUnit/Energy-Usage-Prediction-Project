@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for January 2022,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 February 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/01/2022,6.3,0.0, ,25.7,8.7,85,25,3.62,30.26
+KATANNING,02/01/2022,7.3,0.0, ,29.7,11.2,84,18,3.53,30.70
+KATANNING,03/01/2022,8.1,0.0, ,30.6,13.9,79,28,6.03,28.31
+KATANNING,04/01/2022,7.3,0.0, ,27.2,15.6,73,33,6.94,25.49
+KATANNING,05/01/2022,9.0,0.0, ,32.5,15.4,77,22,6.03,29.80
+KATANNING,06/01/2022,9.1,0.0, ,34.6,14.3,85,21,5.19,30.43
+KATANNING,07/01/2022,8.9,0.0, ,31.2,15.3,72,24,6.48,30.29
+KATANNING,08/01/2022,9.3,0.0, ,34.5,13.3,81,18,5.34,30.20
+KATANNING,09/01/2022,6.6,0.0, ,23.7,11.3,77,25,5.34,29.41
+KATANNING,10/01/2022,6.6,0.0, ,25.2,9.8,81,22,5.05,26.09
+KATANNING,11/01/2022,7.7,0.0, ,31.0,13.1,75,18,4.56,25.20
+KATANNING,12/01/2022, ,0.0, , ,13.8,85,15,4.49,29.84
+KATANNING,13/01/2022, , , ,30.7, ,83,25,4.14,28.12
+KATANNING,14/01/2022,6.3,0.0, ,29.3,11.9,87,31,3.27,27.30
+KATANNING,15/01/2022,6.7,0.0, ,29.6,11.4,88,23,3.04,29.73
+KATANNING,16/01/2022,7.0,0.0, ,28.7,12.5,84,22,4.36,27.22
+KATANNING,17/01/2022,7.7,0.0, ,29.3,11.3,74,28,5.62,29.30
+KATANNING,18/01/2022,9.1,0.0, ,36.4,14.1,77,18,4.56,28.54
+KATANNING,19/01/2022,8.7,0.0, ,37.1,16.9,59,11,3.36,29.18
+KATANNING,20/01/2022,8.8,0.0, ,38.8,15.1,74,11,3.20,29.04
+KATANNING,21/01/2022, ,0.0, , ,14.5,79,11,3.54,28.94
+KATANNING,22/01/2022, , , , ,13.9,83,12,2.98,28.64
+KATANNING,23/01/2022,9.1, , ,39.2,15.4,75,11,4.02,24.70
+KATANNING,24/01/2022,6.1,0.0, ,25.1,14.6,84,31,6.37,21.16
+KATANNING,25/01/2022,5.0,2.0, ,24.9,13.4,89,41,5.18,19.14
+KATANNING,26/01/2022,4.3,0.0, ,24.8,14.1,81,41,3.84,14.69
+KATANNING,27/01/2022,6.3,0.0, ,26.8,13.4,83,28,4.40,25.11
+KATANNING,28/01/2022,7.7,0.0, ,30.9,9.4,80,16,4.24,28.64
+KATANNING,29/01/2022,8.6,0.0, ,37.4,13.6,87,17,4.10,26.30
+KATANNING,30/01/2022,8.4,0.0, ,33.5,16.6,75,26,5.16,28.28
+KATANNING,31/01/2022,6.3,0.0, ,23.6,15.9,76,34,7.98,22.02
+Totals:,,202.3,2, ,,,,,, 

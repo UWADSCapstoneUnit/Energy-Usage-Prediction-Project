@@ -1,0 +1,32 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for JACUP Western Australia for May 2011,,,,,,,,,,
+Issued at 22:35 GMT on Wednesday 01 June 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+JACUP,01/05/2011, ,0.0, ,22.8,9.0, , , ,14.56
+JACUP,02/05/2011, ,0.2, ,22.0,9.6, , , ,13.48
+JACUP,03/05/2011, ,0.0, ,20.9,9.5, , , ,12.19
+JACUP,04/05/2011, ,0.0, ,24.1,9.6, , , ,12.98
+JACUP,05/05/2011, ,0.0, ,25.0,11.4, , , ,12.69
+JACUP,06/05/2011, ,0.0, ,18.8,6.3, , , ,13.06
+JACUP,07/05/2011, ,0.0, ,19.7,11.7, , , ,15.45
+JACUP,08/05/2011, ,0.0, , ,6.1, , , ,15.89
+JACUP,09/05/2011, , , , , , , , ,10.95
+JACUP,10/05/2011, , , , , , , , ,12.66
+JACUP,11/05/2011, , , , , , , , ,13.76
+JACUP,19/05/2011, , , , , , , , ,14.41
+JACUP,20/05/2011, , , , , , , , ,5.92
+JACUP,21/05/2011, , , , , ,100,53,4.54,10.49
+JACUP,22/05/2011, , , ,17.1, , , , ,9.95
+JACUP,23/05/2011, ,5.8, , ,10.9,100,35,2.41,10.57
+JACUP,30/05/2011, , , , , , , , ,10.72
+JACUP,31/05/2011, , , , , , , , ,12.11
+Totals:,, ,6, ,,,,,, 

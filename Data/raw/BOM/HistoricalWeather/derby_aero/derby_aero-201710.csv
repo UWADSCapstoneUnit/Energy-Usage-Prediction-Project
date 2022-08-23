@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for October 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 November 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/10/2017,8.2,0.0, ,38.7,19.8,59,16,3.33,26.60
+DERBY AERO,02/10/2017,8.5,0.0, ,39.7,21.8,63,17,3.43,26.73
+DERBY AERO,03/10/2017,9.0,0.0, ,37.2,26.3,83,31,5.93,26.82
+DERBY AERO,04/10/2017,7.7,0.0, ,37.9,22.2,83,27,3.38,26.64
+DERBY AERO,05/10/2017,8.2,0.0, ,38.6,24.5,83,29,3.95,26.92
+DERBY AERO,06/10/2017,8.7,0.0, ,38.1,24.4,77,29,4.77,27.07
+DERBY AERO,07/10/2017,7.3,0.0, ,35.0,23.3,87,40,4.39,26.64
+DERBY AERO,08/10/2017,7.3,0.0, ,36.5,21.9,86,30,3.30,27.12
+DERBY AERO,09/10/2017,8.2,0.0, ,37.8,25.1,80,36,4.47,26.78
+DERBY AERO,10/10/2017,8.6,0.0, ,38.4,25.1,79,31,4.62,27.07
+DERBY AERO,11/10/2017,9.4,0.0, ,41.3,24.2,61,23,4.34,25.34
+DERBY AERO,12/10/2017,8.8,0.0, ,39.8,26.0,95,36,5.52,27.04
+DERBY AERO,13/10/2017,7.9,2.0, ,38.2,24.1,94,32,3.87,27.64
+DERBY AERO,14/10/2017,8.4,1.4, ,40.8,25.9,79,33,3.62,27.68
+DERBY AERO,15/10/2017,9.0,0.0, ,40.2,27.7,74,26,4.34,26.37
+DERBY AERO,16/10/2017,8.7,0.0, ,39.1,27.1,85,28,4.26,27.86
+DERBY AERO,17/10/2017,8.1,0.0, ,39.9,26.8,72,23,4.70,17.05
+DERBY AERO,18/10/2017, ,0.0, , ,25.5,76,14,4.62,27.76
+DERBY AERO,19/10/2017, , , ,44.4, ,67,11,5.00,27.97
+DERBY AERO,20/10/2017,9.6,0.0, ,39.6,26.9,83,29,5.90,26.35
+DERBY AERO,21/10/2017,8.1,0.0, ,38.1,27.0,84,26,4.42,23.74
+DERBY AERO,22/10/2017,8.3,0.0, ,39.1,24.5,90,28,3.70,28.27
+DERBY AERO,23/10/2017,8.6,0.0, ,39.0,23.1,76,25,3.72,28.35
+DERBY AERO,24/10/2017,8.6,0.0, ,37.4,24.7,79,38,5.06,28.41
+DERBY AERO,25/10/2017,8.1,0.0, ,38.7,23.4,82,41,3.97,28.42
+DERBY AERO,26/10/2017,9.0,0.0, ,38.5,24.6,87,36,5.67,28.17
+DERBY AERO,27/10/2017,8.3,0.0, ,37.0,24.4,85,43,5.54,28.03
+DERBY AERO,28/10/2017,9.7,0.0, ,42.8,23.4,92,10,3.75,28.64
+DERBY AERO,29/10/2017,10.2,0.0, ,42.4,25.2,88,9,4.31,28.68
+DERBY AERO,30/10/2017,11.9,0.0, ,44.8,19.6,82,7,5.01,28.75
+DERBY AERO,31/10/2017,7.3,0.0, ,37.6,25.6,89,40,4.09,24.31
+Totals:,,249.7,3.4, ,,,,,, 

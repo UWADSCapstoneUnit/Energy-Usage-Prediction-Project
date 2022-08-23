@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DWELLINGUP Western Australia for September 2016,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 October 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DWELLINGUP,01/09/2016,2.6,2.8, ,15.7,2.5,94,48,3.22,18.02
+DWELLINGUP,02/09/2016,1.9,0.0, ,14.8,4.4,93,55,2.96,10.29
+DWELLINGUP,03/09/2016,2.7,0.4, ,16.9,2.2,95,45,3.14,18.52
+DWELLINGUP,04/09/2016,3.2,0.2, ,20.4,5.8,91,41,3.26,16.86
+DWELLINGUP,05/09/2016,3.0,0.0, ,20.0,5.8,94,53,3.43,18.87
+DWELLINGUP,06/09/2016,2.6,0.0, ,17.2,7.7,94,55,4.59,13.26
+DWELLINGUP,07/09/2016,2.9,11.2, ,15.0,8.4,92,47,6.88,13.39
+DWELLINGUP,08/09/2016,2.7,8.4, ,15.2,6.5,91,48,3.48,17.20
+DWELLINGUP,09/09/2016,1.8,0.2, ,15.4,5.1,93,61,2.34,9.47
+DWELLINGUP,10/09/2016,2.0,1.6, ,16.2,6.9,94,67,2.78,13.04
+DWELLINGUP,11/09/2016,2.8,0.8, ,14.7,7.9,86,54,6.74,13.91
+DWELLINGUP,12/09/2016,3.8,0.0, ,16.0,5.4,74,42,7.35,19.08
+DWELLINGUP,13/09/2016,3.1,0.0, ,15.1,4.5,87,42,5.18,16.92
+DWELLINGUP,14/09/2016,3.0,0.0, ,16.3,2.8,92,42,3.41,18.58
+DWELLINGUP,15/09/2016,2.1,0.0, ,13.8,1.2,93,54,3.73,11.20
+DWELLINGUP,16/09/2016,2.7,9.6, ,14.2,3.8,92,46,4.08,16.19
+DWELLINGUP,17/09/2016,2.8,0.0, ,15.3,1.4,94,38,3.14,17.44
+DWELLINGUP,18/09/2016,2.4,0.2, ,14.7,2.1,93,51,4.84,11.07
+DWELLINGUP,19/09/2016,2.5,21.4, ,14.0,4.1,91,56,3.97,17.39
+DWELLINGUP,20/09/2016,2.9,0.0, ,16.8,2.7,94,50,2.59,20.43
+DWELLINGUP,21/09/2016, ,0.2, , ,2.4,94,47,2.16,21.40
+DWELLINGUP,22/09/2016, , , ,14.9, ,94,57,3.73,6.70
+DWELLINGUP,23/09/2016,2.6,14.6, ,12.6,6.0,92,48,4.20,16.72
+DWELLINGUP,24/09/2016,2.0,2.4, ,13.4,0.6,94,53,2.89,11.91
+DWELLINGUP,25/09/2016,3.4,5.8, ,15.3,6.7,95,36,3.71,21.49
+DWELLINGUP,26/09/2016,1.5,0.2, ,14.2,2.7,94,70,3.51,6.33
+DWELLINGUP,27/09/2016,2.0,12.8, ,15.6,10.6,94,69,5.94,9.02
+DWELLINGUP,28/09/2016,2.8,11.0, ,13.6,4.2,92,47,3.79,18.55
+DWELLINGUP,29/09/2016,3.3,0.0, ,16.5,0.6,93,43,3.34,22.89
+DWELLINGUP,30/09/2016,2.3,0.0, ,15.2,4.5,93,66,5.31,13.74
+Totals:,,73.4,103.8, ,,,,,, 

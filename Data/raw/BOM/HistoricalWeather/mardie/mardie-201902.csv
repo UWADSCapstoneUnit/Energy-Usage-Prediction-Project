@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARDIE Western Australia for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARDIE,01/02/2019,6.8,0.0, ,34.9,26.9,100,56,3.65,28.39
+MARDIE,02/02/2019,7.9,0.0, ,35.7,27.1,100,40,5.49,28.25
+MARDIE,03/02/2019,12.2,2.8, ,45.6,27.5,100,9,6.25,25.60
+MARDIE,04/02/2019,10.6,0.0, ,42.0,30.1,76,18,5.01,28.67
+MARDIE,05/02/2019,7.7,0.0, ,36.4,29.0,90,44,3.93,28.35
+MARDIE,06/02/2019, ,0.0, , ,23.7,90,53,4.64,28.73
+MARDIE,07/02/2019, , , , , , , , ,28.59
+MARDIE,08/02/2019, , , , , , , , ,28.64
+MARDIE,09/02/2019, , , , , , , , ,28.61
+MARDIE,10/02/2019, , , , , , , , ,28.52
+MARDIE,11/02/2019, , , , , , , , ,28.51
+MARDIE,12/02/2019,7.3, , ,36.3,27.3,100,44,3.45,28.30
+MARDIE,13/02/2019,7.2,0.0, ,35.0,27.2,100,45,4.05,28.14
+MARDIE,14/02/2019, ,0.0, , ,25.9, , , ,28.05
+MARDIE,15/02/2019, , , , , , , , ,28.12
+MARDIE,16/02/2019,13.1, , ,47.3,28.5,50,6,6.03,20.84
+MARDIE,17/02/2019, ,0.0, , ,27.6,70,6,4.69,26.70
+MARDIE,18/02/2019, , , , , , , , ,26.96
+MARDIE,19/02/2019,9.1, , ,38.3,25.4,70,26,4.60,27.64
+MARDIE,20/02/2019,7.3,0.0, ,38.0,24.8,85,44,3.03,27.48
+MARDIE,21/02/2019, ,0.0, , ,25.4, , , ,27.53
+MARDIE,22/02/2019, , , , , , , , ,27.44
+MARDIE,23/02/2019,9.9, , ,44.6,23.2,100,7,3.79,27.35
+MARDIE,24/02/2019, ,0.0, , ,25.1, , , ,27.29
+MARDIE,25/02/2019, , , , , , , , ,27.39
+MARDIE,26/02/2019, , , , , , , , ,27.16
+MARDIE,27/02/2019,6.6, , ,36.8,25.1,100,45,2.60,26.89
+MARDIE,28/02/2019, ,0.0, , ,25.6, , , ,23.59
+Totals:,,105.7,2.8, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for September 2011,,,,,,,,,,
+Issued at 22:35 GMT on Saturday 01 October 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/09/2011,2.5,0.2, ,20.8,6.7,96,55,2.35,14.58
+COLLIE EAST,02/09/2011,1.9,8.0, ,15.6,10.2,93,64,2.64,11.17
+COLLIE EAST,03/09/2011,2.2,3.4, ,16.3,1.7,95,51,2.37,14.76
+COLLIE EAST,04/09/2011,2.4,1.2, ,18.5,7.3,94,46,1.90,14.98
+COLLIE EAST,05/09/2011,2.3,0.0, ,18.6,7.0,95,50,1.57,15.80
+COLLIE EAST,06/09/2011,2.4,0.2, ,19.6,1.8,94,51,1.31,17.36
+COLLIE EAST,07/09/2011,2.7,0.0, ,17.7,2.1,95,42,2.06,19.78
+COLLIE EAST,08/09/2011,2.6,0.0, ,17.4,4.2,91,53,2.46,17.83
+COLLIE EAST,09/09/2011,2.7,0.0, ,18.0,2.5,94,49,1.72,20.73
+COLLIE EAST,10/09/2011,2.9,0.0, ,20.1,2.4,94,37,1.41,20.91
+COLLIE EAST,11/09/2011,2.9,0.0, ,23.8,0.9,93,29,0.87,21.20
+COLLIE EAST,12/09/2011,3.5,0.0, ,21.7,1.6,93,37,2.50,21.32
+COLLIE EAST,13/09/2011,2.5,0.4, ,19.5,11.4,94,48,1.45,15.16
+COLLIE EAST,14/09/2011,2.7,0.0, ,19.6,2.6,94,52,1.25,20.25
+COLLIE EAST,15/09/2011,2.0,2.8, ,18.7,11.3,94,71,2.33,11.53
+COLLIE EAST,16/09/2011,2.7,10.0, ,19.2,12.2,94,61,4.38,13.98
+COLLIE EAST,17/09/2011,2.5,8.6, ,18.6,5.6,95,53,3.04,13.26
+COLLIE EAST,18/09/2011,2.5,32.8, ,14.9,9.5,92,56,4.25,14.89
+COLLIE EAST,19/09/2011,2.4,3.0, ,17.9,8.1,92,63,2.31,15.21
+COLLIE EAST,20/09/2011,2.9,0.2, ,19.1,10.7,90,59,4.17,14.97
+COLLIE EAST,21/09/2011,2.0,8.4, ,16.4,12.0,91,63,3.72,8.17
+COLLIE EAST,22/09/2011,2.4,5.4, ,16.2,2.0,95,50,0.71,19.44
+COLLIE EAST,23/09/2011,2.7,0.2, ,18.9,3.5,95,41,0.88,19.65
+COLLIE EAST,24/09/2011,3.1,0.0, ,20.3,2.4,94,39,1.14,22.34
+COLLIE EAST,25/09/2011,2.8,0.0, ,20.7,3.4,94,50,1.76,17.79
+COLLIE EAST,26/09/2011,2.8,7.8, ,15.0,10.4,94,49,2.20,18.64
+COLLIE EAST,27/09/2011,2.1,13.4, ,13.7,5.6,94,58,2.43,12.98
+COLLIE EAST,28/09/2011,3.0,3.4, ,17.4,0.2,95,42,1.32,23.31
+COLLIE EAST,29/09/2011,2.8,0.2, ,19.7,3.3,94,37,0.76,20.71
+COLLIE EAST,30/09/2011,3.4,0.0, ,20.0,2.9,95,48,1.99,23.71
+Totals:,,78.3,109.6, ,,,,,, 

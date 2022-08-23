@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAVERTON AERO Western Australia for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAVERTON AERO,01/11/2016, , , , , , , , ,28.47
+LAVERTON AERO,02/11/2016, , , , , , , , ,28.72
+LAVERTON AERO,03/11/2016, , , , , , , , ,27.41
+LAVERTON AERO,04/11/2016, , , , , , , , ,28.69
+LAVERTON AERO,05/11/2016, , , , , , , , ,29.06
+LAVERTON AERO,06/11/2016, , , , , , , , ,24.91
+LAVERTON AERO,07/11/2016, , , , , , , , ,29.20
+LAVERTON AERO,08/11/2016, , , , , , , , ,29.32
+LAVERTON AERO,09/11/2016, , , , , , , , ,29.44
+LAVERTON AERO,10/11/2016, , , , , , , , ,29.50
+LAVERTON AERO,11/11/2016, , , , , , , , ,29.62
+LAVERTON AERO,12/11/2016, , , , , , , , ,29.71
+LAVERTON AERO,13/11/2016, , , , , , , , ,29.80
+LAVERTON AERO,14/11/2016, , , , , , , , ,29.88
+LAVERTON AERO,15/11/2016, , , , , , , , ,29.97
+LAVERTON AERO,16/11/2016, , , , , , , , ,11.08
+LAVERTON AERO,17/11/2016, , , , , , , , ,24.13
+LAVERTON AERO,18/11/2016, , , , , , , , ,30.18
+LAVERTON AERO,19/11/2016, , , ,34.0, ,64,8,4.15,30.31
+LAVERTON AERO,20/11/2016,13.6,0.0, ,39.7,21.4,45,8,7.80,29.46
+LAVERTON AERO,21/11/2016,9.4,0.0, ,28.5,13.5,59,10,7.24,29.34
+LAVERTON AERO,22/11/2016,9.9,0.0, ,28.9,14.2,46,10,7.34,30.59
+LAVERTON AERO,23/11/2016,8.7,0.0, ,29.2,15.7,37,12,6.08,20.94
+LAVERTON AERO,24/11/2016,9.0,0.0, ,30.6,13.9,53,18,5.69,30.63
+LAVERTON AERO,25/11/2016,9.2,0.0, ,31.5,15.7,55,22,5.95,30.70
+LAVERTON AERO,26/11/2016,8.8,0.0, ,33.7,19.0,38,15,4.60,23.92
+LAVERTON AERO,27/11/2016,10.3,0.0, ,38.4,21.0,33,9,4.19,30.69
+LAVERTON AERO,28/11/2016,11.2,0.0, ,40.9,23.5,25,9,5.12,24.09
+LAVERTON AERO,29/11/2016,11.0,0.0, ,40.5,24.3,43,12,5.69,21.85
+LAVERTON AERO,30/11/2016,11.9,0.2, ,39.5,16.6,60,9,5.96,31.03
+Totals:,,113,0.2, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for August 2011,,,,,,,,,,
+Issued at 22:34 GMT on Thursday 01 September 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/08/2011,2.1,1.0, ,17.5,7.5,96,60,6.46,8.69
+LAKE GRACE,02/08/2011,2.2,0.2, ,18.9,11.6,94,65,6.45,9.48
+LAKE GRACE,03/08/2011,2.2,1.6, ,14.5,7.1,89,47,4.76,8.82
+LAKE GRACE,04/08/2011, ,3.8, ,13.8,4.7,92,41,3.23, 
+LAKE GRACE,05/08/2011,1.5,0.0, ,13.6,0.4,96,48,1.91,12.36
+LAKE GRACE,06/08/2011,2.7,0.0, ,15.7,3.9,86,40,4.82,14.02
+LAKE GRACE,07/08/2011,2.5,0.0, ,18.6,8.0,92,46,3.88,11.87
+LAKE GRACE,08/08/2011,1.9,0.0, ,17.4,10.6,95,63,4.06,9.77
+LAKE GRACE,09/08/2011,2.0,1.2, ,15.7,6.7,100,50,3.60,12.88
+LAKE GRACE,10/08/2011,1.3,0.0, ,16.0,2.2,100,96,1.07,13.94
+LAKE GRACE,11/08/2011,1.2,0.0, ,16.7,4.9,100,97,2.20,12.85
+LAKE GRACE,12/08/2011,1.2,0.0, ,18.4,5.8,100,97,3.50,13.55
+LAKE GRACE,13/08/2011,3.1,0.0, ,21.8,8.3,100,48,5.67,12.78
+LAKE GRACE,14/08/2011,2.9,4.0, ,16.8,11.0,94,43,5.99,12.73
+LAKE GRACE,15/08/2011,3.0,0.4, ,18.2,7.5,91,48,6.63,12.53
+LAKE GRACE,16/08/2011,2.3,1.6, ,13.7,4.8,93,47,4.82,13.02
+LAKE GRACE,17/08/2011,2.0,0.0, ,15.8,1.0,96,49,2.71,12.16
+LAKE GRACE,18/08/2011,2.1,0.0, ,16.5,8.5,92,44,2.38,11.18
+LAKE GRACE,19/08/2011,2.8,0.0, ,19.6,1.5,93,33,2.77,16.41
+LAKE GRACE,20/08/2011,3.5,0.0, ,23.0,5.8,86,36,3.49,16.13
+LAKE GRACE,21/08/2011,5.3,0.0, ,26.9,8.1,92,23,5.74,15.36
+LAKE GRACE,22/08/2011,2.2,6.8, ,16.3,13.0,94,52,4.58,8.57
+LAKE GRACE,23/08/2011,2.6,6.0, ,17.3,3.7,95,47,3.41,16.60
+LAKE GRACE,24/08/2011,2.7,0.4, ,15.8,8.5,90,37,3.58,15.90
+LAKE GRACE,25/08/2011,1.9,0.0, ,14.9,3.6,97,40,1.32,14.38
+LAKE GRACE,26/08/2011,2.2,0.0, ,16.4,1.1,96,42,1.58,17.23
+LAKE GRACE,27/08/2011,2.4,0.0, ,18.1,1.9,95,41,1.86,16.92
+LAKE GRACE,28/08/2011,2.0,0.0, ,18.4,4.1,100,67,1.63,16.48
+LAKE GRACE,29/08/2011,1.6,0.0, ,21.7,9.5,100,98,5.01,16.93
+LAKE GRACE,30/08/2011,1.8,0.0, ,21.4,8.6,100,97,3.51,17.02
+LAKE GRACE,31/08/2011,1.8,0.0, ,20.0,6.5,100,96,2.20,16.93
+Totals:,,69,27, ,,,,,, 

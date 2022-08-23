@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for March 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 April 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/03/2014, , , , , ,41,10,2.28,25.91
+WANDERING,02/03/2014, , , , , , , , ,24.23
+WANDERING,03/03/2014, , , , , , , , ,22.93
+WANDERING,04/03/2014, , , , , , , , ,24.13
+WANDERING,05/03/2014, , , , , , , , ,24.13
+WANDERING,06/03/2014, , , , , , , , ,23.98
+WANDERING,07/03/2014, , , , , , , , ,22.96
+WANDERING,08/03/2014, , , , , ,75,34,3.35,20.36
+WANDERING,09/03/2014, , , , , , , , ,23.30
+WANDERING,10/03/2014, , , , , , , , ,23.60
+WANDERING,11/03/2014, , , , , , , , ,23.30
+WANDERING,12/03/2014, , , , , , , , ,20.21
+WANDERING,13/03/2014, , , ,32.6, ,65,27,2.20,10.25
+WANDERING,14/03/2014,5.0,0.0, ,26.1,10.2,86,25,3.55,20.34
+WANDERING,15/03/2014,4.2,0.0, ,25.6,5.6,81,29,2.08,21.89
+WANDERING,16/03/2014,4.5,0.0, ,29.9,8.3,80,23,1.63,21.79
+WANDERING,17/03/2014,4.8,0.0, ,29.4,11.2,88,25,2.51,20.00
+WANDERING,18/03/2014,6.0,0.0, ,31.3,15.2,78,15,3.16,21.78
+WANDERING,19/03/2014,6.0,0.0, ,32.7,11.9,89,20,3.30,21.40
+WANDERING,20/03/2014,6.9,0.0, ,27.9,15.3,75,27,7.07,21.33
+WANDERING,21/03/2014,3.8,0.0, ,22.9,14.3,73,53,4.32,14.54
+WANDERING,22/03/2014,5.2,0.0, ,28.2,16.1,74,39,5.02,16.14
+WANDERING,23/03/2014,5.2,4.4, ,29.3,16.1,85,33,3.88,19.20
+WANDERING,24/03/2014,6.0,0.2, ,33.9,17.3,58,23,3.05,19.91
+WANDERING,25/03/2014,4.0,0.0, ,29.5,14.5,74,29,2.69,10.37
+WANDERING,26/03/2014,4.5,0.0, ,31.2,17.5,82,16,2.64,12.28
+WANDERING,27/03/2014,5.3,0.0, ,28.5,16.7,81,31,4.07,19.11
+WANDERING,28/03/2014,4.7,0.0, ,31.7,11.4,88,24,2.21,19.45
+WANDERING,29/03/2014,2.7,0.0, ,24.2,16.4,87,52,3.31,6.62
+WANDERING,30/03/2014,1.8,5.4, ,19.0,8.8,90,66,2.38,7.42
+WANDERING,31/03/2014,2.2,0.0, ,21.0,12.1,91,51,1.93,9.46
+Totals:,,82.8,10, ,,,,,, 

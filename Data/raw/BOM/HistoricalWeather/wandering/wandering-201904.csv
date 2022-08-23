@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for April 2019,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 May 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/04/2019,3.8,0.0, ,28.9,19.2,66,27,2.85,6.66
+WANDERING,02/04/2019,3.9,0.4, ,25.0,16.6,93,45,3.62,17.34
+WANDERING,03/04/2019,3.1,0.0, ,24.8,15.5,82,60,3.35,12.49
+WANDERING,04/04/2019,3.2,0.0, ,22.1,15.3,91,42,3.14,13.43
+WANDERING,05/04/2019,3.2,0.2, ,21.6,3.4,96,29,2.10,18.93
+WANDERING,06/04/2019,3.6,0.0, ,26.8,1.5,87,16,1.60,18.74
+WANDERING,07/04/2019,3.4,0.0, ,25.3,4.6,94,31,1.82,18.58
+WANDERING,08/04/2019,4.4,0.0, ,25.1,6.3,96,28,3.82,18.40
+WANDERING,09/04/2019,4.5,0.0, ,30.7,10.7,84,28,2.65,18.23
+WANDERING,10/04/2019,3.9,0.0, ,33.5,9.9,80,16,1.47,18.05
+WANDERING,11/04/2019,3.2,0.0, ,25.7,9.0,96,47,2.46,16.71
+WANDERING,12/04/2019,3.3,0.0, ,25.2,11.5,81,44,2.80,13.20
+WANDERING,13/04/2019,4.5,0.0, ,30.9,13.8,81,41,3.67,14.94
+WANDERING,14/04/2019,2.8,0.0, ,22.7,12.2,93,58,3.65,13.43
+WANDERING,15/04/2019,2.1,5.6, ,20.6,15.1,95,69,3.94,9.05
+WANDERING,16/04/2019,2.5,3.4, ,20.9,14.6,95,52,3.60,10.10
+WANDERING,17/04/2019,2.5,0.2, ,21.1,4.3,98,36,1.55,16.97
+WANDERING,18/04/2019,3.4,0.0, ,26.1,6.4,93,35,2.54,16.32
+WANDERING,19/04/2019,2.1,11.0, ,13.7,7.9,93,52,3.63,12.96
+WANDERING,20/04/2019,2.1,2.4, ,16.2,1.0,96,46,2.00,14.42
+WANDERING,21/04/2019,2.6,0.0, ,21.2,1.5,98,26,1.58,16.36
+WANDERING,22/04/2019,2.8,0.0, ,24.6,1.9,95,26,1.61,16.20
+WANDERING,23/04/2019,2.6,0.0, ,26.1,3.7,96,25,1.10,16.05
+WANDERING,24/04/2019,3.3,0.0, ,26.4,6.9,98,28,2.21,15.90
+WANDERING,25/04/2019,3.0,0.0, ,26.7,5.0,96,28,1.78,15.76
+WANDERING,26/04/2019,3.4,0.0, ,25.9,7.3,97,28,2.60,15.61
+WANDERING,27/04/2019,3.0,0.0, ,26.6,4.5,91,19,1.60,15.46
+WANDERING,28/04/2019,3.4,0.0, ,27.5,4.1,82,22,2.06,14.61
+WANDERING,29/04/2019,2.6,0.0, ,20.3,11.7,84,41,3.20,8.84
+WANDERING,30/04/2019,2.4,0.0, ,19.2,2.4,96,44,3.09,12.51
+Totals:,,94.6,23.2, ,,,,,, 

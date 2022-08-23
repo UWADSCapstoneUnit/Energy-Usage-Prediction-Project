@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DERBY AERO Western Australia for April 2016,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 May 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DERBY AERO,01/04/2016,8.2,0.0, ,38.6,28.3,79,33,5.28,22.54
+DERBY AERO,02/04/2016,6.4,0.0, ,38.0,27.1,84,42,3.60,20.41
+DERBY AERO,03/04/2016,7.4,0.2, ,41.3,26.8,74,19,2.93,22.50
+DERBY AERO,04/04/2016,7.8,0.0, ,40.6,25.7,84,22,3.51,23.93
+DERBY AERO,05/04/2016,7.8,0.0, ,40.6,24.3,79,16,3.45,22.87
+DERBY AERO,06/04/2016,7.2,0.0, ,39.7,26.5,82,19,3.30,21.10
+DERBY AERO,07/04/2016,7.5,0.0, ,40.4,27.5,79,26,3.93,20.30
+DERBY AERO,08/04/2016,6.4,0.0, ,37.5,28.7,84,34,3.59,19.48
+DERBY AERO,09/04/2016,6.4,0.0, ,39.7,28.4,75,29,3.15,17.18
+DERBY AERO,10/04/2016, ,0.4, , ,25.5,79,15,4.04,22.81
+DERBY AERO,11/04/2016, , , , , ,72,35,3.39,22.92
+DERBY AERO,12/04/2016, , , ,39.5, ,79,21,3.06,23.45
+DERBY AERO,13/04/2016,7.3,0.0, ,37.3,22.8,74,28,3.90,23.23
+DERBY AERO,14/04/2016,6.7,0.0, ,38.1,24.0,77,28,3.32,21.41
+DERBY AERO,15/04/2016,7.0,0.0, ,38.6,23.7,79,19,3.37,21.13
+DERBY AERO,16/04/2016,7.3,0.0, ,39.3,22.3,70,15,3.16,23.07
+DERBY AERO,17/04/2016,7.5,0.0, ,40.7,23.9,73,15,3.29,22.01
+DERBY AERO,18/04/2016,7.3,0.0, ,38.2,24.3,77,26,3.96,21.40
+DERBY AERO,19/04/2016,7.8,0.0, ,38.7,27.4,81,27,4.79,21.22
+DERBY AERO,20/04/2016,6.3,0.0, ,38.3,26.4,86,32,3.55,18.90
+DERBY AERO,21/04/2016,5.7,0.0, ,38.5,23.7,79,26,2.50,18.52
+DERBY AERO,22/04/2016,7.7,0.0, ,39.3,24.5,60,21,3.91,20.43
+DERBY AERO,23/04/2016,7.3,0.0, ,40.4,22.9,65,13,3.16,21.12
+DERBY AERO,24/04/2016,8.4,0.0, ,39.6,22.0,43,10,4.01,21.28
+DERBY AERO,25/04/2016,7.7,0.0, ,38.4,24.6,75,11,3.91,21.20
+DERBY AERO,26/04/2016,6.0,0.0, ,36.0,20.5,80,23,2.93,21.13
+DERBY AERO,27/04/2016,6.1,0.0, ,36.9,20.7,82,20,2.80,20.70
+DERBY AERO,28/04/2016,7.0,0.0, ,37.6,21.9,81,18,3.74,20.82
+DERBY AERO,29/04/2016,6.4,0.0, ,37.2,22.3,88,21,3.29,20.81
+DERBY AERO,30/04/2016,6.2,0.0, ,37.2,23.4,89,26,3.16,20.66
+Totals:,,190.8,0.6, ,,,,,, 

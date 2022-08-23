@@ -1,0 +1,35 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEGENDRE ISLAND Western Australia for January 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 February 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEGENDRE ISLAND,01/01/2014,9.5, , ,41.4,31.5,89,62,6.08,33.30
+LEGENDRE ISLAND,02/01/2014,10.9, , ,48.0,30.3,98,44,4.00,33.96
+LEGENDRE ISLAND,03/01/2014, , , , ,32.0,100,55,3.43,29.27
+LEGENDRE ISLAND,14/01/2014, , , , , ,100,100,5.98,29.72
+LEGENDRE ISLAND,15/01/2014, , , , , ,100,58,5.73,27.84
+LEGENDRE ISLAND,16/01/2014, , , ,34.1, ,85,50,9.13,28.13
+LEGENDRE ISLAND,17/01/2014,8.5, , ,34.0,28.4,84,51,8.88,28.51
+LEGENDRE ISLAND,18/01/2014,6.9, , ,32.0,26.8,88,66,10.12,27.64
+LEGENDRE ISLAND,19/01/2014,6.7, , ,31.8,25.9,90,65,11.49,26.01
+LEGENDRE ISLAND,20/01/2014,4.2, , ,31.8,26.3,100,71,8.83,15.22
+LEGENDRE ISLAND,21/01/2014,5.1, , ,32.3,26.4,100,69,12.83,18.32
+LEGENDRE ISLAND,22/01/2014,3.7, , ,31.1,25.7,100,71,10.92,10.26
+LEGENDRE ISLAND,23/01/2014,6.1, , ,31.9,26.2,88,61,6.99,21.84
+LEGENDRE ISLAND,24/01/2014,6.4, , ,31.7,25.6,93,61,4.73,28.05
+LEGENDRE ISLAND,25/01/2014,6.2, , ,32.2,25.8,86,63,7.67,21.95
+LEGENDRE ISLAND,26/01/2014,6.4, , ,35.3,26.0,93,47,6.83,16.51
+LEGENDRE ISLAND,27/01/2014,4.4, , ,32.2,25.1,100,66,5.72,16.02
+LEGENDRE ISLAND,28/01/2014,5.1, , ,33.1,24.1,100,60,4.77,19.44
+LEGENDRE ISLAND,29/01/2014,6.0, , ,33.2,26.3,95,62,3.10,25.92
+LEGENDRE ISLAND,30/01/2014,5.8, , ,33.5,27.1,94,69,3.37,24.83
+LEGENDRE ISLAND,31/01/2014,5.6, , ,32.0,25.0,100,72,3.74,26.81
+Totals:,,107.5, , ,,,,,, 

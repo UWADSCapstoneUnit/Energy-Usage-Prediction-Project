@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GINGIN AERO Western Australia for September 2011,,,,,,,,,,
+Issued at 22:35 GMT on Saturday 01 October 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GINGIN AERO,01/09/2011,3.5,0.0, ,23.4,5.4,94,44,3.53,16.95
+GINGIN AERO,02/09/2011,1.9,18.8, ,16.0,13.0,93,66,5.28,7.18
+GINGIN AERO,03/09/2011,2.6,6.8, ,17.8,6.3,93,56,3.27,16.06
+GINGIN AERO,04/09/2011,2.4,1.8, ,18.4,8.9,93,58,2.41,15.30
+GINGIN AERO,05/09/2011,3.0,1.6, ,19.3,6.2,94,45,3.37,16.67
+GINGIN AERO,06/09/2011,3.6,0.0, ,19.9,5.4,93,39,4.04,20.19
+GINGIN AERO,07/09/2011,3.8,0.0, ,19.3,4.9,91,36,4.45,20.65
+GINGIN AERO,08/09/2011,4.1,0.0, ,19.6,5.6,78,41,5.60,20.93
+GINGIN AERO,09/09/2011,4.0,0.0, ,20.2,7.9,84,40,4.77,21.39
+GINGIN AERO,10/09/2011,4.2,0.0, ,21.6,8.1,80,33,3.87,21.46
+GINGIN AERO,11/09/2011,4.4,0.0, ,23.5,4.3,87,25,3.26,21.78
+GINGIN AERO,12/09/2011,5.9,0.0, ,27.2,4.3,87,13,4.16,21.72
+GINGIN AERO,13/09/2011,2.6,0.8, ,21.3,7.4,95,53,2.59,12.21
+GINGIN AERO,14/09/2011,3.0,0.0, ,23.2,6.3,93,23,1.60,14.38
+GINGIN AERO,15/09/2011,2.3,0.0, ,22.1,12.8,93,59,3.03,8.65
+GINGIN AERO,16/09/2011,3.6,7.0, ,21.4,12.3,95,55,5.71,17.98
+GINGIN AERO,17/09/2011,4.2,5.2, ,22.1,8.8,93,34,4.00,20.19
+GINGIN AERO,18/09/2011,3.6,19.2, ,17.0,11.3,92,45,9.27,14.76
+GINGIN AERO,19/09/2011,3.2,4.6, ,19.2,11.1,92,54,4.96,15.97
+GINGIN AERO,20/09/2011,3.3,0.4, ,21.7,10.4,94,48,3.20,16.93
+GINGIN AERO,21/09/2011,2.9,0.6, ,18.9,9.9,91,59,4.96,13.71
+GINGIN AERO,22/09/2011,2.4,6.6, ,16.3,7.2,88,50,2.26,12.74
+GINGIN AERO,23/09/2011,3.7,0.0, ,20.2,4.9,91,34,2.55,21.99
+GINGIN AERO,24/09/2011,4.3,0.0, ,23.5,3.8,91,28,2.86,22.58
+GINGIN AERO,25/09/2011,3.3,0.0, ,21.2,4.7,91,50,2.61,19.34
+GINGIN AERO,26/09/2011,2.6,14.4, ,16.7,11.7,94,54,4.36,11.42
+GINGIN AERO,27/09/2011,3.2,4.6, ,16.7,8.1,92,52,7.24,16.25
+GINGIN AERO,28/09/2011,3.2,3.6, ,18.9,5.0,94,40,2.12,19.49
+GINGIN AERO,29/09/2011,4.7,0.0, ,23.2,5.3,92,27,3.33,24.95
+GINGIN AERO,30/09/2011,4.7,0.0, ,22.2,11.4,70,39,5.62,16.71
+Totals:,,104.2,96, ,,,,,, 

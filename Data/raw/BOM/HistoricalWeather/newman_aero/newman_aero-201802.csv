@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/02/2018,5.1,1.4, ,27.3,14.9,96,51,4.69,22.75
+NEWMAN AERO,02/02/2018,6.8,0.0, ,32.3,17.6,86,32,3.18,27.64
+NEWMAN AERO,03/02/2018,6.6,0.0, ,34.0,20.7,76,33,3.73,21.05
+NEWMAN AERO,04/02/2018,8.2,0.0, ,37.1,22.2,74,28,3.96,27.18
+NEWMAN AERO,05/02/2018,8.2,0.0, ,38.8,26.9,75,28,3.94,24.52
+NEWMAN AERO,06/02/2018,6.4,0.2, ,37.5,24.5,80,34,3.12,19.71
+NEWMAN AERO,07/02/2018,8.6,0.0, ,38.8,23.9,81,21,3.90,26.90
+NEWMAN AERO,08/02/2018,8.5,0.0, ,39.9,25.7,72,22,3.90,24.00
+NEWMAN AERO,09/02/2018,7.5,0.4, ,37.6,25.4,76,33,3.29,25.50
+NEWMAN AERO,10/02/2018,5.6,0.6, ,38.4,25.7,91,32,3.10,14.74
+NEWMAN AERO,11/02/2018,7.8,5.6, ,36.9,24.2,93,32,3.80,27.69
+NEWMAN AERO,12/02/2018,7.0,4.8, ,36.4,22.5,92,30,2.77,26.64
+NEWMAN AERO,13/02/2018,7.2,0.8, ,38.2,24.2,90,26,2.53,26.63
+NEWMAN AERO,14/02/2018,8.1,0.0, ,40.2,25.7,67,16,2.87,26.74
+NEWMAN AERO,15/02/2018,10.8,0.0, ,39.5,27.5,51,15,5.53,27.04
+NEWMAN AERO,16/02/2018,9.7,0.0, ,38.0,25.7,58,23,5.22,26.96
+NEWMAN AERO,17/02/2018,6.4,0.0, ,33.6,24.5,74,38,4.28,18.78
+NEWMAN AERO,18/02/2018,5.7,0.0, ,33.6,24.5,95,45,3.62,20.44
+NEWMAN AERO,19/02/2018,6.1,10.2, ,33.9,20.9,95,46,3.61,23.57
+NEWMAN AERO,20/02/2018,6.9,8.6, ,35.9,23.1,95,32,3.46,24.76
+NEWMAN AERO,21/02/2018,6.5,0.0, ,35.6,23.8,89,32,2.73,23.95
+NEWMAN AERO,22/02/2018,6.7,0.0, ,36.0,24.1,79,32,3.03,23.58
+NEWMAN AERO,23/02/2018,6.7,0.4, ,36.5,26.3,87,30,3.00,23.42
+NEWMAN AERO,24/02/2018,7.5,4.2, ,37.3,23.3,87,20,3.73,22.78
+NEWMAN AERO,25/02/2018,7.8,0.0, ,36.6,24.3,56,23,3.07,27.44
+NEWMAN AERO,26/02/2018,7.7,0.0, ,38.6,24.0,64,23,2.85,26.79
+NEWMAN AERO,27/02/2018,8.2,0.0, ,38.5,25.6,64,23,3.58,26.15
+NEWMAN AERO,28/02/2018,8.1,0.0, ,37.8,25.2,70,29,4.17,24.82
+Totals:,,206.4,37.2, ,,,,,, 

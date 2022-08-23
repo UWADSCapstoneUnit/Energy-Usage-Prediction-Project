@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/02/2016,4.8,0.0, ,22.1,6.0,94,35,3.26,25.68
+WANDERING,02/02/2016,5.7,0.0, ,24.7,5.8,94,32,3.27,30.85
+WANDERING,03/02/2016,6.6,0.0, ,28.6,12.0,85,22,3.04,30.50
+WANDERING,04/02/2016,6.6,0.0, ,31.6,12.8,83,20,2.43,29.70
+WANDERING,05/02/2016,7.0,0.0, ,35.6,11.8,87,16,2.18,29.45
+WANDERING,06/02/2016,8.4,0.0, ,35.0,16.3,73,23,4.22,29.70
+WANDERING,07/02/2016,8.0,0.0, ,37.1,15.5,86,14,2.90,29.68
+WANDERING,08/02/2016,8.0,0.0, ,39.0,16.3,82,10,2.51,29.68
+WANDERING,09/02/2016,8.2,0.0, ,41.8,14.4,67,9,2.34,29.29
+WANDERING,10/02/2016,9.1,0.0, ,42.8,17.3,72,9,2.94,29.06
+WANDERING,11/02/2016,8.6,0.0, ,42.7,16.8,87,11,2.74,28.67
+WANDERING,12/02/2016,7.7,0.0, ,33.6,18.5,87,25,4.14,28.30
+WANDERING,13/02/2016,7.5,0.0, ,27.6,16.7,74,26,6.14,27.38
+WANDERING,14/02/2016,7.2,0.0, ,28.5,11.3,78,23,4.87,28.44
+WANDERING,15/02/2016,8.0,0.0, ,30.5,13.5,75,17,5.04,28.65
+WANDERING,16/02/2016,7.6,0.0, ,34.9,14.5,71,19,3.33,27.36
+WANDERING,17/02/2016,8.3,0.0, ,38.6,16.2,64,13,3.42,25.46
+WANDERING,18/02/2016,5.8,0.0, ,27.3,17.3,75,45,7.43,16.61
+WANDERING,19/02/2016,4.7,0.0, ,25.0,15.9,90,51,7.39,16.98
+WANDERING,20/02/2016,6.3,0.0, ,31.1,14.5,84,30,3.71,23.84
+WANDERING,21/02/2016,5.9,0.0, ,30.9,16.3,80,35,2.91,25.03
+WANDERING,22/02/2016,4.8,0.0, ,24.6,17.0,86,37,3.33,21.33
+WANDERING,23/02/2016,4.4,0.0, ,24.0,8.3,95,41,2.94,23.28
+WANDERING,24/02/2016,5.0,0.0, ,23.1,11.2,86,26,3.64,22.07
+WANDERING,25/02/2016,5.7,0.0, ,26.4,7.2,84,23,3.30,26.76
+WANDERING,26/02/2016,6.8,0.0, ,34.3,12.4,72,20,2.93,25.68
+WANDERING,27/02/2016,7.7,0.0, ,40.2,17.2,60,20,3.04,23.89
+WANDERING,28/02/2016,6.3,0.0, ,32.0,19.1,82,30,3.17,25.43
+WANDERING,29/02/2016,5.3,0.0, ,28.7,11.4,95,32,2.98,23.46
+Totals:,,196,0, ,,,,,, 

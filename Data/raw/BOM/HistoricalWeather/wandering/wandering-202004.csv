@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for April 2020,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 May 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/04/2020,3.9,0.0, ,27.2,8.9,96,29,2.38,17.20
+WANDERING,02/04/2020,4.3,0.0, ,24.5,16.2,76,33,3.44,17.88
+WANDERING,03/04/2020,3.5,0.0, ,21.9,4.4,88,29,2.59,18.03
+WANDERING,04/04/2020,3.1,0.0, ,21.8,6.5,81,32,2.54,12.13
+WANDERING,05/04/2020,2.9,0.4, ,20.9,13.6,78,43,2.98,9.85
+WANDERING,06/04/2020,5.8,1.2, ,28.7,14.0,59,22,4.38,18.19
+WANDERING,07/04/2020,5.9,0.0, ,31.8,15.3,66,21,3.95,18.15
+WANDERING,08/04/2020,6.5,0.0, ,34.8,20.7,59,24,4.13,18.08
+WANDERING,09/04/2020,5.1,0.0, ,34.5,12.9,77,23,2.65,18.08
+WANDERING,10/04/2020,4.4,0.0, ,32.5,17.7,92,34,2.53,17.87
+WANDERING,11/04/2020,5.4,0.0, ,37.6,16.8,81,15,2.52,17.72
+WANDERING,12/04/2020,2.6,0.0, ,27.5,17.6,91,42,2.02,8.32
+WANDERING,13/04/2020,3.0,0.0, ,26.3,11.2,99,40,1.85,15.36
+WANDERING,14/04/2020,3.0,0.0, ,24.7,9.0,94,36,2.03,14.86
+WANDERING,15/04/2020,2.9,0.0, ,23.5,7.0,96,44,2.55,14.66
+WANDERING,16/04/2020,2.6,0.0, ,22.5,4.5,95,38,1.42,16.75
+WANDERING,17/04/2020,2.9,0.0, ,27.9,7.0,80,22,1.17,16.37
+WANDERING,18/04/2020,2.7,0.0, ,26.5,10.2,84,26,1.98,5.89
+WANDERING,19/04/2020,3.0,2.4, ,20.9,15.2,91,46,3.65,13.53
+WANDERING,20/04/2020,3.2,0.0, ,23.2,4.2,95,44,4.01,11.86
+WANDERING,21/04/2020,2.7,0.0, ,24.3,10.2,98,51,2.92,12.47
+WANDERING,22/04/2020,1.7,0.0, ,21.2,8.9,98,65,2.38,7.08
+WANDERING,23/04/2020,2.9,0.2, ,25.2,9.8,100,37,2.02,14.99
+WANDERING,24/04/2020,2.2,0.0, ,23.1,8.4,95,51,2.17,9.83
+WANDERING,25/04/2020,2.5,0.6, ,23.0,14.5,96,44,2.13,12.37
+WANDERING,26/04/2020,2.5,0.0, ,25.1,4.7,96,33,1.30,15.04
+WANDERING,27/04/2020,2.7,0.0, ,25.2,5.5,94,35,1.80,13.96
+WANDERING,28/04/2020,2.8,0.4, ,19.0,6.8,97,33,3.34,14.98
+WANDERING,29/04/2020,2.9,0.0, ,19.0,-0.4,90,34,3.33,15.08
+WANDERING,30/04/2020,2.8,0.0, ,19.4,2.5,89,31,2.92,14.95
+Totals:,,102.4,5.2, ,,,,,, 

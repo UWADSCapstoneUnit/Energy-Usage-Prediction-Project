@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2021,6.4,0.0, ,30.8,14.6,92,27,2.85,28.07
+ROCKY GULLY,02/02/2021,6.9,0.0, ,35.0,13.8,91,15,2.29,28.67
+ROCKY GULLY,03/02/2021,3.3,0.0, ,22.6,16.6,88,53,3.30,12.10
+ROCKY GULLY,04/02/2021,3.8,0.0, ,20.0,8.3,80,39,3.06,17.72
+ROCKY GULLY,05/02/2021,3.0,0.0, ,19.5,12.6,83,48,3.13,10.81
+ROCKY GULLY,06/02/2021,2.0,0.0, ,18.4,12.7,90,67,3.02,7.09
+ROCKY GULLY,07/02/2021,0.9,25.0, ,18.8,13.5,94,91,3.64,2.39
+ROCKY GULLY,08/02/2021,2.8,56.6, ,22.0,14.6,94,70,3.75,12.79
+ROCKY GULLY,09/02/2021,4.7,0.2, ,25.3,12.5,93,38,2.85,22.61
+ROCKY GULLY,10/02/2021,3.8,1.8, ,20.1,11.0,91,46,2.58,21.15
+ROCKY GULLY,11/02/2021,3.4,0.0, ,19.5,11.4,90,48,1.72,19.29
+ROCKY GULLY,12/02/2021,4.4,0.2, ,23.7,13.2,87,46,1.63,24.60
+ROCKY GULLY,13/02/2021,5.2,0.0, ,28.3,10.3,93,37,2.04,26.64
+ROCKY GULLY,14/02/2021,5.9,0.0, ,33.6,13.9,90,18,2.02,24.43
+ROCKY GULLY,15/02/2021,6.3,0.0, ,36.3,20.0,79,17,2.28,22.53
+ROCKY GULLY,16/02/2021,4.8,0.0, ,27.3,16.7,93,51,2.03,25.01
+ROCKY GULLY,17/02/2021,5.4,0.0, ,30.9,14.0,91,31,1.74,25.86
+ROCKY GULLY,18/02/2021,3.5,1.8, ,18.7,11.3,90,45,3.11,18.21
+ROCKY GULLY,19/02/2021,4.2,0.2, ,23.5,7.3,91,35,1.28,26.02
+ROCKY GULLY,20/02/2021,4.6,0.2, ,26.1,8.8,91,36,1.67,25.82
+ROCKY GULLY,21/02/2021,3.8,0.0, ,24.4,14.9,90,53,2.46,18.22
+ROCKY GULLY,22/02/2021,5.6,0.0, ,29.6,15.1,83,35,3.02,23.72
+ROCKY GULLY,23/02/2021,5.7,0.0, ,32.4,13.3,93,32,2.33,25.68
+ROCKY GULLY,24/02/2021,2.0,0.2, ,21.3,16.3,93,68,2.81,6.98
+ROCKY GULLY,25/02/2021,2.7,0.0, ,23.2,16.5,90,63,2.83,11.12
+ROCKY GULLY,26/02/2021,2.7,0.4, ,21.9,14.5,91,63,3.28,11.57
+ROCKY GULLY,27/02/2021,3.5,0.4, ,22.8,13.3,91,52,2.46,17.18
+ROCKY GULLY,28/02/2021,3.3,0.0, ,23.3,12.0,92,51,2.81,14.61
+Totals:,,114.6,87, ,,,,,, 

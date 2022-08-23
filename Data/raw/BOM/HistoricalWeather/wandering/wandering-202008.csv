@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for August 2020,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 September 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/08/2020,1.6,0.0, ,16.1,2.6,100,57,1.66,13.93
+WANDERING,02/08/2020,1.5,0.0, ,16.2,0.6,100,59,2.10,11.13
+WANDERING,03/08/2020,1.4,6.6, ,14.1,1.8,100,58,1.99,11.95
+WANDERING,04/08/2020,1.5,1.4, ,14.4,4.4,100,64,3.46,10.80
+WANDERING,05/08/2020,1.9,0.4, ,15.3,8.8,93,65,5.00,11.42
+WANDERING,06/08/2020,1.5,0.0, ,13.5,-0.4,99,63,2.22,14.23
+WANDERING,07/08/2020,1.5,0.0, ,13.5,0.1,100,60,2.32,12.47
+WANDERING,08/08/2020,2.7,0.0, ,17.4,5.1,83,42,3.87,13.85
+WANDERING,09/08/2020,2.2,3.8, ,12.7,9.5,95,43,6.05,5.48
+WANDERING,10/08/2020,1.9,22.6, ,17.0,7.7,99,65,3.84,12.93
+WANDERING,11/08/2020,1.9,5.8, ,17.2,10.6,94,61,2.94,11.48
+WANDERING,12/08/2020,1.7,0.0, ,15.6,8.4,94,56,2.21,11.23
+WANDERING,13/08/2020,1.7,0.0, ,15.1,4.5,97,51,1.70,12.39
+WANDERING,14/08/2020,1.4,0.2, ,15.7,3.1,100,71,2.13,11.01
+WANDERING,15/08/2020,2.8,0.2, ,19.4,7.8,99,42,3.79,14.43
+WANDERING,16/08/2020,1.6,15.4, ,13.1,9.1,96,65,3.83,9.83
+WANDERING,17/08/2020,1.6,5.4, ,14.9,6.6,97,67,3.06,10.77
+WANDERING,18/08/2020,2.1,0.6, ,15.3,6.9,95,52,2.78,15.34
+WANDERING,19/08/2020,2.1,0.0, ,16.4,-0.2,98,52,2.44,15.60
+WANDERING,20/08/2020,2.1,0.2, ,17.7,0.2,99,47,2.00,15.47
+WANDERING,21/08/2020,1.7,0.0, ,15.8,0.2,100,57,1.56,13.03
+WANDERING,22/08/2020,2.5,0.0, ,20.4,4.5,98,38,2.01,14.98
+WANDERING,23/08/2020,2.0,0.2, ,17.7,5.5,100,54,2.41,12.71
+WANDERING,24/08/2020,1.9,0.8, ,17.0,1.2,100,53,1.53,14.96
+WANDERING,25/08/2020,1.6,0.0, ,16.9,1.5,99,56,1.29,11.38
+WANDERING,26/08/2020,2.3,0.0, ,19.0,1.3,99,52,1.96,16.90
+WANDERING,27/08/2020,2.5,0.2, ,21.7,1.6,100,45,1.66,17.34
+WANDERING,28/08/2020,3.7,0.0, ,25.2,2.5,99,37,3.34,16.27
+WANDERING,29/08/2020,2.2,1.0, ,15.1,6.6,95,48,2.23,15.66
+WANDERING,30/08/2020,2.3,0.0, ,16.8,-0.7,98,43,1.62,17.78
+WANDERING,31/08/2020, ,0.0, , ,-0.7,98,36,3.08,17.73
+Totals:,,59.4,64.8, ,,,,,, 

@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for February 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/02/2010,7.2,0.0, ,35.2,10.3,77,18,2.07,32.11
+COLLIE EAST,02/02/2010,5.9,0.4, ,27.8,14.5,82,44,2.97,29.56
+COLLIE EAST,03/02/2010,5.5,0.0, ,25.1,5.7,91,25,2.38,30.52
+COLLIE EAST,04/02/2010,6.0,0.0, ,27.5,7.5,82,19,2.08,31.68
+COLLIE EAST,05/02/2010,5.2,0.0, ,31.3,10.4,75,19,1.52,23.73
+COLLIE EAST,06/02/2010,4.4,1.8, ,24.3,13.9,80,44,2.58,20.49
+COLLIE EAST,07/02/2010,5.1,0.6, ,29.5,16.9,92,37,1.69,24.15
+COLLIE EAST,08/02/2010,6.2,1.4, ,34.7,14.3,88,25,1.84,27.44
+COLLIE EAST,09/02/2010,7.2,0.0, ,37.8,16.4,83,28,2.18,29.75
+COLLIE EAST,10/02/2010,6.0,0.0, ,32.8,16.6,89,46,1.52,29.98
+COLLIE EAST,11/02/2010,6.2,0.2, ,34.5,18.3,88,38,2.04,27.35
+COLLIE EAST,12/02/2010,6.7,0.0, ,31.8,19.5,78,28,2.95,27.66
+COLLIE EAST,13/02/2010,6.6,0.0, ,31.9,17.1,78,21,2.32,29.60
+COLLIE EAST,14/02/2010,6.4,0.0, ,35.8,12.7,88,20,1.61,29.97
+COLLIE EAST,15/02/2010,6.7,0.0, ,37.3,15.3,80,23,1.85,28.47
+COLLIE EAST,16/02/2010,6.1,0.0, ,30.0,17.1,78,41,3.41,26.27
+COLLIE EAST,17/02/2010,5.9,0.0, ,32.6,18.3,78,33,2.30,24.97
+COLLIE EAST,18/02/2010,6.4,0.0, ,36.5,16.2,90,24,1.65,29.04
+COLLIE EAST,19/02/2010,4.0,0.0, ,28.5,14.6,90,48,1.30,20.07
+COLLIE EAST,20/02/2010,4.7,0.0, ,29.5,11.1,95,42,1.66,23.89
+COLLIE EAST,21/02/2010,5.3,0.0, ,28.8,11.2,91,34,2.05,27.45
+COLLIE EAST,22/02/2010,5.8,0.0, ,32.2,11.6,90,22,1.64,29.01
+COLLIE EAST,23/02/2010,6.3,0.0, ,33.3,13.5,86,20,2.38,26.39
+COLLIE EAST,24/02/2010,7.2,0.2, ,36.1,16.9,79,18,2.54,28.75
+COLLIE EAST,25/02/2010,7.3,0.0, ,39.1,16.2,83,18,2.37,28.35
+COLLIE EAST,26/02/2010,7.0,0.0, ,34.9,19.8,76,30,4.00,22.78
+COLLIE EAST,27/02/2010,8.0,0.0, ,34.4,18.8,70,23,4.29,28.01
+COLLIE EAST,28/02/2010,7.6,0.0, ,33.8,16.7,74,17,3.43,28.99
+Totals:,,172.9,4.6, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for May 2018,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 June 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/05/2018,2.6, , ,19.5,15.2,91,44,4.32,7.28
+ESPERANCE,02/05/2018,3.1, , ,18.8,9.9,92,47,6.97,11.38
+ESPERANCE,03/05/2018,2.7, , ,17.2,9.5,91,47,5.87,11.12
+ESPERANCE,04/05/2018,3.1, , ,21.5,8.8,88,35,3.64,13.83
+ESPERANCE,05/05/2018,3.8, , ,25.3,8.1,90,20,3.39,13.80
+ESPERANCE,06/05/2018,7.4, , ,28.6,12.9,73,19,9.19,9.92
+ESPERANCE,07/05/2018,2.3,0.0, ,18.1,15.6,86,51,3.89,9.33
+ESPERANCE,08/05/2018,3.0,0.0, ,22.6,8.7,87,37,3.35,13.40
+ESPERANCE,09/05/2018,1.5,0.0, ,17.9,8.8,98,69,3.72,7.73
+ESPERANCE,10/05/2018,2.7,1.8, ,20.1,13.1,80,41,3.69,9.51
+ESPERANCE,11/05/2018,3.0,0.0, ,21.7,6.7,90,36,3.92,13.04
+ESPERANCE,12/05/2018,4.2,0.0, ,24.9,10.6,80,29,4.96,13.00
+ESPERANCE,13/05/2018,4.6,0.0, ,28.6,14.0,90,21,4.44,12.63
+ESPERANCE,14/05/2018,2.1,0.0, ,19.4,15.2,90,64,4.57,9.94
+ESPERANCE,15/05/2018,2.3,0.0, ,21.0,8.0,94,45,3.08,11.94
+ESPERANCE,16/05/2018,3.0,0.0, ,22.7,10.0,88,41,4.04,12.44
+ESPERANCE,17/05/2018,2.6,0.0, ,21.2,9.5,89,43,3.54,11.92
+ESPERANCE,18/05/2018,2.0, , ,19.2,8.3,96,54,3.23,12.30
+ESPERANCE,19/05/2018,2.5,0.0, ,21.2,9.3,91,46,3.60,12.31
+ESPERANCE,20/05/2018,2.4,0.0, ,21.3,8.4,94,42,3.14,12.21
+ESPERANCE,21/05/2018,3.2,0.0, ,22.9,10.2,89,33,4.27,12.16
+ESPERANCE,22/05/2018,3.7,0.0, ,24.1,8.2,83,27,4.27,12.07
+ESPERANCE,23/05/2018,4.1,0.0, ,25.6,8.6,74,21,4.11,11.99
+ESPERANCE,24/05/2018,5.8,0.0, ,27.1,9.5,62,15,5.95,11.80
+ESPERANCE,25/05/2018,5.1,0.0,0.0,23.7,16.7,90,20,8.33,5.88
+ESPERANCE,26/05/2018,3.6, , ,20.7,12.2,81,47,8.35,8.90
+ESPERANCE,27/05/2018,2.9, , ,21.2,11.7,98,52,7.54,10.29
+ESPERANCE,28/05/2018,1.9,18.4, ,15.9,9.7,94,54,4.56,9.38
+ESPERANCE,29/05/2018,2.2,0.8, ,19.0,7.0,94,41,3.41,11.50
+ESPERANCE,30/05/2018,2.9,0.0, ,21.6,6.9,80,31,3.57,11.53
+ESPERANCE,31/05/2018,4.4,0.0, ,24.0,11.7,65,28,5.65,9.23
+Totals:,,100.7,21,0,,,,,, 

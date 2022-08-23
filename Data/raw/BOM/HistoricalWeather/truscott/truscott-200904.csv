@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for April 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,01/04/2009, ,0.0, ,33.0,24.5, , , ,26.30
+TRUSCOTT,02/04/2009, ,0.0, ,32.7,24.2, , , ,25.92
+TRUSCOTT,03/04/2009, ,0.0, ,34.2,24.0, , , ,25.61
+TRUSCOTT,04/04/2009, ,0.0, ,35.7,24.9, , , ,26.15
+TRUSCOTT,05/04/2009, ,0.0, ,35.9,24.9, , , ,23.16
+TRUSCOTT,06/04/2009,6.6,0.0, ,35.0,25.3,85,30,3.15,24.51
+TRUSCOTT,07/04/2009,6.7,0.0, ,34.9,23.6,70,28,2.86,25.93
+TRUSCOTT,08/04/2009,6.8,0.0, ,35.8,24.5,78,28,2.87,25.72
+TRUSCOTT,09/04/2009, ,0.0, , ,24.0, , , ,25.30
+TRUSCOTT,10/04/2009, , , ,35.5, ,89,36,2.66,25.19
+TRUSCOTT,11/04/2009,5.6,0.0, ,34.5,25.1,91,50,2.16,24.30
+TRUSCOTT,12/04/2009,5.8,0.0, ,34.3,25.6,87,51,2.36,24.91
+TRUSCOTT,13/04/2009,6.3,0.0, ,35.9,25.5,88,43,2.87,24.79
+TRUSCOTT,14/04/2009,6.2,0.0, ,36.3,25.7,89,38,2.63,24.52
+TRUSCOTT,15/04/2009, , , ,36.7, ,89,36,2.77,24.60
+TRUSCOTT,16/04/2009,6.0,0.0, ,36.0,27.2,85,41,2.52,23.68
+TRUSCOTT,17/04/2009,5.7,0.0, ,35.6,27.6,83,44,2.13,23.09
+TRUSCOTT,18/04/2009,5.8,0.0, ,36.0,25.2,90,41,2.25,24.01
+TRUSCOTT,19/04/2009,6.2,0.0, ,36.0,25.6,84,34,3.03,22.43
+TRUSCOTT,20/04/2009,5.8,0.0, ,34.8,25.7,86,44,2.58,23.59
+TRUSCOTT,21/04/2009,6.0,0.0, ,35.6,27.1,84,38,2.59,23.02
+TRUSCOTT,22/04/2009,5.2,0.0, ,33.6,25.0,87,50,1.91,23.10
+TRUSCOTT,23/04/2009,5.7,0.0, ,34.8,25.7,84,44,2.67,22.60
+TRUSCOTT,24/04/2009,5.5,0.0, ,35.0,25.9,87,46,2.56,22.24
+TRUSCOTT,25/04/2009,5.1,0.0, ,33.9,26.0,94,59,1.86,23.04
+TRUSCOTT,26/04/2009,5.4,0.0, ,34.7,25.6,85,47,2.24,22.79
+TRUSCOTT,27/04/2009,5.2,0.0, ,35.0,25.9,84,42,2.46,19.48
+TRUSCOTT,28/04/2009,6.4,0.0, ,35.0,24.1,85,25,3.11,23.85
+TRUSCOTT,29/04/2009,6.6,0.0, ,34.4,21.5,65,19,2.97,24.25
+TRUSCOTT,30/04/2009,6.7,0.0, ,33.6,20.9,59,17,3.21,24.27
+Totals:,,131.3,0, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for March 2019,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 April 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/03/2019, , , , , , , , ,24.42
+KALUMBURU,02/03/2019, , , , , , , , ,24.41
+KALUMBURU,03/03/2019, , , , , , , , ,25.10
+KALUMBURU,04/03/2019, , , , , , , , ,23.92
+KALUMBURU,05/03/2019, , , , , , , , ,25.76
+KALUMBURU,06/03/2019, , , , , , , , ,26.32
+KALUMBURU,07/03/2019, , , , , , , , ,25.99
+KALUMBURU,08/03/2019, , , , , , , , ,26.80
+KALUMBURU,09/03/2019, , , , , , , , ,25.20
+KALUMBURU,10/03/2019, , , , , , , , ,23.45
+KALUMBURU,11/03/2019, , , , , , , , ,19.84
+KALUMBURU,12/03/2019, , , , , , , , ,25.32
+KALUMBURU,13/03/2019, , , , , , , , ,25.22
+KALUMBURU,14/03/2019, , , ,37.6, ,89,44,1.33,20.91
+KALUMBURU,15/03/2019,2.1,0.0, ,32.5,25.7,90,64,1.61,5.66
+KALUMBURU,16/03/2019,6.1,1.2, ,36.5,22.6,89,40,1.84,26.24
+KALUMBURU,17/03/2019,2.5,13.0, ,30.7,23.4,90,68,1.43,9.23
+KALUMBURU,18/03/2019,5.2,10.6, ,33.0,23.1,91,58,1.83,23.74
+KALUMBURU,19/03/2019,5.3,0.0, ,34.1,24.4,90,55,1.68,23.47
+KALUMBURU,20/03/2019,5.5, , ,35.2,24.2,89,49,1.71,23.78
+KALUMBURU,21/03/2019,6.2,0.0, ,36.3,23.7,90,40,2.10,25.98
+KALUMBURU,22/03/2019,5.8,0.0, ,36.1,24.8,89,46,2.19,23.53
+KALUMBURU,23/03/2019,5.7,0.0, ,35.3,25.8,85,48,2.65,22.00
+KALUMBURU,24/03/2019,5.0,0.0, ,35.3,25.4,88,49,1.79,20.02
+KALUMBURU,25/03/2019,5.8,11.6, ,36.3,24.8,90,46,1.94,24.25
+KALUMBURU,26/03/2019,5.0,0.0, ,36.7,25.7,89,43,2.04,18.33
+KALUMBURU,27/03/2019,5.3,13.2, ,38.3,24.2,90,39,1.70,20.45
+KALUMBURU,28/03/2019,5.8,11.6, ,38.4,23.7,90,33,1.26,25.13
+KALUMBURU,29/03/2019,5.7,0.0, ,37.9,24.8,90,43,1.60,23.66
+KALUMBURU,30/03/2019,5.8,0.0, ,38.0,24.7,90,31,1.41,24.95
+KALUMBURU,31/03/2019,5.9,0.0, ,37.9,23.5,91,32,1.63,24.97
+Totals:,,88.7,61.2, ,,,,,, 

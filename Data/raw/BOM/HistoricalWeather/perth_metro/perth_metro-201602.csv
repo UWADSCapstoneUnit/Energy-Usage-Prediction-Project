@@ -1,0 +1,43 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/02/2016,5.2,0.2, ,22.9,9.9,80,35,3.86,25.37
+PERTH METRO,02/02/2016,6.0,0.0, ,26.4,10.0,82,32,3.14,30.67
+PERTH METRO,03/02/2016,7.3,0.0, ,31.5,16.2,72,22,3.25,30.16
+PERTH METRO,04/02/2016,7.5,0.0, ,34.4,16.4,82,17,2.98,29.34
+PERTH METRO,05/02/2016,7.1,0.0, ,36.1,15.5,83,17,2.18,29.16
+PERTH METRO,06/02/2016,7.3,0.0, ,34.3,19.1,72,26,2.81,29.41
+PERTH METRO,07/02/2016,8.9,0.0, ,40.4,20.1,78,12,3.21,29.45
+PERTH METRO,08/02/2016,8.9,0.0, ,42.5,21.2,59,8,2.73,29.36
+PERTH METRO,09/02/2016,7.2,0.0, ,41.2,19.2,72,11,1.66,29.10
+PERTH METRO,10/02/2016,7.6,0.0, ,40.3,21.7,83,15,2.18,28.54
+PERTH METRO,11/02/2016,6.4,0.0, ,33.7,20.0,94,36,2.28,27.99
+PERTH METRO,12/02/2016,6.2,0.0, ,29.8,19.1,87,49,3.95,27.95
+PERTH METRO,13/02/2016,7.3,0.0, ,31.3,19.0,74,24,3.79,28.05
+PERTH METRO,14/02/2016,7.4,0.0, ,32.3,16.6,58,22,3.48,27.98
+PERTH METRO,15/02/2016,8.1,0.0, ,33.9,17.9,63,17,3.86,28.05
+PERTH METRO,16/02/2016,8.4,0.0, ,39.5,19.8,56,14,3.12,26.77
+PERTH METRO,17/02/2016,6.7,0.0, ,33.1,19.8,70,22,2.73,25.55
+PERTH METRO,18/02/2016,6.6,0.0, ,31.1,18.7,71,36,4.00,24.44
+PERTH METRO,19/02/2016, ,0.0, , ,19.7,65,32,4.32,24.71
+PERTH METRO,20/02/2016,7.2,0.0, ,33.6,19.1,67,28,3.42,26.53
+PERTH METRO,21/02/2016,4.0,0.0, ,26.7,18.3,91,57,2.25,18.70
+PERTH METRO,22/02/2016,4.9,0.2, ,24.9,18.8,87,43,3.39,22.58
+PERTH METRO,23/02/2016,4.1,0.0, ,24.5,13.1,90,49,2.70,20.93
+PERTH METRO,24/02/2016,5.1,0.2, ,24.0,12.5,84,36,3.83,23.82
+PERTH METRO,25/02/2016,6.4,0.0, ,28.3,14.7,64,25,3.48,26.88
+PERTH METRO,26/02/2016,7.3,0.0, ,36.8,17.0,63,21,3.01,25.00
+PERTH METRO,27/02/2016,6.4,0.0, ,38.0,20.8,83,28,2.09,24.73
+PERTH METRO,28/02/2016,4.4,0.0, ,27.4,21.6,88,53,2.84,19.61
+PERTH METRO,29/02/2016,4.5,0.0, ,25.2,17.3,89,51,2.69,22.67
+Totals:,,184.4,0.6, ,,,,,, 

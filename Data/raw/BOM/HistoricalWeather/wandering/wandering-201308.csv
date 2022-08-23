@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for August 2013,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 September 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/08/2013,1.8,0.2, ,18.6,7.0,94,61,2.50,12.78
+WANDERING,02/08/2013,1.9,0.0, ,18.5,4.8,95,59,2.09,15.49
+WANDERING,03/08/2013,1.9,0.0, ,18.4,8.5,92,61,1.69,16.15
+WANDERING,04/08/2013,2.7,0.0, ,20.4,4.3,95,38,3.02,16.43
+WANDERING,05/08/2013,2.2,1.6, ,19.9,10.0,93,62,3.88,12.15
+WANDERING,06/08/2013,1.4,8.4, ,18.1,11.9,93,77,2.67,7.19
+WANDERING,07/08/2013,1.9,4.2, ,20.2,11.9,90,73,5.70,6.38
+WANDERING,08/08/2013,1.6,18.2, ,16.3,14.2,91,66,3.06,7.43
+WANDERING,09/08/2013, ,1.8, ,17.8,7.0,92,61,2.67, 
+WANDERING,10/08/2013,1.4,2.6, ,16.3,10.1,93,80,2.43,10.44
+WANDERING,11/08/2013,2.2,6.4, ,15.6,8.7,93,47,2.46,17.22
+WANDERING,12/08/2013,1.8,0.2, ,16.0,3.4,94,59,2.80,11.13
+WANDERING,13/08/2013,2.3,0.6, ,17.7,9.8,90,53,2.98,13.82
+WANDERING,14/08/2013,1.9,0.4, ,16.6,0.8,94,57,2.66,12.21
+WANDERING,15/08/2013,2.0,2.2, ,16.7,9.1,91,64,4.09,11.32
+WANDERING,16/08/2013,1.8,8.0, ,14.1,3.4,92,64,3.23,15.08
+WANDERING,17/08/2013,1.9,2.6, ,16.5,5.8,94,64,2.94,12.88
+WANDERING,18/08/2013,1.8,0.2, ,16.0,3.6,94,57,1.31,16.29
+WANDERING,19/08/2013,2.0,0.0, ,18.0,3.1,94,48,1.18,16.30
+WANDERING,20/08/2013,2.0,0.0, ,17.1,2.8,94,56,2.02,15.09
+WANDERING,21/08/2013,2.1,0.4, ,17.4,4.1,94,51,1.95,14.88
+WANDERING,22/08/2013,1.9,0.0, ,17.4,3.6,94,54,1.64,13.04
+WANDERING,23/08/2013,2.8,0.0, ,20.1,2.4,94,46,1.96,20.15
+WANDERING,24/08/2013,3.2,0.0, ,23.8,2.2,93,24,1.59,19.99
+WANDERING,25/08/2013,1.9,0.0, ,17.0,9.5,88,54,2.66,8.08
+WANDERING,26/08/2013,2.4,1.0, ,19.0,11.0,92,54,2.90,13.17
+WANDERING,27/08/2013,1.5,4.8, ,14.1,7.3,94,71,1.76,9.73
+WANDERING,28/08/2013,2.5,6.4, ,16.6,7.2,92,53,2.84,18.48
+WANDERING,29/08/2013,2.5,0.6, ,17.4,8.7,93,54,3.20,16.47
+WANDERING,30/08/2013,2.2,8.0, ,17.3,10.9,91,68,5.28,10.53
+WANDERING,31/08/2013,3.4,2.8, ,19.1,13.3,81,56,6.47,16.39
+Totals:,,62.9,81.6, ,,,,,, 

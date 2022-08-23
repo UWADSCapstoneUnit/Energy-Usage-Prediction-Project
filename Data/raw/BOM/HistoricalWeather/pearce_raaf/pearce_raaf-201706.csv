@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for June 2017,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 July 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/06/2017,1.9,0.0, ,23.6,6.0,94,54,1.97,12.08
+PEARCE RAAF,02/06/2017,2.1,0.0, ,25.1,6.3,97,46,1.99,11.45
+PEARCE RAAF,03/06/2017,1.5,0.0, ,23.1,6.6,96,57,1.26,11.24
+PEARCE RAAF,04/06/2017,2.3,0.0, ,23.3,13.4,93,52,3.10,12.31
+PEARCE RAAF,05/06/2017,3.0,0.0, ,26.4,8.8,94,25,2.65,12.27
+PEARCE RAAF,06/06/2017,4.1,0.0, ,25.8,11.8,77,14,3.82,11.63
+PEARCE RAAF,07/06/2017,2.3,0.0, ,23.1,2.5,89,34,2.20,12.19
+PEARCE RAAF,08/06/2017,4.1,0.0, ,23.0,8.9,72,25,5.20,12.16
+PEARCE RAAF,09/06/2017,4.9,0.0, ,24.5,12.6,42,14,4.68,12.13
+PEARCE RAAF,10/06/2017,3.8,0.0, ,21.6,7.6,36,20,3.83,8.87
+PEARCE RAAF,11/06/2017,3.3,0.0, ,24.1,12.7,48,16,2.67,9.85
+PEARCE RAAF,12/06/2017,4.3,0.0, ,24.6,9.6,49,17,4.12,11.90
+PEARCE RAAF,13/06/2017,3.3,0.0, ,25.5,12.0,93,21,3.33,10.94
+PEARCE RAAF,14/06/2017,1.7,8.8, ,20.1,13.6,95,63,3.32,8.94
+PEARCE RAAF,15/06/2017,1.6,0.0, ,21.4,6.8,96,57,1.89,11.51
+PEARCE RAAF,16/06/2017,1.4,0.0, ,21.7,4.4,96,47,1.12,11.27
+PEARCE RAAF,17/06/2017,2.1,0.0, ,21.4,5.1,95,49,2.92,11.99
+PEARCE RAAF,18/06/2017,2.6,0.0, ,23.2,10.5,87,35,2.88,11.99
+PEARCE RAAF,19/06/2017,1.8,0.0, ,23.5,4.9,91,36,1.53,11.99
+PEARCE RAAF,20/06/2017, ,0.0, , ,6.4,100,34,2.76,11.97
+PEARCE RAAF,21/06/2017, , , ,20.6, ,95,48,4.77,10.36
+PEARCE RAAF,22/06/2017,1.7,28.8, ,18.8,13.0,96,74,7.27,9.16
+PEARCE RAAF,23/06/2017,1.9,1.4, ,19.3,13.0,93,67,5.03,10.01
+PEARCE RAAF,24/06/2017,2.4,0.0, ,18.2,11.6,85,51,4.82,11.67
+PEARCE RAAF,25/06/2017,1.8,0.0, ,16.6,5.4,95,47,3.07,11.78
+PEARCE RAAF,26/06/2017,1.7,0.0, ,17.8,1.5,93,42,2.15,11.96
+PEARCE RAAF,27/06/2017,1.9,0.0, ,18.9,2.6,94,46,2.64,11.05
+PEARCE RAAF,28/06/2017,2.1,0.0, ,18.5,7.6,84,43,3.06,12.07
+PEARCE RAAF,29/06/2017,3.0,0.0, ,19.2,6.9,71,31,4.23,12.10
+PEARCE RAAF,30/06/2017,2.9,0.0, ,20.5,4.4,94,41,5.37,7.17
+Totals:,,71.5,39, ,,,,,, 

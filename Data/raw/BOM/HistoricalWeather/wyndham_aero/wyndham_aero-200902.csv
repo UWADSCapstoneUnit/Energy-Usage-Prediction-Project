@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WYNDHAM AERO Western Australia for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WYNDHAM AERO,01/02/2009, ,0.0, ,35.0,27.3, , , ,26.12
+WYNDHAM AERO,02/02/2009, ,0.4, ,34.6,25.5, , , ,24.31
+WYNDHAM AERO,03/02/2009,5.5,0.0, ,34.1,26.5,97,59,2.71,22.82
+WYNDHAM AERO,04/02/2009,6.3,12.4, ,35.0,25.5,97,55,3.42,25.59
+WYNDHAM AERO,05/02/2009,6.1,4.6, ,34.4,25.7,97,57,3.63,24.81
+WYNDHAM AERO,06/02/2009,6.7,6.8, ,35.4,24.9,95,53,2.55,29.00
+WYNDHAM AERO,07/02/2009,7.5,0.0, ,35.5,26.7,83,51,4.19,28.40
+WYNDHAM AERO,08/02/2009, ,0.0, ,36.9,26.1, , , ,28.15
+WYNDHAM AERO,09/02/2009,3.4,4.8, ,30.2,25.4,90,66,3.20,11.17
+WYNDHAM AERO,10/02/2009,6.0,42.4, ,33.6,24.1,100,58,6.53,22.16
+WYNDHAM AERO,11/02/2009,3.3,61.6, ,29.9,23.4,100,76,4.32,13.91
+WYNDHAM AERO,12/02/2009,2.9,25.4, ,28.7,25.8,98,78,5.07,11.40
+WYNDHAM AERO,13/02/2009,4.2,19.6, ,29.5,24.7,100,73,3.77,19.34
+WYNDHAM AERO,14/02/2009,5.9,0.2, ,33.0,25.4,96,59,3.56,25.31
+WYNDHAM AERO,15/02/2009,5.8,33.2, ,33.5,24.6,94,58,2.12,26.05
+WYNDHAM AERO,16/02/2009, ,0.8, ,33.4,25.3, , , ,23.69
+WYNDHAM AERO,17/02/2009, ,0.0, ,35.0,25.2, , , , 
+WYNDHAM AERO,18/02/2009, ,0.0, ,36.6,25.7,83,35,2.79, 
+WYNDHAM AERO,19/02/2009,7.5,0.0, ,37.1,26.0,84,43,2.82,29.51
+WYNDHAM AERO,20/02/2009,6.8,0.0, ,37.2,26.6,86,42,2.42,26.45
+WYNDHAM AERO,21/02/2009,7.0,1.2, ,37.0,25.3,90,46,2.74,27.75
+WYNDHAM AERO,22/02/2009,7.2,1.0, ,37.9,27.0,88,36,2.25,28.51
+WYNDHAM AERO,23/02/2009,7.7,0.0, ,39.5,25.9,85,24,2.24,29.49
+WYNDHAM AERO,24/02/2009,7.4,0.0, ,36.5,25.6,90,46,3.87,28.07
+WYNDHAM AERO,25/02/2009,6.3,3.2, ,35.3,25.2,97,52,4.16,23.77
+WYNDHAM AERO,26/02/2009,2.1,27.8, ,29.3,23.8,100,80,3.30,7.85
+WYNDHAM AERO,27/02/2009,1.8,30.8, ,28.5,24.6,100,87,3.32,7.37
+WYNDHAM AERO,28/02/2009,5.4,65.8, ,32.1,23.5,100,62,2.88,24.59
+Totals:,,122.8,342, ,,,,,, 

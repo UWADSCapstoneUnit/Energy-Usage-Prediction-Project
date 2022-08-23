@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/02/2014,3.9,0.4, ,24.7,10.7,93,48,2.33,18.93
+ROCKY GULLY,02/02/2014,4.9,0.2, ,21.7,9.5,92,34,3.55,26.39
+ROCKY GULLY,03/02/2014,6.7,0.0, ,27.6,11.3,73,26,3.92,29.19
+ROCKY GULLY,04/02/2014,7.7,0.0, ,34.8,14.7,77,22,3.27,29.01
+ROCKY GULLY,05/02/2014,2.2,0.0, ,22.1,13.4,93,73,3.50,8.54
+ROCKY GULLY,06/02/2014,1.5,5.4, ,18.3,16.3,94,89,4.36,6.88
+ROCKY GULLY,07/02/2014,3.6,2.4, ,23.2,14.5,93,48,3.02,15.26
+ROCKY GULLY,08/02/2014,4.5,0.0, ,21.4,12.2,91,35,3.54,22.13
+ROCKY GULLY,09/02/2014,6.4,0.0, ,29.2,8.8,78,15,2.69,28.75
+ROCKY GULLY,10/02/2014,5.3,0.0, ,27.1,8.8,93,40,3.38,25.11
+ROCKY GULLY,11/02/2014,5.2,0.0, ,23.9,11.3,91,39,4.18,25.92
+ROCKY GULLY,12/02/2014,2.0,0.0, ,20.2,14.1,92,68,3.50,5.74
+ROCKY GULLY,13/02/2014,5.2,0.0, ,27.2,15.1,86,42,3.32,23.37
+ROCKY GULLY,14/02/2014,6.2,0.0, ,30.8,11.1,92,30,2.91,27.60
+ROCKY GULLY,15/02/2014,5.7,0.0, ,30.1,9.2,93,29,2.26,27.21
+ROCKY GULLY,16/02/2014,5.4,0.0, ,27.2,10.6,94,32,2.98,25.35
+ROCKY GULLY,17/02/2014,5.7,0.0, ,26.4,14.6,86,34,3.35,27.53
+ROCKY GULLY,18/02/2014,5.5,0.0, ,26.8,9.6,90,34,3.17,26.88
+ROCKY GULLY,19/02/2014,6.5,0.0, ,30.6,10.6,88,20,3.07,27.50
+ROCKY GULLY,20/02/2014,6.5,0.0, ,30.6,12.6,91,26,3.59,26.69
+ROCKY GULLY,21/02/2014,6.4,0.0, ,30.0,13.6,89,28,3.76,26.70
+ROCKY GULLY,22/02/2014,6.3,0.0, ,32.0,14.4,88,22,2.86,25.52
+ROCKY GULLY,23/02/2014,6.8,0.0, ,34.5,15.1,91,17,2.91,25.80
+ROCKY GULLY,24/02/2014,5.3,0.0, ,28.0,16.0,94,42,3.50,24.51
+ROCKY GULLY,25/02/2014,4.6,0.0, ,23.7,13.1,91,35,3.66,21.11
+ROCKY GULLY,26/02/2014,4.8,0.0, ,24.3,13.9,72,32,3.06,20.83
+ROCKY GULLY,27/02/2014,6.3,0.0, ,30.5,12.0,80,17,3.06,25.95
+ROCKY GULLY,28/02/2014,6.8,0.0, ,34.2,10.3,91,12,2.83,25.71
+Totals:,,147.9,8.4, ,,,,,, 

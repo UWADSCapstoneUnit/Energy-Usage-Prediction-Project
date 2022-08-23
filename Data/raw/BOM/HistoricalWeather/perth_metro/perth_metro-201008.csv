@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for August 2010,,,,,,,,,,
+Issued at 04:30 GMT on Wednesday 01 September 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/08/2010,1.9,0.2, ,20.7,5.1,100,38,1.22,15.44
+PERTH METRO,02/08/2010,2.7,0.0, ,24.1,6.1,97,21,1.88,15.55
+PERTH METRO,03/08/2010,2.2,0.0, ,23.9,3.6,97,25,1.15,15.77
+PERTH METRO,04/08/2010,2.2,0.0, ,24.0,6.4,94,23,1.19,15.71
+PERTH METRO,05/08/2010,1.8,0.0, ,20.9,3.4,99,48,1.16,15.13
+PERTH METRO,06/08/2010,1.7,0.0, ,18.3,8.5,99,55,1.42,13.39
+PERTH METRO,07/08/2010,2.1,0.0, ,17.9,3.7,99,39,1.84,16.08
+PERTH METRO,08/08/2010,2.0,0.0, ,18.3,3.0,100,43,1.70,16.21
+PERTH METRO,09/08/2010,2.1,0.0, ,17.5,1.4,96,34,1.66,16.61
+PERTH METRO,10/08/2010,3.1,0.0, ,20.7,2.8,93,20,2.70,17.02
+PERTH METRO,11/08/2010,3.3,0.0, ,20.3,8.4,89,19,3.99,6.21
+PERTH METRO,12/08/2010,1.4,27.2, ,17.2,12.3,97,75,2.30,8.87
+PERTH METRO,13/08/2010,2.3,11.6, ,18.0,9.0,99,51,2.83,15.49
+PERTH METRO,14/08/2010,2.0,2.6, ,17.6,9.0,99,52,1.50,15.52
+PERTH METRO,15/08/2010,2.1,0.0, ,19.4,5.1,97,40,1.12,17.42
+PERTH METRO,16/08/2010,1.9,0.0, ,18.7,5.7,95,47,1.53,12.88
+PERTH METRO,17/08/2010,2.0,0.0, ,18.3,5.7,99,46,1.66,13.68
+PERTH METRO,18/08/2010,2.2,4.6, ,15.5,8.2,97,44,2.72,14.59
+PERTH METRO,19/08/2010,2.2,0.0, ,17.9,2.8,97,37,1.38,17.77
+PERTH METRO,20/08/2010,1.8,0.0, ,17.5,7.3,96,51,1.29,12.63
+PERTH METRO,21/08/2010,2.1,0.2, ,18.4,6.7,99,50,1.65,15.32
+PERTH METRO,22/08/2010,2.5,8.6, ,15.7,11.0,99,41,2.73,18.10
+PERTH METRO,23/08/2010,2.1,0.0, ,17.5,2.9,97,45,1.37,16.84
+PERTH METRO,24/08/2010,2.5,0.0, ,17.3,10.7,89,43,2.45,14.32
+PERTH METRO,25/08/2010,2.6,0.0, ,17.5,3.2,95,36,2.19,19.11
+PERTH METRO,26/08/2010,2.4,0.0, ,18.5,2.3,100,40,1.41,19.14
+PERTH METRO,27/08/2010,2.9,0.0, ,21.5,4.0,97,30,1.76,19.49
+PERTH METRO,28/08/2010,2.8,0.0, ,23.3,5.7,96,24,1.35,17.99
+PERTH METRO,29/08/2010,2.6,0.0, ,21.5,6.8,100,50,1.45,18.86
+PERTH METRO,30/08/2010, ,0.0, ,20.3,11.3,97,52,1.28, 
+PERTH METRO,31/08/2010, ,8.0, ,14.3,11.9,97,83,1.23, 
+Totals:,,65.5,63, ,,,,,, 

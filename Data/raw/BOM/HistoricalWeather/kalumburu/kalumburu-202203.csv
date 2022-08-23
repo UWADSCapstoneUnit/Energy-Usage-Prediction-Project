@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for March 2022,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 April 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/03/2022, ,55.4, , , ,100,100,0.99,3.60
+KALUMBURU,02/03/2022, ,18.0, , , ,100,100,1.55,19.94
+KALUMBURU,03/03/2022, ,0.2, , , ,100,100,1.65,23.34
+KALUMBURU,04/03/2022, ,1.8, , , ,100,100,1.39,27.08
+KALUMBURU,05/03/2022, ,0.0, , , ,100,100,1.14,25.06
+KALUMBURU,06/03/2022, ,0.0, , , ,100,100,1.77,24.40
+KALUMBURU,07/03/2022, ,2.4, , , ,100,100,1.96,25.58
+KALUMBURU,08/03/2022, ,18.2, , , ,100,100,2.36,21.32
+KALUMBURU,09/03/2022, , , , , ,100,100,1.42,22.38
+KALUMBURU,10/03/2022, ,0.0, , , ,100,100,1.35,18.33
+KALUMBURU,11/03/2022, ,26.4, , , ,100,100,1.41,27.09
+KALUMBURU,12/03/2022, ,0.0, , , ,100,100,1.35,24.57
+KALUMBURU,13/03/2022, ,2.0, , , ,100,100,1.58,25.19
+KALUMBURU,14/03/2022, ,2.2, , , ,100,100,1.44,24.69
+KALUMBURU,15/03/2022, ,0.0, , , ,100,100,1.52,26.46
+KALUMBURU,16/03/2022, ,0.0, , , ,100,100,1.21,23.53
+KALUMBURU,17/03/2022, ,0.0, , , ,100,100,1.48,23.23
+KALUMBURU,18/03/2022, , , , , ,100,100,1.39,17.94
+KALUMBURU,19/03/2022, ,0.8, , , ,100,100,0.78,13.08
+KALUMBURU,20/03/2022, ,0.2, , , ,100,100,2.36,22.38
+KALUMBURU,21/03/2022, ,25.4, , , ,100,100,1.51,24.95
+KALUMBURU,22/03/2022, , , , , ,100,55,1.83,26.10
+KALUMBURU,23/03/2022, , , ,34.9, ,96,58,1.83,20.03
+KALUMBURU,24/03/2022,5.7,0.6, ,35.5,23.1,95,50,1.46,25.98
+KALUMBURU,25/03/2022,5.6,0.0, ,35.3,23.8,92,51,2.06,23.77
+KALUMBURU,26/03/2022,4.9,0.0, ,35.5,25.5,94,54,1.80,20.00
+KALUMBURU,27/03/2022,5.8,1.4, ,35.7,24.0,94,44,1.73,25.58
+KALUMBURU,28/03/2022, ,0.0, , ,23.4,95,51,1.79,25.51
+KALUMBURU,29/03/2022, , , ,37.0, ,94,39,1.88,25.35
+KALUMBURU,30/03/2022,5.4, , ,36.8,24.1,94,40,1.54,23.02
+KALUMBURU,31/03/2022,5.6,0.0, ,36.3,23.1,96,48,1.46,25.11
+Totals:,,33,155, ,,,,,, 

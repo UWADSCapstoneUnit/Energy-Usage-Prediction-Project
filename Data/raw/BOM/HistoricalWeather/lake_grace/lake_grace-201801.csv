@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for January 2018,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 February 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/01/2018,8.6,0.0, ,32.6,14.8,78,19,4.98,29.51
+LAKE GRACE,02/01/2018,8.6,0.0, ,36.1,13.0,85,15,3.67,29.29
+LAKE GRACE,03/01/2018,9.5,0.0, ,38.5,16.3,80,21,4.57,29.35
+LAKE GRACE,04/01/2018,7.6,0.0, ,33.4,15.6,86,23,3.54,28.54
+LAKE GRACE,05/01/2018,10.5,0.0, ,35.9,14.9,83,6,5.92,28.51
+LAKE GRACE,06/01/2018,7.0,0.0, ,26.5,10.6,72,23,4.80,28.59
+LAKE GRACE,07/01/2018,7.5,0.0, ,29.3,10.4,77,18,4.35,28.96
+LAKE GRACE,08/01/2018,8.0,0.0, ,29.8,12.2,80,17,5.09,28.60
+LAKE GRACE,09/01/2018,8.3,0.0, ,33.1,13.4,83,20,4.57,28.93
+LAKE GRACE,10/01/2018,8.0,0.0, ,35.0,16.3,85,24,3.88,28.27
+LAKE GRACE,11/01/2018,6.2,0.0, ,23.7,14.6,76,26,5.33,24.29
+LAKE GRACE,12/01/2018,7.0,0.0, ,30.6,10.1,77,25,3.50,28.77
+LAKE GRACE,13/01/2018,8.7,0.0, ,34.5,14.7,86,17,4.77,28.32
+LAKE GRACE,14/01/2018,9.8,0.0, ,36.3,16.3,80,11,5.52,26.43
+LAKE GRACE,15/01/2018,2.6,0.0, ,24.4,19.7,84,52,4.12,1.72
+LAKE GRACE,16/01/2018,6.7,15.8, ,35.2,16.9,93,34,5.08,16.64
+LAKE GRACE,17/01/2018,5.6,4.8, ,31.9,19.0,93,48,4.53,19.77
+LAKE GRACE,18/01/2018,5.0,6.4, ,23.8,16.2,95,46,5.19,22.64
+LAKE GRACE,19/01/2018,6.9,0.0, ,27.1,13.4,73,32,5.03,28.21
+LAKE GRACE,20/01/2018,8.5,0.0, ,36.2,13.6,82,25,4.24,28.93
+LAKE GRACE,21/01/2018,7.2,0.0, ,31.2,17.4,88,44,5.27,29.62
+LAKE GRACE,22/01/2018,6.3,0.0, ,28.1,16.7,81,47,5.98,25.10
+LAKE GRACE,23/01/2018,6.4,0.0, ,29.6,17.4,84,47,5.52,25.33
+LAKE GRACE,24/01/2018,5.8,0.0, ,28.6,16.4,92,45,4.86,23.53
+LAKE GRACE,25/01/2018,8.0,0.0, ,32.7,16.5,82,19,4.19,29.02
+LAKE GRACE,26/01/2018,8.1,0.0, ,36.3,15.0,87,20,3.49,28.83
+LAKE GRACE,27/01/2018,8.3,0.0, ,32.1,16.5,87,24,5.73,28.93
+LAKE GRACE,28/01/2018,6.4,0.0, ,25.1,14.6,80,29,6.35,23.02
+LAKE GRACE,29/01/2018,6.9,0.0, ,24.5,12.6,66,32,6.85,27.03
+LAKE GRACE,30/01/2018,7.2,0.0, ,25.2,13.5,72,30,7.58,26.94
+LAKE GRACE,31/01/2018,7.6,0.0, ,27.6,13.9,73,23,6.94,24.27
+Totals:,,228.8,27, ,,,,,, 
