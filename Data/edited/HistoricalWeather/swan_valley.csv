@@ -1,0 +1,8 @@
+,Station,Date,Transpiration,Rain,Evaporation,Max Temp,Min Temp,Max Hum,Min Hum,Av Wind,Solar Rad
+0,SWAN VALLEY,2017-04-28, , , , , , , , ,15.23
+1,SWAN VALLEY,2017-04-29, , , , , , , , ,15.1
+2,SWAN VALLEY,2017-04-30, , , , , , , , ,14.6
+3,SWAN VALLEY,2017-05-01, , , , , , , , ,14.75
+4,SWAN VALLEY,2017-05-02, , , ,27.1, , , , ,12.65
+5,SWAN VALLEY,2017-05-03, ,0.0, ,30.4,17.7, , , ,14.33
+6,SWAN VALLEY,2017-05-04, ,0.0, , ,11.2,94,55,1.04,11.55
